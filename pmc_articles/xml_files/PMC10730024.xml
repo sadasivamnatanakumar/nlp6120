@@ -1,0 +1,1782 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="efs28539" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">EFSA J</journal-id><journal-id journal-id-type="iso-abbrev">EFSA J</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1831-4732</journal-id><journal-id journal-id-type="publisher-id">EFS2</journal-id><journal-title-group><journal-title>EFSA Journal</journal-title></journal-title-group><issn pub-type="epub">1831-4732</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38116102</article-id><article-id pub-id-type="pmc">PMC10730024</article-id><article-id pub-id-type="doi">10.2903/j.efsa.2023.8539</article-id><article-id pub-id-type="publisher-id">EFS28539</article-id><article-categories><subj-group subj-group-type="overline"><subject>Scientific Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Scientific Report</subject></subj-group></article-categories><title-group><article-title>Avian influenza overview September&#x02013;December 2023</article-title><alt-title alt-title-type="right-running-head">Avian influenza overview September&#x02013;December 2023</alt-title></title-group><contrib-group><contrib id="efs28539-cr-0001" contrib-type="author" corresp="yes"><collab collab-type="authors">European Food Safety Authority</collab><address><email>biohaw@efsa.europa.eu</email></address></contrib><contrib id="efs28539-cr-0002" contrib-type="author" corresp="yes"><collab collab-type="authors">European Centre for Disease Prevention and Control</collab><address><email>ECDC.influenza@ecdc.europa.eu</email></address></contrib><contrib id="efs28539-cr-0003" contrib-type="author"><collab collab-type="authors">European Union Reference Laboratory for Avian Influenza</collab></contrib><contrib id="efs28539-cr-0004" contrib-type="author"><name><surname>Adlhoch</surname><given-names>Cornelia</given-names></name></contrib><contrib id="efs28539-cr-0005" contrib-type="author"><name><surname>Fusaro</surname><given-names>Alice</given-names></name></contrib><contrib id="efs28539-cr-0006" contrib-type="author"><name><surname>Gonzales</surname><given-names>Jos&#x000e9; L.</given-names></name></contrib><contrib id="efs28539-cr-0007" contrib-type="author"><name><surname>Kuiken</surname><given-names>Thijs</given-names></name></contrib><contrib id="efs28539-cr-0008" contrib-type="author"><name><surname>Mirinavi&#x0010d;i&#x0016b;t&#x00117;</surname><given-names>Gra&#x0017e;ina</given-names></name></contrib><contrib id="efs28539-cr-0009" contrib-type="author"><name><surname>Niqueux</surname><given-names>&#x000c9;ric</given-names></name></contrib><contrib id="efs28539-cr-0010" contrib-type="author"><name><surname>St&#x000e5;hl</surname><given-names>Karl</given-names></name></contrib><contrib id="efs28539-cr-0011" contrib-type="author"><name><surname>Staubach</surname><given-names>Christoph</given-names></name></contrib><contrib id="efs28539-cr-0012" contrib-type="author"><name><surname>Terregino</surname><given-names>Calogero</given-names></name></contrib><contrib id="efs28539-cr-0013" contrib-type="author"><name><surname>Willgert</surname><given-names>Katriina</given-names></name></contrib><contrib id="efs28539-cr-0014" contrib-type="author"><name><surname>Baldinelli</surname><given-names>Francesca</given-names></name></contrib><contrib id="efs28539-cr-0015" contrib-type="author"><name><surname>Chuzhakina</surname><given-names>Kateryna</given-names></name></contrib><contrib id="efs28539-cr-0016" contrib-type="author"><name><surname>Delacourt</surname><given-names>Roxane</given-names></name></contrib><contrib id="efs28539-cr-0017" contrib-type="author"><name><surname>Georganas</surname><given-names>Alexandros</given-names></name></contrib><contrib id="efs28539-cr-0018" contrib-type="author"><name><surname>Georgiev</surname><given-names>Milen</given-names></name></contrib><contrib id="efs28539-cr-0019" contrib-type="author"><name><surname>Kohnle</surname><given-names>Lisa</given-names></name></contrib></contrib-group><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<email>biohaw@efsa.europa.eu</email> and <email>ECDC.influenza@ecdc.europa.eu</email>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2023</year></pub-date><volume>21</volume><issue seq="350">12</issue><issue-id pub-id-type="doi">10.1002/efs2.v21.12</issue-id><elocation-id>e8539</elocation-id><permissions><!--&#x000a9; European Food Safety Authority--><copyright-statement content-type="article-copyright">&#x000a9; 2023 European Food Safety Authority, European Centre for Disease Prevention and Control, European Union Reference Laboratory for Avian Influenza. <italic toggle="yes">EFSA Journal</italic> published by Wiley&#x02010;VCH GmbH on behalf of European Food Safety Authority.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyndlicense">https://creativecommons.org/licenses/by-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nd/4.0/">http://creativecommons.org/licenses/by-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:EFS2-21-e8539.pdf"/><abstract><title>Abstract</title><p>Between 2 September and 1 December 2023, highly pathogenic avian influenza (HPAI) A(H5) outbreaks were reported in domestic (88) and wild (175) birds across 23 countries in Europe. Compared to previous years, the increase in the number of HPAI virus detections in waterfowl has been delayed, possibly due to a later start of the autumn migration of several wild bird species. Common cranes were the most frequently affected species during this reporting period with mortality events being described in several European countries. Most HPAI outbreaks reported in poultry were primary outbreaks following the introduction of the virus by wild birds, with the exception of Hungary, where two clusters involving secondary spread occurred. HPAI viruses identified in Europe belonged to eleven different genotypes, seven of which were new. With regard to mammals, the serological survey conducted in all fur farms in Finland revealed 29 additional serologically positive farms during this reporting period. Wild mammals continued to be affected mostly in the Americas, from where further spread into wild birds and mammals in the Antarctic region was described for the first time. Since the last report and as of 1 December 2023, three fatal and one severe human A(H5N1) infection with clade 2.3.2.1c viruses have been reported by Cambodia, and one A(H9N2) infection was reported from China. No human infections related to the avian influenza detections in animals in fur farms in Finland have been reported, and human infections with avian influenza remain a rare event. The risk of infection with currently circulating avian H5 influenza viruses of clade 2.3.4.4b in Europe remains low for the general population in the EU/EEA. The risk of infection remains low to moderate for occupationally or otherwise exposed people to infected birds or mammals (wild or domesticated); this assessment covers different situations that depend on the level of exposure.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="efs28539-kwd-0001">avian influenza</kwd><kwd id="efs28539-kwd-0002">captive birds</kwd><kwd id="efs28539-kwd-0003">HPAI</kwd><kwd id="efs28539-kwd-0004">humans, monitoring</kwd><kwd id="efs28539-kwd-0005">poultry</kwd><kwd id="efs28539-kwd-0006">wild birds</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="61"/><word-count count="6300"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.6 mode:remove_FC converted:19.12.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="EFS28539-cit-2001">
+<collab collab-type="authors">EFSA (European Food Safety Authority), ECDC (European Centre for Disease Prevention and Control), EURL (European Union Reference Laboratory for Avian Influenza)</collab>
+, <string-name>
+<surname>Adlhoch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fusaro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gonzales</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Kuiken</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mirinavi&#x0010d;i&#x0016b;t&#x00117;</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Niqueux</surname>
+<given-names>&#x000c9;</given-names>
+</string-name>, <string-name>
+<surname>St&#x000e5;hl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Staubach</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Terregino</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Willgert</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Baldinelli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Chuzhakina</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Delacourt</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Georganas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Georgiev</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Kohnle</surname>
+<given-names>L</given-names>
+</string-name>, <year>2023</year>. <article-title>Scientific report: Avian influenza overview September&#x02013;December 2023</article-title>. <source>EFSA Journal</source> 2023; <volume>21</volume>(12): 8539, 62 pp. <pub-id pub-id-type="doi">10.2903/j.efsa.2023.8539</pub-id>
+</mixed-citation>
+</p><fn-group id="efs28539-ntgp-0001"><fn id="efs28539-note-0001"><p>
+<bold>Requestor:</bold> European Commission</p></fn><fn id="efs28539-note-0002"><p>
+<bold>Question number:</bold> EFSA&#x02010;Q&#x02010;2023&#x02010;00717 and Commission request 280 to ECDC (SANTE.B.2/IK/mo (2023)2182203)</p></fn><fn id="efs28539-note-0003"><p>
+<bold>Acknowledgements:</bold> In addition to the listed authors, EFSA, ECDC and the EURL wish to thank the Member State representatives who provided epidemiological data on avian influenza outbreaks or shared sequence data: Jonida Boci, Keti Margariti and Ali Lilo (Albania); Sandra Revilla&#x02010;Fern&#x000e1;ndez and Janna Vogelgesang (Austria); Mieke Steensels and Steven Van Borm (Belgium); Aleksandra Miteva (Bulgaria); Tihana Mi&#x00161;ki&#x00107;, &#x0017d;aklin Acinger&#x02010;Rogi&#x00107;, Ivana Lohman, Ljupka Maltar, Martina Rubin, Lucija Stupar and Savi&#x00107; Vladimir (Croatia); Vasiliki Christodoulou (Cyprus); Tom&#x000e1;&#x00161; Jarosil, Alexander Nagy, Lucie Kalaskova, Petr Kucinsky, Miraslava Lutzova, Hynek Siksta and Lud&#x0011b;k Z&#x000e1;vada (Czechia); Charlotte Kristiane Hjulsager, Heidi Huus Petersen, Louise Fensholdt, Michelle Fischer Carlsen and Lone Thing Mortensen (Denmark); Imbi Nurmoja (Estonia); Tuija Gadd, Ari Kauppinen, Lauri Kareinen, Niina Tammiranta and Tiia Tuupanen (Finland); Camille Boyer, B&#x000e9;atrice Grasland, Nolwenn Le Moal, C&#x000e9;lia Locquet, Audrey Schmitz and Fran&#x000e7;ois&#x02010;Xavier Briand (France); Anne Pohlmann, Timm Harder and Carola Sauter&#x02010;Louis (Germany); Helyes Georgina (Hungary); Brigitte Brugger (Iceland); Laura Garza Cuartero and Audrey Jenkinson (Ireland); Andrea Maroni Ponti, Paolo Mulatti, Luigi Ruocco, Francesca Scolamacchia, Isabella Monne, Bianca Zecchin and Ambra Pastori (Italy); Armend Cana and Kujtim Uka (Kosovo<xref rid="efs28539-note-0007" ref-type="fn">
+<sup>1</sup>
+</xref>); Vicky Bink and Chantal Snoeck (Luxembourg); Oxana Popa, (Moldova); Marcel Spierenburg, Nancy Beerens and Dennis Bol (Netherlands); Anne D&#x000f8;sen, Britt Gjerset, Silje Granstad, Siri Margrete L&#x000f8;tvedt, Lars Erik Lundblad Rondestveit and Ole&#x02010;Herman Tronerud (Norway); Aleksandra Podra&#x0017c;ka, Krzysztof &#x0015a;mietanka, Katarzyna Doma&#x00144;ska&#x02010;Blicharz, Edyta Swieton and Katarzyna Wawrzak (Poland); Ioana Neghirla, Flavius Prelipcean and Iuliana Onita (Romania); Barbora Pavl&#x000ed;kov&#x000e1;, Martin Tinak and Zuzana Dirbakova (Slovakia); Aleksandra Hari and Brigita Slavek (Slovenia); Monserrat Ag&#x000fc;ero Garc&#x000ed;a and Azucena S&#x000e1;nchez (Spain); Malin Grant and Siamak Zohari (Sweden); Claudia Bachofen and Dominique Suter (Switzerland); Susan Cusack (United Kingdom (Northern Ireland)). ECDC would moreover like to thank the following experts for providing sequences from GISAID's EpiFlu&#x02122; Database used in the analysis: Chhorvann Chhea, Darapheak Chau, Sitha Prum, Visal Chhe, Sokha Dul, Sengly Manh, Phally Vy, Borann Sar, Chanthap Lon, Jessica E Manning, Sophana Chea and Savuth Chin (National Public Health Institute Cambodia); Jurre Siegers, Sokhoun Yann, Sonita Kol, Leakhen Pum, Savuth Chin, Darapheak Chau, Chhorvann Chhea and Erik Karlsson (Institut Pasteur du Cambodia). The authors also wish to thank Ron Fouchier from Erasmus Medical Center (Netherlands); Ian Brown from the Animal and Plant Health Agency (United Kingdom); Camille Delavenne from Ausvet Europe for conducting the data analysis under the contract OC/EFSA/ALPHA/2021/02; the authors, originating and submitting laboratories of the sequences from GISAID's EpiFlu&#x02122; Database, which is used for this assessment (<ext-link xlink:href="https://doi.org/10.5281/zenodo.10371651" ext-link-type="uri">Annex C</ext-link>); Paolo Calistri and Christian Gort&#x000e1;zar from EFSA's Panel on Animal Health and Welfare (AHAW); Erik Alm and Edoardo Colzani from ECDC as well as Inma Aznar from EFSA for the support provided to this scientific output.</p></fn><fn id="efs28539-note-0004"><p>
+<bold>Declarations of interest:</bold> If you wish to access the declaration of interests of any expert contributing to an EFSA scientific assessment, please contact <email>interestmanagement@efsa.europa.eu</email>
+</p></fn><fn id="efs28539-note-0006"><p>
+<bold>Maps disclaimer:</bold> The designations employed and the presentation of material on any maps included in this scientific output do not imply the expression of any opinion whatsoever on the part of the European Food Safety Authority concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.</p></fn><fn id="efs28539-note-0007"><label>
+<sup>1</sup>
+</label><p>This designation is without prejudice to positions on status and is in line with United Nations Security Council Resolution 1244 and the International Court of Justice Opinion on the Kosovo Declaration of Independence.</p></fn><fn id="efs28539-note-2203"><p>Approved: 13 December 2023</p></fn><fn id="efs28539-note-0804"><p>
+<bold>Note:</bold> This article was originally published on the EFSA website <ext-link xlink:href="https://www.efsa.europa.eu/en" ext-link-type="uri">www.efsa.europa.eu</ext-link> on 14 December 2023 as part of EFSA's urgent publication procedures.</p></fn></fn-group></notes></front><back><ref-list content-type="uncited-references" id="efs28539-bibl-0001"><title>References</title><ref id="efs28539-bib-0001"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0001">
+<collab collab-type="authors">Agriland</collab>
+, <article-title>online</article-title>. Scottish seals among mammals that tested positive for bird flu. Available online: <ext-link xlink:href="https://www.agriland.co.uk/farming-news/bird-flu-found-in-seals-along-scotlands-east-coast/" ext-link-type="uri">https://www.agriland.co.uk/farming-news/bird-flu-found-in-seals-along-scotlands-east-coast/</ext-link> [Accessed: 8 March <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0002"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0002">
+<collab collab-type="authors">Ambientales</collab>
+, <article-title>online</article-title>. Extreme mortality of southern elephant seal pups in Peninsula Vald&#x000e9;s. Available online: <ext-link xlink:href="https://noticiasambientales.com/animales/extrema-mortalidad-de-crias-de-elefante-marino-del-sur-en-peninsula-valdes/" ext-link-type="uri">https://noticiasambientales.com/animales/extrema-mortalidad-de-crias-de-elefante-marino-del-sur-en-peninsula-valdes/</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0003"><mixed-citation publication-type="journal" id="efs28539-cit-0003">
+<collab collab-type="authors">AMMI</collab>
+(<article-title>Association of Medical Microbiology and Infectious Disease Canada</article-title>), <year>2022</year>. <source>Highly pathogenic avian influenza in Canada</source>. <fpage>1</fpage> pp. Available online: <ext-link xlink:href="https://ammi.ca/wp-content/uploads/2022/10/Highly-Pathogenic-Avian-Influenza-Outbreak-in-Canada_rev5-RGF.pdf" ext-link-type="uri">https://ammi.ca/wp-content/uploads/2022/10/Highly-Pathogenic-Avian-Influenza-Outbreak-in-Canada_rev5-RGF.pdf</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0004"><mixed-citation publication-type="journal" id="efs28539-cit-0004">
+<string-name>
+<surname>Andreev</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Seiler</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Kandeil</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>J. C. M.</given-names>
+</string-name>, <string-name>
+<surname>Barman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rubrum</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Webby</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Govorkova</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Antiviral Susceptibility of Highly Pathogenic Avian Influenza A(H5N1) Viruses Circulating Globally in 2022&#x02010;2023</article-title>. <source>Journal of Infectious Diseases</source>, <volume>jiad418</volume>. <pub-id pub-id-type="doi">10.1093/infdis/jiad418</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0005"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0005">
+<collab collab-type="authors">&#x000c4;rzteblatt</collab>
+, <article-title>online</article-title>. Bird flu virus detected in dead seals. Available online: <ext-link xlink:href="https://www.aerzteblatt.de/nachrichten/127460/Vogelgrippevirus-bei-toten-Seehunden-nachgewiesen" ext-link-type="uri">https://www.aerzteblatt.de/nachrichten/127460/Vogelgrippevirus-bei-toten-Seehunden-nachgewiesen</ext-link> [Accessed: 29 September <year>2021</year>].</mixed-citation></ref><ref id="efs28539-bib-0006"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0006">
+<collab collab-type="authors">Avian Flu Diary</collab>
+, <article-title>online&#x02010;a</article-title>. Canada Reports (Fatal) H5N1 Infection In A White&#x02010;Sided Dolphin. Available online: <ext-link xlink:href="https://afludiary.blogspot.com/2022/12/canada-reports-fatal-h5n1-infection-in.html" ext-link-type="uri">https://afludiary.blogspot.com/2022/12/canada-reports-fatal-h5n1-infection-in.html</ext-link> [Accessed: 16 December <year>2022a</year>].</mixed-citation></ref><ref id="efs28539-bib-0007"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0007">
+<collab collab-type="authors">Avian Flu Diary</collab>
+, <article-title>online&#x02010;b</article-title>. Two Reports On HPAI H5N8 Infecting Marine Mammals (Denmark &#x00026; Germany). Available online: <ext-link xlink:href="https://afludiary.blogspot.com/2022/02/two-reports-on-hpai-h5n8-infecting.html" ext-link-type="uri">https://afludiary.blogspot.com/2022/02/two-reports-on-hpai-h5n8-infecting.html</ext-link> [Accessed: 29 June <year>2022b</year>].</mixed-citation></ref><ref id="efs28539-bib-0008"><mixed-citation publication-type="journal" id="efs28539-cit-0008">
+<string-name>
+<surname>Bao</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Horby</surname>, <given-names>P. W.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Liu</surname>, <given-names>W.</given-names>
+</string-name> (<year>2022</year>). <article-title>Human infection with a reassortment avian influenza A H3N8 virus: an epidemiological investigation study</article-title>. <source>Nature Communications</source>, <volume>13</volume>, <fpage>6817</fpage>. <pub-id pub-id-type="doi">10.1038/s41467-022-34601-1</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0009"><mixed-citation publication-type="journal" id="efs28539-cit-0009">
+<string-name>
+<surname>Bennison</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>A. M. P.</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Lynton&#x02010;Jenkins</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Mollett</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>De Sliva</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Peers&#x02010;Dent</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Finlayson</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Blockley</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Blyth</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Falchieri</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fowler</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Fitzcharles</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>I. H.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Banyard</surname>, <given-names>A. C.</given-names>
+</string-name> (<year>2023</year>). <article-title>Detection and spread of high pathogenicity avian influenza virus H5N1 in the Antarctic Region</article-title>. <source>bioRxiv</source> 2023.11.23.568045. <pub-id pub-id-type="doi">10.1101/2023.11.23.568045</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0010"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0010">
+<collab collab-type="authors">Big.AZ</collab>
+, <article-title>online</article-title>. The danger is growing: thousands of mammals have died from the disease, which is also dangerous for humans. Available online: <ext-link xlink:href="https://big.az/516156-tehluke-artir-insanlar-ucun-de-qorxulu-olan-xestelikden-minlerle-memeli-oldu.html" ext-link-type="uri">https://big.az/516156-tehluke-artir-insanlar-ucun-de-qorxulu-olan-xestelikden-minlerle-memeli-oldu.html</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0011"><mixed-citation publication-type="journal" id="efs28539-cit-0011">
+<string-name>
+<surname>Briand</surname>, <given-names>F.&#x02010;X.</given-names>
+</string-name>, <string-name>
+<surname>Souchaud</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pierre</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Beven</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Hirchaud</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e9;rault</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Planel</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Rigaudeau</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bernard&#x02010;Stoecklin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Van der Werf</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Lina</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Lina</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Gerbier</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Eterradossi</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Schmitz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Niqueux</surname>, <given-names>&#x000c9;.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grasland</surname>, <given-names>B.</given-names>
+</string-name> (<year>2023</year>). <article-title>Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus in Domestic Cat, France, 2022</article-title>. <source>Emerging Infectious Diseases</source>, <volume>29</volume>(<issue>8</issue>), <fpage>1696</fpage>&#x02013;<lpage>1698</lpage>. <pub-id pub-id-type="doi">10.3201/eid2908.230188</pub-id>.<pub-id pub-id-type="pmid">37379514</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0012"><mixed-citation publication-type="journal" id="efs28539-cit-0012">
+<collab collab-type="authors">Cambodia TMoHo</collab>
+, <article-title>online&#x02010;a. Press release on the official Facebook page about a case of avian influenza in a 4&#x02010;year&#x02010;old girl</article-title>. <source>Available online</source>: <ext-link xlink:href="https://www.facebook.com/story.php?story_fbid=pfbid02nnbRaW1hf1U8HqbfgAc8oURBDdznBAg6wVGTEoKUcZfJqWqzKSHUihxpVnabRWAwl%26id=100064403181076%26sfnsn=mo%26paipv=0%26eav=AfbBSUN9zDyKv9nAUVn3JZNUdDmUorn-kpZ-VBzuZm0yAXrhyjIHMQlVQoJnNMjAQc8%26_rdc=2%26_rdr" ext-link-type="uri">https://www.facebook.com/story.php?story_fbid=pfbid02nnbRaW1hf1U8HqbfgAc8oURBDdznBAg6wVGTEoKUcZfJqWqzKSHUihxpVnabRWAwl&#x00026;id=100064403181076&#x00026;sfnsn=mo&#x00026;paipv=0&#x00026;eav=AfbBSUN9zDyKv9nAUVn3JZNUdDmUorn-kpZ-VBzuZm0yAXrhyjIHMQlVQoJnNMjAQc8&#x00026;_rdc=2&#x00026;_rdr</ext-link> [Accessed: 07/12/<year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0013"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0013">
+<collab collab-type="authors">Cambodia TMoHo</collab>
+, <article-title>online&#x02010;b. Press release on the official Facebook page about a case of avian influenza in a 50&#x02010;year old male</article-title>. Available online: <ext-link xlink:href="https://www.facebook.com/photo/?fbid=750613090428790%26set=pcb.750613113762121" ext-link-type="uri">https://www.facebook.com/photo/?fbid=750613090428790&#x00026;set=pcb.750613113762121</ext-link> [Accessed: 07/12/<year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0014"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0014">
+<collab collab-type="authors">CBS News</collab>
+, <article-title>online&#x02010;a. South Africa bird flu outbreaks see 7.5 million chickens culled, causing poultry and egg shortages</article-title>. Available online: <ext-link xlink:href="https://www.cbsnews.com/news/south-africa-bird-flu-chickens-culled-poultry-egg-shortages/" ext-link-type="uri">https://www.cbsnews.com/news/south-africa-bird-flu-chickens-culled-poultry-egg-shortages/</ext-link> [Accessed: 12 December <year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0015"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0015">
+<collab collab-type="authors">CBS News</collab>
+, <article-title>online&#x02010;b. California wildlife officials test dead geese for avian flu found in Sacramento's Land Park. Available online</article-title>: <ext-link xlink:href="https://www.cbsnews.com/sacramento/news/california-dead-geese-avian-flu-sacramento-land-park/" ext-link-type="uri">https://www.cbsnews.com/sacramento/news/california-dead-geese-avian-flu-sacramento-land-park/</ext-link> [Accessed: 12 December <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0016"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0016">
+<collab collab-type="authors">CDC (Centers for Disease Control and Prevention)</collab>
+, <year>2021</year>. <article-title>Influenza Risk Assessment Tool (IRAT) &#x02010; Virus Report, March 2021</article-title>. CDC. 5 pp. Available online: <ext-link xlink:href="https://www.cdc.gov/flu/pandemic-resources/pdf/CDC-IRAT-Virus-Report-avian-influenza-AH5N8-virus-clade-2.3.4.4b.pdf" ext-link-type="uri">https://www.cdc.gov/flu/pandemic-resources/pdf/CDC-IRAT-Virus-Report-avian-influenza-AH5N8-virus-clade-2.3.4.4b.pdf</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0017"><mixed-citation publication-type="book" id="efs28539-cit-0017">
+<collab collab-type="authors">CDC (Centers for Disease Control and Prevention)</collab>
+, <year>2023a</year>. <source>Technical Report: Highly Pathogenic Avian Influenza A(H5N1) Viruses</source>. Available online: <ext-link xlink:href="https://stacks.cdc.gov/view/cdc/134737" ext-link-type="uri">https://stacks.cdc.gov/view/cdc/134737</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0018"><mixed-citation publication-type="book" id="efs28539-cit-0018">
+<collab collab-type="authors">CDC (Centers for Disease Control and Prevention)</collab>
+, online&#x02010;a. March 7, <year>2022a</year>
+<source>Update: H5N1 Bird Flu Poses Low Risk to the Public</source>. Available online: <ext-link xlink:href="https://www.cdc.gov/flu/avianflu/spotlights/2021-2022/h5n1-low-risk-public.htm?web=1%26wdLOR=c187C9BEB-C6F3-4E38-80C1-CDE7B987F389" ext-link-type="uri">https://www.cdc.gov/flu/avianflu/spotlights/2021-2022/h5n1-low-risk-public.htm?web=1&#x00026;wdLOR=c187C9BEB-C6F3-4E38-80C1-CDE7B987F389</ext-link> [Accessed: 29 June 2022].</mixed-citation></ref><ref id="efs28539-bib-0019"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0019">
+<collab collab-type="authors">CDC (Centers for Disease Control and Prevention)</collab>
+, <article-title>online&#x02010;b</article-title>. Summary of Influenza Risk Assessment Tool (IRAT) Results. Available online: https://www.cdc.gov/flu/pandemic&#x02010;resources/monitoring/irat&#x02010;virus&#x02010;summaries.htm#print [Accessed: 11 July <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0020"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0020">
+<collab collab-type="authors">CDC (Centers for Disease Control and Prevention)</collab>
+, <article-title>online&#x02010;c</article-title>. U.S. Case of Human Avian Influenza A(H5) Virus Reported. Available online: <ext-link xlink:href="https://www.cdc.gov/media/releases/2022/s0428-avian-flu.html" ext-link-type="uri">https://www.cdc.gov/media/releases/2022/s0428-avian-flu.html</ext-link> [Accessed: 16 December <year>2022b</year>].</mixed-citation></ref><ref id="efs28539-bib-0021"><mixed-citation publication-type="journal" id="efs28539-cit-0021">
+<string-name>
+<surname>Chen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jia</surname>, <given-names>W.</given-names>
+</string-name> (<year>2022</year>). <article-title>Novel Reassortant Avian Influenza A(H5N6) Virus, China, 2021</article-title>. <source>Emerging Infectious Diseases</source>, <volume>28</volume>, <fpage>1703</fpage>&#x02013;<lpage>1707</lpage>. <pub-id pub-id-type="doi">10.3201/eid2808.212241</pub-id>.<pub-id pub-id-type="pmid">35820171</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0022"><mixed-citation publication-type="journal" id="efs28539-cit-0022">
+<string-name>
+<surname>Chen</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>Y. M.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Yip</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>D. K.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Guan</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2023</year>). <article-title>Characterization of an Emergent Chicken H3N8 Influenza Virus in Southern China: a Potential Threat to Public Health</article-title>. <source>Journal of Virology</source>, <volume>97</volume>, <elocation-id>e0043423</elocation-id>. <pub-id pub-id-type="doi">10.1128/jvi.00434-23</pub-id>.<pub-id pub-id-type="pmid">37289052</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0023"><mixed-citation publication-type="journal" id="efs28539-cit-0023">
+<string-name>
+<surname>Cheng</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shi</surname>, <given-names>C.</given-names>
+</string-name> (<year>2022</year>). <article-title>A child with acute respiratory distress syndrome caused by avian influenza H3N8 virus</article-title>. <source>Journal of Infection</source>, <volume>85</volume>, <fpage>174</fpage>&#x02013;<lpage>211</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinf.2022.05.007</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0024"><mixed-citation publication-type="journal" id="efs28539-cit-0024">
+<string-name>
+<surname>Chutinimitkul</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>van Riel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Munster</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>van den Brand</surname>, <given-names>J. M. A.</given-names>
+</string-name>, <string-name>
+<surname>Rimmelzwaan</surname>, <given-names>G. F.</given-names>
+</string-name>, <string-name>
+<surname>Kuiken</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kuiken</surname>, <given-names>O. A. D. M. E.</given-names>
+</string-name>, <string-name>
+<surname>Fouchier</surname>, <given-names>R. A. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Wit</surname>, <given-names>E.</given-names>
+</string-name> (<year>2010</year>). <article-title>In vitro assessment of attachment pattern and replication efficiency of H5N1 influenza A viruses with altered receptor specificity</article-title>. <source>Journal of Virology</source>, <volume>84</volume>(<issue>13</issue>), <fpage>6825</fpage>&#x02013;<lpage>6833</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.02737-09</pub-id>.<pub-id pub-id-type="pmid">20392847</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0025"><mixed-citation publication-type="journal" id="efs28539-cit-0025">
+<string-name>
+<surname>Cruz</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Icochea</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Espejo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Troncos</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Castro&#x02010;Sanguinetti</surname>, <given-names>G. R.</given-names>
+</string-name>, <string-name>
+<surname>Schilling</surname>, <given-names>M. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tinoco</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2023</year>). <article-title>Highly Pathogenic Avian Influenza A(H5N1) from Wild Birds, Poultry, and Mammals, Peru</article-title>. <source>Emerging Infectious Diseases</source>, <volume>29</volume>, <fpage>2572</fpage>&#x02013;<lpage>2576</lpage>. <pub-id pub-id-type="doi">10.3201/eid2912.230505</pub-id>.<pub-id pub-id-type="pmid">37987605</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0026"><mixed-citation publication-type="journal" id="efs28539-cit-0026">
+<string-name>
+<surname>Cui</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Global dissemination of H5N1 influenza viruses bearing the clade 2.3.4.4b HA gene and biologic analysis of the ones detected in China</article-title>. <source>Emerging Microbes &#x00026; Infections</source>, <volume>11</volume>, <fpage>1693</fpage>&#x02013;<lpage>1704</lpage>. <pub-id pub-id-type="doi">10.1080/22221751.2022.2088407</pub-id>.<pub-id pub-id-type="pmid">35699072</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0027"><mixed-citation publication-type="journal" id="efs28539-cit-0027">
+<string-name>
+<surname>Cui</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name> (<year>2023</year>). <article-title>Analysis of avian influenza A (H3N8) viruses in poultry and their zoonotic potential, China, September 2021 to May 2022</article-title>. <source>Eurosurveillance</source>, <volume>28</volume>. <pub-id pub-id-type="doi">10.2807/1560-7917.Es.2023.28.41.2200871</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0028"><mixed-citation publication-type="journal" id="efs28539-cit-0028">
+<collab collab-type="authors">ECDC (European Centre for Disease Prevention and Control)</collab>
+, <year>2022a</year>. <article-title>Operational tool on rapid risk assessment methodology &#x02010; ECDC 2019</article-title>. <source>ECDC: Stockholm</source>. <fpage>18</fpage> pp. Available online: <ext-link xlink:href="https://www.ecdc.europa.eu/sites/default/files/documents/operational-tool-rapid-risk-assessment-methodolgy-ecdc-2019.pdf" ext-link-type="uri">https://www.ecdc.europa.eu/sites/default/files/documents/operational-tool-rapid-risk-assessment-methodolgy-ecdc-2019.pdf</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0029"><mixed-citation publication-type="journal" id="efs28539-cit-0029">
+<collab collab-type="authors">ECDC (European Centre for Disease Prevention and Control)</collab>
+, <year>2022b</year>. <article-title>Testing and detection of zoonotic influenza virus infections in humans in the EU/EEA, and occupational safety and health measures for those exposed at work</article-title>. <source>ECDC: Stockholm</source>. <fpage>32</fpage> pp. Available online: <ext-link xlink:href="https://www.ecdc.europa.eu/en/publications-data/zoonotic-influenza-virus-infections-humans-testing-and-detection" ext-link-type="uri">https://www.ecdc.europa.eu/en/publications-data/zoonotic-influenza-virus-infections-humans-testing-and-detection</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0030"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0030">
+<collab collab-type="authors">ECDC</collab>
+<article-title>(European Centre for Disease Prevention and Control), online. Cluster of avian influenza in Cambodia</article-title>. Available online: <ext-link xlink:href="https://www.ecdc.europa.eu/en/news-events/cluster-avian-influenza-cambodia" ext-link-type="uri">https://www.ecdc.europa.eu/en/news-events/cluster-avian-influenza-cambodia</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0031"><mixed-citation publication-type="journal" id="efs28539-cit-0031">
+<collab collab-type="authors">EFSA (European Food Safety Authority), ECDC (European Centre for Disease Prevention and Control), EURL (European Union Reference Laboratory for Avian Influenza)</collab>
+, <string-name>
+<surname>Adlhoch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fusaro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gonzales</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Kuiken</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mirinavi&#x0010d;i&#x0016b;t&#x00117;</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Niqueux</surname>
+<given-names>&#x000c9;</given-names>
+</string-name>, <string-name>
+<surname>Staubach</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Terregino</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Baldinelli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rusin&#x000e0;</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Kohnle</surname>
+<given-names>L</given-names>
+</string-name>, <year>2023</year>. <article-title>Scientific report: Avian influenza overview June&#x02013;September 2023</article-title>. <source>EFSA Journal</source> 2023;<volume>21</volume>(<issue>10</issue>):8328, <fpage>54</fpage> pp. <pub-id pub-id-type="doi">10.2903/j.efsa.2023.8328</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0032"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0032">
+<collab collab-type="authors">Ekapija</collab>
+, <article-title>online</article-title>. Bird flu in Banat &#x02010; 600 woodpeckers killed. Available online: <ext-link xlink:href="https://www.ekapija.com/news/4483572/pticji-grip-u-banatu-uginulo-oko-600-zdralova" ext-link-type="uri">https://www.ekapija.com/news/4483572/pticji-grip-u-banatu-uginulo-oko-600-zdralova</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0033"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0033">
+<string-name>
+<given-names>El</given-names>
+<surname>Tipografo</surname>
+</string-name>, <article-title>online. Avian flu: Worrying increase in dead sea lions on the coasts</article-title>. Available online: <ext-link xlink:href="https://eltipografo.cl/2023/09/gripe-aviar-preocupante-aumento-de-lobos-marinos-muertos-en-las-costas" ext-link-type="uri">https://eltipografo.cl/2023/09/gripe-aviar-preocupante-aumento-de-lobos-marinos-muertos-en-las-costas</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0034"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0034">
+<collab collab-type="authors">European Commission</collab>
+, <article-title>online</article-title>. Presentations from the PAFF Animal Health and Welfare committee meetings. Available online: <ext-link xlink:href="https://food.ec.europa.eu/horizontal-topics/committees/paff-committees/animal-health-and-welfare_en" ext-link-type="uri">https://food.ec.europa.eu/horizontal-topics/committees/paff-committees/animal-health-and-welfare_en</ext-link> [Accessed: 23 November <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0035"><mixed-citation publication-type="journal" id="efs28539-cit-0035">
+<collab collab-type="authors">European Food Safety Authority, European Centre for Disease Prevention and Control, European Union Reference Laboratory for Avian influenza</collab>
+, <string-name>
+<surname>Brown</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mulatti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Smietanka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Staubach</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Willeberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Adlhoch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Candiani</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fabris</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zancanaro</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Morgado</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Verdonck</surname>
+<given-names>F</given-names>
+</string-name>, <year>2017</year>. <article-title>Scientific report on the avian influenza overview October 2016&#x02013;August 2017</article-title>. <source>EFSA Journal</source> 2017;<volume>15</volume>(<issue>10</issue>):5018, <fpage>101</fpage> pp. <pub-id pub-id-type="doi">10.2903/j.efsa.2017.5018</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0036"><mixed-citation publication-type="journal" id="efs28539-cit-0036">
+<string-name>
+<surname>Fan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hatta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Halfmann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Imai</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Macken</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>, <given-names>M. Q.</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Novel residues in avian influenza virus PB2 protein affect virulence in mammalian hosts</article-title>. <source>Nature Communications</source>, <volume>5</volume>, <fpage>5021</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms6021</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0037"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0037">
+<collab collab-type="authors">FFA (Finnish Food Authority)</collab>
+, <article-title>online</article-title>. Avian influenza cases in Finland. Available online: <ext-link xlink:href="https://www.ruokavirasto.fi/en/farmers/animal-husbandry/animal-health-and-diseases/animal-diseases/poultry/avian-influenza/avian-influenza-in-finland/" ext-link-type="uri">https://www.ruokavirasto.fi/en/farmers/animal-husbandry/animal-health-and-diseases/animal-diseases/poultry/avian-influenza/avian-influenza-in-finland/</ext-link> [Accessed: 11 July <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0038"><mixed-citation publication-type="journal" id="efs28539-cit-0038">
+<string-name>
+<surname>Floyd</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Banyard</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Lean</surname>
+<given-names>FZX</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>
+<given-names>AMP</given-names>
+</string-name>, <string-name>
+<surname>Fullick</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Whittard</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mollett</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Bexton</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Swinson</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Macrelli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Reid</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>N&#x000fa;&#x000f1;ez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Duff</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>R</given-names>
+</string-name> and <string-name>
+<surname>Brown</surname>
+<given-names>IH</given-names>
+</string-name>, <year>2021</year>. <article-title>Systemic infection with highly pathogenic H5N8 of avian origin produces encephalitis and mortality in wild mammals at a UK rehabilitation centre</article-title>. <source>bioRxiv</source>:2021.2005.2026.445666. <pub-id pub-id-type="doi">10.1101/2021.05.26.445666</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0039"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0039">
+<collab collab-type="authors">FluGlobalNet</collab>
+, <article-title>online</article-title>. Preliminary Genomic Analysis of H5N1 HPAIV from South Georgia. Available online: <ext-link xlink:href="https://science.vla.gov.uk/fluglobalnet/publications/antarctic-update-nov23.html" ext-link-type="uri">https://science.vla.gov.uk/fluglobalnet/publications/antarctic-update-nov23.html</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0040"><mixed-citation publication-type="journal" id="efs28539-cit-0040">
+<string-name>
+<surname>Gamarra&#x02010;Toledo</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Plaza</surname>, <given-names>P. I.</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Inga&#x02010;Diaz</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Saravia&#x02010;Guevara</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Pereyra&#x02010;Meza</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Coronado&#x02010;Flores</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Calderon&#x02010;Cerron</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Quiroz&#x02010;Jimenez</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Huaman&#x02010;Mendoza</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nieto&#x02010;Navarrete</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Ventura</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lambertucci</surname>, <given-names>S. A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Mass Mortality of Sea Lions Caused by Highly Pathogenic Avian Influenza A(H5N1) Virus</article-title>. <source>Emerging Infectious Diseases</source>, <volume>29</volume>, <fpage>2553</fpage>&#x02013;<lpage>2556</lpage>. <pub-id pub-id-type="doi">10.3201/eid2912.230192</pub-id>.<pub-id pub-id-type="pmid">37916983</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0041"><mixed-citation publication-type="journal" id="efs28539-cit-0041">
+<string-name>
+<surname>Gao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shinya</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>). <article-title>Identification of amino acids in HA and PB2 critical for the transmission of H5N1 avian influenza viruses in a mammalian host</article-title>. <source>PLoS Pathogens</source>, <volume>5</volume>, <elocation-id>e1000709</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.ppat.1000709</pub-id>.<pub-id pub-id-type="pmid">20041223</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0042"><mixed-citation publication-type="journal" id="efs28539-cit-0042">
+<string-name>
+<surname>Godoy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oca</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Caro</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Pontigo</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Kibenge</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kibenge</surname>, <given-names>F.</given-names>
+</string-name> (<year>2023</year>). <article-title>Evolution and Current Status of Influenza A Virus in Chile: A Review</article-title>. <source>Pathogens</source>, <volume>12</volume>. <pub-id pub-id-type="doi">10.3390/pathogens12101252</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0043"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0043">
+<collab collab-type="authors">GOVFR</collab>
+<article-title>(The French ministry of Agriculture and Food), online&#x02010;a. Avian influenza: France's vaccination plan</article-title>. Available online: <ext-link xlink:href="https://agriculture.gouv.fr/tout-ce-quil-faut-savoir-sur-le-plan-daction-vaccination-iahp-en-france" ext-link-type="uri">https://agriculture.gouv.fr/tout-ce-quil-faut-savoir-sur-le-plan-daction-vaccination-iahp-en-france</ext-link> [Accessed: 8 December <year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0044"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0044">
+<collab collab-type="authors">GOVFR</collab>
+<article-title>(The French ministry of Agriculture and Food), online&#x02010;b. Everything you need to know about France's avian influenza vaccination plan</article-title>. Available online: <ext-link xlink:href="https://agriculture.gouv.fr/influenza-aviaire-le-plan-daction-vaccination-de-la-france" ext-link-type="uri">https://agriculture.gouv.fr/influenza-aviaire-le-plan-daction-vaccination-de-la-france</ext-link> [Accessed: 8 December <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0045"><mixed-citation publication-type="book" id="efs28539-cit-0045">
+<collab collab-type="authors">GovHK</collab>
+, <year>2023</year>. <source>Avian Influenza Report &#x02010;Reporting period: Nov 12, 2023 &#x02013; Nov 18, 2023 (Week 46)</source>. Hong Kong. Available online: <ext-link xlink:href="https://www.chp.gov.hk/files/pdf/2023_avian_influenza_report_vol19_wk46.pdf" ext-link-type="uri">https://www.chp.gov.hk/files/pdf/2023_avian_influenza_report_vol19_wk46.pdf</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0046"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0046">
+<collab collab-type="authors">GovUK (Animal and Plant Health Agency)</collab>
+, <article-title>online</article-title>. APHA Interactive Avian Influenza Disease Map. Available online: <ext-link xlink:href="https://defra.maps.arcgis.com/apps/webappviewer/index.html?id=8cb1883eda5547c6b91b5d5e6aeba90d" ext-link-type="uri">https://defra.maps.arcgis.com/apps/webappviewer/index.html?id=8cb1883eda5547c6b91b5d5e6aeba90d</ext-link> [Accessed: 11 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0047"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0047">
+<collab collab-type="authors">GovUK (UK Health Security Agency)</collab>
+, <article-title>online&#x02010;a</article-title>. Bird flu (avian influenza): latest situation in England. Available online: https://www.gov.uk/government/news/bird&#x02010;flu&#x02010;avian&#x02010;influenza&#x02010;latest&#x02010;situation&#x02010;in&#x02010;england#latest&#x02010;situation [Accessed: 11 December <year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0048"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0048">
+<collab collab-type="authors">GovUK (UK Health Security Agency)</collab>
+, <article-title>online&#x02010;b</article-title>. Investigation into the risk to human health of avian influenza (influenza A H5N1) in England: technical briefing 3. Available online: <ext-link xlink:href="https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-technical-briefings/investigation-into-the-risk-to-human-health-of-avian-influenza-influenza-a-h5n1-in-england-technical-briefing-3" ext-link-type="uri">https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-technical-briefings/investigation-into-the-risk-to-human-health-of-avian-influenza-influenza-a-h5n1-in-england-technical-briefing-3</ext-link> [Accessed: 11 July <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0049"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0049">
+<collab collab-type="authors">GovUK (UK Health Security Agency)</collab>
+, <article-title>online&#x02010;c</article-title>. Investigation into the risk to human health of avian influenza (influenza A H5N1) in England: technical briefing 4. Available online: <ext-link xlink:href="https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-technical-briefings/investigation-into-the-risk-to-human-health-of-avian-influenza-influenza-a-h5n1-in-england-technical-briefing-4" ext-link-type="uri">https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-technical-briefings/investigation-into-the-risk-to-human-health-of-avian-influenza-influenza-a-h5n1-in-england-technical-briefing-4</ext-link> [Accessed: 11 July <year>2023c</year>].</mixed-citation></ref><ref id="efs28539-bib-0050"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0050">
+<collab collab-type="authors">GovUK (UK Health Security Agency)</collab>
+, <article-title>online&#x02010;d</article-title>. Technical risk assessment for avian influenza (human health): influenza A H5N1 2.3.4.4b. Available online: <ext-link xlink:href="https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-risk-to-human-health/technical-risk-assessment-for-avian-influenza-human-health-influenza-a-h5n1-2344b" ext-link-type="uri">https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-risk-to-human-health/technical-risk-assessment-for-avian-influenza-human-health-influenza-a-h5n1-2344b</ext-link> [Accessed: 11 July <year>2023d</year>].</mixed-citation></ref><ref id="efs28539-bib-0051"><mixed-citation publication-type="journal" id="efs28539-cit-0051">
+<string-name>
+<surname>Gu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name> (<year>2022</year>). <article-title>Novel H5N6 reassortants bearing the clade 2.3.4.4b HA gene of H5N8 virus have been detected in poultry and caused multiple human infections in China</article-title>. <source>Emerging Microbes &#x00026; Infections</source>, <volume>11</volume>, <fpage>1174</fpage>&#x02013;<lpage>1185</lpage>. <pub-id pub-id-type="doi">10.1080/22221751.2022.2063076</pub-id>.<pub-id pub-id-type="pmid">35380505</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0052"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0052">
+<collab collab-type="authors">Healthy Wildlife (Canadan Wildlife Health Cooperative)</collab>
+, <article-title>online</article-title>. First case of highly pathogenic H5N1 avian influenza virus infection in a black bear. Available online: <ext-link xlink:href="http://blog.healthywildlife.ca/first-case-of-highly-pathogenic-h5n1-avian-influenza-virus-infection-in-a-black-bear/" ext-link-type="uri">http://blog.healthywildlife.ca/first-case-of-highly-pathogenic-h5n1-avian-influenza-virus-infection-in-a-black-bear/</ext-link> [Accessed: 29 September <year>2022</year>].</mixed-citation></ref><ref id="efs28539-bib-0053"><mixed-citation publication-type="journal" id="efs28539-cit-0053">
+<string-name>
+<surname>Herfst</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schrauwen</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Linster</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chutinimitkul</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>de Wit</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Munster</surname>, <given-names>V. J.</given-names>
+</string-name>, <string-name>
+<surname>Sorrell</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Bestebroer</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Rimmelzwaan</surname>, <given-names>G. F.</given-names>
+</string-name>, <string-name>
+<surname>Osterhaus</surname>, <given-names>A. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fouchier</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2012</year>). <article-title>Airborne transmission of influenza A/H5N1 virus between ferrets</article-title>. <source>Science</source>, <volume>336</volume>(<issue>6088</issue>), <fpage>1534</fpage>&#x02013;<lpage>1541</lpage>. <pub-id pub-id-type="doi">10.1126/science.1213362</pub-id>.<pub-id pub-id-type="pmid">22723413</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0054"><mixed-citation publication-type="journal" id="efs28539-cit-0054">
+<string-name>
+<surname>Herve</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Schmitz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Briand</surname>, <given-names>F.&#x02010;X.</given-names>
+</string-name>, <string-name>
+<surname>Gorin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Queguiner</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Niqueux</surname>, <given-names>&#x000c9;.</given-names>
+</string-name>, <string-name>
+<surname>Paboeuf</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Scoizec</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Le Bouquin&#x02010;Leneveu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Eterradossi</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Simon</surname>, <given-names>G.</given-names>
+</string-name> (<year>2021</year>). <article-title>Serological Evidence of Backyard Pig Exposure to Highly Pathogenic Avian Influenza H5N8 Virus during 2016&#x02010;2017 Epizootic in France</article-title>. <source>Pathogens</source>, <volume>10</volume>. <pub-id pub-id-type="doi">10.3390/pathogens10050621</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0055"><mixed-citation publication-type="journal" id="efs28539-cit-0055">
+<string-name>
+<surname>Hui</surname>, <given-names>K. P. Y.</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>, <given-names>J. C. W.</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>S. M. S.</given-names>
+</string-name>, <string-name>
+<surname>Sit</surname>, <given-names>K. Y.</given-names>
+</string-name>, <string-name>
+<surname>Au</surname>, <given-names>T. W. K.</given-names>
+</string-name>, <string-name>
+<surname>Poon</surname>, <given-names>L. L. M.</given-names>
+</string-name>, <string-name>
+<surname>Nicholls</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Peiris</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chan</surname>, <given-names>M. C. W.</given-names>
+</string-name> (<year>2023</year>). <article-title>Replication of Novel Zoonotic&#x02010;Like Influenza A(H3N8) Virus in Ex Vivo Human Bronchus and Lung</article-title>. <source>Emerging Infectious Diseases</source>, <volume>29</volume>, <fpage>1210</fpage>&#x02013;<lpage>1214</lpage>. <pub-id pub-id-type="doi">10.3201/eid2906.221680</pub-id>.<pub-id pub-id-type="pmid">37095078</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0056"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0056">
+<collab collab-type="authors">IOL</collab>
+, <article-title>online</article-title>. Avian flu detected in George in the Western Cape. Available online: <ext-link xlink:href="https://www.iol.co.za/news/environment/avian-flu-detected-in-george-in-the-western-cape-d2760f49-191e-4089-83ba-4074d310935f" ext-link-type="uri">https://www.iol.co.za/news/environment/avian-flu-detected-in-george-in-the-western-cape-d2760f49-191e-4089-83ba-4074d310935f</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0057"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0057">
+<collab collab-type="authors">IUCN</collab>
+<article-title>(International Union for Conservation of Nature), online&#x02010;a. <italic toggle="yes">Grus grus</italic> (Europe assessment)</article-title>. Available online: <pub-id pub-id-type="doi">10.2305/IUCN.UK.2021-3.RLTS.T22692146A166235832.en</pub-id> [Accessed: 12 December <year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0058"><mixed-citation publication-type="journal" id="efs28539-cit-0058">
+<collab collab-type="authors">IUCN</collab>
+<article-title>(International Union for Conservation of Nature), online&#x02010;b. <italic toggle="yes">Phoenicoparrus jamesi</italic>
+</article-title>. <source>Available online</source>: <pub-id pub-id-type="doi">10.2305/IUCN.UK.2016-3.RLTS.T22697398A93612106.en</pub-id> [Accessed: 12 December <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0059"><mixed-citation publication-type="journal" id="efs28539-cit-0059">
+<string-name>
+<surname>Jin</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Geng</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ye</surname>, <given-names>J.</given-names>
+</string-name> (<year>2019</year>). <article-title>A Single Mutation N166D in Hemagglutinin Affects Antigenicity and Pathogenesis of H9N2 Avian Influenza Virus</article-title>. <source>Viruses</source>, <volume>11</volume>. <pub-id pub-id-type="doi">10.3390/v11080709</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0060"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0060">
+<collab collab-type="authors">JPost</collab>
+, <article-title>online</article-title>. 250 birds infected with bird flu in first cases in Israel in over five months. Available online: <ext-link xlink:href="https://www.jpost.com/health-and-wellness/article-760747" ext-link-type="uri">https://www.jpost.com/health-and-wellness/article-760747</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0061"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0061">
+<collab collab-type="authors">KhmerTimes</collab>
+, <article-title>online</article-title>. 100 ducks culled in Kampot to prevent bird flu. Available online: <ext-link xlink:href="https://www.khmertimeskh.com/501398005/100-ducks-culled-in-kampot-to-prevent-bird-flu/" ext-link-type="uri">https://www.khmertimeskh.com/501398005/100-ducks-culled-in-kampot-to-prevent-bird-flu/</ext-link> [Accessed: 29 September <year>2022</year>].</mixed-citation></ref><ref id="efs28539-bib-0062"><mixed-citation publication-type="journal" id="efs28539-cit-0062">
+<string-name>
+<surname>Kibenge</surname>, <given-names>F. S. B.</given-names>
+</string-name> (<year>2023</year>). <article-title>A One Health approach to mitigate the impact of influenza A virus (IAV) reverse zoonosis is by vaccinating humans and susceptible farmed and pet animals</article-title>. <source>American Journal of Veterinary Research</source>, <volume>84</volume>. <pub-id pub-id-type="doi">10.2460/ajvr.23.03.0053</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0063"><mixed-citation publication-type="journal" id="efs28539-cit-0063">
+<string-name>
+<surname>Kim</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Hatta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2010</year>). <article-title>Role of host&#x02010;specific amino acids in the pathogenicity of avian H5N1 influenza viruses in mice</article-title>. <source>Journal of General Virology</source>, <volume>91</volume>, <fpage>1284</fpage>&#x02013;<lpage>1289</lpage>. <pub-id pub-id-type="doi">10.1099/vir.0.018143-0</pub-id>.<pub-id pub-id-type="pmid">20016035</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0064"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0064">
+<collab collab-type="authors">Kiniradio</collab>
+, <article-title>online</article-title>. Brown Bear Cub in Alaska tests positive for Avian Influenza. Available online: <ext-link xlink:href="https://www.kinyradio.com/news/news-of-the-north/brown-bear-cub-in-alaska-tests-positive-for-avian-influenza/" ext-link-type="uri">https://www.kinyradio.com/news/news-of-the-north/brown-bear-cub-in-alaska-tests-positive-for-avian-influenza/</ext-link> [Accessed: 16 December <year>2022</year>].</mixed-citation></ref><ref id="efs28539-bib-0065"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0065">
+<collab collab-type="authors">KTOO</collab>
+, <article-title>online</article-title>. First bear with bird flu in US was cub in Glacier Bay. Available online: <ext-link xlink:href="https://www.ktoo.org/2022/11/22/first-bear-with-bird-flu-in-us-was-cub-in-glacier-bay/" ext-link-type="uri">https://www.ktoo.org/2022/11/22/first-bear-with-bird-flu-in-us-was-cub-in-glacier-bay/</ext-link> [Accessed: 16 December <year>2022</year>].</mixed-citation></ref><ref id="efs28539-bib-0066"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0066">
+<collab collab-type="authors">Lansi&#x02010;Savo</collab>
+, <article-title>online</article-title>. Hundreds of seals and sea lions died of bird flu on the coast of Uruguay. Available online: <ext-link xlink:href="https://www.lansi-savo.fi/uutissuomalainen/6244847" ext-link-type="uri">https://www.lansi-savo.fi/uutissuomalainen/6244847</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0067"><mixed-citation publication-type="journal" id="efs28539-cit-0067">
+<string-name>
+<surname>Le</surname>, <given-names>Q. M.</given-names>
+</string-name>, <string-name>
+<surname>Sakai&#x02010;Tagawa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ozawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2009</year>). <article-title>Selection of H5N1 influenza virus PB2 during replication in humans</article-title>. <source>Journal of Virology</source>, <volume>83</volume>(<issue>10</issue>), <fpage>5278</fpage>&#x02013;<lpage>5281</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.00063-09</pub-id>.<pub-id pub-id-type="pmid">19264775</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0068"><mixed-citation publication-type="journal" id="efs28539-cit-0068">
+<string-name>
+<surname>Lee</surname>, <given-names>E. K.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>Y. N.</given-names>
+</string-name>, <string-name>
+<surname>Kye</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>I. H.</given-names>
+</string-name>, <string-name>
+<surname>Sagong</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Heo</surname>, <given-names>G. B.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>Y. M.</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>, <given-names>H. K.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>H. M.</given-names>
+</string-name>, <string-name>
+<surname>Cheon</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>, <given-names>B. K.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lee</surname>, <given-names>Y. J.</given-names>
+</string-name> (<year>2018</year>). <article-title>Characterization of a novel reassortant H5N6 highly pathogenic avian influenza virus clade 2.3.4.4 in Korea, 2017</article-title>. <source>Emerging Microbes &#x00026; Infections</source>, <volume>7</volume>, <fpage>103</fpage>. <pub-id pub-id-type="doi">10.1038/s41426-018-0104-3</pub-id>.<pub-id pub-id-type="pmid">29895932</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0069"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0069">
+<string-name>
+<surname>Leguia</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Glaessner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mu&#x000f1;oz&#x02010;Saavedra</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Juarez</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Barrera</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Calvo&#x02010;Mac</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jara</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ploog</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Amaro</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Colchao&#x02010;Claux</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Uhart</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>MI</given-names>
+</string-name> and <string-name>
+<surname>Lescano</surname>
+<given-names>J</given-names>
+</string-name>, <year>2023</year>. <article-title>Highly pathogenic avian influenza A (H5N1) in marine mammals and seabirds in Peru. bioRxiv:2023.2003.2003.531008</article-title>. <pub-id pub-id-type="doi">10.1101/2023.03.03.531008</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0070"><mixed-citation publication-type="journal" id="efs28539-cit-0070">
+<string-name>
+<surname>Leito</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Bunce</surname>, <given-names>R. G. H.</given-names>
+</string-name>, <string-name>
+<surname>K&#x000fc;lvik</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ojaste</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Raet</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Villoslada</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Leivits</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kull</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kuusemets</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Kull</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Metzger</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sepp</surname>, <given-names>K.</given-names>
+</string-name> (<year>2015</year>). <article-title>The potential impacts of changes in ecological networks, land use and climate on the Eurasian Crane population in Estonia</article-title>. <source>Landscape Ecology</source>, <volume>30</volume>, <fpage>887</fpage>&#x02013;<lpage>904</lpage>. <pub-id pub-id-type="doi">10.1007/s10980-015-0161-0</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0071"><mixed-citation publication-type="journal" id="efs28539-cit-0071">
+<string-name>
+<surname>Leung</surname>, <given-names>B. W.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brownlee</surname>, <given-names>G. G.</given-names>
+</string-name> (<year>2010</year>). <article-title>Correlation between polymerase activity and pathogenicity in two duck H5N1 influenza viruses suggests that the polymerase contributes to pathogenicity</article-title>. <source>Virology</source>, <volume>401</volume>, <fpage>96</fpage>&#x02013;<lpage>106</lpage>. <pub-id pub-id-type="doi">10.1016/j.virol.2010.01.036</pub-id>.<pub-id pub-id-type="pmid">20211480</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0072"><mixed-citation publication-type="journal" id="efs28539-cit-0072">
+<string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jiao</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hoffmann</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Webster</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<surname>Matsuoka</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yu</surname>, <given-names>K.</given-names>
+</string-name> (<year>2005</year>). <article-title>Molecular basis of replication of duck H5N1 influenza viruses in a mammalian mouse model</article-title>. <source>Journal of Virology</source>, <volume>79</volume>, <fpage>12058</fpage>&#x02013;<lpage>12064</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.79.18.12058-12064.2005</pub-id>.<pub-id pub-id-type="pmid">16140781</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0073"><mixed-citation publication-type="journal" id="efs28539-cit-0073">
+<string-name>
+<surname>Liang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Hjulsager</surname>, <given-names>C. K.</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name>
+<surname>Hammer</surname>, <given-names>A. S. V.</given-names>
+</string-name>, <string-name>
+<surname>Ovesen</surname>, <given-names>M. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Larsen</surname>, <given-names>L. E.</given-names>
+</string-name> (<year>2023</year>). <article-title>Characterization of high pathogenicity avian influenza H5Nx viruses from a wild harbor seal and red foxes in Denmark, 2021 and 2022</article-title>. <source>Influenza and Other Respiratory Viruses</source>, <volume>17</volume>, <elocation-id>e13208</elocation-id>. <pub-id pub-id-type="doi">10.1111/irv.13208</pub-id>.<pub-id pub-id-type="pmid">37850154</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0074"><mixed-citation publication-type="journal" id="efs28539-cit-0074">
+<string-name>
+<surname>Lublin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shkoda</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Simanov</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hadas</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Berkowitz</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Lapin</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Farnoushi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nagar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kharboush</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Peri Markovich</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>King</surname>, <given-names>R.</given-names>
+</string-name> (<year>2023</year>). <article-title>The History of Highly Pathogenic Avian Influenza in Israel (H5&#x02010;subtypes): from 2006 to 2023</article-title>. <source>Israel Journal of Veterinary Medicine</source>, <volume>78</volume>(<issue>2</issue>).</mixed-citation></ref><ref id="efs28539-bib-0075"><mixed-citation publication-type="journal" id="efs28539-cit-0075">
+<string-name>
+<surname>Maemura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Eisfeld</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Biswas</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Halfmann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2023</year>). <article-title>Characterization of highly pathogenic clade 2.3.4.4b H5N1 mink influenza viruses</article-title>. <source>EBioMedicine</source>, <volume>97</volume>, <elocation-id>104827</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.ebiom.2023.104827</pub-id>.<pub-id pub-id-type="pmid">37812908</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0076"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0076">
+<collab collab-type="authors">Maskinbladet</collab>
+, <article-title>online</article-title>. Bird flu in the poultry herd at T&#x000f8;nder. Available online: <ext-link xlink:href="https://www.maskinbladet.dk/artikel/81971-fugleinfluenza-i-fjerkrabesatning-ved-tonder" ext-link-type="uri">https://www.maskinbladet.dk/artikel/81971-fugleinfluenza-i-fjerkrabesatning-ved-tonder</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0077"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0077">
+<collab collab-type="authors">MDZ</collab>
+, <article-title>online</article-title>. Senasa confirmed the discovery of 50 flamingos dead due to bird flu. Available online: <ext-link xlink:href="https://www.mdzol.com/sociedad/2023/11/4/el-senasa-confirmo-el-hallazgo-de-50-flamencos-muertos-por-gripe-aviar-381455.html" ext-link-type="uri">https://www.mdzol.com/sociedad/2023/11/4/el-senasa-confirmo-el-hallazgo-de-50-flamencos-muertos-por-gripe-aviar-381455.html</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0078"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0078">
+<collab collab-type="authors">MercoPress</collab>
+, <article-title>online&#x02010;a. Avian Flu</article-title>: Uruguay admits burying 400 sea lions; but a similar number tested positive. Available online: <ext-link xlink:href="https://en.mercopress.com/2023/10/12/avian-flu-uruguay-admits-burying-400-sea-lions-but-a-similar-number-tested-positive" ext-link-type="uri">https://en.mercopress.com/2023/10/12/avian-flu-uruguay-admits-burying-400-sea-lions-but-a-similar-number-tested-positive</ext-link> [Accessed: 12 December <year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0079"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0079">
+<collab collab-type="authors">MercoPress</collab>
+, <article-title>online&#x02010;b</article-title>. Avian flu has caused the death of some 3,000 Humboldt penguins in Chilean coasts. Available online: <ext-link xlink:href="https://en.mercopress.com/2023/10/23/avian-flu-has-caused-the-death-of-some-3-000-humboldt-penguins-in-chilean-coasts" ext-link-type="uri">https://en.mercopress.com/2023/10/23/avian-flu-has-caused-the-death-of-some-3-000-humboldt-penguins-in-chilean-coasts</ext-link> [Accessed: 12 December <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0080"><mixed-citation publication-type="journal" id="efs28539-cit-0080">
+<string-name>
+<surname>Mirolo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pohlmann</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ahrens</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Kuhl</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Rubio&#x02010;Garcia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Meinfelder</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Rosenberger</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Morito</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name>
+<surname>Beer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ludlow</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Wohlsein</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Baumgartner</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Harder</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Osterhaus</surname>, <given-names>A.</given-names>
+</string-name> (<year>2023</year>). <article-title>Highly pathogenic avian influenza A virus (HPAIV) H5N1 infection in two European grey seals (<italic toggle="yes">Halichoerus grypus</italic>) with encephalitis</article-title>. <source>Emerging Microbes &#x00026; Infections</source>, <volume>12</volume>, <elocation-id>e2257810</elocation-id>. <pub-id pub-id-type="doi">10.1080/22221751.2023.2257810</pub-id>.<pub-id pub-id-type="pmid">37682060</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0081"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0081">
+<collab collab-type="authors">Nation World</collab>
+, <article-title>online</article-title>. The United States has detected several cases of avian flu in feral cats. Available online: <ext-link xlink:href="https://nationworldnews.com/the-united-states-has-detected-several-cases-of-avian-flu-in-feral-cats/" ext-link-type="uri">https://nationworldnews.com/the-united-states-has-detected-several-cases-of-avian-flu-in-feral-cats/</ext-link> [Accessed: 13 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0082"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0082">
+<collab collab-type="authors">Natuurpunt</collab>
+, <article-title>online</article-title>. Bird flu ravages crane population. Available online: <ext-link xlink:href="https://www.natuurpunt.be/nieuws/vogelgriep-teistert-kraanvogelpopulatie-20231206" ext-link-type="uri">https://www.natuurpunt.be/nieuws/vogelgriep-teistert-kraanvogelpopulatie-20231206</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0083"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0083">
+<collab collab-type="authors">Noen</collab>
+, <article-title>online</article-title>. Bird flu in the Hague Zoo: crowned crane died. Available online: <ext-link xlink:href="https://www.noen.at/haag/fuer-menschen-ungefaehrlich-vogelgrippe-im-haager-tierpark-kronenkranich-gestorben-392921584" ext-link-type="uri">https://www.noen.at/haag/fuer-menschen-ungefaehrlich-vogelgrippe-im-haager-tierpark-kronenkranich-gestorben-392921584</ext-link> [Accessed: 11 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0084"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0084">
+<collab collab-type="authors">Outbreak News</collab>
+, <article-title>online</article-title>. Denmark reports 1st highly pathogenic avian influenza case in harbor seal. Available online: <ext-link xlink:href="http://outbreaknewstoday.com/denmark-reports-1st-highly-pathogenic-avian-influenza-case-in-harbor-seal-89870/" ext-link-type="uri">http://outbreaknewstoday.com/denmark-reports-1st-highly-pathogenic-avian-influenza-case-in-harbor-seal-89870/</ext-link> [Accessed: 29 June <year>2022</year>].</mixed-citation></ref><ref id="efs28539-bib-0085"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0085">
+<collab collab-type="authors">ProMed</collab>
+, <article-title>online</article-title>. Avian influenza (93): Americas (Paraguay, USA), international discussions, Archive Number: 20230605.8710414. Available online: https://promedmail.org/promed&#x02010;post/?place=8710414,9#promedmailmap [Accessed: 11 July <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0086"><mixed-citation publication-type="journal" id="efs28539-cit-0086">
+<string-name>
+<surname>Reperant</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Fuckar</surname>, <given-names>N. S.</given-names>
+</string-name>, <string-name>
+<surname>Osterhaus</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Dobson</surname>, <given-names>A. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuiken</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Spatial and temporal association of outbreaks of H5N1 influenza virus infection in wild birds with the 0 degrees C isotherm</article-title>. <source>PLoS Pathogens</source>, <volume>6</volume>, <elocation-id>e1000854</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.ppat.1000854</pub-id>.<pub-id pub-id-type="pmid">20386716</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0087"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0087">
+<collab collab-type="authors">Reuters</collab>
+, <article-title>online</article-title>. Bird flu kills over 900 seals, sea lions in south Brazil. Available online: <ext-link xlink:href="https://www.reuters.com/world/americas/bird-flu-kills-over-900-seals-sea-lions-south-brazil-2023-12-11/" ext-link-type="uri">https://www.reuters.com/world/americas/bird-flu-kills-over-900-seals-sea-lions-south-brazil-2023-12-11/</ext-link> [Accessed: 14 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0088"><mixed-citation publication-type="journal" id="efs28539-cit-0088">
+<string-name>
+<surname>Rith</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Duong</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Sar</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Horm</surname>, <given-names>S. V.</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ly</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Laurent</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Richner</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Oboho</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Thor</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Balish</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Iuliano</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Sorn</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Holl</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Sok</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Seng</surname>, <given-names>H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Buchy</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>). <article-title>Identification of molecular markers associated with alteration of receptor&#x02010;binding specificity in a novel genotype of highly pathogenic avian influenza A(H5N1) viruses detected in Cambodia in 2013</article-title>. <source>Journal of Virology</source>, <volume>88</volume>, <fpage>13897</fpage>&#x02013;<lpage>13909</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.01887-14</pub-id>.<pub-id pub-id-type="pmid">25210193</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0089"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0089">
+<string-name>
+<given-names>R&#x000ed;o</given-names>
+<surname>Negro</surname>
+</string-name>, <article-title>online. Avian flu in sea lions: the removal of corpses began on a beach in R&#x000ed;o Negro. Available online</article-title>: <ext-link xlink:href="https://www.rionegro.com.ar/sociedad/gripe-aviar-en-lobos-marinos-se-inicio-la-remocion-de-cadaveres-en-una-playa-de-rio-negro-3257263/" ext-link-type="uri">https://www.rionegro.com.ar/sociedad/gripe-aviar-en-lobos-marinos-se-inicio-la-remocion-de-cadaveres-en-una-playa-de-rio-negro-3257263/</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0090"><mixed-citation publication-type="journal" id="efs28539-cit-0090">
+<string-name>
+<surname>Rosone</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Bonfante</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Sala</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name>
+<surname>Maniero</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Cersini</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ricci</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Garofalo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Caciolo</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Denisi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Napolitan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Parente</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zecchin</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Terregino</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Scicluna</surname>, <given-names>M. T.</given-names>
+</string-name> (<year>2023</year>). <article-title>Seroconversion of a Swine Herd in a Free&#x02010;Range Rural Multi&#x02010;Species Farm against HPAI H5N1 2.3.4.4b Clade Virus</article-title>. <source>Microorganisms</source>, <volume>11</volume>(<issue>5</issue>), <fpage>1162</fpage>. <pub-id pub-id-type="doi">10.3390/microorganisms11051162</pub-id>.<pub-id pub-id-type="pmid">37317136</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0091"><mixed-citation publication-type="journal" id="efs28539-cit-0091">
+<string-name>
+<surname>Russell</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Fonville</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>D. L.</given-names>
+</string-name>, <string-name>
+<surname>James</surname>, <given-names>S. L.</given-names>
+</string-name>, <string-name>
+<surname>Herfst</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>van Boheemen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Linster</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Schrauwen</surname>, <given-names>E. J.</given-names>
+</string-name>, <string-name>
+<surname>Katzelnick</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Mosterin</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kuiken</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Maher</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Osterhaus</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Fouchier</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>D. J.</given-names>
+</string-name> (<year>2012</year>). <article-title>The potential for respiratory droplet&#x02010;transmissible A/H5N1 influenza virus to evolve in a mammalian host</article-title>. <source>Science</source>, <volume>336</volume>, <fpage>1541</fpage>&#x02013;<lpage>1547</lpage>. <pub-id pub-id-type="doi">10.1126/science.1222526</pub-id>.<pub-id pub-id-type="pmid">22723414</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0092"><mixed-citation publication-type="journal" id="efs28539-cit-0092">
+<string-name>
+<surname>Sch&#x000fc;lein</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ritzmann</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Christian</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>, <given-names>K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neubauer&#x02010;Juric</surname>, <given-names>A.</given-names>
+</string-name> (<year>2021</year>). <article-title>Exposure of wild boar to Influenza A viruses in Bavaria: Analysis of seroprevalences and antibody subtype specificity before and after the panzootic of highly pathogenic avian influenza viruses A (H5N8)</article-title>. <source>Zoonoses and Public Health</source>, <volume>68</volume>(<issue>5</issue>), <fpage>503</fpage>&#x02013;<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1111/zph.12841</pub-id>.<pub-id pub-id-type="pmid">33987931</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0093"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0093">
+<collab collab-type="authors">Sernapesca</collab>
+, <article-title>online</article-title>. Sernapesca informa que dos delfines chilenos dieron positivo a gripe aviar. Available online: <ext-link xlink:href="http://www.sernapesca.cl/noticias/sernapesca-informa-que-dos-delfines-chilenos-dieron-positivo-gripe-aviar" ext-link-type="uri">http://www.sernapesca.cl/noticias/sernapesca-informa-que-dos-delfines-chilenos-dieron-positivo-gripe-aviar</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0094"><mixed-citation publication-type="journal" id="efs28539-cit-0094">
+<string-name>
+<surname>Shin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Siebert</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Lakemeyer</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Grilo</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pawliczka</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Valentin&#x02010;Weigand</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Herrler</surname>, <given-names>G.</given-names>
+</string-name> (<year>2019</year>). <article-title>Highly Pathogenic Avian Influenza A(H5N8) Virus in Gray Seals, Baltic Sea</article-title>. <source>Emerging Infectious Diseases</source>, <volume>25</volume>, <fpage>2295</fpage>&#x02013;<lpage>2298</lpage>. <pub-id pub-id-type="doi">10.3201/eid2512.181472</pub-id>.<pub-id pub-id-type="pmid">31742519</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0095"><mixed-citation publication-type="journal" id="efs28539-cit-0095">
+<string-name>
+<surname>Sikkema</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name>
+<surname>Begeman</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Wolters</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Geurtsvankessel</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>de Bruin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Hakze&#x02010;van der Honing</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Eble</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>van der Poel</surname>, <given-names>W. H. M.</given-names>
+</string-name>, <string-name>
+<surname>van den Brand</surname>, <given-names>J. M. A.</given-names>
+</string-name>, <string-name>
+<surname>Slaterus</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>La Haye</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Koopmans</surname>, <given-names>M. P. G.</given-names>
+</string-name>, <string-name>
+<surname>Velkers</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuiken</surname>, <given-names>T.</given-names>
+</string-name> (<year>2022</year>). <article-title>Risks of SARS&#x02010;CoV&#x02010;2 transmission between free&#x02010;ranging animals and captive mink in the Netherlands</article-title>. <source>Transboundary and Emerging Diseases</source>, <volume>69</volume>, <fpage>3339</fpage>&#x02013;<lpage>3349</lpage>. <pub-id pub-id-type="doi">10.1111/tbed.14686</pub-id>.<pub-id pub-id-type="pmid">35988158</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0096"><mixed-citation publication-type="journal" id="efs28539-cit-0096">
+<string-name>
+<surname>Sit</surname>, <given-names>T. H. C.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Tse</surname>, <given-names>A. C. N.</given-names>
+</string-name>, <string-name>
+<surname>Brackman</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>S. M. S.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>A. W. Y.</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>, <given-names>J. T. L.</given-names>
+</string-name>, <string-name>
+<surname>Peiris</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Poon</surname>, <given-names>L. L. M.</given-names>
+</string-name> (<year>2022</year>). <article-title>Novel Zoonotic Avian Influenza A(H3N8) Virus in Chicken, Hong Kong, China</article-title>. <source>Emerging Infectious Diseases</source>, <volume>28</volume>, <fpage>2009</fpage>&#x02013;<lpage>2015</lpage>. <pub-id pub-id-type="doi">10.3201/eid2810.221067</pub-id>.<pub-id pub-id-type="pmid">36037827</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0097"><mixed-citation publication-type="journal" id="efs28539-cit-0097">
+<string-name>
+<surname>Smith</surname>, <given-names>G. J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Donis</surname>, <given-names>R. O.</given-names>
+</string-name> (<year>2015</year>). <article-title>Nomenclature updates resulting from the evolution of avian influenza A(H5) virus clades 2.1.3.2a, 2.2.1, and 2.3.4 during 2013&#x02010;2014</article-title>. <source>Influenza and Other Respiratory Viruses</source>, <volume>9</volume>, <fpage>271</fpage>&#x02013;<lpage>276</lpage>. <pub-id pub-id-type="doi">10.1111/irv.12324</pub-id>.<pub-id pub-id-type="pmid">25966311</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0098"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0098">
+<collab collab-type="authors">SSI (Staten Serum Insitut)</collab>
+, <article-title>online</article-title>. Bird flu in Danish seals. Available online: <ext-link xlink:href="https://www.ssi.dk/aktuelt/nyheder/2022/fugleinfluenza-i-dansk-sael" ext-link-type="uri">https://www.ssi.dk/aktuelt/nyheder/2022/fugleinfluenza-i-dansk-sael</ext-link> [Accessed: 29 June <year>2022</year>].</mixed-citation></ref><ref id="efs28539-bib-0099"><mixed-citation publication-type="journal" id="efs28539-cit-0099">
+<string-name>
+<surname>Steel</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lowen</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Mubareka</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Palese</surname>, <given-names>P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Transmission of influenza virus in a mammalian host is increased by PB2 amino acids 627K or 627E/701N</article-title>. <source>PloS Pathogens</source>, <volume>5</volume>(<issue>1</issue>), <elocation-id>e1000252</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.ppat.1000252</pub-id>.<pub-id pub-id-type="pmid">19119420</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0100"><mixed-citation publication-type="journal" id="efs28539-cit-0100">
+<string-name>
+<surname>Stevens</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Blixt</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Tumpey</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Taubenberger</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Paulson</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilson</surname>, <given-names>I. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Structure and receptor specificity of the hemagglutinin from an H5N1 influenza virus</article-title>. <source>Science</source>, <volume>312</volume>, <fpage>404</fpage>&#x02013;<lpage>410</lpage>. <pub-id pub-id-type="doi">10.1126/science.1124513</pub-id>.<pub-id pub-id-type="pmid">16543414</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0101"><mixed-citation publication-type="journal" id="efs28539-cit-0101">
+<string-name>
+<surname>Su</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>H. Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>, <given-names>H. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tien</surname>, <given-names>P.</given-names>
+</string-name> (<year>2008</year>). <article-title>Analysis of a point mutation in H5N1 avian influenza virus hemagglutinin in relation to virus entry into live mammalian cells</article-title>. <source>Archives of Virology</source>, <volume>153</volume>, <fpage>2253</fpage>&#x02013;<lpage>2261</lpage>. <pub-id pub-id-type="doi">10.1007/s00705-008-0255-y</pub-id>.<pub-id pub-id-type="pmid">19020946</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0102"><mixed-citation publication-type="journal" id="efs28539-cit-0102">
+<string-name>
+<surname>Sun</surname>, <given-names>H. L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>F. T.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Q. Z.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L. T.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>H. R.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J. Z.</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Bi</surname>, <given-names>Y. H.</given-names>
+</string-name>, <string-name>
+<surname>Pu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Y. P.</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y. Q.</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>, <given-names>X. J.</given-names>
+</string-name>, <string-name>
+<surname>Shu</surname>, <given-names>Y. L.</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>, <given-names>K. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Liu</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>2021</year>). <article-title>Mink is a highly susceptible host species to circulating human and avian influenza viruses</article-title>. <source>Emerging Microbes &#x00026; Infections</source>, <volume>10</volume>, <fpage>472</fpage>&#x02013;<lpage>480</lpage>. <pub-id pub-id-type="doi">10.1080/22221751.2021.1899058</pub-id>.<pub-id pub-id-type="pmid">33657971</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0103"><mixed-citation publication-type="journal" id="efs28539-cit-0103">
+<string-name>
+<surname>Suttie</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>, <given-names>Y. M.</given-names>
+</string-name>, <string-name>
+<surname>Greenhill</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Dussart</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Horwood</surname>, <given-names>P. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Karlsson</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2019</year>). <article-title>Inventory of molecular markers affecting biological characteristics of avian influenza A viruses</article-title>. <source>Virus Genes</source>, <volume>55</volume>, <fpage>739</fpage>&#x02013;<lpage>768</lpage>. <pub-id pub-id-type="doi">10.1007/s11262-019-01700-z</pub-id>.<pub-id pub-id-type="pmid">31428925</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0104"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0104">
+<collab collab-type="authors">SVA (National Veterinary Institute Sweden)</collab>
+, <article-title>online</article-title>. Highly pathogenic bird flu &#x02010; the past season and the infection situation for the coming season. Available online: <ext-link xlink:href="https://www.sva.se/statsepizootologen-kommenterar/hogpatogen-fagelinfluensa-den-gangna-sasongen-och-smittlaget-infor-kommande-sasong/" ext-link-type="uri">https://www.sva.se/statsepizootologen-kommenterar/hogpatogen-fagelinfluensa-den-gangna-sasongen-och-smittlaget-infor-kommande-sasong/</ext-link> [Accessed: 11 July <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0105"><mixed-citation publication-type="journal" id="efs28539-cit-0105">
+<string-name>
+<surname>Szablewski</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Iwamoto</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Duca</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<surname>Coggeshall</surname>, <given-names>K. C.</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>, <given-names>W. W.</given-names>
+</string-name>, <string-name>
+<surname>Emukule</surname>, <given-names>G. O.</given-names>
+</string-name>, <string-name>
+<surname>Gould</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Fry</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Wentworth</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Dugan</surname>, <given-names>V. G.</given-names>
+</string-name>, <string-name>
+<surname>Kile</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Azziz&#x02010;Baumgartner</surname>, <given-names>E.</given-names>
+</string-name> (<year>2023</year>). <article-title>Reported Global Avian Influenza Detections Among Humans and Animals During 2013&#x02010;2022: Comprehensive Review and Analysis of Available Surveillance Data</article-title>. <source>JMIR Public Health and Surveillance</source>, <volume>9</volume>, <elocation-id>e46383</elocation-id>. <pub-id pub-id-type="doi">10.2196/46383</pub-id>.<pub-id pub-id-type="pmid">37651182</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0106"><mixed-citation publication-type="journal" id="efs28539-cit-0106">
+<string-name>
+<surname>Taft</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Ozawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fitch</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Depasse</surname>, <given-names>J. V.</given-names>
+</string-name>, <string-name>
+<surname>Halfmann</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Hill&#x02010;Batorski</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Hatta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Friedrich</surname>, <given-names>T. C.</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Maher</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Ghedin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Macken</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2015</year>). <article-title>Identification of mammalian&#x02010;adapting mutations in the polymerase complex of an avian H5N1 influenza virus</article-title>. <source>Nature Communications</source>, <volume>6</volume>, <fpage>7491</fpage>. <pub-id pub-id-type="doi">10.1038/ncomms8491</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0107"><mixed-citation publication-type="journal" id="efs28539-cit-0107">
+<string-name>
+<surname>Tan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J. Y.</given-names>
+</string-name>, <string-name>
+<surname>Mu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>J. Q.</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>Z. G.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bao</surname>, <given-names>P. T.</given-names>
+</string-name> (<year>2022</year>). <article-title>A case of human infection by H3N8 influenza virus</article-title>. <source>Emerging Microbes &#x00026; Infections</source>, <volume>11</volume>, <fpage>2214</fpage>&#x02013;<lpage>2217</lpage>. <pub-id pub-id-type="doi">10.1080/22221751.2022.2117097</pub-id>.<pub-id pub-id-type="pmid">36000153</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0108"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0108">
+<collab collab-type="authors">TellerReport</collab>
+, <article-title>online</article-title>. Avian influenza virus detected in Hokkaido Same as after Ototoshi. Available online: <ext-link xlink:href="https://www.tellerreport.com/life/2023-11-01-avian-influenza-virus-detected-in-hokkaido-same-as-after-ototoshi.S1bTCKVemT.html" ext-link-type="uri">https://www.tellerreport.com/life/2023-11-01-avian-influenza-virus-detected-in-hokkaido-same-as-after-ototoshi.S1bTCKVemT.html</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0109"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0109">
+<collab collab-type="authors">The Guardian</collab>
+, <article-title>online. Mass deaths of elephant seals recorded as bird flu sweeps across the Antarctic. Available online</article-title>: <ext-link xlink:href="https://www.theguardian.com/environment/2023/dec/08/mass-deaths-elephant-seals-penguins-bird-flu-antarctic-ecological-disaster-aoe" ext-link-type="uri">https://www.theguardian.com/environment/2023/dec/08/mass-deaths-elephant-seals-penguins-bird-flu-antarctic-ecological-disaster-aoe</ext-link> [Accessed: 13 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0110"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0110">
+<collab collab-type="authors">The Sacramento Bee</collab>
+, <article-title>online</article-title>. Dead geese test positive for bird flu in Sacramento, California wildlife officials say. Available online: <ext-link xlink:href="https://www.sacbee.com/news/local/article281616003.html" ext-link-type="uri">https://www.sacbee.com/news/local/article281616003.html</ext-link> [Accessed: 12 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0111"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0111">
+<collab collab-type="authors">UFHealth (University of Florida Helath)</collab>
+, <article-title>online</article-title>. A first: Avian influenza detected in American dolphin. Available online: <ext-link xlink:href="https://ufhealth.org/news/2022/first-avian-influenza-detected-american-dolphin" ext-link-type="uri">https://ufhealth.org/news/2022/first-avian-influenza-detected-american-dolphin</ext-link> [Accessed: 11 July <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0112"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0112">
+<collab collab-type="authors">UH 50</collab>
+, <article-title>online</article-title>. Filadelfia: Aparece tercer foco de gripe aviar en el Chaco. Available online: <ext-link xlink:href="https://www.ultimahora.com/filadelfia-aparece-tercer-foco-gripe-aviar-el-chaco-n3063708" ext-link-type="uri">https://www.ultimahora.com/filadelfia-aparece-tercer-foco-gripe-aviar-el-chaco-n3063708</ext-link> [Accessed: 11 July <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0113"><mixed-citation publication-type="book" id="efs28539-cit-0113">
+<collab collab-type="authors">USDA (U.S. Department of Agriculture)</collab>
+, online. <year>2022</year>
+<source>Detections of Highly Pathogenic Avian Influenza in Mammals</source>. Available online: <ext-link xlink:href="https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-mammals" ext-link-type="uri">https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/avian/avian-influenza/hpai-2022/2022-hpai-mammals</ext-link> [Accessed: 16 December 2022].</mixed-citation></ref><ref id="efs28539-bib-0114"><mixed-citation publication-type="book" id="efs28539-cit-0114">
+<string-name>
+<surname>Veldhuis Kroeze</surname>, <given-names>E. J. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kuiken</surname>, <given-names>T.</given-names>
+</string-name> (<year>2016</year>). <part-title>Sporadic influenza A virus infections of miscellaneous mammal species (Chapter 23)</part-title>. In <person-group person-group-type="editor">
+<string-name>
+<given-names>D. E.</given-names>
+<surname>Swayne</surname>
+</string-name>
+</person-group> (Ed.), <source>Animal Influenza</source> (<edition>Second ed.</edition>). <publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name>
+<pub-id pub-id-type="doi">10.1002/9781118924341.ch23</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0115"><mixed-citation publication-type="journal" id="efs28539-cit-0115">
+<string-name>
+<surname>Villanueva&#x02010;Saz</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rueda</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Perez</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Lacasta</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Marteles</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Ruiz</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Verde</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Pardo</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Arias</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pena&#x02010;Fresneda</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trotta</surname>, <given-names>M.</given-names>
+</string-name> (<year>2023</year>). <article-title>Serological exposure to influenza A in cats from an area with wild birds positive for avian influenza</article-title>. <source>Zoonoses Public Health.</source>
+<pub-id pub-id-type="doi">10.1111/zph.13085</pub-id>.</mixed-citation></ref><ref id="efs28539-bib-0116"><mixed-citation publication-type="journal" id="efs28539-cit-0116">
+<string-name>
+<surname>Wang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Suguitan</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Subbarao</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kemble</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jin</surname>, <given-names>H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Glycosylation at 158N of the hemagglutinin protein and receptor binding specificity synergistically affect the antigenicity and immunogenicity of a live attenuated H5N1 A/Vietnam/1203/2004 vaccine virus in ferrets</article-title>. <source>Journal of Virology</source>, <volume>84</volume>, <fpage>6570</fpage>&#x02013;<lpage>6577</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.00221-10</pub-id>.<pub-id pub-id-type="pmid">20427525</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0117"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0117">
+<collab collab-type="authors">WattPoultry</collab>
+, <article-title>online&#x02010;a</article-title>. Scramble on South Africa's egg, chicken markets. Available online: <ext-link xlink:href="https://www.wattagnet.com/regions/africa/article/15635445/scramble-on-south-africas-egg-chicken-markets" ext-link-type="uri">https://www.wattagnet.com/regions/africa/article/15635445/scramble-on-south-africas-egg-chicken-markets</ext-link> [Accessed: 12 December <year>2023a</year>].</mixed-citation></ref><ref id="efs28539-bib-0118"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0118">
+<collab collab-type="authors">WattPoultry</collab>
+, <article-title>online&#x02010;b</article-title>. Mozambique records first cases of H7 avian flu in poultry. Available online: <ext-link xlink:href="https://www.wattagnet.com/broilers-turkeys/diseases-health/article/15636846/mozambique-records-first-cases-of-h7-avian-flu-in-poultry" ext-link-type="uri">https://www.wattagnet.com/broilers-turkeys/diseases-health/article/15636846/mozambique-records-first-cases-of-h7-avian-flu-in-poultry</ext-link> [Accessed: 12 December <year>2023b</year>].</mixed-citation></ref><ref id="efs28539-bib-0119"><mixed-citation publication-type="journal" id="efs28539-cit-0119">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+. (<year>2022a</year>). <article-title>Assessment of risk associated with recent influenza A(H5N1) clade 2.3.4.4b viruses</article-title>. <source>Geneva.</source>, <volume>3</volume> pp. Available online:. <ext-link xlink:href="https://cdn.who.int/media/docs/default-source/influenza/avian-and-other-zoonotic-influenza/h5-risk-assessment-dec-2022.pdf?sfvrsn=a496333a_1%26download=true" ext-link-type="uri">https://cdn.who.int/media/docs/default-source/influenza/avian-and-other-zoonotic-influenza/h5-risk-assessment-dec-2022.pdf?sfvrsn=a496333a_1&#x00026;download=true</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0120"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0120">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+. (<year>2023a</year>). <article-title>Avian Influenza Weekly Update Number 918. Geneva. 3 pp. Available online</article-title>. <ext-link xlink:href="https://iris.who.int/bitstream/handle/10665/365675/AI-20231020.pdf?sequence=1413%26isAllowed=y" ext-link-type="uri">https://iris.who.int/bitstream/handle/10665/365675/AI-20231020.pdf?sequence=1413&#x00026;isAllowed=y</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0121"><mixed-citation publication-type="journal" id="efs28539-cit-0121">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+. (<year>2023b</year>). <article-title>Avian Influenza Weekly Update Number 924:Human infection with avian influenza A(H5) viruses</article-title>. <source>Geneva</source>, <volume>3</volume> pp. Available online:.<ext-link xlink:href="https://cdn.who.int/media/docs/default-source/wpro---documents/emergency/surveillance/avian-influenza/ai_20231203.pdf?sfvrsn=5f006f99_123%26Status=Master" ext-link-type="uri">https://cdn.who.int/media/docs/default-source/wpro---documents/emergency/surveillance/avian-influenza/ai_20231203.pdf?sfvrsn=5f006f99_123&#x00026;Status=Master</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0122"><mixed-citation publication-type="journal" id="efs28539-cit-0122">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+. (<year>2023c</year>). <article-title>Genetic and antigenic characteristics of zoonotic influenza A viruses and development of candidate vaccine viruses for pandemic preparedness</article-title>. <source>Geneva.</source>, <volume>12</volume> pp. Available online:. <ext-link xlink:href="https://cdn.who.int/media/docs/default-source/influenza/who-influenza-recommendations/vcm-northern-hemisphere-recommendation-2023-2024/20230224_zoonotic_recommendations.pdf?sfvrsn=38c739fa_4" ext-link-type="uri">https://cdn.who.int/media/docs/default-source/influenza/who-influenza-recommendations/vcm-northern-hemisphere-recommendation-2023-2024/20230224_zoonotic_recommendations.pdf?sfvrsn=38c739fa_4</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0123"><mixed-citation publication-type="journal" id="efs28539-cit-0123">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+. (<year>2023d</year>). <article-title>Genetic and antigenic characteristics of zoonotic influenza A viruses and development of candidate vaccine viruses for pandemic preparedness</article-title>. <source>WHO.</source>, <fpage>16</fpage> pp. Available online:. <ext-link xlink:href="https://cdn.who.int/media/docs/default-source/influenza/who-influenza-recommendations/vcm-southern-hemisphere-recommendation-2024/202309_zoonotic_vaccinvirusupdate.pdf?sfvrsn=e78676a0_5" ext-link-type="uri">https://cdn.who.int/media/docs/default-source/influenza/who-influenza-recommendations/vcm-southern-hemisphere-recommendation-2024/202309_zoonotic_vaccinvirusupdate.pdf?sfvrsn=e78676a0_5</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0124"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0124">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+, <year>2023e</year>. <article-title>Influenza at the human&#x02010;animal interface summary and assessment, 1 November 2023</article-title>. Geneva. 4 pp. Available online: <ext-link xlink:href="https://www.who.int/publications/m/item/influenza-at-the-human-animal-interface-summary-and-assessment-1-november-2023" ext-link-type="uri">https://www.who.int/publications/m/item/influenza-at-the-human-animal-interface-summary-and-assessment-1-november-2023</ext-link>.</mixed-citation></ref><ref id="efs28539-bib-0125"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0125">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+, <article-title>online&#x02010;a</article-title>. Avian Influenza A (H5N1) &#x02010; Cambodia. Available online: <ext-link xlink:href="https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON495" ext-link-type="uri">https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON495</ext-link> [Accessed: 07 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0126"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0126">
+<collab collab-type="authors">WHO (World Health Organization)</collab>
+, <article-title>online</article-title>. Avian Influenza A (H5N1) &#x02010; Spain. Available online: <ext-link xlink:href="https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON420" ext-link-type="uri">https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON420</ext-link> [Accessed: 16 December <year>2022b</year>].</mixed-citation></ref><ref id="efs28539-bib-0127"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0127">
+<collab collab-type="authors">WHO</collab>
+, <article-title>online</article-title>. Human Infection caused by Avian Influenza A (H5N1) &#x02010; Chile. Available online: <ext-link xlink:href="https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON461" ext-link-type="uri">https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON461</ext-link> [Accessed: 1 December <year>2023</year>].</mixed-citation></ref><ref id="efs28539-bib-0128"><mixed-citation publication-type="journal" id="efs28539-cit-0128">
+<string-name>
+<surname>Yamada</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hatta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Staker</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Imai</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Shinya</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Sakai&#x02010;Tagawa</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ozawa</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Sakabe</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Myler</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Phan</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Raymond</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Stacy</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Nidom</surname>, <given-names>C. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2010</year>). <article-title>Biological and structural characterization of a host&#x02010;adapting amino acid in influenza virus</article-title>. <source>PLoS Pathogens</source>, <volume>6</volume>, <elocation-id>e1001034</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.ppat.1001034</pub-id>.<pub-id pub-id-type="pmid">20700447</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0129"><mixed-citation publication-type="journal" id="efs28539-cit-0129">
+<string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Bo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Shu</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name> (<year>2023</year>). <article-title>Evolution of Avian Influenza Virus (H3) with Spillover into Humans, China</article-title>. <source>Emerging Infectious Diseases</source>, <volume>29</volume>, <fpage>1191</fpage>&#x02013;<lpage>1201</lpage>. <pub-id pub-id-type="doi">10.3201/eid2906.221786</pub-id>.<pub-id pub-id-type="pmid">37069608</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0130"><mixed-citation publication-type="journal" id="efs28539-cit-0130">
+<string-name>
+<surname>Yao</surname>, <given-names>X.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<surname>Lian</surname>, <given-names>C.&#x02010;Y.</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>, <given-names>Z.&#x02010;H.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>X.&#x02010;L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shao</surname>, <given-names>J.&#x02010;W.</given-names>
+</string-name> (<year>2023</year>). <article-title>Emergence of a novel reassortant H5N6 subtype highly pathogenic avian influenza virus in farmed dogs in China</article-title>. <source>Journal of Infection</source>, <volume>87</volume>(<issue>4</issue>), <fpage>e70</fpage>&#x02013;<lpage>e72</lpage>. <pub-id pub-id-type="doi">10.1016/j.jinf.2023.07.013</pub-id>.<pub-id pub-id-type="pmid">37507094</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0131"><mixed-citation publication-type="journal" id="efs28539-cit-0131">
+<string-name>
+<surname>Zhong</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>, <given-names>M. Q.</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>, <given-names>T. J. S.</given-names>
+</string-name>, <string-name>
+<surname>Halfmann</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hatta</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kawaoka</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2018</year>). <article-title>Mutations in the PA Protein of Avian H5N1 Influenza Viruses Affect Polymerase Activity and Mouse Virulence</article-title>. <source>Journal of Virology</source>, <volume>92</volume>(<issue>4</issue>), <fpage>e01557</fpage>&#x02013;<lpage>e01517</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.01557-17</pub-id>.<pub-id pub-id-type="pmid">29212927</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0132"><mixed-citation publication-type="journal" id="efs28539-cit-0132">
+<string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Xin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name> (<year>2022</year>). <article-title>Epidemiologic, Clinical, and Genetic Characteristics of Human Infections with Influenza A(H5N6) Viruses, China</article-title>. <source>Emerging Infectious Diseases</source>, <volume>28</volume>, <fpage>1332</fpage>&#x02013;<lpage>1344</lpage>. <pub-id pub-id-type="doi">10.3201/eid2807.212482</pub-id>.<pub-id pub-id-type="pmid">35476714</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0133"><mixed-citation publication-type="journal" id="efs28539-cit-0133">
+<string-name>
+<surname>Zhu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zou</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>D.</given-names>
+</string-name> (<year>2023</year>). <article-title>Biological features of human influenza A(H3N8) viruses in China</article-title>. <source>Journal of Medical Virology</source>, <volume>95</volume>, <elocation-id>e28912</elocation-id>. <pub-id pub-id-type="doi">10.1002/jmv.28912</pub-id>.<pub-id pub-id-type="pmid">37403888</pub-id>
+</mixed-citation></ref><ref id="efs28539-bib-0134"><mixed-citation publication-type="miscellaneous" id="efs28539-cit-0134">
+<string-name>
+<surname>Zhuang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Ye</surname>
+<given-names>S</given-names>
+</string-name>, <year>2023</year>. <article-title>The first known human death after infection with the avian influenza (A/H3N8) virus: Guangdong Province, China, March 2023. Clinical Infectious Diseases</article-title>, ciad462. <pub-id pub-id-type="doi">10.1093/cid/ciad462</pub-id>.</mixed-citation></ref></ref-list></back></article>

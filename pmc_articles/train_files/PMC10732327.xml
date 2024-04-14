@@ -1,0 +1,1236 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="mco2463" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">MedComm (2020)</journal-id><journal-id journal-id-type="iso-abbrev">MedComm (2020)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2688-2663</journal-id><journal-id journal-id-type="publisher-id">MCO2</journal-id><journal-title-group><journal-title>MedComm</journal-title></journal-title-group><issn pub-type="epub">2688-2663</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38124786</article-id><article-id pub-id-type="pmc">PMC10732327</article-id><article-id pub-id-type="doi">10.1002/mco2.463</article-id><article-id pub-id-type="publisher-id">MCO2463</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>ATR&#x02010;dependent ubiquitin&#x02010;specific protease 20 phosphorylation confers oxaliplatin and ferroptosis resistance</article-title><alt-title alt-title-type="left-running-head">TANG <sc>et&#x000a0;al.</sc>
+</alt-title></title-group><contrib-group><contrib id="mco2463-cr-0001" contrib-type="author"><name><surname>Tang</surname><given-names>Jianing</given-names></name><xref rid="mco2463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mco2463-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mco2463-cr-0002" contrib-type="author"><name><surname>Long</surname><given-names>Guo</given-names></name><xref rid="mco2463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mco2463-cr-0003" contrib-type="author"><name><surname>Xiao</surname><given-names>Desheng</given-names></name><xref rid="mco2463-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mco2463-cr-0004" contrib-type="author"><name><surname>Liu</surname><given-names>Shuang</given-names></name><xref rid="mco2463-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mco2463-cr-0005" contrib-type="author" corresp="yes"><name><surname>Xiao</surname><given-names>Liang</given-names></name><xref rid="mco2463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>xiaoliangrick@csu.edu.cn</email></address></contrib><contrib id="mco2463-cr-0006" contrib-type="author" corresp="yes"><name><surname>Zhou</surname><given-names>Ledu</given-names></name><xref rid="mco2463-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>zhould@csu.edu.cn</email></address></contrib><contrib id="mco2463-cr-0007" contrib-type="author" corresp="yes"><name><surname>Tao</surname><given-names>Yongguang</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2354-5321</contrib-id><xref rid="mco2463-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="mco2463-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="mco2463-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="mco2463-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><address><email>taoyong@csu.edu.cn</email></address></contrib></contrib-group><aff id="mco2463-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Liver Surgery</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">National Clinical Research Center for Geriatric Disorders</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Oncology</named-content>
+<named-content content-type="organisation-division">Institute of Medical Sciences</named-content>
+<named-content content-type="organisation-division">National Clinical Research Center for Geriatric Disorders</named-content>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Pathology</named-content>
+<institution>Key Laboratory of Carcinogenesis and Cancer Invasion (Ministry of Education)</institution>
+<institution>Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Hunan</city>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Cancer Research Institute and School of Basic Medicine</named-content>
+<institution>NHC Key Laboratory of Carcinogenesis (Central South University)</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Thoracic Surgery</named-content>
+<named-content content-type="organisation-division">Hunan Key Laboratory of Early Diagnosis and Precision Therapy in Lung Cancer and Hunan Key Laboratory of Tumor Models and Individualized Medicine</named-content>
+<institution>Second Xiangya Hospital</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><aff id="mco2463-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Hunan Key Laboratory of Cancer Metabolism</named-content>
+<institution>Hunan Cancer Hospital and Affiliated Cancer Hospital of Xiangya School of Medicine</institution>
+<institution>Central South University</institution>
+<city>Changsha</city>
+<named-content content-type="country-part">Hunan</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Liang Xiao and Ledu Zhou Department of Liver Surgery, Xiangya Hospital, Central South University, 110 Xiangya Road, Changsha 410078, Hunan, China.<break/> Email: <email>xiaoliangrick@csu.edu.cn</email>; <email>zhould@csu.edu.cn</email>
+<break/>Yongguang Tao, Department of Patology, Xiangya Hospital, Central south University, 110 Xiangya Road, Changsha, 410078, Hunan, China.<break/> Email: <email>taoyong@csu.edu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2023</year></pub-date><volume>4</volume><issue seq="550">6</issue><issue-id pub-id-type="doi">10.1002/mco2.v4.6</issue-id><elocation-id>e463</elocation-id><history>
+<date date-type="rev-recd"><day>02</day><month>12</month><year>2023</year></date>
+<date date-type="received"><day>14</day><month>6</month><year>2023</year></date>
+<date date-type="accepted"><day>04</day><month>12</month><year>2023</year></date>
+</history><permissions><!--&#x000a9; 2023 MedComm published by Sichuan International Medical Exchange & Promotion Association (SCIMEA) and John Wiley & Sons Australia, Ltd.--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. <italic toggle="yes">MedComm</italic> published by Sichuan International Medical Exchange &#x00026; Promotion Association (SCIMEA) and John Wiley &#x00026; Sons Australia, Ltd</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MCO2-4-e463.pdf"/><abstract><title>Abstract</title><p>Oxaliplatin (OXA) resistance is a major clinic challenge in hepatocellular&#x000a0;carcinoma (HCC). Ferroptosis is a kind of iron&#x02010;dependent cell death. Triggering ferroptosis is considered to restore sensitivity to chemotherapy. In the present study, we found that USP20 was overexpressed in OXA&#x02010;resistant HCC cells. High expression of USP20 in HCC was associated with poor prognosis. USP20 contributes OXA&#x000a0;resistance and suppress ferroptosis in HCC. Pharmacological&#x000a0;inhibition&#x000a0;or knockdown of USP20 triggered ferroptosis and increased the sensitivity of HCC cells to OXA both in vitro and in vivo. Coimmunoprecipitation results revealed that the UCH domain of USP20 interacted with the N terminal of SLC7A11. USP20 stabilized SLC7A11 via removing K48&#x02010;linked polyubiquitination of SLC7A11 protein at K30 and K37. Most importantly, DNA damage&#x02010;induced ATR activation was required for Ser132 and Ser368 phosphorylation of USP20. USP20 phosphorylation at Ser132 and Ser368 enhanced its stability and thus conferred OXA and ferroptosis resistance of HCC cells. Our study reveals a previously undiscovered association between OXA and ferroptosis and provides new insight into mechanisms regarding how DNA damage therapies always lead to therapeutic resistance. Therefore, targeting USP20 may mitigate the development of drug resistance and promote ferroptosis of HCC in patients receiving chemotherapy.</p></abstract><abstract id="mco2463-abs-0001" abstract-type="graphical"><p>USP20 is a key factor in the interaction between oxaliplatin (OXA) resistance and ferroptosis in hepatocellular carcinoma. OXA induced DNA damage activates ATR, which phosphorylates USP20 at Ser132 and Ser368. USP20 phosphorylation confers OXA and ferroptosis resistance of HCC cells. Our study reveals a previously unrecognized link between OXA and ferroptosis and provides new insight into mechanisms regarding how DNA damage therapies always lead to therapeutic resistance.
+<boxed-text position="anchor" content-type="graphic"><graphic xlink:href="MCO2-4-e463-g005.jpg" position="anchor" id="jats-graphic-1"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mco2463-kwd-0001">chemoresistance</kwd><kwd id="mco2463-kwd-0002">ferroptosis</kwd><kwd id="mco2463-kwd-0003">hepatocellular&#x000a0;carcinoma</kwd><kwd id="mco2463-kwd-0004">solute carrier family 7 member 11</kwd><kwd id="mco2463-kwd-0005">ubiquitin&#x02010;specific peptidase 20</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China
+</institution><institution-id institution-id-type="doi">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>82203160</award-id><award-id>82072594</award-id><award-id>82073097</award-id><award-id>81874139</award-id><award-id>82073136</award-id><award-id>81772927</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>China Postdoctoral Science Foundation
+</institution><institution-id institution-id-type="doi">10.13039/501100002858</institution-id></institution-wrap></funding-source><award-id>2022M713531</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Natural Science Foundation of Hunan Province
+</institution><institution-id institution-id-type="doi">10.13039/501100004735</institution-id></institution-wrap></funding-source><award-id>2022JJ40815</award-id></award-group><award-group id="funding-0004"><funding-source>Hunan Provincial Key Area R&#x00026;D Programs</funding-source><award-id>2021SK2013</award-id></award-group><award-group id="funding-0005"><funding-source>Science and Technology Innovation Program of Hunan Province</funding-source><award-id>2022RC3072</award-id></award-group><award-group id="funding-0006"><funding-source>Central South University Research Programme of Advanced Interdisciplinary Studies</funding-source><award-id>2023QYJC030</award-id></award-group><award-group id="funding-0007"><funding-source>the Aid Program for Science and Technology Innovative Research Team in Higher Educational Institutions of Hunan Province</funding-source></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="18"/><word-count count="9182"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.6 mode:remove_FC converted:20.12.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mco2463-cit-0080">
+<string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>ATR&#x02010;dependent ubiquitin&#x02010;specific protease 20 phosphorylation confers oxaliplatin and ferroptosis resistance</article-title>. <source>MedComm</source>. <year>2023</year>;<volume>4</volume>:<elocation-id>e463</elocation-id>. <pub-id pub-id-type="doi">10.1002/mco2.463</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="mco2463-sec-0010"><label>1</label><title>INTRODUCTION</title><p>Hepatocellular carcinoma (HCC) is a commonly diagnosed malignant&#x000a0;tumor,&#x000a0;which accounts for over 90%&#x000a0;of&#x000a0;all primary&#x000a0;liver&#x000a0;cancer cases.<xref rid="mco2463-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> It is an aggressive solid tumor with&#x000a0;high&#x000a0;malignance.<xref rid="mco2463-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> The 5&#x02010;year survival rate of HCC patients is poor and it is still a therapeutic challenge to treat HCC patients.<xref rid="mco2463-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> Thus, it is important to find out novel biomarkers and develop effective therapeutic methods to treat patients with HCC. Oxaliplatin (OXA)&#x000a0;is the third generation of platinum anticancer agents, which has been widely applicated in the treatment of different kinds of&#x000a0;cancers, including liver, colorectal, pancreatic, and gastric cancer.<xref rid="mco2463-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="mco2463-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> OXA has been reported to inhibit the growth of&#x000a0;liver&#x000a0;cancer.<xref rid="mco2463-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Recent advances of targeted therapy and immunotherapy have improved the therapeutic&#x000a0;options&#x000a0;of patients, while only a few patients benefit from the targeted therapy and immunotherapy.<xref rid="mco2463-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="mco2463-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> OXA is still a commonly used chemotherapeutic agent for patients receiving surgical resection.<xref rid="mco2463-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="mco2463-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="mco2463-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="mco2463-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> And in the patients with advanced HCC, it is also used as subsequent maintenance therapy.<xref rid="mco2463-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> In large unresectable HCC, OXA&#x02010;based hepatic arterial infusion chemotherapy yielded higher treatment responses and achieved better survival outcomes<xref rid="mco2463-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="mco2463-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> than transarterial chemoembolization.<xref rid="mco2463-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> The major molecular mechanism of how OXA kills cells is to form platinum&#x02010;DNA&#x000a0;adducts,&#x000a0;thus inducing&#x000a0;DNA&#x000a0;damage and crosslinks ultimately leading to the death of tumor cells.<xref rid="mco2463-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="mco2463-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="mco2463-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="mco2463-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="mco2463-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> Although OXA plays a very important role in the&#x000a0;treatment&#x000a0;of HCC, partial patients do not respond to OXA therapy due to the presence of both intrinsic and acquired resistance, which is a major challenge in the chemotherapy of patients with advanced HCC. And molecular mechanisms involved in&#x000a0;OXA&#x000a0;resistance of HCC remain poorly defined. Thus, it is of great clinical importance to explore the underlying mechanisms of OXA&#x000a0;resistance and provide novel strategies against OXA resistance.</p><p>Redox&#x000a0;homeostasis&#x000a0;is critical for the maintenance of normal cellular activity.<xref rid="mco2463-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> Ferroptosis is a kind of iron&#x02010;dependent, programmed cell death, which is induced by the loss of cellular&#x000a0;redox&#x000a0;homeostasis.<xref rid="mco2463-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="mco2463-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>, <xref rid="mco2463-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> The initiation of&#x000a0;ferroptosis&#x000a0;is associated with dysregulated ferroptotic molecular on antioxidant metabolism, iron and lipid metabolism.<xref rid="mco2463-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> The cystine/glutamate antiporter system Xc&#x02212;/glutathione (GSH)/glutathione peroxidase 4 (GPX4) axis plays a crucial role in regulating&#x000a0;ferroptosis. Ferroptosis can be induced by the suppression of system Xc&#x02212;, GSH, or cysteine depletion.<xref rid="mco2463-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="mco2463-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="mco2463-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="mco2463-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="mco2463-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Solute carrier family 7 member 11 (SLC7A11) is the subunit of the Xc&#x02212; to transport extracellular cystine. Erastin and sorafenib could decrease cysteine transport into cells by inhibiting SLC7A11 and induce ferroptosis.<xref rid="mco2463-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> SLC7A11&#x000a0;is overexpressed in various types of cancers; it is important for the maintenance of intracellular GSH levels which protects cells from oxidative stress.&#x000a0;The expression of SLC7A11 is also associated with chemoresistance. Targeting SLC7A11 triggers ferroptosis through lipid peroxidation and Fe<sup>2+</sup>&#x000a0;accumulation&#x000a0;and restores sensitivity to chemotherapy.<xref rid="mco2463-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="mco2463-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="mco2463-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> While whether SLC7A11 is associated with OXA&#x000a0;resistance of HCC remains unclear.</p><p>Ubiquitination is an essential posttranslational modification for the maintenance of cellular homeostasis.<xref rid="mco2463-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Growing studies has revealed that ubiquitination plays crucial roles in the processes such as DNA repair, apoptosis, cell survival, cell&#x02010;cycle progression, and antigen presentation.<xref rid="mco2463-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="mco2463-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> It is of note that protein ubiquitination is dynamic and reversible, which&#x000a0;is precisely regulated by the deubiquitylating enzymes (DUBs) and E3 ubiquitin ligases.<xref rid="mco2463-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="mco2463-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="mco2463-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> However, the functions of DUBs in the response to OXA therapy in HCC remains unclear.</p><p>In the present study, we identified ubiquitin&#x02010;specific peptidase 20 (USP20) as a contributor to OXA&#x000a0;resistance and suppress ferroptosis in HCC. Pharmacological&#x000a0;inhibition&#x000a0;or knockdown of USP20 sensitized HCC cells to ferroptosis and reversed OXA resistance both in vitro and in vivo. Targeting USP20 may mitigate the development of drug resistance and promote ferroptosis of HCC in patients receiving chemotherapy.</p></sec><sec id="mco2463-sec-0020"><label>2</label><title>RESULTS</title><sec id="mco2463-sec-0030"><label>2.1</label><title>Identification of USP20 as an OXA resistance&#x02010;related DUB</title><p>To find out the critical DUBs that are potentially involved in OXA resistance in HCC, we first constructed an OXA&#x02010;resistant HCC cell line (Huh&#x02010;7/OXA). We measured the survival percentage of HCC cells treated with OXA. Results showed that Huh&#x02010;7/OXA cells had higher survival rate compared with the parental Huh&#x02010;7 cells under the treatment of OXA (Figures&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1A&#x02013;C</xref>). We then performed RNA&#x02010;seq analysis of Huh&#x02010;7 and its OXA&#x02010;resistant counterpart (Huh&#x02010;7/OXA). The expression of DUBs was shown in Figure&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1D</xref>. KEGG pathway analysis was performed to find out the OXA resistance&#x02010;related pathways in HCC. Consistent with previous findings, our results demonstrated that the antioxidant stress pathway, Wnt signaling pathway and p53 signaling pathway were dysregulated in Huh&#x02010;7/OXA cells (Figure&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1E</xref>), these&#x000a0;pathways&#x000a0;have been previously&#x000a0;identified&#x000a0;to&#x000a0;be&#x000a0;associated&#x000a0;with&#x000a0;drug resistance. And we also found that the GSH metabolism pathway and ferroptosis pathway were significantly enriched, which allows us to&#x000a0;consider the role of ferroptosis in OXA resistance.<xref rid="mco2463-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> We then performed RT&#x02010;PCR analysis to confirm the RNA&#x02010;seq results. As shown in Figure&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1F</xref>, we observed that USP20 was the most significantly upregulated DUB in Huh&#x02010;7/OXA cells. Western blot analysis revealed that the protein level of USP20 was also markedly increased in Huh&#x02010;7/OXA cells (Figure&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1G</xref>). Next, we detected the expression of USP20 in HCC tissues and normal tissues through both immunohistochemical (IHC) and Western blotting methods. Our results indicated that USP20 was expressed at low levels in normal liver samples and at high levels in HCC clinical samples, especially in recurrent tumors (Figures&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1H</xref> and&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">I</xref>). Moreover, high USP20 expression in HCC patients indicated poor prognosis (Figure&#x000a0;<xref rid="mco2463-fig-0001" ref-type="fig">1J</xref>). These results suggest that high expression of USP20 is correlated with OXA resistance and serves as an adverse prognostic biomarker for HCC patients.</p><fig position="float" fig-type="FIGURE" id="mco2463-fig-0001"><label>FIGURE 1</label><caption><p>USP20 is upregulated in oxaliplatin (OXA)&#x02010;resistant hepatocellular carcinoma (HCC) cells and associated with poor prognosis. (A) The survival percentage of oxaliplatin&#x02010;resistant HCC cells (Huh&#x02010;7/OXA) and its parental cells treated with increasing concentration of OXA for 48&#x000a0;h. (Each&#x000a0;group&#x000a0;contained&#x000a0;three&#x000a0;replicates.) (B) Crystal violet staining of oxaliplatin&#x02010;resistant HCC cells (Huh&#x02010;7/OXA) and its parental cells treated with OXA. (C) Calcein/PI staining of oxaliplatin&#x02010;resistant HCC cells (Huh7/OXA) and its parental cells treated with OXA (10&#x000a0;&#x003bc;M) for 48&#x000a0;h. (D) Heat map shows the representative expression of deubiquitylating enzymes (DUBs). The global gene expression analysis (oxaliplatin&#x02010;resistant HCC cells and its parental cells) was based on RNA sequencing platform from BGI (Beijing Genomic Institute). (E) KEGG pathway analysis of the regulated targets in Huh&#x02010;7 versus Huh&#x02010;7/OXA transcriptome. (F) qRT&#x02010;PCR analysis of the significantly expressed DUBs between Huh&#x02010;7 and Huh&#x02010;7/OXA cells. (G) USP20 was upregulated in Huh&#x02010;7/OXA cells. (H) Western blot was used to detect USP20 protein expression level in seven pairs of HCC tissues and paired para&#x02010;cancerous tissues. (I). Representative images of IHC of USP20 in normal and tumor tissues derived from HCC patients. All samples were obtained from patients who underwent surgical resection at Xiangya Hospital. (J) High expression of USP20 was associated with poor prognosis. Results shown are representative of three independent experiments. Data are represented as mean&#x000a0;&#x000b1;&#x000a0;SD of biological triplicates.*<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.05, **<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.01,***<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.001.</p></caption><graphic xlink:href="MCO2-4-e463-g007" position="anchor" id="jats-graphic-3"/></fig></sec><sec id="mco2463-sec-0040"><label>2.2</label><title>USP20 promotes the OXA resistance, ferroptosis resistance, and stem&#x02010;like properties</title><p>We then investigated the biological functions of USP20 using two nonoverlapping shRNAs in HCC cells. Huh&#x02010;7, Hep3B cells, and HCC primary cell line (from sample T1 with high USP20 expression) were treated with USP20 shRNAs and the viability of HCC cells was measured using CCK8. As shown in Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S1A</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S1B</xref>, knockdown of USP20 with specific silencers significantly increased the sensitivity of the Huh&#x02010;7 and Hep3B to OXA. Consistently, Calcein AM/PI staining and crystal violet assay indicated that the combination&#x000a0;of&#x000a0;USP20 silence and OXA (10&#x000a0;&#x003bc;M, approximately induced half of HCC cells death) leads to increased&#x000a0;cell&#x000a0;death (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S1C&#x02013;E</xref>). The same results were observed in HCC primary cells (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2A&#x02013;C</xref>). We utilized a xenograft model to assess the role of USP20 in HCC in vivo. It is found that knockdown of USP20 significantly reduced tumor growth and increased the antitumor&#x000a0;efficacy&#x000a0;of OXA (5&#x000a0;mg/kg, twice a week)<xref rid="mco2463-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> in vivo (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2D</xref>). As ferroptosis pathway were enriched in OXA&#x02010;resistant cells, we further examined the functions of USP20 in regulating HCC ferroptosis. Huh&#x02010;7, Hep3B, and HCC primary cell line were treated with increasing concentration of a glutamate&#x02013;cystine antiporter system Xc&#x02212; inhibitor (erastin), and found that USP20 depletion inhibited the viability of HCC cells, and cells depleted with USP20 were more sensitive to ferroptosis induced by erastin treatment (Figures&#x000a0;<xref rid="mco2463-fig-0002" ref-type="fig">2A&#x02013;C</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2E</xref>). As determined by the crystal violet staining assays, shRNA&#x02010;mediated ablation of USP20 elevates cell sensitivity to erastin (Figures&#x000a0;<xref rid="mco2463-fig-0002" ref-type="fig">2D,&#x000a0;E</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2F</xref>). We then detected erastin&#x02010;induced ferroptosis (20&#x000a0;&#x003bc;M, approximately induced half of HCC cells death) with or without ferrostatin&#x02010;1 (Ferr&#x02010;1; 1&#x000a0;&#x003bc;M),<xref rid="mco2463-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> a ferroptosis inhibitor. We observed that USP20 depletion reduced the cell viability upon the treatment of erastin, which could be rescued by Ferr&#x02010;1, suggesting that the mechanism is specific in cell ferroptosis (Figures&#x000a0;<xref rid="mco2463-fig-0002" ref-type="fig">2F,&#x000a0;G</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2G</xref>). Moreover, we used RSL&#x02010;3 (ferroptosis&#x000a0;activator) to further confirm our results identified above. It is found that USP20 depletion increased cell sensitivity to RSL&#x02010;3 treatment, which could be blocked by the inhibitors of ferroptosis, such as Ferr&#x02010;1, and liproxstatin&#x02010;1, but not by the necroptosis inhibitor necrosulfonamide, apoptosis inhibitor Z&#x02010;VAD&#x02010;FMK, or autophagy inhibitor 3&#x02010;methyladenine (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S3A</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">B</xref>). It is also found that USP20 depletion decreased the GSH levels in HCC cells, while increased lipid ROS levels and ferrous iron levels (Figures&#x000a0;<xref rid="mco2463-fig-0002" ref-type="fig">2H&#x02013;M</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2H&#x02013;J</xref>). We also tested the effect of pharmacological USP20 inhibitor GSK2643943A (1&#x000a0;&#x003bc;M)<xref rid="mco2463-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> on HCC cells. It is found that GSK2643943A significantly increased cell sensitivity to OXA (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S4A&#x02013;C</xref>). And GSK2643943A treatment markedly reduced the proliferation of Huh&#x02010;7 cells (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S4D</xref>).&#x000a0;Consistent&#x000a0;with&#x000a0;the&#x000a0;USP20&#x02010;knockdown&#x000a0;results, GSK2643943A decreased the cell viability and increased erastin&#x02010;induced viability inhibition and increased ferrous iron levels and lipid ROS levels, while decreased the GSH levels in Huh&#x02010;7 cells (Figures&#x000a0;<xref rid="mco2463-fig-0003" ref-type="fig">3A&#x02013;G</xref>). As expected, GSK2643943A increased cell sensitivity to RSL&#x02010;3 treatment, and such effect was blocked by Ferr&#x02010;1 and liproxstatin&#x02010;1 (inhibitors of ferroptosis) but not by the necroptosis inhibitor necrosulfonamide, the apoptosis inhibitor Z&#x02010;VAD&#x02010;FMK, or autophagy inhibitor 3&#x02010;methyladenine (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S3C</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">D</xref>). Furthermore, in vivo tumorigenesis assay indicated that GSK2643943A significantly reduced tumor growth. In addition, administration of GSK2643943A (30&#x000a0;mg/kg/day)<xref rid="mco2463-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> and OXA (5&#x000a0;mg/kg, twice a week) in combination significantly decreased tumor growth than administration of either GSK2643943A or OXA alone. And liproxstatin&#x02010;1 (10&#x000a0;mg/kg/day, intraperitoneally)<xref rid="mco2463-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> could reverse the suppression effect induced by GSK2643943A. 4&#x02010;HNE staining result showed that GSK2643943A or GSK2643943A and OXA in combination markedly induced 4&#x02010;HNE production, while OXA treatment alone did not affect the production of 4&#x02010;HNE (Figures&#x000a0;<xref rid="mco2463-fig-0003" ref-type="fig">3H&#x02013;J</xref>). These results indicated that inhibition of USP20 by GSK2643943A could induce ferroptosis of HCC in vivo. Previous studies revealed that cancer&#x000a0;stem&#x000a0;cells&#x000a0;(CSCs) were responsible for&#x000a0;tumor&#x000a0;chemotherapy&#x000a0;resistance, metastasis, and recurrence,<xref rid="mco2463-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> we then investigated the functions of USP20 in HCC stemness. We observed that USP20 depletion remarkably inhibited the oncosphere formation of Huh&#x02010;7, Hep3B and HCC primary cells (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S2K, S5A</xref>, and<xref rid="mco2463-supitem-0001" ref-type="supplementary-material">B</xref>). In addition, depletion of USP20 significantly decreased the expression of pluripotent transcription factors Nanog, Sox2, c&#x02010;Myc, and Oct4 (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S5C</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">D</xref>). Moreover, HCC cells expressing shUSP20 displayed an inhibited tumor&#x02010;initiation capacity in NOD&#x02010;SCID mice (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S5E</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">F</xref>). Overall, USP20 is associated with the OXA resistance, ferroptosis, and stem&#x02010;like properties.</p><fig position="float" fig-type="FIGURE" id="mco2463-fig-0002"><label>FIGURE 2</label><caption><p>USP20 knockdown confers ferroptosis of HCC cells. (A) knockout efficiency of USP20. (B and C) The relative cell viability of Huh&#x02010;7 and Hep3B cells treated with the indicated dosage of erastin for 24&#x000a0;h. (Each&#x000a0;group&#x000a0;contained&#x000a0;three&#x000a0;replicates.) (D and E) Crystal violet staining of HCC cells treated with erastin. (F and G) CCK8 assay showing the response of HCC cell lines to erastin (20&#x000a0;&#x003bc;M)&#x000a0;&#x000b1;&#x000a0;ferrostatin (1&#x000a0;&#x003bc;M) for 24&#x000a0;h. (H&#x02013;M) Lipid ROS (H and I), GSH levels (J and K), and ferrous iron levels (L and M) were measured in HCC cells. Results shown are representative of three independent experiments. Data are represented as mean&#x000a0;&#x000b1;&#x000a0;SD of biological triplicates.*<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.05<italic toggle="yes">**</italic>, <italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.001.</p></caption><graphic xlink:href="MCO2-4-e463-g008" position="anchor" id="jats-graphic-5"/></fig><fig position="float" fig-type="FIGURE" id="mco2463-fig-0003"><label>FIGURE 3</label><caption><p>Inhibition USP20 by GSK2643943A promotes ferroptosis of HCC cells. (A) The relative cell viability of Huh&#x02010;7 cells treated with the indicated dosage of erastin for 24&#x000a0;h. (Each&#x000a0;group&#x000a0;contained&#x000a0;three&#x000a0;replicates.) (B) Crystal violet staining of HCC cells treated with erastin. (C) CCK8 assay showing the response of HCC cell lines to erastin (20&#x000a0;&#x003bc;M)&#x000a0;&#x000b1;&#x000a0;ferrostatin (1&#x000a0;&#x003bc;M) for 24&#x000a0;h. (D&#x02013;G) Lipid ROS (D and E), GSH levels (F), and ferrous iron levels (G) were measured in HCC cells. (H&#x02013;J) GSK2643943A treatment inhibited the tumor growth in vivo. 1&#x000a0;&#x000d7;&#x000a0;106 Huh&#x02010;7 cells were injected to the right dorsal flank of each mouse (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;6). After the tumors reached approximately 50&#x000a0;mm<sup>3</sup>, mice were treated with OXA (5&#x000a0;mg/kg, twice a week). The animals were then treated with the vehicle or GSK2643943A intraperitoneally (30&#x000a0;mg/kg/day) with or without liproxstatin&#x02010;1 (10&#x000a0;mg/kg/day, intraperitoneally). Tumor sizes were measured every 5 days until the end of the experiment. Results shown are representative of three independent experiments. Data are represented as mean&#x000a0;&#x000b1;&#x000a0;SD of biological triplicates.*, <italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.05, **<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.001.</p></caption><graphic xlink:href="MCO2-4-e463-g006" position="anchor" id="jats-graphic-7"/></fig></sec><sec id="mco2463-sec-0050"><label>2.3</label><title>USP20 stabilizes SLC7A11 through the deubiquitylation activity</title><p>SLC7A11 is regarded as a key regulator of ferroptosis which can import cystine for the biosynthesis of GSH and antioxidant defense,<xref rid="mco2463-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="mco2463-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> we went on to examine the expression of SLC7A11 in HCC cells. As expected, USP20 depletion remarkably reduced the protein levels of SLC7A11 without influence on the mRNA level (Figure&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">4A</xref>). Since USP20 is a DUB belonging to the ubiquitin&#x02010;specific processing protease family and USP20 depletion decreased SLC7A11 protein levels, suggesting that USP20 may control the protein stability of SLC7A11 via the Ub&#x02013;proteasome system. We observed that USP20 depletion significantly reduced the protein expression of SLC7A11, and such effect could be blocked by the addition of MG132 (proteasome inhibitor) or overexpression of wild&#x02010;type USP20, but not its catalytically inactive mutant (Figures&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">4B</xref> and&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">C</xref>). To prove that USP20 affects SLC7A11 stability, we treated Huh&#x02010;7 cells with the protein synthesis inhibitor cycloheximide (CHX). SLC7A11 stability was significantly reduced in cells depleted with USP20, while increased in cells overexpressing USP20&#x02010;WT but not USP20&#x02010;C154A (Figures&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">4D</xref> and&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">E</xref>). These results suggested that USP20 enhanced SLC7A11 protein stability through the Ub&#x02013;proteasome system. Immunofluorescence assay was carried out to detect the cellular localization of USP20 and SLC7A11. Immunostaining results suggested that USP20 and SLC7A11 both localized in the cytosol of Huh7 and Hep3B cells (Figure&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">4F</xref>). Further coimmunoprecipitation (Co&#x02010;IP) results revealed that endogenous USP20 could coimmunoprecipitate with endogenous SLC7A11 (Figure&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">4G</xref>). In addition, deletion analysis indicated that the N terminal of SLC7A11 could physically bind to the UCH domain of USP20 (Figures&#x000a0;<xref rid="mco2463-fig-0004" ref-type="fig">4H&#x02013;K</xref>).</p><fig position="float" fig-type="FIGURE" id="mco2463-fig-0004"><label>FIGURE 4</label><caption><p>USP20 associates with SLC7A11 and increases its stability. (A) USP20 depletion decreased SLC7A11 protein level without affecting mRNA expression of SLC7A11. (B) HCC cells transfected with the indicated shRNA were treated with or without the proteasome inhibitor MG132 (10&#x000a0;&#x003bc;M, 6&#x000a0;h), and then proteins were analyzed. (C) USP20 WT or C154A was introduced into HCC cells together with USP20 shRNA. SLC7A11 levels were measured. (D) Huh&#x02010;7 cells transfected with USP20 shRNA were treated with cycloheximide (10&#x000a0;&#x003bc;g&#x000a0;mL<sup>&#x02212;1</sup>), and collected at the indicated times for western blot. Quantification of &#x003b2;&#x02010;catenin levels relative to GAPDH is shown. (E) Half&#x02010;life analysis of SLC7A11 in HEK293 cells transfected with the indicated plasmids. (F) An immunofluorescence assay demonstrated that USP20 andSLC7A11 at least partially colocalized in Huh&#x02010;7 and Hep3B cells. (G) Co&#x02010;IP assay reveals association between endogenous USP20 and SLC7A11 in Huh&#x02010;7 cells. Huh&#x02010;7 cells were harvested with RIPA lysis buffer. Co&#x02010;IP was performed using antibody as indicated. (H and I) USP20 and SLC7A11 domain structure and deletion mutants used in the study. (J) The UCH domain of USP20 interacted with SLC7A11. HEK293 cells were transfected with 2&#x000a0;&#x003bc;g Myc&#x02010;SLC7A11 together with Flag&#x02010;USP20 full length or mutants. After 24&#x000a0;h, cells were harvested with NP&#x02010;40 lysis buffer. Co&#x02010;IP was performed using Myc antibody. The possible interacted USP20 domains were detected by Flag antibody. (K) The N terminal of SLC7A11 interacted with USP20. HEK293 cells were transfected with 2&#x000a0;&#x003bc;g Flag&#x02010;USP20 together with Myc&#x02010;SLC7A11 full length or mutants. After 24&#x000a0;h, cells were harvested with NP&#x02010;40 lysis buffer. Co&#x02010;IP was performed using Flag antibody. The possible interacted &#x003b2;&#x02010;catenin domains were detected by Myc antibody.</p></caption><graphic xlink:href="MCO2-4-e463-g003" position="anchor" id="jats-graphic-9"/></fig><p>We further investigated whether SLC7A11 is a substrate of USP20. As shown in Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5A</xref>, the ubiquitination of SLC7A11 was markedly increased upon USP20 knockdown. Conversely, ectopic expression of USP20&#x02010;WT significantly decreased ubiquitinated SLC7A11 in cells (Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5B</xref>). In vivo ubiquitination assays showed that USP20 decreased SLC7A11 ubiquitination in a time&#x02010; and dose&#x02010;dependent manner (Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5C</xref>). We also performed ubiquitination assay using a series of mutant ubiquitin to investigated which kind of ubiquitination of SLC7A11 was hydrolyzed by USP20, including K6, K11, K27, K29, K33, K48, and K63. It is found that USP20 could selectively cleave K48&#x02010;linked ubiquitin chains from USP20 (Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5D</xref>). To further examine which region of SLC7A11 was regulated by USP20, we carried out a ubiquitination assay using the &#x00394;N&#x02010;terminal, &#x00394;C&#x02010;terminal, or full&#x02010;length plasmids of SLC7A11 and USP20. We found that USP20 significantly hydrolyzed the ubiquitin chains on the N terminus of SLC7A11, but displayed no influence on the C terminus of SLC7A11 (Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5E</xref>). We then predicted the potential ubiquitination sites of SLC7A11 protein using the online bioinformatic tools (UbPred, UbiSite, and BDM&#x02010;PUB), a total of 13 possible ubiquitination sites were identified in the full&#x02010;length of SLC7A11 protein, including six ubiquitination sites located at the N terminus. We further mutated the lysine residues of SLC7A11 to find out the specific sites that are deubiquitinated by USP20 (Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5F</xref>). Ubiquitination assay indicated that K30 and K37 were the key sites on SLC7A11 deubiquitinated by USP20 (Figure&#x000a0;<xref rid="mco2463-fig-0005" ref-type="fig">5G</xref>). To determine the role of USP20 catalytical activity in HCC, we overexpressed USP20 WT, and catalytically inactive mutant C154A in HCC primary cell line (from sample T7 with low USP20 expression). Overexpression the wild type USP20 decreased the sensitivity of the HCC primary cell line to OXA, while USP20 C154A almost had no effect (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S6A&#x02013;C</xref>). We examined the consequences of USP20 mutants on tumor growth, and found that only USP20 (WT) promoted xenograft growth (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S6D</xref>). Consistent with the results identified above, USP20 (WT) reduced cell sensitivity to erastin and increased the GSH levels, while decreased ferrous iron levels and lipid ROS levels of HCC cells (Figures <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S6E</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">I</xref>). The wild type USP20 enhanced the oncosphere formation of HCC cells. However, USP20 C154A almost had no such effects (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S6J</xref>). These results suggested that USP20 may act as a SLC7A11&#x02010;directed DUB which deubiquitylates and stabilizes SLC7A11.</p><fig position="float" fig-type="FIGURE" id="mco2463-fig-0005"><label>FIGURE 5</label><caption><p>USP20 de&#x02010;polyubiquitylates SLC7A11. (A) Huh&#x02010;7 cells transfected with the indicated shRNA were treated with MG132 for 6&#x000a0;h before collection. SLC7A11 was immunoprecipitated with anti&#x02010;SLC7A11 and immunoblotted with anti&#x02010;HA. (B) Immunoblotting was used to detect the ubiquitination of SLC7A11 in HEK293T cells cotransfected with Myc&#x02010;SLC7A11, HA&#x02010;ubiquitin and Flag&#x02010;USP20 (wild type or C154A). (C) USP20 removed the ubiquitin chain of SLC7A11 in a time&#x02010; and dose&#x02010;dependent manner. (D) HA&#x02010;WT, K6, K11, K27, K29, K33, K48, or K63 Ub were cotransfected with Myc&#x02010;SLC7A11 and Flag&#x02010;USP20 into HEK293T cells. After treatment with 10&#x000a0;&#x003bc;M MG132 for 6&#x000a0;h, cell lysates were subjected to ubiquitination assay and the ubiquitination level of SLC7A11 detected by HA antibody. (E). Immunoblotting to detect the ubiquitination of the SLC7A11 deletion mutants (FL, &#x00394;N, and &#x00394;N) in HEK293T cells cotransfected with Myc&#x02010;SLC7A11 (FL, &#x00394;N, and &#x00394;N), HA&#x02010;Ub and USP20. (F) A schematic diagram of SLC7A11 and its mutants. (G) Immunoblotting to detect the ubiquitination of SLC7A11 mutants (K4, K12, K30, K37, K41, and K43) in HEK293T cells cotransfected with Myc&#x02010;SLC7A11 mutants, USP20 and HA&#x02010;Ub.</p></caption><graphic xlink:href="MCO2-4-e463-g004" position="anchor" id="jats-graphic-11"/></fig></sec><sec id="mco2463-sec-0060"><label>2.4</label><title>ATR phosphorylates and stabilizes USP20</title><p>Recent studies reported that the posttranslational modifications of DUBs can influence their stability and deubiquitinase activity.<xref rid="mco2463-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>, <xref rid="mco2463-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="mco2463-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> We then ectopic expressed Flag&#x02010;USP20 in HCC cells and performed immunoprecipitation (IP)&#x02010;based MS. Phosphorylation of USP20 at Ser132 and Ser368 residues was detected through MS analysis (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S7A</xref>). Interestingly, we discovered that ATR, a key player in replication stress signaling,<xref rid="mco2463-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> was copurified with Flag&#x02010;USP20 (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S7B</xref>). We conducted Co&#x02010;IP analysis in Huh&#x02010;7 cell lines and observed the interaction between ATR and USP20 (Figure&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6A</xref>). We observed that OXA&#x02010;resistant Huh&#x02010;7 cells expressed high levels of ATR, P&#x02010;ATR, USP20, and SLC7A11 (Figure&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6B</xref>). Inhibition of ATR by BAY1895344 or siRNA markedly decreased the phosphorylation of USP20 as well as its protein levels (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6C</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S7C</xref>). We then performed point mutation and IP to verify that ATR phosphorylates S132 and S368 sites of USP20. We generated the USP20 mutant vector (USP20&#x02010;S132A/S368A) by replacing serine with alanine, and our results indicated that ATR phosphorylates wild&#x02010;type USP20 (USP20&#x02010;WT) but not USP20&#x02010;S132A/S368A (Figure&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6D</xref>). We then examined whether ATR&#x02010;mediated USP20 phosphorylation affected its stabilization. Following CHX chase, we observed that suppression of ATR shortened USP20 half&#x02010;life (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6E</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S7D</xref>). Consistently, the phosphorylation&#x02010;null USP20 (S132A/368A) was destabilized while the phosphomimetic USP20 (S132D/S368D) mutant was stabilized (Figure&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6F</xref>). The S132D/S368D mutant showed a decreased, whereas S132A/368A mutant showed an increased ubiquitination levels compared with the wild type USP20, and inhibition of ATR led to an increased ubiquitination of wild type but not mutant USP20 (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6G</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S7E</xref>). We then stably expressed USP20 WT, S132A/368A, and S132D/S368D in HCC primary cell line (from sample T7 with low USP20 expression) to examine the functions of USP20 phosphorylation in HCC cells,. Overexpression the wild type and S132D/S368D of USP20 decreased the sensitivity of the HCC primary cell line to OXA, while USP20 S132A/368A almost had no effect (Figure <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S8</xref>). Consistent with the results identified above, USP20 WT and S132D/S368D reduced cell sensitivity to erastin and increased the GSH levels, while ferrous iron levels decreased and lipid ROS levels of HCC cells (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6H&#x02013;L</xref>). We examined the consequences of USP20 mutants on tumor growth, and found that USP20&#x02010;WT and S132D/S368D promoted xenograft growth (Figure&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6M</xref>). As ATR phosphorylates USP20 and increases its protein levels, we further examined the effects of DNA&#x02010;damage induced ATR activation on ferroptosis. To exclude the influence of apoptosis induced by OXA, we treated HCC cells with OXA for 12&#x000a0;h to induce DNA damage response. OXA treatment (12&#x000a0;h) significantly decreased cell sensitivity to erastin and RSL&#x02010;3, and we found that knockdown of USP20 or ATR inhibits the decreased sensitivity to ferroptosis by OXA (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6N</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S9A</xref>). In addition, the effect induced by OXA was significantly inhibited by the inhibitor of ferroptosis (liproxstatin&#x02010;1 and Ferr&#x02010;1) but not by the necroptosis inhibitor necrosulfonamide, the apoptosis inhibitor Z&#x02010;VAD&#x02010;FMK, or autophagy inhibitor 3&#x02010;methyladenine (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6O</xref> and <xref rid="mco2463-supitem-0001" ref-type="supplementary-material">S9B</xref>), indicating that OXA induced DNA damage increases the resistance of HCC cells to cell death by selectively enhancing their sensitivity to ferroptosis. In addition, lipid ROS levels and ferrous iron levels were decreased under OXA treatment, and GSH levels were significantly increased. However, in cells depleted with USP20, such effect was not observed (Figures&#x000a0;<xref rid="mco2463-fig-0006" ref-type="fig">6P&#x02013;R</xref>), suggesting that USP20 is required for OXA&#x02010;induced ferroptosis resistance. These results suggest that OXA induced DNA damage leads to USP20/SLC7A11&#x02010;dependent ferroptosis resistance in HCC cells.</p><fig position="float" fig-type="FIGURE" id="mco2463-fig-0006"><label>FIGURE 6</label><caption><p>ATR phosphorylates USP20 and induces USP20&#x02010;dependent ferroptosis resistance. (A) Co&#x02010;IP assay reveals association between endogenous USP20 and ATR in Huh&#x02010;7 cells. Huh&#x02010;7 cells were harvested with RIPA lysis buffer. Co&#x02010;IP was performed using antibody as indicated. (B) The expression of ATR, P&#x02010;ATR, USP20, and SLC7A11 in Huh&#x02010;7/OXA and its parental cells. (C) Coimmunoprecipitation analysis of USP20 serine phosphorylation in Huh&#x02010;7 cells treated with ATR siRNA or siControl. (D) ATR phosphorylates S132 and S368 sites of USP20. (E) Inhibition of ATR by siRNA affected the turnover of USP20. Huh&#x02010;7 cells were treated siATR. Cells were then treated with CHX for the indicated time, and the expression of USP20 was analyzed by western blotting. (F) USP20 phosphorylation prolonged its half&#x02010;life. (G) HEK293T cells transfected with HA&#x02010;ubiquitin and Flag&#x02010;USP20 or indicated Flag&#x02010;USP20 mutant plasmids were treated ATR siRNA. After treatment with 10&#x000a0;&#x003bc;M MG132 for 6&#x000a0;h, cell lysates were subjected to ubiquitination assay and the ubiquitination level of USP20 was detected by HA antibody. (H) The relative cell viability of HCC primary cells treated with the indicated dosage of erastin. (I) Crystal violet staining of HCC primary cells treated with erastin. (Each&#x000a0;group&#x000a0;contained&#x000a0;three&#x000a0;replicates.) (J&#x02013;L) Lipid ROS (J), GSH levels (K), and ferrous iron levels (L) were measured in HCC primary cells. (M) In vivo xenografts generated from primary HCC cells expressing an empty vector, USP20&#x02010;WT, USP20&#x02010;S132A/S368A, or USP20&#x02010; S132D/S368D. 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> primary HCC cells were injected to the right dorsal flank of each mouse (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;6). Tumor sizes were measured every 5 days until the end of the experiment. (N) Huh&#x02010;7 cells transfected with shUSP20 or shControl plasmids were treated with OXA for 12&#x000a0;h. Then Huh&#x02010;7 cells were treated with increasing concentration of erastin for 24&#x000a0;h. The relative cell viability of HCC cells was detected using CCK8 assay. (Each&#x000a0;group&#x000a0;contained&#x000a0;three&#x000a0;replicates.) (O) Huh&#x02010;7 cells transfected with shUSP20 or shControl plasmids. CCK8 assay showing the response of HCC cells were treated with erastin (20&#x000a0;&#x003bc;M) or RSL&#x02010;3 (5&#x000a0;&#x003bc;M) in the absence or presence of ferrostatin&#x02010;1 (1&#x000a0;&#x003bc;M), liproxstatin&#x02010;1 (1&#x000a0;&#x003bc;M), Z&#x02010;VAD&#x02010;FMK (10&#x000a0;&#x003bc;M), necrosulfonamide (0.5&#x000a0;&#x003bc;M), or 3&#x02010;methyladenine (250&#x000a0;&#x003bc;M) for 24&#x000a0;h. (P&#x02013;R) Huh&#x02010;7 cells transfected with shUSP20 or shControl plasmids. Lipid ROS (P), GSH levels (Q) and ferrous iron levels (R) were measured in HCC cells. Results shown are representative of three independent experiments. Data are represented as mean&#x000a0;&#x000b1;&#x000a0;SD of biological triplicates.<italic toggle="yes">*p</italic> value&#x000a0;&#x0003c;&#x000a0;0.05, **<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.01, ***<italic toggle="yes">p</italic> value&#x000a0;&#x0003c;&#x000a0;0.001.</p></caption><graphic xlink:href="MCO2-4-e463-g002" position="anchor" id="jats-graphic-13"/></fig></sec></sec><sec id="mco2463-sec-0070"><label>3</label><title>DISCUSSION</title><p>HCC&#x000a0;is&#x000a0;the most commonly diagnosed&#x000a0;liver&#x000a0;cancer and&#x000a0;is&#x000a0;an important medical problem. Despite decades&#x000a0;of&#x000a0;effort in understanding its cancerology,&#x000a0;the potential molecule mechanisms that lead to the initiation and progression of HCC is complex and unclear.&#x000a0;It&#x000a0;is&#x000a0;important to study the&#x000a0;pathogenesis&#x000a0;of HCC and identify more novel candidate targets for&#x000a0;the&#x000a0;clinical therapy. OXA&#x000a0;has been approved as an effective systemic chemotherapeutic agent for the treatment of HCC, it displays better tolerability and improved efficacy compared to other parallel chemotherapeutic agents.<xref rid="mco2463-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="mco2463-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> While the efficacy of chemotherapy is unsatisfactory, owing to chemoresistance in HCC, which becomes a major challenge encountered during the therapeutic treatment of HCC. Therefore, understanding the causes and mechanisms of drug&#x000a0;resistance&#x000a0;in HCC may improve the effects of chemotherapy on&#x000a0;liver&#x000a0;cancer, and thus, improve survival. A recent study revealed that&#x000a0;in HCC patients, overexpression of PRMT3 may serve as a biomarker for OXA resistance. PRMT3 promotes OXA&#x02010;resistance through the methylation of IGF2BP1 at R452, which is essential for IGF2BP1 to stabilize the mRNA of HEG1.<xref rid="mco2463-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Growing evidence has demonstrated that targeting specific deubiquitinating enzymes (DUBs) is emerging as attractive strategy for cancer treatment. Therefore, we concentrated our study on DUBs involved in OXA resistance. In the present study, we observed that USP20 confers OXA&#x000a0;and ferroptosis resistance of HCC cells. Mechanically, USP20 stabilized and deubiquitinated the antiferroptosis protein SLC7A11, which then protected cells from ferroptosis through the Xc&#x02212;/GSH/GPX4 axis pathway. Most importantly, DNA damage&#x02010;induced ATR activation was required for Ser132 and Ser368 phosphorylation of USP20. USP20 phosphorylation at Ser132 and Ser368 enhanced its stability and thus conferred OXA and ferroptosis resistance of HCC cells (Figure&#x000a0;<xref rid="mco2463-fig-0007" ref-type="fig">7</xref>). Pharmacological&#x000a0;inhibition&#x000a0;or knockdown of USP20 in HCC cells triggered ferroptosis and reversed OXA resistance both in vitro and in vivo. Our present study reveals a previously unrecognized link between OXA and ferroptosis and provides new insight into mechanisms regarding how DNA damage therapies always lead to therapeutic resistance.</p><fig position="float" fig-type="FIGURE" id="mco2463-fig-0007"><label>FIGURE 7</label><caption><p>Graphic summary of ATR&#x02010;mediated activation of USP20/SLC7A11 pathway. USP20 stabilizes SLC7A11 via inhibiting K48&#x02010;specific polyubiquitination process on SLC7A11 protein at K30 and K37. DNA damage&#x02010;induced ATR activation is required for Ser132 and Ser368 phosphorylation of USP20. USP20 phosphorylation at Ser132 and Ser368 enhances its stability and thus confers OXA and ferroptosis resistance of HCC cells.</p></caption><graphic xlink:href="MCO2-4-e463-g001" position="anchor" id="jats-graphic-15"/></fig><p>Ferroptosis is a newly discovered form of iron&#x02010;dependent, programmed cell death induced by lipid peroxidation. Triggering ferroptosis is considered as an attractive method to circumvent therapy&#x02010;resistant cancer cells.<xref rid="mco2463-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> Therapy&#x02010;resistant cancer cells with more property of epithelial&#x02013;mesenchymal transition are more sensitive to GPX4 inhibition or statin treatment induced ferroptosis.<xref rid="mco2463-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> In HCC, suppression the expression of SLC7A11 enabling HCC cells to overcome Sorafenib&#x02010;induced ferroptosis.<xref rid="mco2463-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Radiotherapy is reported to suppress the expression of SLC7A11, which enhances tumor lipid oxidation and sensitizes tumor cells to ferroptosis agonists in vitro and in vivo.<xref rid="mco2463-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> A recent study reported that ionizing radiation (IR) induces reactive oxygen species and the expression of ACSL4, resulting in elevated lipid peroxidation and ferroptosis. As an adaptive response, IR also induces the expression of ferroptosis inhibitors, including SLC7A11 and GPX4, resulting radioresistance through inhibiting ferroptosis.<xref rid="mco2463-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref> These studies raise the intriguing questions of whether ferroptosis induction might enhance the therapeutic response to OXA treatments in HCC patients. Growing studies reported that DUBs play important roles in the progression and drug resistance of cancer. And DUBs inhibitors are supposed to be promising anticancer agents for cancer therapies. However, further investigations are needed to identify the potential mechanisms of DUBs and their inhibitors in the treatment of HCC.</p><p>USP20 is a member of DUB belonging to the ubiquitin&#x02011;specific protease (USP) family. Previous studies reported that USP20 regulates the deubiquitination of various target proteins to control different cellular events, such as HIF1&#x003b1;, TRAF6, type 2 iodothyronine deiodinase, sting/mita, &#x003b2;2&#x000a0;adrenergic receptor, SNAI2, and Claspin.<xref rid="mco2463-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref>, <xref rid="mco2463-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref>, <xref rid="mco2463-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref>, <xref rid="mco2463-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref>, <xref rid="mco2463-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="mco2463-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref> USP20 mediates ATR&#x02010;mediated DNA damage response through the stabilization of Claspin.<xref rid="mco2463-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>, <xref rid="mco2463-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> USP20 also regulates the hypoxia pathway by the deubiquitination of HIF1&#x003b1;.<xref rid="mco2463-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> A recent study reported that USP20 stabilizes &#x003b2;&#x02010;catenin and activates Wnt/&#x003b2;&#x02010;catenin signaling pathway, thereby promoting the migration, invasion, and proliferation of cancer cells.<xref rid="mco2463-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref>
+</p><p>In this study, we first constructed an OXA&#x02010;resistant HCC cell line and performed RNA&#x02010;seq analysis of Huh&#x02010;7 and its OXA&#x02010;resistant counterpart. We observed that USP20 was overexpressed in the OXA&#x02010;resistant HCC cells. High USP20 expression was correlated with poor prognosis in HCC patients. Knockdown of USP20 increased the sensitivity of the HCC cells to OXA. And the combination&#x000a0;of OXA&#x000a0;with USP20 silence leads to increased&#x000a0;cell&#x000a0;death than either USP20 silence or OXA alone. Animal studies demonstrated that USP20 depletion significantly inhibited tumor growth and increased the antitumor&#x000a0;efficacy&#x000a0;of OXA. KEGG analysis indicated that ferroptosis pathway was significantly enriched in OXA resistance cells, which allows us to&#x000a0;consider the role USP20 ferroptosis. USP20 depletion also reduced the cell viability upon the treatment of erastin, which could be recovered by Ferr&#x02010;1, suggesting that the mechanism is specific in cell ferroptosis. We also assessed lipid ROS, GSH, and ferrous iron levels upon USP20 depletion. It was found that USP20 knockdown increased lipid ROS levels and ferrous iron levels, while decreased the GSH levels. We further examined GSK2643943A, a small molecular inhibitor of USP20, to verify our findings. Consistent with the results of USP20 depletion, GSK2643943A treatment significantly increased cell sensitivity to OXA and increased erastin&#x02010;induced viability inhibition. In vivo tumorigenesis assay indicated that administration of GSK2643943A and OXA in combination significantly inhibited tumor growth than administration of GSK2643943A or OXA alone. These results indicated that USP20 is an important regulator of OXA resistance and ferroptosis. We also observed that knockdown or pharmacologically inhibition of USP20 could significantly reduce the proliferation and viability of HCC cells, which was consistent with previous studies.<xref rid="mco2463-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref>, <xref rid="mco2463-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>, <xref rid="mco2463-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>, <xref rid="mco2463-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref>, <xref rid="mco2463-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> SLC7A11 mediates the cystine/glutamate antiporter activity in the system Xc&#x02212;, which plays a crucial role in ferroptosis. The protein stability and turnover of SLC7A11 could be controlled by several ubiquitination manners. SOCS2 promoted ferroptosis and radio&#x02010;sensitization of HCC cells. SOCS2 served as a bridge to transfer the attached ubiquitin to SLC7A11 which induced the degradation of SLC7A11 through K48&#x02010;linked polyubiquitination.<xref rid="mco2463-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> OTUB1 could directly interact with and stabilize SLC7A11, leading to ferroptosis resistance.<xref rid="mco2463-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref> In this study, we further identified USP20 as a potential DUB responsible for SLC7A11, which deubiquitinated and stabilized SLC7A11 in HCC. First, USP20 and SLC7A11 binds with each other. Results of Co&#x02010;IP revealed the association between SLC7A11 and USP20. Further analysis indicated that the UCH domain of USP20 interacted with the N terminus of SLC7A11. Second, USP20 hydrolyzes the polyubiquitin chains of SLC7A11 and stabilizes SLC7A11 in a DUB activity&#x02010;dependent manner. USP20 knockdown markedly reduced SLC7A11 protein levels, and overexpression of USP20&#x02010;WT or addition of the proteasome inhibitor MG132 could reverse this effect. Under the treatment of CHX, USP20 knockdown significantly shortened the half&#x02010;life time of SLC7A11 protein. Ectopic expression of USP20&#x02010;WT, but not USP20<sup>C154A</sup>, markedly reduced the ubiquitylation of SLC7A11. In vivo deubiquitylation assays showed that USP20 reduced SLC7A11 polyubiquitination in a time&#x02010; and dose&#x02010;dependent manner. To Further analysis indicated that K30 and K37 are the key sites on SLC7A11 deubiquitinated by USP20. We found that USP20 obviously hydrolyzed K48&#x02010;linked polyubiquitin chains from SLC7A11. As K48 polyubiquitination generally leads to proteasomal degradation,<xref rid="mco2463-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="mco2463-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref> USP20 may enhance the stability of SLC7A11 by removing the K48&#x02010;linked polyubiquitination from SLC7A11 protein. IP assay indicated that USP20 could be phosphorylated by ATR. Phosphorylation is key posttranscriptional modification and is involved in various intracellular signaling transduction pathways. In our present study, we found that inhibition of ATR significantly reduced the phosphorylation of USP20 and further increased the polyubiquitination of USP20, resulting its destabilization. Further study indicated that DNA damage induced by OXA treatment significantly decreased cell sensitivity to erastin. However, in cells depleted with USP20, such effect was not observed, suggesting that OXA induced DNA damage leads to USP20/SLC7A11&#x02010;dependent ferroptosis resistance in HCC cells. However, there were certain deficiencies somewhere in our study. &#x000a0;It is necessary to explore the correlations between OXA resistance and USP20 expression in HCC patients. Another, phosphor&#x02010;specific antibodies of USP20 S132 and S368 would make our results more credible.</p><p>In conclusion, our present work identified USP20 as a contributor to OXA&#x000a0;resistance and suppress ferroptosis in HCC. Mechanically, USP20 deubiquitinated and stabilized the antiferroptosis protein SLC7A11 via hydrolyzing the K48&#x02010;linked ubiquitin chain, which then protected cells from ferroptosis. Most importantly, DNA damage&#x02010;induced ATR activation is required for Ser132 and Ser368 phosphorylation of USP20. USP20 phosphorylation at Ser132 and Ser368 enhances its stability and thus confers OXA and ferroptosis resistance of HCC cells. These results provide new insight into mechanisms regarding how DNA damage therapies always lead to therapeutic resistance. Therefore, targeting USP20 may mitigate the development of drug resistance and promote ferroptosis of HCC in patients receiving chemotherapy.</p></sec><sec id="mco2463-sec-0080"><label>4</label><title>METHODS</title><sec id="mco2463-sec-0090"><label>4.1</label><title>Cell culture</title><p>The human embryonic kidney HEK293T, human Liver cancer cell lines Huh&#x02010;7 and Hep3B cells were purchased from the Procell Life Science&#x00026;Technology Co, Ltd. All cell lines used in this study were authenticated with short tandem repeat analysis. HEK293T, Huh&#x02010;7, and Hep3B were cultured in Dulbecco's modified Eagle's medium (DMEM; Life Technologies, 41965) containing 10% fetal bovine serum (FBS; Gibco, Life Technologies, 10270). OXA&#x02010;resistant HCC cells were developed by exposing&#x000a0;cells&#x000a0;to OXA for 72&#x000a0;h at an intermittently increasing concentration. After 3 months, OXA&#x02010;resistant cells were harvested until the cells were stable in proliferation without significant death under the treatment of OXA.</p><p>HCC primary cells were prepared from specimens of fresh HCC samples which were immediately obtained after resection. The specimens were submerged into DMEM/F12 nutrient solution&#x000a0;with antibiotic&#x000a0;and cut into 1&#x000a0;mm<sup>3</sup> with scissors. After rejection of necrotic tissue, dirty blood and blood vessels, the tissues were digested at 37&#x000b0;C with collagenase IV for 30&#x000a0;min. Next, the medium was passed through a cyto&#x02010;screen (<italic toggle="yes">d</italic>&#x000a0;=&#x000a0;72&#x000a0;&#x003bc;m) and cells were collected through centrifugation at 300&#x000a0;g for 5&#x000a0;min. The cells were then treated with Red Blood Cell Lysis Buffer for red cell elimination and washed with PBS for three times. The HCC primary cells were enriched by centrifugation and inoculated into plastic Petri dishes. HCC primary cells were cultured in DMEM/F12 supplemented with 10% FBS. All cells were cultured at 37&#x000b0;C, in 5% CO<sub>2</sub> humid atmosphere.</p></sec><sec id="mco2463-sec-0100"><label>4.2</label><title>Plasmids and RNA inference</title><p>The wild type and mutant SLC7A11, USP20 plasmids were acquired from Hanbio Biotechnology Co., Ltd. The wild type and mutant Ub plasmids were obtained from Addgene. Small interfering RNAs targeting USP20 (shRNA&#x02010;1: 5&#x02032;&#x02010;GCGACCATCATCAGGATCAAA&#x02010;3&#x02032;; shRNA&#x02010;2: 5&#x02032;&#x02010; CCTATTGCTGTGGCTGATGAA&#x02010;3&#x02032;) were synthesized by Hanbio Biotechnology Co., Ltd.</p></sec><sec id="mco2463-sec-0110"><label>4.3</label><title>RNA extraction and qRT&#x02010;PCR analysis</title><p>Total RNA was extracted from samples using RNA Extraction Kit (Magen). RevertAid First Strand cDNA Synthesis Kit (Thermo) was used to perform reverse transcription according to the instructions. RT&#x02010;PCR analysis was performed using 7500 Fast Real&#x02010;Time PCR System (Applied Biosystems) with SYBR green mix (Vazyme)&#x000a0;. Primers were listed as follows: USP20 (forward: 5&#x02032;&#x02010;TGGGCTAGTCTGTAAGTCGC&#x02010;3&#x02032;; reverse: 5&#x02032;&#x02010;GGGACCTGCTCTTTGGATGTT&#x02010;3&#x02032;); SLC7A11 (forward: 5&#x02032;&#x02010;TGCTGGGCTGATT&#x02010;TATCTTCG&#x02010;3&#x02032;; reverse: 5&#x02032;&#x02010;GAAAGGGCAACCATGAAGAGG&#x02010;3&#x02032;); c&#x02010;MYC (forward: 5&#x02032;&#x02010;CCTTTGGGCGTTGGAAACC&#x02010;3&#x02032;; reverse: 5&#x02032;&#x02010;CGTCGCAGATGAAATAGGG&#x02010;3&#x02032;); SOX2 (forward: 5&#x02032;&#x02010;GCCCTGCAGTACAACTCCAT&#x02010;3&#x02032;; reverse: 5&#x02032;&#x02010;GACTTGACCACCGAACCCAT&#x02010;3&#x02032;); Nanog (forward: 5&#x02032;&#x02010;GTCCCAAAGGCAAACAACCC&#x02010;3&#x02032;; reverse: 5&#x02032;&#x02010;GCTGGGTGGAAGAGAACACA&#x02010;3&#x02032;); Oct4 (forward: 5&#x02032;&#x02010;TTTTGGTACCCCAGGCTATG&#x02010;3&#x02032;; reverse: 5&#x02032;&#x02010;GCAGGCACCTCAGTTTGAAT&#x02010;3&#x02032;); GAPDH (forward: 5&#x02032;&#x02010;ACGGGAAGCTTGTCATCAAT&#x02010;3&#x02032;, reverse: 5&#x02032;&#x02010;TGGACTCCACGACGTACTCA&#x02010;3&#x02032;).</p></sec><sec id="mco2463-sec-0120"><label>4.4</label><title>Co&#x02010;IP assay</title><p>Cells were harvested at 4&#x000b0;C using RIPA extraction reagent (Meilun) containing protease inhibitors (Meilun) after washed three times with prechilled PBS. Co&#x02010;IP assay was performed as we previously described.<xref rid="mco2463-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Each experiment was repeated in&#x000a0;triplicate&#x000a0;at least three times.</p></sec><sec id="mco2463-sec-0130"><label>4.5</label><title>Protein stability assay</title><p>The half&#x02010;life of SLC7A11 was detected as we previously described.<xref rid="mco2463-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Each experiment was repeated in&#x000a0;triplicate&#x000a0;at least three times.</p></sec><sec id="mco2463-sec-0140"><label>4.6</label><title>In vivo deubiquitination assay</title><p>We performed in vivo deubiquitination assay as described in our previous study.<xref rid="mco2463-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Briefly, HA&#x02010;Ub, Myc&#x02010;SLC7A11, Flag&#x02010;USP20, or Flag&#x02010;USP20<sup>C154A</sup> plasmid were transfected into HEK293T cells for 48&#x000a0;h and treated with 10&#x000a0;&#x003bc;M MG132 (MCE) for another 6&#x000a0;h. Cells were harvested at 4&#x000b0;C using RIPA extraction reagent (Meilun) after washed three times with prechilled PBS. Ubiquitinated SLC7A11 was isolated and detected through Western blotting. In HCC cells, USP20 shRNAs and HA&#x02010;Ub plasmid were cotransfected into Huh&#x02010;7 cells. Ubiquitinated SLC7A11 was isolated and detected through Western blotting. Each experiment was repeated in&#x000a0;triplicate&#x000a0;at least three times.</p></sec><sec id="mco2463-sec-0150"><label>4.7</label><title>Western blot analysis</title><p>Western blot analysis was performed as we previously described.<xref rid="mco2463-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> The primary antibodies used for western blot analysis are listed as follows: SLC7A11 (Proteintech; 26864&#x02010;1&#x02010;AP; HUABIO, HA600098), USP20 (Proteintech; 17491&#x02010;1&#x02010;AP), GAPDH (Proteintech; 60004&#x02010;1&#x02010;Ig), Flag (Proteintech; 66008&#x02010;4&#x02010;Ig), Myc (Proteintech; 60003&#x02010;2&#x02010;Ig), HA (Proteintech; 51064&#x02010;2&#x02010;AP) antibodies. ECL (Meilun) and ChemiDocMP imager (Bio&#x02010;Rad) were used to detect and visualize the signals of bands.</p></sec><sec id="mco2463-sec-0160"><label>4.8</label><title>Analysis of lipid ROS</title><p>Cells were harvested and incubated with 10&#x000a0;&#x003bc;M C11&#x02010;BODIPY (581/591) (#D3861; Thermo Fisher Scientific) in a cell culture incubator at 37&#x000b0;C for 30&#x000a0;min to measure the level lipid ROS. Then cells were collected and washed with PBS to remove excess C11&#x02010;BODIPY. Flow cytometer analysis was performed (Fortessa; BD Biosciences) with Texas Red channel and fluorescein isothiocyanate green channel. The experiment was repeated three times with three replicates per sample.</p></sec><sec id="mco2463-sec-0170"><label>4.9</label><title>GSH assay</title><p>Total GSH was detected using the Glutathione Assay Kit (Beyotime Biotechnology) according to the instructions of manufacturer as we previously described.<xref rid="mco2463-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> The experiment was repeated three times with three replicates per sample.</p></sec><sec id="mco2463-sec-0180"><label>4.10</label><title>Iron assay</title><p>Iron assay kit (Sigma; Cat. MAK025) was used for the measurement intracellular&#x000a0;ferrous (Fe2+) iron according to the instructions of manufacturer as we previously described.<xref rid="mco2463-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> The experiment was repeated three times with three replicates per sample.</p></sec><sec id="mco2463-sec-0190"><label>4.11</label><title>In vivo tumorigenesis assay</title><p>Four&#x02010;week&#x02010;old BALB/c nude mice were purchased from Beijing HFK Bioscience Co., Ltd. BALB/c nude mice were injected with 1&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> HCC cells into the flanks subcutaneously at the age of 6&#x000a0;weeks (<italic toggle="yes">n</italic>&#x000a0;=&#x000a0;6). Tumor sizes were measured and recorded every other day until the end of the experiment. Tumor volume&#x02009;&#x000a0;=&#x000a0;&#x02009;(max. diameter)&#x000a0;&#x000d7;&#x000a0;(min. diameter)<sup>2</sup>&#x000a0;&#x000d7;&#x000a0;0.5. All animal experiments were performed in accordance with the protocols approved by the ethnic committee of Xiangya Hospital.</p></sec><sec id="mco2463-sec-0200"><label>4.12</label><title>Live/dead cell staining</title><p>HCC cells were incubated with 2&#x000a0;&#x003bc;M PI solution (Meiun) and 2&#x000a0;&#x003bc;M Calcein&#x02010;AM at 37&#x000b0;C for 15&#x000a0;min after washed three times with PBS. Cells were photographed using a fluorescence microscope (N2&#x02010;DMi8; Leica).&#x000a0;The experiment was repeated three times with three replicates per sample.</p></sec><sec id="mco2463-sec-0210"><label>4.13</label><title>Cell viability assay</title><p>CCK8&#x000a0;assay was used to determine cell viability as we previously described.<xref rid="mco2463-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> The experiment was repeated three times with three replicates per sample.</p></sec><sec id="mco2463-sec-0220"><label>4.14</label><title>Sphere formation assay</title><p>We performed sphere formation assay as previously reported by our group.<xref rid="mco2463-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Cells were plated into six&#x02010;well ultra&#x02010;low attachment plates (Corning) at a density of 2000 cells per well. Cells were cultured in serum&#x02010;free DMEM/F12 medium supplemented with 20&#x000a0;ng/mL bFGF, 20&#x000a0;ng/mL EGF, and B27 (1:50). After 14 days, the spheres were counted and photographed.</p></sec><sec id="mco2463-sec-0230"><label>4.15</label><title>Limiting dilution assay in vivo</title><p>In vivo limiting dilution assay was performed as previously reported by our group.<xref rid="mco2463-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Briefly, spheroids were dissociated into single cells, NOD&#x02010;SCID mice were subcutaneously injected with indicated cells (5&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>, 1&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>, 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>, and 1&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup>) into the flanks. Two months later, tumors were detected and the frequency of CSCs was determined using the extreme limiting dilution algorithm (<ext-link xlink:href="http://bioinf.wehi.edu.au/software/elda/index.html" ext-link-type="uri">http://bioinf.wehi.edu.au/software/elda/index.html</ext-link>).</p></sec><sec id="mco2463-sec-0240"><label>4.16</label><title>IHC analysis</title><p>IHC analysis was performed as previously reported by our group.<xref rid="mco2463-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref> The liver cancer biopsies were acquired form the Department of Pathology at Xiangya Hospital and were validated by two pathologists independently. The research was approved by the Ethics Committee at Xiangya Hospital of Central South University (Approval number: 2022020074).</p></sec><sec id="mco2463-sec-0250"><label>4.17</label><title>Statistical analysis</title><p>Statistical differences were calculated using two&#x02010;tailed student&#x000a0;t&#x000a0;tests, one&#x02010;way ANOVA with a Bonferroni's posttest, Kaplan&#x02013;Meier with the log&#x02010;rank test where appropriate (GraphPad 7.0). Differences are considered statistically significant when&#x000a0;<italic toggle="yes">p</italic>&#x000a0;&#x0003c;&#x000a0;0.05. Data are represented as the mean&#x000a0;&#x000b1;&#x000a0;SD.</p></sec></sec><sec id="mco2463-sec-0260"><title>AUTHOR CONTRIBUTIONS</title><p>L. Z. and Y. T. designed and supervised the research. J. T., G. L., L. Z., D. X., S. L., L. X., and Y. T. performed research and provided helpful discussions. J. T., G. L., L. X., L. Z., D. X., S. L., and Y. T. analyzed and interpreted the data. D. X. conducted pathology evaluations. All authors reviewed and edited the manuscript. Y. T. contributed to all aspects of the study. G. L. performed animal model experiments. J. T. had a primary role in interpreting and organizing the data as well as writing the manuscript. All authors have read and approved the final manuscript.</p></sec><sec sec-type="COI-statement" id="mco2463-sec-0280"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare no conflict of interest.</p></sec><sec id="mco2463-sec-0290"><title>ETHICS STATEMENT</title><p>The research was carried out according to the World Medical Association Declaration of Helsinki and was approved by the Ethics Committee at Xiangya Hospital of Central South University (Approval number: 2022020074).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="mco2463-supitem-0001" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="MCO2-4-e463-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material id="mco2463-supitem-0002" position="float" content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="MCO2-4-e463-s001.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mco2463-sec-0270"><title>ACKNOWLEDGMENTS</title><p>We thank Pro. Baoliang Song (Hubei Key Laboratory of Cell Homeostasis, College of Life Sciences, Wuhan University) for kindly providing USP20 plasmid.This work was supported by the National Natural Science Foundation of China [82203160, J. T.; 82072594, Y. T.; 82073097, 81874139, S. L.; 82073136, 81772927, D. X.], China Postdoctoral Science Foundation [2022M713531, J. T.], the Natural Science Foundation of Hunan Province [2022JJ40815, J. T.], and the Hunan Provincial Key Area R&#x00026;D Programs [2021SK2013, Y. T.], the Science and Technology Innovation Program of Hunan Province [2022RC3072, Y. T.], and the Central South University Research Programme of Advanced Interdisciplinary Studies (2023QYJC030, Y. T.), and the Aid Program for Science and Technology Innovative Research Team in Higer Educational Institutions of Hunan Province.</p></ack><sec sec-type="data-availability" id="mco2463-sec-0310"><title>DATA AVAILABILITY STATEMENT</title><p>The RNA sequence data are available at <ext-link xlink:href="http://www.ncbi.nlm.nih.gov/bioproject/939902/" ext-link-type="uri" specific-use="software is-supplemented-by">www.ncbi.nlm.nih.gov/bioproject/939902/</ext-link>. The data that support the findings of this study are available from the corresponding author upon reasonable request. Clinical information of patients was included in supplementary dataset.</p></sec><ref-list id="mco2463-bibl-0001"><title>REFERENCES</title><ref id="mco2463-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="mco2463-cit-0001">
+<string-name>
+<surname>Ioannou</surname>
+<given-names>GN</given-names>
+</string-name>. <article-title>HCC surveillance after SVR in patients with F3/F4 fibrosis</article-title>. <source>J Hepatol</source>. <year>2021</year>;<volume>74</volume>(<issue>2</issue>):<fpage>458</fpage>&#x02010;<lpage>465</lpage>.<pub-id pub-id-type="pmid">33303216</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="mco2463-cit-0002">
+<string-name>
+<surname>Donadon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Solbiati</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Hepatocellular carcinoma: the role of interventional oncology</article-title>. <source>Liver Cancer</source>. <year>2016</year>;<volume>6</volume>(<issue>1</issue>):<fpage>34</fpage>&#x02010;<lpage>43</lpage>.<pub-id pub-id-type="pmid">27995086</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="mco2463-cit-0003">
+<string-name>
+<surname>Gentile</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Donadon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lleo</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Surgical treatment of hepatocholangiocarcinoma: a systematic review</article-title>. <source>Liver Cancer</source>. <year>2020</year>;<volume>9</volume>(<issue>1</issue>):<fpage>15</fpage>&#x02010;<lpage>27</lpage>.<pub-id pub-id-type="pmid">32071906</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="mco2463-cit-0004">
+<string-name>
+<surname>Shang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Pharmaceutical immunoglobulin G impairs anti&#x02010;carcinoma activity of oxaliplatin in colon cancer cells</article-title>. <source>Br J Cancer</source>. <year>2021</year>;<volume>124</volume>(<issue>8</issue>):<fpage>1411</fpage>&#x02010;<lpage>1420</lpage>.<pub-id pub-id-type="pmid">33558709</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="mco2463-cit-0005">
+<string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Oxaliplatin aggravates hepatic oxidative stress, inflammation and fibrosis in a non&#x02011;alcoholic fatty liver disease mouse model</article-title>. <source>Int J Mol Med</source>. <year>2019</year>;<volume>43</volume>(<issue>6</issue>):<fpage>2398</fpage>&#x02010;<lpage>2408</lpage>.<pub-id pub-id-type="pmid">30942432</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="mco2463-cit-0006">
+<string-name>
+<surname>Sun</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>Inhibition of DTYMK significantly restrains the growth of HCC and increases sensitivity to oxaliplatin</article-title>. <source>Cell Death Dis</source>. <year>2021</year>;<volume>12</volume>(<issue>12</issue>):<fpage>1093</fpage>.<pub-id pub-id-type="pmid">34795209</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="mco2463-cit-0007">
+<string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>YN</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Lenvatinib for hepatocellular carcinoma: from preclinical mechanisms to anti&#x02010;cancer therapy</article-title>. <source>Biochim Biophys Acta Rev Cancer</source>. <year>2020</year>;<volume>1874</volume>(<issue>1</issue>):<elocation-id>188391</elocation-id>.<pub-id pub-id-type="pmid">32659252</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="mco2463-cit-0008">
+<string-name>
+<surname>Wong</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>King</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>WP</given-names>
+</string-name>. <article-title>The treatment landscape of advanced hepatocellular carcinoma</article-title>. <source>Curr Oncol Rep</source>. <year>2022</year>;<volume>24</volume>(<issue>7</issue>):<fpage>917</fpage>&#x02010;<lpage>927</lpage>.<pub-id pub-id-type="pmid">35347594</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="mco2463-cit-0009">
+<string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>PRMT3&#x02010;mediated arginine methylation of IGF2BP1 promotes oxaliplatin resistance in liver cancer</article-title>. <source>Nat Commun</source>. <year>2023</year>;<volume>14</volume>(<issue>1</issue>):<fpage>1932</fpage>.<pub-id pub-id-type="pmid">37024475</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="mco2463-cit-0010">
+<string-name>
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kan</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>SP1&#x02010;induced lncRNA DUBR promotes stemness and oxaliplatin resistance of hepatocellular carcinoma via E2F1&#x02010;CIP2A feedback</article-title>. <source>Cancer Lett</source>. <year>2022</year>;<volume>528</volume>:<fpage>16</fpage>&#x02010;<lpage>30</lpage>.<pub-id pub-id-type="pmid">34958891</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="mco2463-cit-0011">
+<string-name>
+<surname>Sidaway</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>HAIC&#x02010;FO improves outcomes in HCC</article-title>. <source>Nat Rev Clin Oncol</source>. <year>2022</year>;<volume>19</volume>(<issue>3</issue>):<fpage>150</fpage>.</mixed-citation></ref><ref id="mco2463-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="mco2463-cit-0012">
+<string-name>
+<surname>Lyu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>JB</given-names>
+</string-name>, et&#x000a0;al. <article-title>Arterial chemotherapy of oxaliplatin plus fluorouracil versus sorafenib in advanced hepatocellular carcinoma: a biomolecular exploratory, randomized, phase III trial (FOHAIC&#x02010;1)</article-title>. <source>J Clin Oncol</source>. <year>2022</year>;<volume>40</volume>(<issue>5</issue>):<fpage>468</fpage>&#x02010;<lpage>480</lpage>.<pub-id pub-id-type="pmid">34905388</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="mco2463-cit-0013">
+<string-name>
+<surname>Lyu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mu</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Hepatic arterial infusion of oxaliplatin plus fluorouracil/leucovorin vs. sorafenib for advanced hepatocellular carcinoma</article-title>. <source>J Hepatol</source>. <year>2018</year>;<volume>69</volume>(<issue>1</issue>):<fpage>60</fpage>&#x02010;<lpage>69</lpage>.<pub-id pub-id-type="pmid">29471013</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="mco2463-cit-0014">
+<string-name>
+<surname>Llovet</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Pinyol</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>
+<given-names>RK</given-names>
+</string-name>, et&#x000a0;al. <article-title>Molecular pathogenesis and systemic therapies for hepatocellular carcinoma</article-title>. <source>Nat Cancer</source>. <year>2022</year>;<volume>3</volume>(<issue>4</issue>):<fpage>386</fpage>&#x02010;<lpage>401</lpage>.<pub-id pub-id-type="pmid">35484418</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="mco2463-cit-0015">
+<string-name>
+<surname>Li</surname>
+<given-names>QJ</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>HW</given-names>
+</string-name>, et&#x000a0;al. <article-title>Hepatic arterial infusion of oxaliplatin, fluorouracil, and leucovorin versus transarterial chemoembolization for large hepatocellular carcinoma: a randomized phase III trial</article-title>. <source>J Clin Oncol</source>. <year>2022</year>;<volume>40</volume>(<issue>2</issue>):<fpage>150</fpage>&#x02010;<lpage>160</lpage>.<pub-id pub-id-type="pmid">34648352</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="mco2463-cit-0016">
+<string-name>
+<surname>Jensen</surname>
+<given-names>NF</given-names>
+</string-name>, <string-name>
+<surname>Stenvang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>
+<given-names>MK</given-names>
+</string-name>, et&#x000a0;al. <article-title>Establishment and characterization of models of chemotherapy resistance in colorectal cancer: towards a predictive signature of chemoresistance</article-title>. <source>Mol Oncol</source>. <year>2015</year>;<volume>9</volume>(<issue>6</issue>):<fpage>1169</fpage>&#x02010;<lpage>1185</lpage>.<pub-id pub-id-type="pmid">25759163</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="mco2463-cit-0017">
+<string-name>
+<surname>Shamseddine</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zeidan</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Kreidieh</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Short&#x02010;course radiation followed by mFOLFOX&#x02010;6 plus avelumab for locally&#x02010;advanced rectal adenocarcinoma</article-title>. <source>BMC Cancer</source>. <year>2020</year>;<volume>20</volume>(<issue>1</issue>):<fpage>831</fpage>.<pub-id pub-id-type="pmid">32873251</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="mco2463-cit-0018">
+<string-name>
+<surname>Lin</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Hsiao</surname>
+<given-names>KY</given-names>
+</string-name>. <article-title>Oxaliplatin&#x02010;induced DHX9 phosphorylation promotes oncogenic circular RNA CCDC66 expression and development of chemoresistance</article-title>. <source>Cancers (Basel)</source>. <year>2020</year>;<volume>12</volume>(<issue>3</issue>):<fpage>697</fpage>.<pub-id pub-id-type="pmid">32187976</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="mco2463-cit-0019">
+<string-name>
+<surname>Chen</surname>
+<given-names>HY</given-names>
+</string-name>, <string-name>
+<surname>Islam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Chueh</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Regulation of tNOX expression through the ROS&#x02010;p53&#x02010;POU3F2 axis contributes to cellular responses against oxaliplatin in human colon cancer cells</article-title>. <source>J Exp Clin Cancer Res</source>. <year>2018</year>;<volume>37</volume>(<issue>1</issue>):<fpage>161</fpage>.<pub-id pub-id-type="pmid">30029680</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="mco2463-cit-0020">
+<string-name>
+<surname>Ma</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>LSD1&#x02010;demethylated LINC01134 confers oxaliplatin resistance through SP1&#x02010;induced p62 transcription in HCC</article-title>. <source>Hepatology</source>. <year>2021</year>;<volume>74</volume>(<issue>6</issue>):<fpage>3213</fpage>&#x02010;<lpage>3234</lpage>.<pub-id pub-id-type="pmid">34322883</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="mco2463-cit-0021">
+<string-name>
+<surname>Zuo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Redox signaling at the crossroads of human health and disease</article-title>. <source>MedComm</source>. <year>2022</year>;<volume>3</volume>(<issue>2</issue>):<elocation-id>e127</elocation-id>.<pub-id pub-id-type="pmid">35386842</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="mco2463-cit-0022">
+<string-name>
+<surname>Dixon</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Lemberg</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Lamprecht</surname>
+<given-names>MR</given-names>
+</string-name>, et&#x000a0;al. <article-title>Ferroptosis: an iron&#x02010;dependent form of nonapoptotic cell death</article-title>. <source>Cell</source>. <year>2012</year>;<volume>149</volume>(<issue>5</issue>):<fpage>1060</fpage>&#x02010;<lpage>1072</lpage>.<pub-id pub-id-type="pmid">22632970</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="mco2463-cit-0023">
+<string-name>
+<surname>Tang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kroemer</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Ferroptosis: molecular mechanisms and health implications</article-title>. <source>Cell Res</source>. <year>2021</year>;<volume>31</volume>(<issue>2</issue>):<fpage>107</fpage>&#x02010;<lpage>125</lpage>.<pub-id pub-id-type="pmid">33268902</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="mco2463-cit-0024">
+<string-name>
+<surname>Stockwell</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Friedmann Angeli</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bayir</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Ferroptosis: a regulated cell death nexus linking metabolism, redox biology, and disease</article-title>. <source>Cell</source>. <year>2017</year>;<volume>171</volume>(<issue>2</issue>):<fpage>273</fpage>&#x02010;<lpage>285</lpage>.<pub-id pub-id-type="pmid">28985560</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="mco2463-cit-0025">
+<string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>X</given-names>
+</string-name>, et&#x000a0;al. <article-title>The epigenetic regulators and metabolic changes in ferroptosis&#x02010;associated cancer progression</article-title>. <source>Mol Cancer</source>. <year>2020</year>;<volume>19</volume>(<issue>1</issue>):<fpage>39</fpage>.<pub-id pub-id-type="pmid">32103754</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="mco2463-cit-0026">
+<string-name>
+<surname>Qiu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Disulfiram, a ferroptosis inducer, triggers lysosomal membrane permeabilization by up&#x02010;regulating ROS in glioblastoma</article-title>. <source>Onco Targets Ther</source>. <year>2020</year>;<volume>13</volume>:<fpage>10631</fpage>&#x02010;<lpage>10640</lpage>.<pub-id pub-id-type="pmid">33116640</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="mco2463-cit-0027">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Ferroptosis is governed by differential regulation of transcription in liver cancer</article-title>. <source>Redox Biol</source>. <year>2019</year>;<volume>24</volume>:<elocation-id>101211</elocation-id>.<pub-id pub-id-type="pmid">31108460</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="mco2463-cit-0028">
+<string-name>
+<surname>Guo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>X</given-names>
+</string-name>, et&#x000a0;al. <article-title>A combined model of human iPSC&#x02010;derived liver organoids and hepatocytes reveals ferroptosis in DGUOK mutant mtDNA depletion syndrome</article-title>. <source>Adv Sci (Weinh)</source>. <year>2021</year>;<volume>8</volume>(<issue>10</issue>):<elocation-id>2004680</elocation-id>.<pub-id pub-id-type="pmid">34026460</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="mco2463-cit-0029">
+<string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. (<article-title>+)&#x02010;Clausenamide protects against drug&#x02010;induced liver injury by inhibiting hepatocyte ferroptosis</article-title>. <source>Cell Death Dis</source>. <year>2020</year>;<volume>11</volume>(<issue>9</issue>):<fpage>781</fpage>.<pub-id pub-id-type="pmid">32951003</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="mco2463-cit-0030">
+<string-name>
+<surname>Yuan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, et&#x000a0;al. <article-title>EBV infection&#x02010;induced GPX4 promotes chemoresistance and tumor progression in nasopharyngeal carcinoma</article-title>. <source>Cell Death Differ</source>. <year>2022</year>;<volume>29</volume>(<issue>8</issue>):<fpage>1513</fpage>&#x02010;<lpage>1527</lpage>.<pub-id pub-id-type="pmid">35105963</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="mco2463-cit-0031">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, et&#x000a0;al. <article-title>BAP1 links metabolic regulation of ferroptosis to tumour suppression</article-title>. <source>Nat Cell Biol</source>. <year>2018</year>;<volume>20</volume>(<issue>10</issue>):<fpage>1181</fpage>&#x02010;<lpage>1192</lpage>.<pub-id pub-id-type="pmid">30202049</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="mco2463-cit-0032">
+<string-name>
+<surname>Ouyang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lou</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Inhibition of STAT3&#x02010;ferroptosis negative regulatory axis suppresses tumor growth and alleviates chemoresistance in gastric cancer</article-title>. <source>Redox Biol</source>. <year>2022</year>;<volume>52</volume>:<elocation-id>102317</elocation-id>.<pub-id pub-id-type="pmid">35483272</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="mco2463-cit-0033">
+<string-name>
+<surname>Fu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Induction of ferroptosis by ATF3 elevation alleviates cisplatin resistance in gastric cancer by restraining Nrf2/Keap1/xCT signaling</article-title>. <source>Cell Mol Biol Lett</source>. <year>2021</year>;<volume>26</volume>(<issue>1</issue>):<fpage>26</fpage>.<pub-id pub-id-type="pmid">34098867</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="mco2463-cit-0034">
+<string-name>
+<surname>Xie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, et&#x000a0;al. <article-title>Ferroptosis: process and function</article-title>. <source>Cell Death Differ</source>. <year>2016</year>;<volume>23</volume>(<issue>3</issue>):<fpage>369</fpage>&#x02010;<lpage>379</lpage>.<pub-id pub-id-type="pmid">26794443</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="mco2463-cit-0035">
+<string-name>
+<surname>Schwartz</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Ciechanover</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Targeting proteins for destruction by the ubiquitin system: implications for human pathobiology</article-title>. <source>Annu Rev Pharmacol Toxicol</source>. <year>2009</year>;<volume>49</volume>:<fpage>73</fpage>&#x02010;<lpage>96</lpage>.<pub-id pub-id-type="pmid">18834306</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="mco2463-cit-0036">
+<string-name>
+<surname>Manasanch</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>
+<given-names>RZ</given-names>
+</string-name>. <article-title>Proteasome inhibitors in cancer therapy</article-title>. <source>Nat Rev Clin Oncol</source>. <year>2017</year>;<volume>14</volume>(<issue>7</issue>):<fpage>417</fpage>&#x02010;<lpage>433</lpage>.<pub-id pub-id-type="pmid">28117417</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="mco2463-cit-0037">
+<string-name>
+<surname>Jiao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Interferon regulatory factor 1&#x02010;triggered free ubiquitin protects the intestines against radiation&#x02010;induced injury via CXCR4/FGF2 signaling</article-title>. <source>MedComm</source>. <year>2022</year>;<volume>3</volume>(<issue>3</issue>):<elocation-id>e168</elocation-id>.<pub-id pub-id-type="pmid">36051984</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="mco2463-cit-0038">
+<string-name>
+<surname>Liao</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Jeng</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>MM</given-names>
+</string-name>. <article-title>Ubiquitination and deubiquitination of NP protein regulates influenza A virus RNA replication</article-title>. <source>EMBO J</source>. <year>2010</year>;<volume>29</volume>(<issue>22</issue>):<fpage>3879</fpage>&#x02010;<lpage>3890</lpage>.<pub-id pub-id-type="pmid">20924359</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="mco2463-cit-0039">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Kuramitsu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Endoplasmic reticulium protein profiling of heat&#x02010;stressed Jurkat cells by one dimensional electrophoresis and liquid chromatography tandem mass spectrometry</article-title>. <source>Cytotechnology</source>. <year>2016</year>;<volume>68</volume>(<issue>4</issue>):<fpage>1103</fpage>&#x02010;<lpage>1113</lpage>.<pub-id pub-id-type="pmid">25976506</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="mco2463-cit-0040">
+<string-name>
+<surname>Wang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>Role of Ku70 in deubiquitination of Mcl&#x02010;1 and suppression of apoptosis</article-title>. <source>Cell Death Differ</source>. <year>2014</year>;<volume>21</volume>(<issue>7</issue>):<fpage>1160</fpage>&#x02010;<lpage>1169</lpage>.<pub-id pub-id-type="pmid">24769731</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="mco2463-cit-0041">
+<string-name>
+<surname>Doll</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Freitas</surname>
+<given-names>FP</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>R</given-names>
+</string-name>, et&#x000a0;al. <article-title>FSP1 is a glutathione&#x02010;independent ferroptosis suppressor</article-title>. <source>Nature</source>. <year>2019</year>;<volume>575</volume>(<issue>7784</issue>):<fpage>693</fpage>&#x02010;<lpage>698</lpage>.<pub-id pub-id-type="pmid">31634899</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="mco2463-cit-0042">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ouyang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>PCDHB14 promotes ferroptosis and is a novel tumor suppressor in hepatocellular carcinoma</article-title>. <source>Oncogene</source>. <year>2022</year>;<volume>41</volume>(<issue>27</issue>):<fpage>3570</fpage>&#x02010;<lpage>3583</lpage>.<pub-id pub-id-type="pmid">35688944</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="mco2463-cit-0043">
+<string-name>
+<surname>Lu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>USP18 and USP20 restrict oHSV&#x02010;1 replication in resistant human oral squamous carcinoma cell line SCC9 and affect the viability of SCC9 cells</article-title>. <source>Mol Ther Oncolytics</source>. <year>2021</year>;<volume>23</volume>:<fpage>477</fpage>&#x02010;<lpage>487</lpage>.<pub-id pub-id-type="pmid">34901390</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="mco2463-cit-0044">
+<string-name>
+<surname>Lu</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>XJ</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Feeding induces cholesterol biosynthesis via the mTORC1&#x02010;USP20&#x02010;HMGCR axis</article-title>. <source>Nature</source>. <year>2020</year>;<volume>588</volume>(<issue>7838</issue>):<fpage>479</fpage>&#x02010;<lpage>484</lpage>.<pub-id pub-id-type="pmid">33177714</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="mco2463-cit-0045">
+<string-name>
+<surname>Friedmann Angeli</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Proneth</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Inactivation of the ferroptosis regulator Gpx4 triggers acute renal failure in mice</article-title>. <source>Nat Cell Biol</source>. <year>2014</year>;<volume>16</volume>(<issue>12</issue>):<fpage>1180</fpage>&#x02010;<lpage>1191</lpage>.<pub-id pub-id-type="pmid">25402683</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="mco2463-cit-0046">
+<string-name>
+<surname>Huang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>Stem cell programs in cancer initiation, progression, and therapy resistance</article-title>. <source>Theranostics</source>. <year>2020</year>;<volume>10</volume>(<issue>19</issue>):<fpage>8721</fpage>&#x02010;<lpage>8743</lpage>.<pub-id pub-id-type="pmid">32754274</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="mco2463-cit-0047">
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>xCT: a critical molecule that links cancer metabolism to redox signaling</article-title>. <source>Mol Ther</source>. <year>2020</year>;<volume>28</volume>(<issue>11</issue>):<fpage>2358</fpage>&#x02010;<lpage>2366</lpage>.<pub-id pub-id-type="pmid">32931751</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="mco2463-cit-0048">
+<string-name>
+<surname>Deng</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>B</given-names>
+</string-name>, et&#x000a0;al. <article-title>Deubiquitination and activation of AMPK by USP10</article-title>. <source>Mol Cell</source>. <year>2016</year>;<volume>61</volume>(<issue>4</issue>):<fpage>614</fpage>&#x02010;<lpage>624</lpage>.<pub-id pub-id-type="pmid">26876938</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="mco2463-cit-0049">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>CDK4/6 inhibition blocks cancer metastasis through a USP51&#x02010;ZEB1&#x02010;dependent deubiquitination mechanism</article-title>. <source>Signal Transduct Target Ther</source>. <year>2020</year>;<volume>5</volume>(<issue>1</issue>):<fpage>25</fpage>.<pub-id pub-id-type="pmid">32296027</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="mco2463-cit-0050">
+<string-name>
+<surname>Gu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>X</given-names>
+</string-name>, et&#x000a0;al. <article-title>The IKK&#x003b2;&#x02010;USP30&#x02010;ACLY axis controls lipogenesis and tumorigenesis</article-title>. <source>Hepatology</source>. <year>2021</year>;<volume>73</volume>(<issue>1</issue>):<fpage>160</fpage>&#x02010;<lpage>174</lpage>.<pub-id pub-id-type="pmid">32221968</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="mco2463-cit-0051">
+<string-name>
+<surname>Cimprich</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Cortez</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>ATR: an essential regulator of genome integrity</article-title>. <source>Nat Rev Mol Cell Biol</source>. <year>2008</year>;<volume>9</volume>(<issue>8</issue>):<fpage>616</fpage>&#x02010;<lpage>627</lpage>.<pub-id pub-id-type="pmid">18594563</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="mco2463-cit-0052">
+<string-name>
+<surname>Xu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>LY&#x02011;294002 enhances the chemosensitivity of liver cancer to oxaliplatin by blocking the PI3K/AKT/HIF&#x02011;1&#x003b1; pathway</article-title>. <source>Mol Med Rep</source>. <year>2021</year>;<volume>24</volume>(<issue>1</issue>):<fpage>508</fpage>.<pub-id pub-id-type="pmid">33982772</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="mco2463-cit-0053">
+<string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cost&#x02010;effectiveness analysis of hepatic arterial infusion of FOLFOX combined sorafenib for advanced hepatocellular carcinoma with portal vein invasion</article-title>. <source>Front Oncol</source>. <year>2021</year>;<volume>11</volume>:<elocation-id>562135</elocation-id>.<pub-id pub-id-type="pmid">33767976</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="mco2463-cit-0054">
+<string-name>
+<surname>Hassannia</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Vandenabeele</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vanden Berghe</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Targeting ferroptosis to iron out cancer</article-title>. <source>Cancer Cell</source>. <year>2019</year>;<volume>35</volume>(<issue>6</issue>):<fpage>830</fpage>&#x02010;<lpage>849</lpage>.<pub-id pub-id-type="pmid">31105042</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="mco2463-cit-0055">
+<string-name>
+<surname>Lee</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>You</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Roh</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Epigenetic reprogramming of epithelial&#x02010;mesenchymal transition promotes ferroptosis of head and neck cancer</article-title>. <source>Redox Biol</source>. <year>2020</year>;<volume>37</volume>:<elocation-id>101697</elocation-id>.<pub-id pub-id-type="pmid">32896720</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="mco2463-cit-0056">
+<string-name>
+<surname>Gao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kalathur</surname>
+<given-names>RKR</given-names>
+</string-name>, <string-name>
+<surname>Coto&#x02010;Llerena</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>YAP/TAZ and ATF4 drive resistance to Sorafenib in hepatocellular carcinoma by preventing ferroptosis</article-title>. <source>EMBO Mol Med</source>. <year>2021</year>;<volume>13</volume>(<issue>12</issue>):<elocation-id>e14351</elocation-id>.<pub-id pub-id-type="pmid">34664408</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="mco2463-cit-0057">
+<string-name>
+<surname>Lang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>Radiotherapy and immunotherapy promote tumoral lipid oxidation and ferroptosis via synergistic repression of SLC7A11</article-title>. <source>Cancer Discov</source>. <year>2019</year>;<volume>9</volume>(<issue>12</issue>):<fpage>1673</fpage>&#x02010;<lpage>1685</lpage>.<pub-id pub-id-type="pmid">31554642</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="mco2463-cit-0058">
+<string-name>
+<surname>Lei</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Koppula</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>The role of ferroptosis in ionizing radiation&#x02010;induced cell death and tumor suppression</article-title>. <source>Cell Res</source>. <year>2020</year>;<volume>30</volume>(<issue>2</issue>):<fpage>146</fpage>&#x02010;<lpage>162</lpage>.<pub-id pub-id-type="pmid">31949285</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="mco2463-cit-0059">
+<string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M&#x02010;X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, et&#x000a0;al. <article-title>USP18 recruits USP20 to promote innate antiviral response through deubiquitinating STING/MITA</article-title>. <source>Cell Res</source>. <year>2016</year>;<volume>26</volume>(<issue>12</issue>):<fpage>1302</fpage>&#x02010;<lpage>1319</lpage>.<pub-id pub-id-type="pmid">27801882</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="mco2463-cit-0060">
+<string-name>
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>HERC2/USP20 coordinates CHK1 activation by modulating CLASPIN stability</article-title>. <source>Nucleic Acids Res</source>. <year>2014</year>;<volume>42</volume>(<issue>21</issue>):<fpage>13074</fpage>&#x02010;<lpage>13081</lpage>.<pub-id pub-id-type="pmid">25326330</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="mco2463-cit-0061">
+<string-name>
+<surname>Yuan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>HERC2&#x02010;USP20 axis regulates DNA damage checkpoint through Claspin</article-title>. <source>Nucleic Acids Res</source>. <year>2014</year>;<volume>42</volume>(<issue>21</issue>):<fpage>13110</fpage>&#x02010;<lpage>13121</lpage>.<pub-id pub-id-type="pmid">25355518</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="mco2463-cit-0062">
+<string-name>
+<surname>Berthouze</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Venkataramanan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shenoy</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>The deubiquitinases USP33 and USP20 coordinate &#x003b2;2 adrenergic receptor recycling and resensitization</article-title>. <source>EMBO J</source>. <year>2009</year>;<volume>28</volume>(<issue>12</issue>):<fpage>1684</fpage>&#x02010;<lpage>1696</lpage>. <pub-id pub-id-type="doi">10.1038/emboj.2009.128</pub-id>
+<pub-id pub-id-type="pmid">19424180</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="mco2463-cit-0063">
+<string-name>
+<surname>Yasunaga</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lin Frank</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jeang</surname>
+<given-names>K&#x02010;T</given-names>
+</string-name>. <article-title>Ubiquitin&#x02010;specific peptidase 20 targets TRAF6 and human T cell leukemia virus type 1 tax to negatively regulate nf&#x02010;&#x003ba;b signaling</article-title>. <source>J Virol</source>. <year>2011</year>;<volume>85</volume>(<issue>13</issue>):<fpage>6212</fpage>&#x02010;<lpage>6219</lpage>.<pub-id pub-id-type="pmid">21525354</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="mco2463-cit-0064">
+<string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>YZ</given-names>
+</string-name>, et&#x000a0;al. <article-title>Deubiquitinase USP20 promotes breast cancer metastasis by stabilizing SNAI2</article-title>. <source>Genes Dev</source>. <year>2020</year>;<volume>34</volume>(<issue>19&#x02010;20</issue>):<fpage>1310</fpage>&#x02010;<lpage>1315</lpage>.<pub-id pub-id-type="pmid">32943575</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="mco2463-cit-0065">
+<string-name>
+<surname>Yuan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>HERC2&#x02010;USP20 axis regulates DNA damage checkpoint through Claspin</article-title>. <source>Nucleic Acids Res</source>. <year>2014</year>;<volume>42</volume>(<issue>21</issue>):<fpage>13110</fpage>&#x02010;<lpage>13121</lpage>.<pub-id pub-id-type="pmid">25355518</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="mco2463-cit-0066">
+<string-name>
+<surname>Zhu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>HERC2/USP20 coordinates CHK1 activation by modulating CLASPIN stability</article-title>. <source>Nucleic Acids Res</source>. <year>2014</year>;<volume>42</volume>(<issue>21</issue>):<fpage>13074</fpage>&#x02010;<lpage>13081</lpage>.<pub-id pub-id-type="pmid">25326330</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="mco2463-cit-0067">
+<string-name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Messing</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>VHL protein&#x02010;interacting deubiquitinating enzyme 2 deubiquitinates and stabilizes HIF&#x02010;1alpha</article-title>. <source>EMBO Rep</source>. <year>2005</year>;<volume>6</volume>(<issue>4</issue>):<fpage>373</fpage>&#x02010;<lpage>378</lpage>.<pub-id pub-id-type="pmid">15776016</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="mco2463-cit-0068">
+<string-name>
+<surname>Wu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>USP20 positively regulates tumorigenesis and chemoresistance through &#x003b2;&#x02010;catenin stabilization</article-title>. <source>Cell Death Differ</source>. <year>2018</year>;<volume>25</volume>(<issue>10</issue>):<fpage>1855</fpage>&#x02010;<lpage>1869</lpage>.<pub-id pub-id-type="pmid">29867130</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="mco2463-cit-0069">
+<string-name>
+<surname>Guan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>ZB</given-names>
+</string-name>. <article-title>USP20 regulates the stability of EMT transcription factor SOX4 and influences colorectal cancer metastasis</article-title>. <source>Pathol Res Pract</source>. <year>2022</year>;<volume>233</volume>:<elocation-id>153879</elocation-id>.<pub-id pub-id-type="pmid">35405623</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="mco2463-cit-0070">
+<string-name>
+<surname>Wu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>F</given-names>
+</string-name>, et&#x000a0;al. <article-title>USP20 positively regulates tumorigenesis and chemoresistance through &#x003b2;&#x02010;catenin stabilization</article-title>. <source>Cell Death Differ</source>. <year>2018</year>;<volume>25</volume>(<issue>10</issue>):<fpage>1855</fpage>&#x02010;<lpage>1869</lpage>.<pub-id pub-id-type="pmid">29867130</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="mco2463-cit-0071">
+<string-name>
+<surname>Li</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>T</given-names>
+</string-name>, et&#x000a0;al. <article-title>The emerging role of ubiquitin&#x02010;specific protease 20 in tumorigenesis and cancer therapeutics</article-title>. <source>Cell Death Dis</source>. <year>2022</year>;<volume>13</volume>(<issue>5</issue>):<fpage>434</fpage>.<pub-id pub-id-type="pmid">35508480</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="mco2463-cit-0072">
+<string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>SOCS2&#x02010;enhanced ubiquitination of SLC7A11 promotes ferroptosis and radiosensitization in hepatocellular carcinoma</article-title>. <source>Cell Death Differ</source>. <year>2023</year>;<volume>30</volume>(<issue>1</issue>):<fpage>137</fpage>&#x02010;<lpage>151</lpage>.<pub-id pub-id-type="pmid">35995846</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="mco2463-cit-0073">
+<string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tavana</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>The deubiquitylase OTUB1 mediates ferroptosis via stabilization of SLC7A11</article-title>. <source>Cancer Res</source>. <year>2019</year>;<volume>79</volume>(<issue>8</issue>):<fpage>1913</fpage>&#x02010;<lpage>1924</lpage>.<pub-id pub-id-type="pmid">30709928</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="mco2463-cit-0074">
+<string-name>
+<surname>Thrower</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rechsteiner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pickart</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Recognition of the polyubiquitin proteolytic signal</article-title>. <source>EMBO J</source>. <year>2000</year>;<volume>19</volume>(<issue>1</issue>):<fpage>94</fpage>&#x02010;<lpage>102</lpage>.<pub-id pub-id-type="pmid">10619848</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="mco2463-cit-0075">
+<string-name>
+<surname>Jin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Williamson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Banerjee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Philipp</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Rape</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Mechanism of ubiquitin&#x02010;chain formation by the human anaphase&#x02010;promoting complex</article-title>. <source>Cell</source>. <year>2008</year>;<volume>133</volume>(<issue>4</issue>):<fpage>653</fpage>&#x02010;<lpage>665</lpage>.<pub-id pub-id-type="pmid">18485873</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="mco2463-cit-0076">
+<string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>The deubiquitinating enzyme UCHL3 promotes anaplastic thyroid cancer progression and metastasis through Hippo signaling pathway</article-title>. <source>Cell Death Differ</source>. <year>2023</year>;<volume>30</volume>(<issue>5</issue>):<fpage>1247</fpage>&#x02010;<lpage>1259</lpage>.<pub-id pub-id-type="pmid">36813921</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="mco2463-cit-0077">
+<string-name>
+<surname>Tang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Targeting USP8 inhibits O&#x02010;GlcNAcylation of SLC7A11 to promote ferroptosis of hepatocellular carcinoma via stabilization of OGT</article-title>. <source>Adv Sci (Weinh)</source>. <year>2023</year>;<volume>10</volume>:<elocation-id>e2302953</elocation-id>.<pub-id pub-id-type="pmid">37867237</pub-id>
+</mixed-citation></ref><ref id="mco2463-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="mco2463-cit-0078">
+<string-name>
+<surname>Yan</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, et&#x000a0;al. <article-title>The ubiquitin&#x02010;specific protease 5 mediated deubiquitination of LSH links metabolic regulation of ferroptosis to hepatocellular carcinoma progression</article-title>. <source>MedComm</source>. <year>2023</year>;<volume>4</volume>(<issue>4</issue>):<elocation-id>e337</elocation-id>.<pub-id pub-id-type="pmid">37492786</pub-id>
+</mixed-citation></ref></ref-list></back></article>

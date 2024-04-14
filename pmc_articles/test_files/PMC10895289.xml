@@ -1,0 +1,795 @@
+<!-- The Source File : 65-72.docx -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="zh" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Zhongguo Fei Ai Za Zhi</journal-id><journal-id journal-id-type="iso-abbrev">Zhongguo Fei Ai Za Zhi</journal-id><journal-title-group><journal-title>Chinese Journal of Lung Cancer</journal-title></journal-title-group><issn pub-type="ppub">1009-3419</issn><issn pub-type="epub">1999-6187</issn><publisher><publisher-name>Editorial board of Chinese Journal of Lung Cancer</publisher-name><publisher-loc>No. 154 Anshan Road, Heping District, Tianjin, PRC, 300052</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38296627</article-id><article-id pub-id-type="pmc">PMC10895289</article-id>
+<article-id pub-id-type="doi">10.3779/j.issn.1009-3419.2023.106.28</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>&#x07c92;&#x07ec6;&#x080de;&#x06837;&#x09ad3;&#x06e90;&#x06027;&#x06291;&#x05236;&#x07ec6;&#x080de;&#x05728;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x04e2d;&#x07684;&#x07814;&#x07a76;&#x08fdb;&#x05c55;</article-title><trans-title-group><trans-title xml:lang="en">Research Progress of Granulocytic Myeloid-derived Suppressor Cells in Non-small Cell Lung Cancer</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><name xml:lang="en"><surname>YANG</surname><given-names>Chaodan</given-names></name><!--<string-name>&#x06768;&#x0671d;&#x04e39;</string-name>--><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>ZHU</surname><given-names>Rui</given-names></name><!--<string-name>&#x06731;&#x0854a;</string-name>--><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>ZHANG</surname><given-names>Yuting</given-names></name><!--<string-name>&#x05f20;&#x0715c;&#x05a77;</string-name>--><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>YING</surname><given-names>Lisha</given-names></name><!--<string-name>&#x05e94;&#x08389;&#x0838e;</string-name>--><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>WANG</surname><given-names>Jiamin</given-names></name><!--<string-name>&#x0738b;&#x04f73;&#x0654f;</string-name>--><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>LIU</surname><given-names>Pan</given-names></name><!--<string-name>&#x05218;&#x076fc;</string-name>--><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>SU</surname><given-names>Dan</given-names></name><!--<string-name>&#x082cf;&#x04e39;</string-name>--><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="cor1" ref-type="corresp"/><xref rid="cor2" ref-type="corresp"/><email>sudan@zjcc.org.cn</email></contrib><aff-alternatives id="aff1"><aff>
+<addr-line><sup>1</sup>310024 &#x0676d;&#x05dde;&#x0ff0c;&#x056fd;&#x079d1;&#x05927;&#x0676d;&#x05dde;&#x09ad8;&#x07b49;&#x07814;&#x07a76;&#x09662;&#x05206;&#x05b50;&#x0533b;&#x05b66;&#x09662;&#x0ff08;&#x06768;&#x0671d;&#x04e39;&#x0ff0c;&#x0738b;&#x04f73;&#x0654f;&#x0ff0c;&#x082cf;&#x04e39;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>1</sup>School of Molecular Medicine, Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, Hangzhou 310024, China</addr-line>
+</aff></aff-alternatives><aff-alternatives id="aff2"><aff>
+<addr-line><sup>2</sup>201203 &#x04e0a;&#x06d77;&#x0ff0c;&#x04e2d;&#x056fd;&#x079d1;&#x05b66;&#x09662;&#x04e0a;&#x06d77;&#x0836f;&#x07269;&#x07814;&#x07a76;&#x06240;&#x0ff08;&#x06768;&#x0671d;&#x04e39;&#x0ff0c;&#x0738b;&#x04f73;&#x0654f;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>2</sup>Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China</addr-line>
+</aff></aff-alternatives><aff-alternatives id="aff3"><aff>
+<addr-line><sup>3</sup>100049 &#x05317;&#x04eac;&#x0ff0c;&#x04e2d;&#x056fd;&#x079d1;&#x05b66;&#x09662;&#x05927;&#x05b66;&#x0ff08;&#x06768;&#x0671d;&#x04e39;&#x0ff0c;&#x0738b;&#x04f73;&#x0654f;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>3</sup>University ofChinese Academy of Sciences, Beijing 100049, China</addr-line>
+</aff></aff-alternatives><aff-alternatives id="aff4"><aff>
+<addr-line><sup>4</sup>310022 &#x0676d;&#x05dde;&#x0ff0c;&#x06d59;&#x06c5f;&#x07701;&#x080bf;&#x07624;&#x0533b;&#x09662;&#x075c5;&#x07406;&#x079d1;&#x0ff0c;&#x04e2d;&#x056fd;&#x079d1;&#x05b66;&#x09662;&#x0676d;&#x05dde;&#x0533b;&#x05b66;&#x07814;&#x07a76;&#x06240;&#x0ff08;&#x06731;&#x0854a;&#x0ff0c;&#x05e94;&#x08389;&#x0838e;&#x0ff0c;&#x05218;&#x076fc;&#x0ff0c;&#x082cf;&#x04e39;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>4</sup>Department of Pathology, Zhejiang Cancer Hospital, Hangzhou Instituteof Medicine, Chinese Academy of Sciences, Hangzhou 310022, China</addr-line>
+</aff></aff-alternatives><aff-alternatives id="aff5"><aff>
+<addr-line><sup>5</sup>310022 &#x0676d;&#x05dde;&#x0ff0c;&#x06e29;&#x05dde;&#x0533b;&#x079d1;&#x05927;&#x05b66;&#x07814;&#x07a76;&#x0751f;&#x057f9;&#x0517b;&#x057fa;&#x05730;&#x0ff0c;&#x06d59;&#x06c5f;&#x07701;&#x080bf;&#x07624;&#x0533b;&#x09662;&#x0ff08;&#x05f20;&#x0715c;&#x05a77;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>5</sup>Postgraduate Training Base Alliance of Wenzhou MedicalUniversity, Zhejiang Cancer Hospital, Hangzhou 310022, China</addr-line>
+</aff></aff-alternatives></contrib-group><author-notes><corresp id="cor1">&#x082cf;&#x04e39;&#x0ff0c;E-mail: <email>sudan@zjcc.org.cn</email></corresp><corresp id="cor2" xml:lang="en">Dan SU, E-mail: <email>sudan@zjcc.org.cn</email></corresp></author-notes><pub-date pub-type="ppub"><day>20</day><month>1</month><year>2024</year></pub-date><volume>27</volume><issue>1</issue><fpage>65</fpage><lpage>72</lpage><history><date date-type="received"><day>20</day><month>10</month><year>2023</year></date></history><permissions><copyright-statement>&#x07248;&#x06743;&#x06240;&#x06709; &#x000a9; 2023&#x0300a;&#x04e2d;&#x056fd;&#x080ba;&#x0764c;&#x06742;&#x05fd7;&#x0300b;&#x07f16;&#x08f91;&#x090e8;</copyright-statement><copyright-statement>Copyright &#x000a9; 2023, Chinese Journal of Lung Cancer.</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Chinese Journal of Lung Cancer</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/3.0/</ali:license_ref><license-p>This is an open access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 3.0) License. See: <ext-link xlink:href="https://creativecommons.org/licenses/by/3.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/3.0/</ext-link>.</license-p></license></permissions><abstract><p id="p00000">&#x07c92;&#x07ec6;&#x080de;&#x06837;&#x09ad3;&#x06e90;&#x06027;&#x06291;&#x05236;&#x07ec6;&#x080de;&#x0ff08;granulocytic myeloid-derived suppressor cells, G-MDSCs&#x0ff09;&#x0662f;MDSCs&#x07684;&#x04e3b;&#x08981;&#x04e9a;&#x07fa4;&#x04e4b;&#x04e00;&#x0ff0c;&#x05728;&#x0591a;&#x06570;&#x0764c;&#x075c7;&#x04e2d;&#x05e7f;&#x06cdb;&#x05bcc;&#x096c6;&#x0ff0c;&#x0901a;&#x08fc7;&#x08868;&#x08fbe;&#x07cbe;&#x06c28;&#x09178;&#x09176;1&#x0ff08;arginase-1, Arg-1&#x0ff09;&#x053ca;&#x06d3b;&#x06027;&#x06c27;&#x0ff08;reactive oxygen species, ROS&#x0ff09;&#x07b49;&#x0673a;&#x05236;&#x06291;&#x05236;&#x06dcb;&#x05df4;T&#x07ec6;&#x080de;&#x06740;&#x04f24;&#x0529f;&#x080fd;&#x0ff0c;&#x091cd;&#x05851;&#x080bf;&#x07624;&#x0514d;&#x075ab;&#x05fae;&#x073af;&#x05883;&#x0ff0c;&#x04fc3;&#x08fdb;&#x080bf;&#x07624;&#x07684;&#x053d1;&#x0751f;&#x053d1;&#x05c55;&#x03002;&#x08fd1;&#x05e74;&#x06765;&#x0ff0c;&#x08d8a;&#x06765;&#x08d8a;&#x0591a;&#x07684;&#x07814;&#x07a76;&#x053d1;&#x073b0;G-MDSCs&#x04e0e;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x07684;&#x09884;&#x0540e;&#x0548c;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07597;&#x06548;&#x05177;&#x06709;&#x0663e;&#x08457;&#x076f8;&#x05173;&#x06027;&#x0ff0c;&#x04f7f;&#x07528;&#x07279;&#x05f02;&#x06027;&#x09776;&#x05411;G-MDSCs&#x07684;&#x052df;&#x096c6;&#x03001;&#x05206;&#x05316;&#x0548c;&#x0529f;&#x080fd;&#x07684;&#x0836f;&#x07269;&#x080fd;&#x0591f;&#x06709;&#x06548;&#x06291;&#x05236;&#x080bf;&#x07624;&#x07684;&#x08fdb;&#x05c55;&#x03002;&#x0672c;&#x06587;&#x04e3b;&#x08981;&#x05c31;G-MDSCs&#x05728;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x04e2d;&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x04f5c;&#x07528;&#x053ca;&#x05176;&#x076f8;&#x05173;&#x0901a;&#x08def;&#x09776;&#x05411;&#x0836f;&#x07269;&#x07684;&#x07814;&#x07a76;&#x08fdb;&#x05c55;&#x08fdb;&#x0884c;&#x07efc;&#x08ff0;&#x03002;</p></abstract><trans-abstract xml:lang="en"><p id="p00005">Granulocytic myeloid-derived suppressor cells (G-MDSCs) are one of the main subgroups of MDSCs, which are widely enriched in most cancers. It can inhibit the killing function of T-lymphocyte through the expression of arginase-1 (Arg-1) and reactive oxygen species (ROS), reshape the tumor immune microenvironment, and promote the occurrence and development of tumors. In recent years, more and more studies have found that G-MDSCs are significantly correlated with the prognosis and immunotherapy efficacy of patients with non-small cell lung cancer, and the use of drugs specifically targeting the recruitment, differentiation and function of G-MDSCs can effectively inhibit tumor progression. This article reviews the immunosuppressive effect of G-MDSCs in non-small cell lung cancer and the progress of related pathway targeting drugs.</p></trans-abstract><kwd-group kwd-group-type="author"><kwd>&#x080ba;&#x080bf;&#x07624;</kwd><kwd>&#x07c92;&#x07ec6;&#x080de;&#x06837;&#x09ad3;&#x06e90;&#x06027;&#x06291;&#x05236;&#x07ec6;&#x080de;</kwd><kwd>&#x0514d;&#x075ab;&#x05fae;&#x073af;&#x05883;</kwd><kwd>&#x0514d;&#x075ab;&#x06cbb;&#x07597;</kwd><kwd>&#x09776;&#x05411;&#x06cbb;&#x07597;</kwd></kwd-group><kwd-group kwd-group-type="author" xml:lang="en"><kwd>Lung neoplasms</kwd><kwd>Granulocytic myeloid-derived suppressor cells</kwd><kwd>Immune microenvironment</kwd><kwd>Immunotherapy</kwd><kwd>Targeted therapy</kwd></kwd-group><funding-group><award-group id="fund1"><funding-source>&#x06d59;&#x06c5f;&#x07701;&#x091cd;&#x05927;&#x079d1;&#x06280;&#x04e13;&#x09879;</funding-source><funding-source xml:lang="en">Major Science and Technology Project of Zhejiang Province of China (to Dan SU)</funding-source><award-id>2020C03023</award-id></award-group><award-group id="fund2"><funding-source>&#x06d59;&#x06c5f;&#x07701;&#x0533b;&#x0836f;&#x0536b;&#x0751f;&#x079d1;&#x06280;&#x08ba1;&#x05212;</funding-source><funding-source xml:lang="en">Medical Science and Technology Project of Zhejiang Province (to Pan LIU)</funding-source><award-id>2023RC006</award-id></award-group></funding-group></article-meta></front><body><p id="p00010">&#x080ba;&#x0764c;&#x0662f;&#x04e00;&#x079cd;&#x08d77;&#x06e90;&#x04e8e;&#x080ba;&#x090e8;&#x06c14;&#x07ba1;&#x03001;&#x0652f;&#x06c14;&#x07ba1;&#x09ecf;&#x0819c;&#x06216;&#x0817a;&#x04f53;&#x07684;&#x06076;&#x06027;&#x080bf;&#x07624;&#x03002;&#x07f8e;&#x056fd;&#x04e34;&#x05e8a;&#x080bf;&#x07624;&#x06742;&#x05fd7;&#x053d1;&#x05e03;&#x07684;2020&#x05168;&#x07403;&#x0764c;&#x075c7;&#x07edf;&#x08ba1;<sup>[<xref rid="b1" ref-type="bibr">1</xref>]</sup>&#x0663e;&#x0793a;&#x0ff0c;&#x080ba;&#x0764c;&#x0662f;&#x07537;&#x06027;&#x07b2c;&#x04e00;&#x09ad8;&#x053d1;&#x07684;&#x0764c;&#x075c7;&#x07c7b;&#x0578b;&#x0ff0c;&#x05360;&#x0603b;&#x075c5;&#x04f8b;&#x07684;14.3%&#x0ff0c;&#x04e5f;&#x0662f;&#x07537;&#x06027;&#x0764c;&#x075c7;&#x076f8;&#x05173;&#x06b7b;&#x04ea1;&#x07684;&#x07b2c;&#x04e00;&#x05927;&#x0539f;&#x056e0;&#x0ff1b;&#x05728;&#x05973;&#x06027;&#x0764c;&#x075c7;&#x060a3;&#x08005;&#x04e2d;&#x080ba;&#x0764c;&#x053d1;&#x075c5;&#x07387;&#x06392;&#x0540d;&#x07b2c;&#x04e09;&#x0ff0c;&#x06b7b;&#x04ea1;&#x04eba;&#x06570;&#x05360;&#x05973;&#x06027;&#x0764c;&#x075c7;&#x06b7b;&#x04ea1;&#x0603b;&#x06570;&#x07684;13.7%&#x0ff0c;&#x04ec5;&#x06b21;&#x04e8e;&#x04e73;&#x0817a;&#x0764c;&#x0ff0c;&#x06392;&#x0540d;&#x07b2c;&#x04e8c;&#x03002;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x04e2d;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x0ff08;non-small cell lung cancer, NSCLC&#x0ff09;&#x060a3;&#x075c5;&#x04eba;&#x06570;&#x05360;&#x06574;&#x04f53;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x07684;85%&#x05de6;&#x053f3;<sup>[<xref rid="b2" ref-type="bibr">2</xref>]</sup>&#x03002;&#x0968f;&#x07740;&#x05206;&#x05b50;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x053ca;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07684;&#x05174;&#x08d77;&#x0ff0c;&#x08bb8;&#x0591a;&#x05206;&#x05b50;&#x09776;&#x05411;&#x0836f;&#x07269;&#x0548c;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x0836f;&#x07269;&#x05df2;&#x07ecf;&#x06210;&#x0529f;&#x05e94;&#x07528;&#x04e8e;NSCLC&#x07684;&#x04e34;&#x05e8a;&#x06cbb;&#x07597;&#x0ff0c;&#x04f8b;&#x05982;&#x08868;&#x076ae;&#x0751f;&#x0957f;&#x056e0;&#x05b50;&#x053d7;&#x04f53;&#x06291;&#x05236;&#x05242;&#x03001;&#x0514d;&#x075ab;&#x068c0;&#x067e5;&#x070b9;&#x06291;&#x05236;&#x05242;&#x07b49;<sup>[<xref rid="b3" ref-type="bibr">3</xref>]</sup>&#x03002;&#x07136;&#x0800c;&#x0ff0c;&#x0591a;&#x06570;&#x05206;&#x05b50;&#x09776;&#x05411;&#x0836f;&#x07269;&#x05728;&#x06cbb;&#x07597;&#x08fc7;&#x07a0b;&#x04e2d;&#x06613;&#x04ea7;&#x0751f;&#x08010;&#x0836f;&#x06027;&#x0ff0c;&#x060a3;&#x08005;&#x053ef;&#x080fd;&#x051fa;&#x073b0;&#x07597;&#x06548;&#x04e0d;&#x04f73;&#x03001;&#x06cbb;&#x07597;&#x05468;&#x0671f;&#x05ef6;&#x0957f;&#x0548c;&#x06bd2;&#x0526f;&#x04f5c;&#x07528;&#x0589e;&#x05927;&#x07b49;&#x095ee;&#x09898;<sup>[<xref rid="b4" ref-type="bibr">4</xref>]</sup>&#x03002;&#x056e0;&#x06b64;&#x0ff0c;&#x05bfb;&#x0627e;NSCLC&#x07684;&#x065b0;&#x0578b;&#x05206;&#x05b50;&#x06cbb;&#x07597;&#x09776;&#x070b9;&#x05e76;&#x05f00;&#x053d1;&#x076f8;&#x05e94;&#x07684;&#x06291;&#x05236;&#x05242;&#x0662f;&#x05f53;&#x0524d;&#x04e9f;&#x09700;&#x089e3;&#x051b3;&#x07684;&#x091cd;&#x08981;&#x095ee;&#x09898;&#x03002;</p><p id="p00015">&#x08fd1;&#x05e74;&#x06765;&#x0ff0c;&#x07814;&#x07a76;&#x04eba;&#x05458;&#x05bf9;&#x080bf;&#x07624;&#x05fae;&#x073af;&#x05883;&#x0ff08;tumor micro-environment, TME&#x0ff09;&#x05728;&#x080bf;&#x07624;&#x053d1;&#x0751f;&#x053d1;&#x05c55;&#x04e2d;&#x07684;&#x08c03;&#x063a7;&#x0673a;&#x05236;&#x08d8a;&#x06765;&#x08d8a;&#x091cd;&#x089c6;&#x03002;&#x09ad3;&#x06e90;&#x06027;&#x06291;&#x05236;&#x07ec6;&#x080de;&#x0ff08;myeloid-derived suppressor cells, MDSCs&#x0ff09;&#x05728;TME&#x04e2d;&#x053d1;&#x06325;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x0529f;&#x080fd;&#x0ff0c;&#x05176;&#x04e2d;&#x07c92;&#x07ec6;&#x080de;&#x06837;MDSCs&#x0ff08;granulocytic MDSCs, G-MDSCs&#x0ff09;&#x0662f;MDSCs&#x04e2d;&#x06700;&#x04e3b;&#x08981;&#x07684;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;&#x0ff0c;&#x05bf9;NSCLC&#x0548c;&#x05176;&#x04ed6;&#x0591a;&#x079cd;&#x06076;&#x06027;&#x080bf;&#x07624;&#x07684;&#x053d1;&#x0751f;&#x053d1;&#x05c55;&#x06709;&#x091cd;&#x08981;&#x05f71;&#x054cd;<sup>[<xref rid="b5" ref-type="bibr">5</xref>]</sup>&#x03002;&#x056e0;&#x06b64;&#x0ff0c;&#x09488;&#x05bf9;G-MDSCs&#x076f8;&#x05173;&#x0901a;&#x08def;&#x07684;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x053ef;&#x080fd;&#x04e3a;NSCLC&#x07684;&#x07cbe;&#x051c6;&#x06cbb;&#x07597;&#x063d0;&#x04f9b;&#x065b0;&#x0673a;&#x09047;&#x03002;</p><sec id="s1"><title>1 G-MDSCs&#x07684;&#x0751f;&#x06210;</title><p id="p00020">&#x06839;&#x0636e;&#x07ec6;&#x080de;&#x08868;&#x0578b;&#x0548c;&#x057fa;&#x056e0;&#x08868;&#x08fbe;&#x08c31;&#x07684;&#x05dee;&#x05f02;&#x0ff0c;MDSCs&#x04e3b;&#x08981;&#x05206;&#x04e3a;&#x07c92;&#x07ec6;&#x080de;&#x06765;&#x06e90;&#x07684;G-MDSCs&#x0548c;&#x05355;&#x06838;&#x07ec6;&#x080de;&#x06765;&#x06e90;&#x07684;&#x05355;&#x06838;&#x07ec6;&#x080de;&#x06837;MDSCs&#x0ff08;monocytic MDSCs, M-MDSCs&#x0ff09;&#x03002;G-MDSCs&#x04e5f;&#x088ab;&#x079f0;&#x04f5c;&#x0591a;&#x06838;MDSCs&#x0ff08;polymorphonuclear MDSCs, PMN-MDSCs&#x0ff09;&#x0ff0c;&#x05b83;&#x0662f;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x05206;&#x05316;&#x05f02;&#x05e38;&#x0800c;&#x04ea7;&#x0751f;&#x07684;&#x04e00;&#x079cd;&#x05177;&#x06709;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x0529f;&#x080fd;&#x07684;G-MDSCs&#x0ff0c;&#x04eba;&#x07c7b;G-MDSCs&#x05728;&#x07ec6;&#x080de;&#x08868;&#x0578b;&#x04e0a;&#x088ab;&#x05b9a;&#x04e49;&#x04e3a;CD14<sup>-</sup>CD11b<sup>+</sup>CD33<sup>+</sup>CD15<sup>+</sup>/CD66b<sup>+</sup>&#x0ff0c;&#x05c0f;&#x09f20;&#x04e2d;G-MDSCs&#x08868;&#x0578b;&#x088ab;&#x05b9a;&#x04e49;&#x04e3a;CD11b<sup>+</sup>Ly6C<sup>lo</sup>Ly6G<sup>+</sup><sup>[<xref rid="b6" ref-type="bibr">6</xref>]</sup>&#x03002;M-MDSCs&#x0662f;&#x05355;&#x06838;&#x05de8;&#x0566c;&#x07ec6;&#x080de;&#x0751f;&#x06210;&#x08fc7;&#x07a0b;&#x051fa;&#x073b0;&#x05f02;&#x05e38;&#x05206;&#x05316;&#x0800c;&#x05f62;&#x06210;&#x07684;M-MDSCs&#x0ff0c;&#x04eba;&#x07c7b;&#x07ec6;&#x080de;&#x08868;&#x0578b;&#x08868;&#x073b0;&#x04e3a;CD14<sup>+</sup>HLA<sup>-</sup>DR<sup>-/lo</sup>&#x0ff0c;&#x05728;&#x05c0f;&#x09f20;&#x04e2d;&#x088ab;&#x05b9a;&#x04e49;&#x04e3a;CD11b<sup>+</sup>Ly6C<sup>hi</sup>Ly6G<sup>-</sup><sup>[<xref rid="b7" ref-type="bibr">7</xref>]</sup>&#x03002;&#x05728;&#x05927;&#x0591a;&#x06570;&#x07c7b;&#x0578b;&#x07684;&#x080bf;&#x07624;&#x04e2d;&#x0ff0c;G-MDSCs&#x05360;MDSCs&#x0603b;&#x06570;&#x07684;70%-80%&#x0ff0c;&#x0800c;M-MDSCs&#x0901a;&#x05e38;&#x04e0d;&#x08d85;&#x08fc7;20%&#x0ff0c;&#x08fd9;&#x08868;&#x0660e;&#x09aa8;&#x09ad3;&#x07ec6;&#x080de;&#x08c03;&#x063a7;&#x08fd9;&#x04e24;&#x04e2a;&#x04e9a;&#x07fa4;&#x0751f;&#x06210;&#x07684;&#x05206;&#x05b50;&#x0673a;&#x05236;&#x05b58;&#x05728;&#x05dee;&#x05f02;<sup>[<xref rid="b8" ref-type="bibr">8</xref>]</sup>&#x03002;</p><p id="p00025">G-MDSCs&#x04e0e;&#x05177;&#x06709;&#x07ec6;&#x080de;&#x0514d;&#x075ab;&#x0529f;&#x080fd;&#x07684;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x06709;&#x07740;&#x05171;&#x0540c;&#x07684;&#x08d77;&#x06e90;&#x03002;&#x05728;&#x06b63;&#x05e38;&#x0751f;&#x07406;&#x06761;&#x04ef6;&#x04e0b;&#x0ff0c;&#x09aa8;&#x09ad3;&#x04e2d;&#x07684;&#x09020;&#x08840;&#x05e72;&#x07ec6;&#x080de;&#x05206;&#x05316;&#x04e3a;&#x09ad3;&#x07ec6;&#x080de;&#x0ff0c;&#x06700;&#x07ec8;&#x05206;&#x05316;&#x04e3a;&#x05355;&#x06838;&#x07ec6;&#x080de;&#x0548c;&#x07c92;&#x07ec6;&#x080de;&#x0ff0c;&#x05176;&#x04e2d;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x05c5e;&#x04e8e;&#x07c92;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;<sup>[<xref rid="b9" ref-type="bibr">9</xref>]</sup>&#x03002;&#x06210;&#x0719f;&#x07684;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x05bff;&#x0547d;&#x08f83;&#x077ed;&#x0ff0c;&#x05728;&#x075c5;&#x0539f;&#x04f53;&#x05165;&#x04fb5;&#x0673a;&#x04f53;&#x065f6;&#x0ff0c;&#x0901a;&#x08fc7;&#x07c92;&#x07ec6;&#x080de;&#x096c6;&#x0843d;&#x0523a;&#x06fc0;&#x056e0;&#x05b50;&#x0ff08;granulocyte colony-stimulating factor, G-CSF&#x0ff09;&#x03001;CXC-&#x08d8b;&#x05316;&#x056e0;&#x05b50;&#x053d7;&#x04f53;&#x0ff08;CXC-chemokine receptor, CXCR&#x0ff09;&#x0548c;CXC-&#x08d8b;&#x05316;&#x056e0;&#x05b50;&#x0914d;&#x04f53;&#x0ff08;CXC-chemokine ligand, CXCL&#x0ff09;&#x07b49;&#x04fe1;&#x053f7;&#x07684;&#x04f5c;&#x07528;&#x0ff0c;&#x04ece;&#x09aa8;&#x09ad3;&#x04e0d;&#x065ad;&#x0751f;&#x06210;&#x05e76;&#x08fc1;&#x079fb;&#x081f3;&#x05916;&#x05468;&#x08840;&#x0ff0c;&#x053d1;&#x06325;&#x0514d;&#x075ab;&#x06548;&#x05e94;&#x03002;&#x07136;&#x0800c;&#x0ff0c;&#x05728;&#x0764c;&#x075c7;&#x04e2d;&#x0ff0c;&#x09aa8;&#x09ad3;&#x07ec6;&#x080de;&#x053d7;&#x05230;&#x05fae;&#x05f31;&#x0800c;&#x06301;&#x04e45;&#x07684;&#x0523a;&#x06fc0;&#x04fe1;&#x053f7;&#x0ff0c;&#x0957f;&#x0671f;&#x066b4;&#x09732;&#x04e8e;&#x080bf;&#x07624;&#x07279;&#x05f02;&#x07684;&#x05fae;&#x073af;&#x05883;&#x04e2d;&#x0ff0c;&#x05bfc;&#x081f4;&#x05176;&#x05206;&#x05316;&#x06240;&#x09700;&#x07684;&#x08f6c;&#x05f55;&#x056e0;&#x05b50;&#x0529f;&#x080fd;&#x07d0a;&#x04e71;&#x0ff0c;&#x04ece;&#x0800c;&#x07834;&#x0574f;&#x04e86;&#x06b63;&#x05e38;&#x07684;&#x05206;&#x05316;&#x09014;&#x05f84;&#x03002;&#x05728;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x05411;&#x06210;&#x0719f;&#x05206;&#x05316;&#x07684;&#x08fc7;&#x07a0b;&#x04e2d;&#x0ff0c;&#x07531;&#x04e8e;&#x05206;&#x05316;&#x053d7;&#x0963b;&#x0ff0c;&#x05f62;&#x06210;&#x07684;&#x0672a;&#x06210;&#x0719f;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x04e3a;G-MDSCs&#x03002;&#x06b64;&#x07c7b;G-MDSCs&#x04e0d;&#x0518d;&#x05177;&#x05907;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x07684;&#x07ec6;&#x080de;&#x0514d;&#x075ab;&#x0529f;&#x080fd;&#x0ff0c;&#x076f8;&#x053cd;&#x0ff0c;&#x05b83;&#x04eec;&#x08868;&#x073b0;&#x051fa;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x06548;&#x05e94;<sup>[<xref rid="b10" ref-type="bibr">10</xref>]</sup>&#x03002;&#x05728;&#x080bf;&#x07624;&#x05f62;&#x06210;&#x07684;&#x08fc7;&#x07a0b;&#x04e2d;&#x0ff0c;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x04e5f;&#x04f1a;&#x08f6c;&#x05316;&#x04e3a;G-MDSCs&#x0ff0c;&#x053c2;&#x04e0e;G-MDSCs&#x07684;&#x079ef;&#x07d2f;<sup>[<xref rid="b11" ref-type="bibr">11</xref>]</sup>&#x03002;</p></sec><sec id="s2"><title>2 G-MDSCs&#x04fc3;&#x08fdb;NSCLC&#x06076;&#x06027;&#x08fdb;&#x05c55;&#x07684;&#x05206;&#x05b50;&#x0673a;&#x05236;</title><p id="p00030">G-MDSCs&#x05728;NSCLC&#x060a3;&#x08005;&#x07684;&#x09884;&#x0540e;&#x09884;&#x06d4b;&#x0548c;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x076d1;&#x06d4b;&#x065b9;&#x09762;&#x05177;&#x06709;&#x091cd;&#x08981;&#x07684;&#x04f5c;&#x07528;&#x03002;G-MDSCs&#x04f5c;&#x04e3a;&#x04e00;&#x079cd;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x06027;&#x07ec6;&#x080de;&#x07c7b;&#x0578b;&#x0ff0c;&#x053ef;&#x04ee5;&#x06291;&#x05236;&#x0514d;&#x075ab;&#x07cfb;&#x07edf;&#x05bf9;&#x080bf;&#x07624;&#x07684;&#x0653b;&#x051fb;&#x0ff0c;&#x04ece;&#x0800c;&#x04fc3;&#x08fdb;&#x080bf;&#x07624;&#x07684;&#x0751f;&#x0957f;&#x0548c;&#x08f6c;&#x079fb;&#x03002;&#x07814;&#x07a76;<sup>[<xref rid="b12" ref-type="bibr">12</xref><xref rid="b13" ref-type="bibr">&#x021d3;</xref>-<xref rid="b14" ref-type="bibr">14</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;&#x0539f;&#x053d1;&#x06027;&#x06216;&#x08f6c;&#x079fb;&#x06027;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x05916;&#x05468;&#x08840;&#x04e2d;&#x05b58;&#x05728;&#x05927;&#x091cf;&#x07684;G-MDSCs&#x0ff0c;G-MDSCs&#x07684;&#x05bcc;&#x096c6;&#x07a0b;&#x05ea6;&#x04e0e;NSCLC&#x060a3;&#x08005;&#x07684;&#x0603b;&#x0751f;&#x05b58;&#x0671f;&#x03001;&#x080bf;&#x07624;&#x0539f;&#x053d1;&#x07076;-&#x06dcb;&#x05df4;&#x07ed3;-&#x08f6c;&#x079fb;&#x0ff08;tumor-node-metastasis, TNM&#x0ff09;&#x05206;&#x0671f;&#x053ca;&#x06dcb;&#x05df4;&#x07ed3;&#x08f6c;&#x079fb;&#x05bc6;&#x05207;&#x076f8;&#x05173;&#x03002;&#x05916;&#x05468;&#x08840;&#x0548c;&#x080ba;&#x080bf;&#x07624;&#x07ec4;&#x07ec7;&#x04e2d;&#x09ad8;&#x06c34;&#x05e73;&#x07684;G-MDSCs&#x05f80;&#x05f80;&#x04f34;&#x06709;&#x081ea;&#x07136;&#x06740;&#x04f24;&#x0ff08;natural killer, NK&#x0ff09;&#x07ec6;&#x080de;&#x06bd4;&#x04f8b;&#x07684;&#x051cf;&#x05c11;&#x0ff0c;&#x04e8c;&#x08005;&#x05b58;&#x05728;&#x060c5;&#x051b5;&#x05448;&#x08d1f;&#x076f8;&#x05173;<sup>[<xref rid="b15" ref-type="bibr">15</xref>]</sup>&#x03002;&#x056e0;&#x06b64;&#x0ff0c;&#x09ad8;&#x06c34;&#x05e73;&#x07684;G-MDSCs&#x063d0;&#x0793a;&#x060a3;&#x08005;&#x07684;&#x04e0d;&#x0826f;&#x09884;&#x0540e;&#x03002;</p><p id="p00035">&#x06b64;&#x05916;&#x0ff0c;G-MDSCs&#x07684;&#x06c34;&#x05e73;&#x08fd8;&#x04e0e;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07684;&#x07597;&#x06548;&#x05bc6;&#x05207;&#x076f8;&#x05173;&#x0ff0c;&#x05728;&#x05bf9;&#x063a5;&#x053d7;&#x04e86;&#x09776;&#x05411;&#x07a0b;&#x05e8f;&#x06027;&#x06b7b;&#x04ea1;&#x0914d;&#x04f53;1&#x0ff08;programmed death ligand 1, PD-L1&#x0ff09;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07684;NSCLC&#x060a3;&#x08005;&#x07684;&#x05916;&#x05468;&#x08840;&#x068c0;&#x06d4b;&#x04e2d;&#x053d1;&#x073b0;&#x0ff0c;&#x05176;G-MDSCs&#x04f1a;&#x08868;&#x073b0;&#x051fa;&#x066f4;&#x09ad8;&#x07684;PD-L1&#x08868;&#x08fbe;&#x06c34;&#x05e73;<sup>[<xref rid="b16" ref-type="bibr">16</xref>]</sup>&#x03002;&#x09ad8;&#x06c34;&#x05e73;&#x07684;G-MDSCs&#x053ef;&#x04ee5;&#x06291;&#x05236;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07684;&#x06548;&#x0679c;&#x0ff0c;&#x0964d;&#x04f4e;&#x060a3;&#x08005;&#x07684;&#x0751f;&#x05b58;&#x07387;&#x03002;&#x056e0;&#x06b64;&#x0ff0c;&#x0901a;&#x08fc7;&#x076d1;&#x06d4b;G-MDSCs&#x07684;&#x06c34;&#x05e73;&#x0ff0c;&#x053ef;&#x04ee5;&#x08bc4;&#x04f30;&#x060a3;&#x08005;&#x07684;&#x09884;&#x0540e;&#x053ca;&#x05176;&#x05bf9;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07684;&#x054cd;&#x05e94;&#x0ff0c;&#x05e76;&#x04e3a;&#x06cbb;&#x07597;&#x07b56;&#x07565;&#x07684;&#x09009;&#x062e9;&#x063d0;&#x04f9b;&#x06307;&#x05bfc;&#x03002;</p><sec id="s2.1"><title>2.1 &#x05f71;&#x054cd;T&#x07ec6;&#x080de;&#x0529f;&#x080fd;</title><p id="p00040">T&#x07ec6;&#x080de;&#x0662f;&#x0514d;&#x075ab;&#x07cfb;&#x07edf;&#x06740;&#x04f24;&#x080bf;&#x07624;&#x07684;&#x091cd;&#x08981;&#x06b66;&#x05668;&#x0ff0c;&#x05f53;&#x05176;&#x0589e;&#x06b96;&#x053ca;&#x06d3b;&#x05316;&#x053d7;&#x05230;&#x06291;&#x05236;&#x065f6;&#x0ff0c;&#x0514d;&#x075ab;&#x07cfb;&#x07edf;&#x06297;&#x051fb;&#x080bf;&#x07624;&#x07684;&#x080fd;&#x0529b;&#x04f1a;&#x05927;&#x05e45;&#x04e0b;&#x0964d;&#x03002;&#x07814;&#x07a76;<sup>[<xref rid="b17" ref-type="bibr">17</xref>]</sup>&#x053d1;&#x073b0;&#x0ff0c;MDSCs&#x04f1a;&#x05f71;&#x054cd;T&#x07ec6;&#x080de;&#x07684;&#x0529f;&#x080fd;&#x0ff0c;&#x04ece;&#x0800c;&#x053d1;&#x06325;&#x04fc3;&#x080bf;&#x07624;&#x06548;&#x05e94;&#x03002;MDSCs&#x07684;2&#x04e2a;&#x04e3b;&#x08981;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;&#x05bf9;&#x06291;&#x05236;T&#x07ec6;&#x080de;&#x0529f;&#x080fd;&#x07684;&#x08c03;&#x063a7;&#x0673a;&#x05236;&#x05b58;&#x05728;&#x05dee;&#x05f02;&#x03002;G-MDSCs&#x08868;&#x08fbe;&#x09ad8;&#x06c34;&#x05e73;&#x07684;&#x06d3b;&#x06027;&#x06c27;&#x0ff08;reactive oxygen species, ROS&#x0ff09;&#x0548c;&#x04f4e;&#x06c34;&#x05e73;&#x07684;&#x04e00;&#x06c27;&#x05316;&#x06c2e;&#x0ff08;nitric oxide, NO&#x0ff09;&#x0ff0c;&#x0800c;M-MDSCs&#x05219;&#x076f8;&#x053cd;&#x03002;2&#x04e2a;&#x04e9a;&#x07fa4;&#x090fd;&#x08868;&#x08fbe;&#x07cbe;&#x06c28;&#x09178;&#x09176;1&#x0ff08;arginase-1, Arg-1&#x0ff09;<sup>[<xref rid="b18" ref-type="bibr">18</xref>]</sup>&#x03002;G-MDSCs&#x04e3b;&#x08981;&#x0901a;&#x08fc7;&#x04ee5;&#x04e0b;2&#x079cd;&#x04ee3;&#x08c22;&#x065b9;&#x05f0f;&#x05f71;&#x054cd;T&#x07ec6;&#x080de;&#x0529f;&#x080fd;&#x03002;</p><sec id="s2.1.1"><title>2.1.1 &#x04ea7;&#x0751f;Arg-1</title><p id="p00045">G-MDSCs&#x04f1a;&#x04ea7;&#x0751f;Arg-1&#x06d88;&#x08017;&#x05bf9;&#x063a7;&#x05236;T&#x07ec6;&#x080de;&#x0529f;&#x080fd;&#x081f3;&#x05173;&#x091cd;&#x08981;&#x07684;L-&#x07cbe;&#x06c28;&#x09178;&#x0ff08;L-arginine, L-Arg&#x0ff09;<sup>[<xref rid="b19" ref-type="bibr">19</xref>]</sup>&#x03002;T&#x07ec6;&#x080de;&#x08868;&#x09762;&#x053d7;&#x04f53;CD3&#x05206;&#x05b50;&#x08d1f;&#x08d23;&#x05c06;T&#x07ec6;&#x080de;&#x08868;&#x09762;&#x053d7;&#x04f53;&#x0ff08;T cell receptor, TCR&#x0ff09;&#x08bc6;&#x0522b;&#x06297;&#x0539f;&#x065f6;&#x04ea7;&#x0751f;&#x07684;&#x06d3b;&#x05316;&#x04fe1;&#x053f7;&#x08f6c;&#x05bfc;&#x081f3;T&#x07ec6;&#x080de;&#x05185;&#x090e8;<sup>[<xref rid="b20" ref-type="bibr">20</xref>]</sup>&#x0ff0c;CD3&#x003b6;&#x094fe;&#x0662f;CD3&#x05206;&#x05b50;&#x07684;&#x07ec4;&#x06210;&#x080bd;&#x094fe;&#x04e4b;&#x04e00;&#x03002;NSCLC&#x060a3;&#x08005;&#x04e2d;G-MDSCs&#x04ea7;&#x0751f;&#x08fc7;&#x091cf;Arg-1&#x04f1a;&#x06d88;&#x08017;L-Arg&#x0ff0c;&#x05bfc;&#x081f4;T&#x07ec6;&#x080de;&#x08868;&#x09762;&#x07684;CD3&#x003b6;&#x094fe;&#x08868;&#x08fbe;&#x04e0b;&#x0964d;&#x0ff0c;&#x08fdb;&#x0800c;&#x05e72;&#x06270;T&#x07ec6;&#x080de;&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x0ff0c;&#x05f71;&#x054cd;&#x0540e;&#x07eed;&#x07684;&#x07ec6;&#x080de;&#x0514d;&#x075ab;&#x0529f;&#x080fd;<sup>[<xref rid="b21" ref-type="bibr">21</xref>]</sup>&#x03002;L-Arg&#x07f3a;&#x04e4f;&#x065f6;&#x04f1a;&#x04fc3;&#x08fdb;G-MDSCs&#x07684;&#x079ef;&#x07d2f;&#x0ff0c;&#x08fdb;&#x04e00;&#x06b65;&#x06291;&#x05236;T&#x07ec6;&#x080de;&#x06297;&#x080bf;&#x07624;&#x053cd;&#x05e94;<sup>[<xref rid="b22" ref-type="bibr">22</xref>]</sup>&#x03002;&#x0805a;&#x04e59;&#x04e8c;&#x09187;&#x05316;&#x05f62;&#x05f0f;&#x07684;&#x05206;&#x089e3;&#x04ee3;&#x08c22;&#x09176;&#x07cbe;&#x06c28;&#x09178;&#x09176;I&#x0ff08;pegylated form of the catabolic enzyme arginase I, peg-Arg I&#x0ff09;&#x05347;&#x09ad8;&#x04f1a;&#x05bfc;&#x081f4;G-MDSCs&#x079ef;&#x07d2f;&#x0ff0c;peg-Arg I&#x08fd8;&#x053c2;&#x04e0e;&#x0963b;&#x065ad;&#x06b63;&#x05e38;&#x06d3b;&#x05316;T&#x07ec6;&#x080de;&#x07684;&#x07cd6;&#x09175;&#x089e3;&#x09014;&#x05f84;&#x0ff0c;&#x081f4;&#x04f7f;T&#x07ec6;&#x080de;&#x0529f;&#x080fd;&#x053d7;&#x05230;&#x06291;&#x05236;<sup>[<xref rid="b22" ref-type="bibr">22</xref>]</sup>&#x03002;</p></sec><sec id="s2.1.2"><title>2.1.2 &#x04ea7;&#x0751f;ROS</title><p id="p00050">NSCLC&#x060a3;&#x08005;&#x05916;&#x05468;&#x08840;G-MDSCs&#x07279;&#x05f02;&#x06027;&#x09ad8;&#x08868;&#x08fbe;ROS<sup>[<xref rid="b21" ref-type="bibr">21</xref>]</sup>&#x03002;&#x05927;&#x091cf;ROS&#x07684;&#x079ef;&#x07d2f;&#x04f1a;&#x05bfc;&#x081f4;&#x06c27;&#x05316;&#x05e94;&#x06fc0;&#x0ff0c;&#x0963b;&#x0788d;&#x07ec6;&#x080de;&#x086cb;&#x0767d;&#x08d28;&#x05408;&#x06210;&#x053ca;&#x07ffb;&#x08bd1;&#x08fc7;&#x07a0b;<sup>[<xref rid="b23" ref-type="bibr">23</xref>]</sup>&#x0ff1b;&#x09ad8;&#x06c34;&#x05e73;&#x07684;ROS&#x0540c;&#x06837;&#x053ef;&#x04ee5;&#x0964d;&#x04f4e;TCR&#x094fe;&#x07684;&#x08868;&#x08fbe;&#x0ff0c;&#x06291;&#x05236;T&#x07ec6;&#x080de;&#x07684;&#x06d3b;&#x05316;<sup>[<xref rid="b24" ref-type="bibr">24</xref>]</sup>&#x0ff1b;ROS&#x07684;&#x0589e;&#x052a0;&#x08fd8;&#x053ef;&#x04ee5;&#x06d88;&#x09664;CD8<sup>+ </sup>T&#x07ec6;&#x080de;&#x07684;&#x06297;&#x0539f;&#x07279;&#x05f02;&#x06027;&#x053cd;&#x05e94;<sup>[<xref rid="b21" ref-type="bibr">21</xref>,<xref rid="b25" ref-type="bibr">25</xref>]</sup>&#x03002;&#x06b64;&#x05916;&#x0ff0c;ROS&#x08fd8;&#x053c2;&#x04e0e;&#x07f3a;&#x06c27;&#x08bf1;&#x05bfc;&#x056e0;&#x05b50;1&#x003b1;&#x0ff08;hypoxia-inducible factor-1&#x003b1;, HIF-1&#x003b1;&#x0ff09;&#x07684;&#x06d3b;&#x05316;&#x0ff0c;HIF-1&#x003b1;&#x08c03;&#x08282;M-MDSCs&#x05411;M2&#x0578b;&#x05de8;&#x0566c;&#x07ec6;&#x080de;&#x05206;&#x05316;<sup>[<xref rid="b26" ref-type="bibr">26</xref>,<xref rid="b27" ref-type="bibr">27</xref>]</sup>&#x0ff0c;M2&#x0578b;&#x05de8;&#x0566c;&#x07ec6;&#x080de;&#x06291;&#x05236;1&#x0578b;&#x08f85;&#x052a9;T&#x07ec6;&#x080de;&#x0ff08;type 1 helper T cell, Th1&#x0ff09;&#x07684;&#x0514d;&#x075ab;&#x05e94;&#x07b54;&#x0ff0c;&#x04fc3;&#x08fdb;Th2&#x07684;&#x0514d;&#x075ab;&#x05e94;&#x07b54;<sup>[<xref rid="b28" ref-type="bibr">28</xref>]</sup>&#x0ff0c;&#x08fd9;&#x06253;&#x07834;&#x04e86;&#x0673a;&#x04f53;&#x04e2d;Th1&#x0548c;Th2&#x076f8;&#x05bf9;&#x05e73;&#x08861;&#x07684;&#x072b6;&#x06001;&#x0ff0c;&#x056e0;&#x06b64;&#x05927;&#x0591a;&#x06570;&#x060c5;&#x051b5;&#x04e0b;&#x0ff0c;M2&#x08868;&#x0578b;&#x0764c;&#x075c7;&#x060a3;&#x08005;&#x07684;&#x0603b;&#x0751f;&#x05b58;&#x07387;&#x08f83;&#x05dee;&#x03002;</p></sec></sec><sec id="s2.2"><title>2.2 &#x05f71;&#x054cd;NK&#x07ec6;&#x080de;&#x0529f;&#x080fd;</title><p id="p00055">NK&#x07ec6;&#x080de;&#x04f5c;&#x04e3a;&#x056fa;&#x06709;&#x0514d;&#x075ab;&#x05e94;&#x07b54;&#x07cfb;&#x07edf;&#x04e2d;&#x07684;&#x091cd;&#x08981;&#x06210;&#x05458;&#x0ff0c;&#x05728;&#x075c5;&#x0539f;&#x04f53;&#x05165;&#x04fb5;&#x0673a;&#x04f53;&#x07684;&#x065e9;&#x0671f;&#x05c31;&#x053d1;&#x06325;&#x091cd;&#x08981;&#x07684;&#x0514d;&#x075ab;&#x06740;&#x04f24;&#x04f5c;&#x07528;&#x03002;&#x04e34;&#x05e8a;&#x07814;&#x07a76;<sup>[<xref rid="b15" ref-type="bibr">15</xref>]</sup>&#x06570;&#x0636e;&#x0663e;&#x0793a;&#x0ff0c;&#x0539f;&#x053d1;&#x06027;&#x06216;&#x08f6c;&#x079fb;&#x06027;&#x080ba;&#x080bf;&#x07624;&#x060a3;&#x08005;TME&#x053ca;&#x05916;&#x05468;&#x08840;&#x04e2d;G-MDSCs&#x04ecb;&#x05bfc;&#x07684;ROS&#x0548c;Arg-1&#x07684;&#x0751f;&#x06210;&#x04f1a;&#x0635f;&#x04f24;NK&#x07ec6;&#x080de;&#x07684;&#x0529f;&#x080fd;&#x0ff0c;&#x05bfc;&#x081f4;NK&#x07ec6;&#x080de;&#x06570;&#x091cf;&#x051cf;&#x05c11;&#x0ff0c;&#x08fdb;&#x0800c;&#x06291;&#x05236;&#x0673a;&#x04f53;&#x056fa;&#x06709;&#x0514d;&#x075ab;&#x05e94;&#x07b54;&#x03002;G-MDSCs&#x06765;&#x06e90;&#x07684;&#x05916;&#x06ccc;&#x04f53;&#x05185;&#x0542b;&#x06709;&#x07684;&#x04e00;&#x079cd;&#x05fae;&#x05c0f;RNA&#x0ff08;microRNAs, miRNAs&#x0ff09;&#x0ff0c;&#x04f1a;&#x09020;&#x06210;NK&#x07ec6;&#x080de;&#x06eb6;&#x089e3;&#x0ff0c;&#x07834;&#x0574f;NK&#x07ec6;&#x080de;&#x07684;&#x05b8c;&#x06574;&#x06027;<sup>[<xref rid="b28" ref-type="bibr">28</xref>]</sup>&#x03002;NSCLC&#x060a3;&#x08005;&#x04e2d;G-MDSCs&#x09ad8;&#x06c34;&#x05e73;&#x08868;&#x08fbe;5&#x02019;-&#x06838;&#x082f7;&#x09178;&#x09176;&#x0ff08;&#x053c8;&#x079f0;CD73&#x0ff09;&#x0ff0c;&#x05176;&#x04ea7;&#x0751f;&#x07684;&#x0817a;&#x082f7;&#x0662f;&#x04e00;&#x079cd;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x05206;&#x05b50;&#x0ff0c;&#x0901a;&#x08fc7;&#x09650;&#x05236;&#x080bf;&#x07624;&#x0574f;&#x06b7b;&#x056e0;&#x05b50;&#x003b1;&#x0ff08;tumor necrosis factor &#x003b1;, TNF-&#x003b1;&#x0ff09;&#x07b49;&#x07ec6;&#x080de;&#x056e0;&#x05b50;&#x07684;&#x091ca;&#x0653e;&#x06291;&#x05236;NK&#x07ec6;&#x080de;&#x07684;&#x07ec6;&#x080de;&#x06bd2;&#x06027;<sup>[<xref rid="b29" ref-type="bibr">29</xref>]</sup>&#x03002;</p><p id="p00060">&#x09664;&#x04e86;&#x05f71;&#x054cd;&#x0514d;&#x075ab;&#x07ec6;&#x080de;&#x0529f;&#x080fd;&#x05916;&#x0ff0c;NSCLC&#x04f1a;&#x05206;&#x06ccc;&#x09ad8;&#x06c34;&#x05e73;&#x07684;&#x08d8b;&#x05316;&#x056e0;&#x05b50;&#x062db;&#x052df;G-MDSCs&#x08fdb;&#x05165;TME<sup>[<xref rid="b30" ref-type="bibr">30</xref>]</sup>&#x03002;&#x05728;TME&#x04e2d;&#x0ff0c;G-MDSCs&#x053cd;&#x08fc7;&#x06765;&#x04e5f;&#x04f1a;&#x05206;&#x06ccc;&#x08d8b;&#x05316;&#x056e0;&#x05b50;&#x03001;&#x08f6c;&#x05316;&#x0751f;&#x0957f;&#x056e0;&#x05b50;&#x003b2;&#x03001;&#x0767d;&#x07ec6;&#x080de;&#x04ecb;&#x07d20;-10&#x07b49;&#x0591a;&#x079cd;&#x07ec6;&#x080de;&#x056e0;&#x05b50;&#x08bf1;&#x05bfc;&#x080bf;&#x07624;&#x07ec6;&#x080de;&#x04e0a;&#x076ae;-&#x095f4;&#x05145;&#x08d28;&#x08f6c;&#x05316;&#x0ff0c;&#x04fc3;&#x08fdb;&#x080bf;&#x07624;&#x07684;&#x08f6c;&#x079fb;<sup>[<xref rid="b31" ref-type="bibr">31</xref>]</sup>&#x03002;</p></sec></sec><sec id="s3"><title>3 NSCLC&#x04e2d;&#x09776;&#x05411;G-MDSCs&#x07684;&#x06cbb;&#x07597;&#x065b9;&#x05f0f;</title><p id="p00065">G-MDSCs&#x05728;NSCLC&#x060a3;&#x08005;&#x07684;&#x09884;&#x0540e;&#x06307;&#x0793a;&#x0548c;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x076d1;&#x06d4b;&#x065b9;&#x09762;&#x0663e;&#x0793a;&#x051fa;&#x05f88;&#x05f3a;&#x07684;&#x076f8;&#x05173;&#x06027;&#x0ff0c;&#x04f46;&#x05176;&#x05728;&#x04e34;&#x05e8a;&#x05e94;&#x07528;&#x04e2d;&#x04ecd;&#x09700;&#x08981;&#x08fdb;&#x04e00;&#x06b65;&#x07684;&#x07814;&#x07a76;&#x0548c;&#x09a8c;&#x08bc1;&#x0ff0c;&#x09488;&#x05bf9;G-MDSCs&#x052df;&#x096c6;&#x03001;&#x05206;&#x05316;&#x0548c;&#x0529f;&#x080fd;&#x07684;&#x06cbb;&#x07597;&#x065b9;&#x05f0f;&#x07684;&#x05f00;&#x053d1;&#x0662f;&#x05341;&#x05206;&#x06709;&#x05fc5;&#x08981;&#x07684;&#x03002;</p><sec id="s3.1"><title>3.1 &#x06291;&#x05236;G-MDSCs&#x07684;&#x06269;&#x0589e;&#x0548c;&#x052df;&#x096c6;</title><sec id="s3.1.1"><title>3.1.1 &#x09776;&#x05411;&#x08f6c;&#x05f55;&#x06fc0;&#x06d3b;&#x056e0;&#x05b50;3&#x0ff08;signal transducer and activator of transcription 3, STAT3&#x0ff09;&#x0901a;&#x08def;</title><p id="p00070">&#x05728;NSCLC&#x04e2d;&#x0ff0c;&#x09a71;&#x052a8;G-MDSCs&#x06269;&#x0589e;&#x07684;&#x04e3b;&#x08981;&#x04fe1;&#x053f7;&#x05206;&#x05b50;&#x04e4b;&#x04e00;&#x0662f;STAT3<sup>[<xref rid="b32" ref-type="bibr">32</xref>]</sup>&#x03002;&#x06fc0;&#x06d3b;STAT3&#x053ef;&#x0901a;&#x08fc7;&#x04fc3;&#x08fdb;&#x06297;&#x051cb;&#x04ea1;&#x057fa;&#x056e0;&#x07684;&#x08868;&#x08fbe;&#x0ff0c;&#x06291;&#x05236;G-MDSCs&#x051cb;&#x04ea1;&#x0ff0c;&#x0963b;&#x06b62;G-MDSCs&#x05411;&#x06210;&#x0719f;&#x07ec6;&#x080de;&#x05206;&#x05316;&#x0ff1b;NADPH&#x06c27;&#x05316;&#x09176;2&#x0ff08;NADPH oxidase, NOX2&#x0ff09;&#x07684;&#x06d3b;&#x06027;&#x04e0a;&#x08c03;&#x04ecb;&#x05bfc;G-MDSCs&#x04e2d;ROS&#x04ea7;&#x0751f;&#x0589e;&#x0591a;&#x0ff0c;NOX2&#x06d3b;&#x06027;&#x07f3a;&#x05931;&#x07684;G-MDSCs&#x04f1a;&#x05931;&#x053bb;&#x06291;&#x05236;T&#x07ec6;&#x080de;&#x053cd;&#x05e94;&#x07684;&#x080fd;&#x0529b;&#x0ff0c;G-MDSCs&#x04e2d;NOX2&#x07684;&#x08868;&#x08fbe;&#x053d7;STAT3&#x063a7;&#x05236;<sup>[<xref rid="b33" ref-type="bibr">33</xref>]</sup>&#x0ff1b;STAT3&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x08fd8;&#x0901a;&#x08fc7;&#x04fc3;&#x08fdb;Arg-1&#x08868;&#x08fbe;&#x06765;&#x0589e;&#x05f3a;G-MDSCs&#x07684;&#x0529f;&#x080fd;<sup>[<xref rid="b34" ref-type="bibr">34</xref>]</sup>&#x03002;&#x056e0;&#x06b64;&#x0ff0c;&#x09776;&#x05411;STAT3&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x0662f;&#x04e00;&#x079cd;&#x06709;&#x06548;&#x07684;&#x07834;&#x0574f;G-MDSCs&#x07684;&#x053d1;&#x080b2;&#x0548c;&#x0529f;&#x080fd;&#x07684;&#x06cbb;&#x07597;&#x07b56;&#x07565;<sup>[<xref rid="b35" ref-type="bibr">35</xref>]</sup>&#x0ff0c;&#x08fdb;&#x0800c;&#x0514b;&#x0670d;G-MDSCs&#x079ef;&#x07d2f;&#x0548c;&#x06269;&#x0589e;&#x05bfc;&#x081f4;&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x03002;&#x04e2d;&#x0836f;&#x06cfd;&#x06f06;&#x06c64;&#x0662f;&#x04e34;&#x05e8a;&#x04e0a;&#x05e38;&#x07528;&#x04e8e;&#x06cbb;&#x07597;NSCLC&#x07684;&#x04e00;&#x079cd;&#x04e2d;&#x0836f;&#x0ff0c;&#x05176;&#x0673a;&#x05236;&#x04e4b;&#x04e00;&#x05c31;&#x0662f;&#x09776;&#x05411;STAT3&#x0901a;&#x08def;&#x08bf1;&#x05bfc;G-DMSCs&#x05927;&#x091cf;&#x051cb;&#x04ea1;&#x0ff0c;&#x0963b;&#x06b62;G-DMSCs&#x05728;TME&#x04e2d;&#x07684;&#x05927;&#x091cf;&#x06269;&#x0589e;&#x0548c;&#x0805a;&#x096c6;<sup>[<xref rid="b36" ref-type="bibr">36</xref>]</sup>&#x03002;</p></sec><sec id="s3.1.2"><title>3.1.2 &#x06291;&#x05236;G-MDSCs&#x07684;&#x04ee3;&#x08c22;</title><p id="p00075">&#x05728;G-MDSCs&#x05b58;&#x05728;&#x07684;TME&#x04e2d;&#x0ff0c;NSCLC&#x07ec6;&#x080de;&#x04f1a;&#x0901a;&#x08fc7;&#x04ee3;&#x08c22;&#x091cd;&#x07f16;&#x07a0b;&#x05c06;&#x08425;&#x0517b;&#x07269;&#x08d28;&#x04ea7;&#x0751f;&#x07684;&#x080fd;&#x091cf;&#x06700;&#x05927;&#x09650;&#x05ea6;&#x05730;&#x07528;&#x04e8e;&#x080bf;&#x07624;&#x053d1;&#x05c55;&#x0ff0c;&#x06b64;&#x08fc7;&#x07a0b;&#x04e5f;&#x05c06;&#x052a0;&#x05267;G-MDSCs&#x07684;&#x079ef;&#x07d2f;&#x04e0e;&#x06269;&#x0589e;&#x0ff0c;&#x08fdb;&#x04e00;&#x06b65;&#x06291;&#x05236;T&#x07ec6;&#x080de;&#x07684;&#x0514d;&#x075ab;&#x0529f;&#x080fd;<sup>[<xref rid="b37" ref-type="bibr">37</xref>,<xref rid="b38" ref-type="bibr">38</xref>]</sup>&#x03002;&#x056e0;&#x06b64;&#x0ff0c;&#x09776;&#x05411;G-MDSCs&#x07684;&#x04ee3;&#x08c22;&#x09014;&#x05f84;&#x04e5f;&#x0662f;&#x06291;&#x05236;G-MDSCs&#x06269;&#x0589e;&#x07684;&#x0624b;&#x06bb5;&#x04e4b;&#x04e00;&#x03002;</p><p id="p00080">&#x08868;&#x08fbe;G-MDSCs&#x07684;NSCLC&#x060a3;&#x08005;&#x0548c;Lewis&#x05c0f;&#x09f20;&#x080ba;&#x0764c;&#x06a21;&#x0578b;&#x05747;&#x051fa;&#x073b0;&#x06eb6;&#x09176;&#x04f53;&#x09178;&#x06027;&#x08102;&#x080aa;&#x09176;&#x0ff08;lysosomal acid lipase, LAL&#x0ff09;&#x0964d;&#x04f4e;&#x07684;&#x073b0;&#x08c61;&#x0ff0c;LAL&#x07f3a;&#x05931;&#x0ff08;deficiency of LAL, LAL-D&#x0ff09;&#x04e5f;&#x04f1a;&#x08bf1;&#x05bfc;&#x09ad3;&#x07cfb;&#x07ec6;&#x080de;&#x05206;&#x05316;&#x04e3a;G-MDSCs&#x0ff0c;&#x05e76;&#x04fc3;&#x08fdb;&#x080bf;&#x07624;&#x0751f;&#x0957f;&#x0548c;&#x08f6c;&#x079fb;&#x03002;&#x0963b;&#x065ad;&#x07cd6;&#x09175;&#x089e3;&#x04e2d;&#x07684;&#x04e19;&#x0916e;&#x09178;&#x08131;&#x06c22;&#x09176;&#x0ff08;pyruvate dehydrogenase, PDH&#x0ff09;&#x053ef;&#x04ee5;&#x09006;&#x08f6c;LAL-D&#x07684;G-MDSCs&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x080fd;&#x0529b;&#x0ff0c;&#x04e5f;&#x04f1a;&#x051cf;&#x05c11;ROS&#x07684;&#x08fc7;&#x05ea6;&#x04ea7;&#x0751f;&#x03002;&#x053e6;&#x05916;&#x0ff0c;LAL&#x053ef;&#x04ee5;&#x05355;&#x072ec;&#x06216;&#x04e0e;&#x06297;PD-L1&#x0514d;&#x075ab;&#x07597;&#x06cd5;&#x08054;&#x05408;&#x07528;&#x04e8e;&#x06cbb;&#x07597;NSCLC&#x060a3;&#x08005;<sup>[<xref rid="b37" ref-type="bibr">37</xref>]</sup>&#x03002;</p><p id="p00085">&#x0817a;&#x082f7;&#x0662f;&#x07ec6;&#x080de;&#x04ee3;&#x08c22;&#x04e2d;&#x04e09;&#x078f7;&#x09178;&#x0817a;&#x082f7;&#x0884d;&#x0751f;&#x07684;&#x06838;&#x082f7;&#x0ff0c;&#x05728;Lewis&#x05c0f;&#x09f20;&#x080ba;&#x0764c;&#x06a21;&#x0578b;&#x04e2d;A<sub>2B</sub>&#x0817a;&#x082f7;&#x053d7;&#x04f53;&#x05728;&#x09020;&#x08840;&#x07ec6;&#x080de;&#x04e0a;&#x07684;&#x08868;&#x08fbe;&#x04f1a;&#x04fc3;&#x08fdb;G-MDSCs&#x04f18;&#x05148;&#x06269;&#x0589e;&#x0ff0c;G-MDSCs&#x05728;TME&#x04e2d;&#x04ea7;&#x0751f;&#x07684;&#x0817a;&#x082f7;&#x06709;&#x052a9;&#x04e8e;&#x05176;&#x053d1;&#x06325;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x06548;&#x05e94;&#x0ff0c;&#x056e0;&#x06b64;&#x0ff0c;&#x0817a;&#x082f7;&#x06291;&#x05236;&#x05242;&#x04e5f;&#x053ef;&#x04ee5;&#x06291;&#x05236;G-MDSCs&#x07684;&#x06269;&#x0589e;<sup>[<xref rid="b39" ref-type="bibr">39</xref>,<xref rid="b40" ref-type="bibr">40</xref>]</sup>&#x03002;</p></sec><sec id="s3.1.3"><title>3.1.3 &#x06291;&#x05236;&#x052df;&#x096c6;G-MDSCs&#x06240;&#x09700;&#x07684;&#x08d8b;&#x05316;&#x056e0;&#x05b50;</title><p id="p00090">&#x0764c;&#x075c7;&#x076f8;&#x05173;&#x06210;&#x07ea4;&#x07ef4;&#x07ec6;&#x080de;&#x0ff08;cancer-associated fibroblasts, CAF&#x0ff09;&#x04f1a;&#x05206;&#x06ccc;&#x07c92;&#x07ec6;&#x080de;&#x07279;&#x05f02;&#x06027;&#x07684;CXCL1&#x04f5c;&#x07528;&#x04e8e;G-MDSCs&#x04e0a;&#x07684;CXCR2&#x0ff0c;&#x05bfc;&#x081f4;G-MDSCs&#x088ab;&#x052df;&#x096c6;&#x05230;&#x080bf;&#x07624;&#x090e8;&#x04f4d;&#x0ff0c;&#x0800c;CSF1&#x053ef;&#x04ee5;&#x06291;&#x05236;CXCL1&#x07684;&#x08868;&#x08fbe;&#x03002;&#x05728;NSCLC&#x060a3;&#x08005;&#x05916;&#x05468;&#x08840;&#x07684;&#x068c0;&#x06d4b;&#x04e2d;&#x0ff0c;CSF1&#x09ad8;&#x05206;&#x06ccc;&#x07684;&#x060a3;&#x08005;&#x05916;&#x05468;&#x08840;&#x04e2d;&#x068c0;&#x06d4b;&#x05230;&#x07684;G-MDSCs&#x06570;&#x091cf;&#x05f88;&#x05c11;&#x03002;&#x09776;&#x05411;CSF1&#x053d7;&#x04f53;&#x07684;&#x06291;&#x05236;&#x05242;&#x04e0e;CXCR2&#x062ee;&#x06297;&#x05242;&#x08054;&#x05408;&#x04f7f;&#x07528;&#x053ef;&#x0963b;&#x065ad;&#x05c0f;&#x09f20;&#x080ba;&#x0764c;&#x06a21;&#x0578b;&#x04e2d;G-MDSCs&#x05411;TME&#x06d78;&#x06da6;<sup>[<xref rid="b41" ref-type="bibr">41</xref>]</sup>&#x03002;&#x063a2;&#x07a76;CAF&#x03001;G-MDSCs&#x0548c;&#x0514d;&#x075ab;&#x07ec6;&#x080de;&#x076f8;&#x04e92;&#x04f5c;&#x07528;&#x05728;NSCLC&#x05bf9;&#x06297;&#x07a0b;&#x05e8f;&#x06027;&#x06b7b;&#x04ea1;&#x053d7;&#x04f53;-1&#x0ff08;programmed cell death 1, PD-1&#x0ff09;/PD-L1&#x06cbb;&#x07597;&#x08010;&#x0836f;&#x04e2d;&#x07684;&#x04f5c;&#x07528;&#x04e5f;&#x05df2;&#x08fdb;&#x05165;&#x04e34;&#x05e8a;&#x07814;&#x07a76;&#x09636;&#x06bb5;&#x0ff08;NCT06024538&#x0ff09;&#x03002;</p><p id="p00095">CXCR2&#x05728;G-MDSCs&#x05411;TME&#x06d78;&#x06da6;&#x07684;&#x04fe1;&#x053f7;&#x04f20;&#x09012;&#x08fc7;&#x07a0b;&#x04e2d;&#x04e5f;&#x0626e;&#x06f14;&#x07740;&#x091cd;&#x08981;&#x089d2;&#x08272;<sup>[<xref rid="b42" ref-type="bibr">42</xref>]</sup>&#x0ff0c;&#x05728;Lewis&#x05c0f;&#x09f20;&#x080ba;&#x0764c;&#x06a21;&#x0578b;&#x04e2d;&#x06291;&#x05236;CXCR2&#x053ef;&#x08fbe;&#x05230;&#x06291;&#x05236;G-MDSCs&#x052df;&#x096c6;&#x07684;&#x076ee;&#x07684;<sup>[<xref rid="b43" ref-type="bibr">43</xref>]</sup>&#x03002;&#x076ee;&#x0524d;&#x0ff0c;CXCR2&#x06291;&#x05236;&#x05242;SX682&#x06b63;&#x05728;&#x0591a;&#x09879;&#x04e34;&#x05e8a;&#x08bd5;&#x09a8c;&#x04e2d;&#x0ff08;NCT04477343&#x03001;NCT04574583&#x0548c;NCT03161431&#x0ff09;&#x03002;</p></sec></sec><sec id="s3.2"><title>3.2 &#x08bf1;&#x05bfc;G-MDSCs&#x05206;&#x05316;</title><p id="p00100">&#x05168;&#x053cd;&#x05f0f;&#x07ef4;&#x07532;&#x09178;&#x0ff08;all-trans retinoic acid, ATRA&#x0ff09;&#x0662f;&#x07ef4;&#x0751f;&#x07d20;A&#x07684;&#x0884d;&#x0751f;&#x07269;&#x0ff0c;&#x06700;&#x065e9;&#x07528;&#x04e8e;&#x06cbb;&#x07597;&#x06025;&#x06027;&#x065e9;&#x05e7c;&#x07c92;&#x07ec6;&#x080de;&#x0767d;&#x08840;&#x075c5;<sup>[<xref rid="b44" ref-type="bibr">44</xref>]</sup>&#x03002;&#x07814;&#x07a76;<sup>[<xref rid="b45" ref-type="bibr">45</xref>]</sup>&#x053d1;&#x073b0;ATRA&#x053ef;&#x08bf1;&#x05bfc;&#x0764c;&#x075c7;&#x060a3;&#x08005;&#x0548c;&#x08377;&#x07624;&#x05c0f;&#x09f20;&#x04e2d;G-MDSCs&#x07684;&#x05206;&#x05316;&#x0ff0c;&#x05bfc;&#x081f4;G-MDSCs&#x05931;&#x053bb;&#x06d3b;&#x06027;&#x04ece;&#x0800c;&#x06539;&#x05584;&#x0673a;&#x04f53;&#x07684;&#x0514d;&#x075ab;&#x053cd;&#x05e94;&#x03002;&#x04f7f;&#x07528;ATRA&#x09776;&#x05411;G-MDSCs&#x05206;&#x05316;&#x08fd9;&#x04e00;&#x07b56;&#x07565;&#x05df2;&#x05728;&#x08f6c;&#x079fb;&#x06027;&#x09ed1;&#x08272;&#x07d20;&#x07624;&#x04e2d;&#x05c55;&#x05f00;I/II&#x0671f;&#x04e34;&#x05e8a;&#x08bd5;&#x09a8c;&#x0ff0c;&#x06cbb;&#x07597;&#x0671f;&#x095f4;&#x060a3;&#x08005;&#x05916;&#x05468;&#x08840;&#x04e2d;&#x05faa;&#x073af;&#x07684;G-MDSCs&#x06570;&#x091cf;&#x05927;&#x05e45;&#x0964d;&#x04f4e;&#x05e76;&#x04e14;&#x05206;&#x05316;&#x06210;&#x04e3a;&#x06210;&#x0719f;&#x07684;&#x09ad3;&#x07cfb;&#x07ec6;&#x080de;<sup>[<xref rid="b46" ref-type="bibr">46</xref>]</sup>&#x03002;ATRA&#x04fc3;&#x04f7f;G-MDSCs&#x05206;&#x05316;&#x07684;&#x0673a;&#x05236;&#x04e4b;&#x04e00;&#x0662f;&#x0589e;&#x052a0;&#x08c37;&#x080f1;&#x07518;&#x080bd;&#x0751f;&#x06210;&#x06240;&#x09700;&#x07684;&#x08c37;&#x080f1;&#x07518;&#x080bd;&#x05408;&#x09176;&#x0ff0c;&#x04f7f;&#x08c37;&#x080f1;&#x07518;&#x080bd;&#x079ef;&#x07d2f;&#x0ff0c;&#x08c37;&#x080f1;&#x07518;&#x080bd;&#x0589e;&#x0591a;&#x04f1a;&#x08bf1;&#x05bfc;G-MDSCs&#x05206;&#x05316;&#x04e3a;&#x05de8;&#x0566c;&#x07ec6;&#x080de;&#x0548c;&#x06811;&#x07a81;&#x072b6;&#x07ec6;&#x080de;<sup>[<xref rid="b47" ref-type="bibr">47</xref>]</sup>&#x0ff1b;ATRA&#x04e5f;&#x04f1a;&#x04e2d;&#x0548c;ROS<sup>[<xref rid="b48" ref-type="bibr">48</xref>]</sup>&#x0ff0c;ROS&#x051cf;&#x05c11;&#x05df2;&#x088ab;&#x08bc1;&#x05b9e;&#x053ef;&#x04fc3;&#x08fdb;G-MDSCs&#x05411;&#x05de8;&#x0566c;&#x07ec6;&#x080de;&#x05206;&#x05316;<sup>[<xref rid="b49" ref-type="bibr">49</xref>]</sup>&#x03002;</p><p id="p00105">LKB1&#x07f3a;&#x09677;NSCLC&#x07684;&#x08f6c;&#x057fa;&#x056e0;&#x05c0f;&#x09f20;&#x06a21;&#x0578b;&#x08bc1;&#x0660e;&#x04e86;&#x080bf;&#x07624;&#x04e2d;&#x07684;LKB1&#x04e22;&#x05931;&#x04f1a;&#x05bfc;&#x081f4;TME&#x04e2d;G-MDSCs&#x07684;&#x05bcc;&#x096c6;&#x0ff0c;G-MDSCs&#x05728;LKB1&#x07f3a;&#x09677;&#x07684;NSCLC&#x04e2d;&#x07684;&#x079ef;&#x07d2f;&#x053ef;&#x04ee5;&#x0901a;&#x08fc7;ATRA&#x06cbb;&#x07597;&#x06765;&#x09006;&#x08f6c;&#x0ff0c;&#x04f7f;&#x080bf;&#x07624;&#x05bf9;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x0654f;&#x0611f;<sup>[<xref rid="b50" ref-type="bibr">50</xref>]</sup>&#x03002;</p></sec><sec id="s3.3"><title>3.3 &#x06291;&#x05236;G-MDSCs&#x07684;&#x0529f;&#x080fd;</title><p id="p00110">&#x06d88;&#x09664;Arg-1&#x0662f;&#x06291;&#x05236;G-MDSCs&#x0529f;&#x080fd;&#x07684;&#x09996;&#x08981;&#x09776;&#x070b9;&#x03002;&#x05728;Lewis&#x05c0f;&#x09f20;&#x080ba;&#x0764c;&#x06a21;&#x0578b;&#x04e2d;&#x0ff0c;&#x0524d;&#x05217;&#x0817a;&#x07d20;E2&#x0ff08;prostaglandin E2, PGE2&#x0ff09;&#x05df2;&#x088ab;&#x08bc1;&#x0660e;&#x053ef;&#x04ee5;&#x08bf1;&#x05bfc;G-MDSCs&#x04e0a;&#x08c03;Arg-1&#x08868;&#x08fbe;&#x03002;&#x073af;&#x06c27;&#x05408;&#x09176;2&#x0ff08;cyclooxygenase-2, COX2&#x0ff09;&#x05219;&#x0662f;&#x04ea7;&#x0751f;PGE2&#x06240;&#x05fc5;&#x09700;&#x07684;&#x09176;&#x0ff0c;&#x056e0;&#x06b64;&#x0ff0c;&#x04f7f;&#x07528;COX2&#x06291;&#x05236;&#x05242;&#x053ef;&#x04ee5;&#x04e0b;&#x08c03;G-MDSCs&#x04e2d;Arg-1&#x07684;&#x08868;&#x08fbe;&#x0ff0c;&#x06291;&#x05236;G-MDSCs&#x07684;&#x0529f;&#x080fd;&#x0ff0c;&#x04ece;&#x0800c;&#x08fbe;&#x05230;&#x06297;&#x080bf;&#x07624;&#x07684;&#x076ee;&#x07684;<sup>[<xref rid="b51" ref-type="bibr">51</xref>,<xref rid="b52" ref-type="bibr">52</xref>]</sup>&#x03002;&#x0975e;&#x0753e;&#x04f53;&#x06297;&#x0708e;&#x0836f;&#x0662f;&#x04e00;&#x07c7b;&#x04e3b;&#x08981;&#x06291;&#x05236;COX&#x06d3b;&#x06027;&#x07684;&#x0836f;&#x07269;&#x0ff0c;COX&#x06d3b;&#x06027;&#x04e5f;&#x04f1a;&#x0964d;&#x04f4e;PG&#x07684;&#x04ea7;&#x0751f;<sup>[<xref rid="b53" ref-type="bibr">53</xref>]</sup>&#x0ff0c;&#x06839;&#x0636e;&#x04e00;&#x09879;&#x068c0;&#x07d22;&#x04e86;&#x081ea;1980&#x05e74;&#x04ee5;&#x06765;&#x08fdb;&#x0884c;&#x07684;&#x06d41;&#x0884c;&#x075c5;&#x05b66;&#x07814;&#x07a76;<sup>[<xref rid="b54" ref-type="bibr">54</xref>]</sup>&#x07684;&#x05206;&#x06790;&#x0ff0c;&#x053d1;&#x073b0;&#x05b9a;&#x0671f;&#x04f7f;&#x07528;&#x0975e;&#x0753e;&#x04f53;&#x06297;&#x0708e;&#x0836f;&#x053ef;&#x04ee5;&#x06709;&#x06548;&#x0964d;&#x04f4e;&#x080ba;&#x0764c;&#x07684;&#x053d1;&#x075c5;&#x07387;&#x03002;</p><p id="p00115">&#x06d88;&#x09664;ROS&#x0662f;&#x06291;&#x05236;G-MDSCs&#x0529f;&#x080fd;&#x07684;&#x053e6;&#x04e00;&#x06761;&#x091cd;&#x08981;&#x09014;&#x05f84;&#x0ff0c;ROS&#x06291;&#x05236;&#x05242;&#x053ef;&#x06709;&#x06548;&#x051cf;&#x05c11;&#x05c0f;&#x09f20;&#x04e2d;G-MDSCs&#x04ecb;&#x05bfc;&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;<sup>[<xref rid="b55" ref-type="bibr">55</xref>]</sup>&#x0ff0c;&#x08bb8;&#x0591a;&#x09776;&#x05411;G-MDSCs&#x07684;&#x06291;&#x05236;&#x05242;&#x090fd;&#x076f4;&#x063a5;&#x06216;&#x095f4;&#x063a5;&#x05730;&#x06291;&#x05236;ROS&#x03002;&#x05728;Lewis&#x08377;&#x07624;&#x05c0f;&#x09f20;&#x04e2d;&#x08102;&#x080aa;&#x09178;&#x08f6c;&#x08fd0;&#x086cb;&#x0767d;2&#x0ff08;fatty acid transporter 2, FATP2&#x0ff09;&#x0901a;&#x08fc7;&#x063a7;&#x05236;ROS&#x07684;&#x04ea7;&#x0751f;&#x08c03;&#x08282;MDSCs&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x0529f;&#x080fd;&#x0ff0c;&#x06291;&#x05236;&#x05242;Lipofermata&#x053ef;&#x04ee5;&#x0901a;&#x08fc7;&#x0963b;&#x065ad;MDSCs&#x04e2d;FATP2&#x07684;&#x08868;&#x08fbe;&#x051cf;&#x05c11;&#x08102;&#x08d28;&#x079ef;&#x07d2f;&#x0548c;ROS&#x0ff0c;&#x0964d;&#x04f4e;MDSCs&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x06d3b;&#x06027;&#x0ff0c;&#x06291;&#x05236;&#x05c0f;&#x09f20;&#x080bf;&#x07624;&#x0751f;&#x0957f;<sup>[<xref rid="b56" ref-type="bibr">56</xref>]</sup>&#x03002;</p><p id="p00120">TME&#x04e2d;&#x07684;G-MDSCs&#x05904;&#x04e8e;&#x07f3a;&#x06c27;&#x073af;&#x05883;&#x0ff0c;&#x06b64;&#x065f6;&#x05347;&#x09ad8;&#x07684;HIF-1&#x003b1;&#x04e0a;&#x08c03;G-MDSCs&#x04e2d;&#x06d46;&#x07ec6;&#x080de;&#x07624;&#x053d8;&#x05f02;&#x06613;&#x04f4d;&#x057fa;&#x056e0;1&#x0ff08;plasmacytoma variant translocation 1, PVT1&#x0ff09;&#x07684;&#x08868;&#x08fbe;&#x0ff0c;PVT1&#x08868;&#x08fbe;&#x0964d;&#x04f4e;&#x0540e;G-MDSC&#x091ca;&#x0653e;&#x07684;Arg-1&#x04e0e;ROS&#x05747;&#x04e0b;&#x0964d;&#x0ff0c;T&#x07ec6;&#x080de;&#x06297;&#x080bf;&#x07624;&#x080fd;&#x0529b;&#x05f97;&#x04ee5;&#x06062;&#x0590d;&#x03002;&#x04f7f;&#x07528;HIF-1&#x003b1;&#x07684;&#x06291;&#x05236;&#x05242;YC-1&#x04f5c;&#x07528;&#x04e8e;Lewis&#x080ba;&#x0764c;&#x07ec6;&#x080de;&#x0540e;&#x0ff0c;G-MDSCs&#x04e2d;PVT1&#x07684;&#x08868;&#x08fbe;&#x0660e;&#x0663e;&#x0964d;&#x04f4e;&#x0ff0c;&#x08868;&#x0660e;&#x09776;&#x05411;PVT1&#x053ef;&#x04ee5;&#x051cf;&#x05f31;G-MDSC&#x04ecb;&#x05bfc;&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x0ff0c;&#x08fd9;&#x053ef;&#x080fd;&#x0662f;&#x04e00;&#x079cd;&#x06f5c;&#x05728;&#x07684;&#x06cbb;&#x07597;&#x07b56;&#x07565;<sup>[<xref rid="b57" ref-type="bibr">57</xref>]</sup>&#x03002;</p></sec><sec id="s3.4"><title>3.4 &#x04fc3;&#x08fdb;G-MDSCs&#x06e05;&#x09664;</title><p id="p00125">&#x05185;&#x08d28;&#x07f51;&#x0ff08;endoplasmic reticulum, ER&#x0ff09;&#x05e94;&#x06fc0;&#x0662f;&#x07ec6;&#x080de;&#x05e94;&#x05bf9;&#x07f3a;&#x06c27;&#x03001;&#x08425;&#x0517b;&#x0532e;&#x04e4f;&#x07b49;&#x04e0d;&#x05229;&#x04e8e;&#x07ec6;&#x080de;&#x0751f;&#x05b58;&#x07684;&#x060c5;&#x051b5;&#x04e0b;&#x06240;&#x04ea7;&#x0751f;&#x07684;&#x04e00;&#x079cd;&#x04fdd;&#x062a4;&#x06027;&#x05e94;&#x06fc0;&#x053cd;&#x05e94;&#x0ff0c;&#x08be5;&#x0901a;&#x08def;&#x088ab;&#x06fc0;&#x06d3b;&#x0540e;&#x04f1a;&#x08bf1;&#x05bfc;&#x05e94;&#x06fc0;&#x07ec6;&#x080de;&#x06b7b;&#x04ea1;&#x0ff0c;&#x06062;&#x0590d;&#x0548c;&#x07ef4;&#x06301;ER&#x07a33;&#x06001;<sup>[<xref rid="b58" ref-type="bibr">58</xref>]</sup>&#x03002;G-MDSCs&#x07684;&#x0663e;&#x08457;&#x07279;&#x05f81;&#x04e4b;&#x04e00;&#x0662f;ER&#x05e94;&#x06fc0;&#x076f8;&#x05173;&#x057fa;&#x056e0;&#x04e0a;&#x08c03;&#x0ff0c;&#x0764c;&#x075c7;&#x060a3;&#x08005;&#x07684;G-MDSCs&#x04f1a;&#x08868;&#x073b0;&#x051fa;&#x066f4;&#x09ad8;&#x06c34;&#x05e73;&#x07684;ER&#x05e94;&#x06fc0;&#x03002;ER&#x05e94;&#x06fc0;&#x053cd;&#x05e94;&#x088ab;&#x06fc0;&#x06d3b;&#x08fd8;&#x04f1a;&#x04e0a;&#x08c03;LOX-1&#x07684;&#x08868;&#x08fbe;&#x0ff0c;&#x05c06;&#x06b63;&#x05e38;&#x07684;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x08f6c;&#x05316;&#x04e3a;G-MDSCs<sup>[<xref rid="b11" ref-type="bibr">11</xref>]</sup>&#x03002;&#x0764c;&#x075c7;&#x060a3;&#x08005;&#x04f53;&#x05185;G-MDSCs&#x07684;&#x05bff;&#x0547d;&#x053d7;&#x05230;TNF&#x076f8;&#x05173;&#x07684;&#x051cb;&#x04ea1;&#x08bf1;&#x05bfc;&#x0914d;&#x04f53;&#x053ca;&#x05176;&#x053d7;&#x04f53;&#x0ff08;TNF-related apoptosis-inducing ligand-receptor, TRAIL-R&#x0ff09;&#x07684;&#x08c03;&#x063a7;&#x03002;TRAIL-R&#x07ec4;&#x06210;&#x06210;&#x05206;&#x04e2d;&#x07684;&#x08bf1;&#x09975;&#x053d7;&#x04f53;1&#x0ff08;decoy receptor 1, DCR1&#x0ff09;&#x0548c;DCR2&#x05728;G-MDSCs&#x08868;&#x09762;&#x07684;&#x08868;&#x08fbe;&#x08fdc;&#x04f4e;&#x04e8e;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x0ff0c;&#x08fd9;&#x04e24;&#x079cd;DER&#x053ef;&#x062ee;&#x06297;TRAIL&#x04ecb;&#x05bfc;&#x07684;&#x051cb;&#x04ea1;&#x04fe1;&#x053f7;&#x0ff0c;&#x04e8c;&#x08005;&#x08868;&#x08fbe;&#x0964d;&#x04f4e;&#x05bfc;&#x081f4;G-MDSCs&#x05bf9;TRAIL&#x04fe1;&#x053f7;&#x0654f;&#x0611f;&#x03002;ER&#x05e94;&#x06fc0;&#x08bf1;&#x05bfc;&#x05242;Tunicamycin&#x04f1a;&#x04f7f;&#x04eba;&#x07c7b;G-MDSCs&#x08868;&#x09762;&#x07684;DCR1&#x0548c;DCR2&#x0660e;&#x0663e;&#x04e0b;&#x08c03;&#x0ff0c;&#x07c7b;&#x04f3c;&#x04e8e;&#x0764c;&#x075c7;&#x060a3;&#x08005;&#x04e2d;&#x089c2;&#x05bdf;&#x05230;&#x07684;G-MDSCs&#x07684;&#x060c5;&#x051b5;<sup>[<xref rid="b59" ref-type="bibr">59</xref>]</sup>&#x03002;G-MDSCs&#x06240;&#x04ea7;&#x0751f;&#x07684;ROS&#x04e5f;&#x0662f;&#x04e00;&#x079cd;ER&#x05e94;&#x06fc0;&#x053cd;&#x05e94;&#x07684;&#x08bf1;&#x05bfc;&#x05242;<sup>[<xref rid="b60" ref-type="bibr">60</xref>,<xref rid="b61" ref-type="bibr">61</xref>]</sup>&#x03002;&#x08fd9;&#x063d0;&#x0793a;&#x04f7f;&#x07528;ER&#x05e94;&#x06fc0;&#x06291;&#x05236;&#x05242;&#x09776;&#x05411;G-MDSCs&#x08868;&#x09762;&#x07684;TRAIL-R&#x053ef;&#x063d0;&#x04f9b;&#x04e00;&#x06761;&#x06e05;&#x09664;G-MDSCs&#x07684;&#x09014;&#x05f84;<sup>[<xref rid="b62" ref-type="bibr">62</xref>]</sup>&#x03002;</p><p id="p00130">&#x05e38;&#x089c4;&#x05316;&#x07597;&#x0836f;&#x07269;&#x05982;&#x07d2b;&#x06749;&#x09187;&#x03001;5-&#x06c1f;&#x05c3f;&#x05627;&#x05576;&#x053ca;&#x05409;&#x0897f;&#x04ed6;&#x06ee8;&#x07b49;&#x090fd;&#x05df2;&#x088ab;&#x08bc1;&#x05b9e;&#x080fd;&#x06709;&#x06548;&#x051cf;&#x05c11;&#x05916;&#x05468;&#x08840;&#x04e2d;G-MDSCs&#x07684;&#x06570;&#x091cf;<sup>[<xref rid="b5" ref-type="bibr">5</xref>]</sup>&#x03002;&#x05409;&#x0897f;&#x04ed6;&#x06ee8;&#x05df2;&#x08fdb;&#x05165;NSCLC IIIB&#x0671f;&#x04e34;&#x05e8a;&#x07814;&#x07a76;&#x0ff08;NCT03302247&#x0ff09;&#x03002;&#x0514d;&#x075ab;&#x068c0;&#x067e5;&#x070b9;&#x06291;&#x05236;&#x05242;&#x04e0e;G-MDSCs&#x06291;&#x05236;&#x05242;&#x08054;&#x05408;&#x07528;&#x0836f;&#x06cbb;&#x07597;&#x0539f;&#x053d1;&#x0548c;&#x08f6c;&#x079fb;&#x06027;&#x080bf;&#x07624;&#x04e5f;&#x06536;&#x083b7;&#x04e86;&#x0663e;&#x08457;&#x07684;&#x06cbb;&#x07597;&#x06548;&#x0679c;<sup>[<xref rid="b41" ref-type="bibr">41</xref>,<xref rid="b63" ref-type="bibr">63</xref>,<xref rid="b64" ref-type="bibr">64</xref>]</sup>&#x03002;</p></sec></sec><sec id="s4"><title>4 &#x05c0f;&#x07ed3;&#x04e0e;&#x05c55;&#x0671b;</title><p id="p00135">G-MDSCs&#x05728;NSCLC TME&#x04e2d;&#x07684;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x06548;&#x05e94;&#x053ca;&#x05176;&#x05728;&#x080bf;&#x07624;&#x053d1;&#x0751f;&#x053d1;&#x05c55;&#x04e2d;&#x07684;&#x072ec;&#x07279;&#x04f5c;&#x07528;&#x063d0;&#x0793a;&#x05176;&#x04f5c;&#x04e3a;&#x080bf;&#x07624;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x04e00;&#x07c7b;&#x06f5c;&#x05728;&#x0836f;&#x07269;&#x09776;&#x070b9;&#x07684;&#x053ef;&#x080fd;&#x06027;&#x03002;&#x04f46;&#x0662f;&#x08fd9;&#x04e00;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;&#x04ecd;&#x05b58;&#x05728;&#x04e00;&#x05b9a;&#x04e89;&#x08bae;&#x06027;&#x0548c;&#x05c40;&#x09650;&#x06027;&#x0ff1a;&#x09996;&#x05148;&#x0ff0c;G-MDSCs&#x04e0e;&#x053d1;&#x06325;&#x06291;&#x05236;&#x04f5c;&#x07528;&#x07684;&#x04e2d;&#x06027;&#x07c92;&#x07ec6;&#x080de;&#x06ca1;&#x06709;&#x04e00;&#x04e2a;&#x06807;&#x051c6;&#x07684;&#x05b9a;&#x04e49;<sup>[<xref rid="b65" ref-type="bibr">65</xref>]</sup>&#x0ff1b;&#x05176;&#x06b21;&#x0ff0c;G-MDSCs&#x056e0;&#x04e3a;&#x05728;MDSCs&#x04e2d;&#x06570;&#x091cf;&#x05360;&#x06bd4;&#x05de8;&#x05927;&#x0800c;&#x04e00;&#x076f4;&#x05907;&#x053d7;&#x05173;&#x06ce8;&#x0ff0c;&#x04f46;&#x08fd1;&#x05e74;&#x06765;&#x07684;&#x07814;&#x07a76;<sup>[<xref rid="b66" ref-type="bibr">66</xref>,<xref rid="b67" ref-type="bibr">67</xref>]</sup>&#x053d1;&#x073b0;&#x053e6;&#x04e00;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;M-MDSCs&#x05728;&#x080bf;&#x07624;&#x08fdb;&#x05c55;&#x04e2d;&#x0540c;&#x06837;&#x06709;&#x07740;&#x091cd;&#x08981;&#x07684;&#x0610f;&#x04e49;&#x0ff0c;&#x05728;NSCLC&#x07684;&#x07814;&#x07a76;&#x04e2d;&#x04e5f;&#x06709;&#x06587;&#x0732e;<sup>[<xref rid="b68" ref-type="bibr">68</xref>]</sup>&#x062a5;&#x09053;&#x05916;&#x05468;&#x08840;&#x04e2d;M-MDSCs&#x06c34;&#x05e73;&#x09ad8;&#x07684;NSCLC&#x060a3;&#x08005;&#x09884;&#x0540e;&#x066f4;&#x05dee;&#x0ff0c;&#x05728;&#x04e00;&#x09879;&#x05173;&#x04e8e;22&#x04f8b;NSCLC&#x060a3;&#x08005;&#x07684;&#x063a2;&#x07d22;&#x06027;&#x05206;&#x06790;<sup>[<xref rid="b69" ref-type="bibr">69</xref>]</sup>&#x04e2d;&#x053d1;&#x073b0;&#x09ad8;&#x06c34;&#x05e73;M-MDSCs&#x04e0e;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07684;&#x0539f;&#x053d1;&#x06027;&#x08010;&#x0836f;&#x06027;&#x05bc6;&#x05207;&#x076f8;&#x05173;&#x0ff0c;&#x08fd9;&#x063d0;&#x0793a;NSCLC&#x04e2d;&#x0540c;&#x065f6;&#x09776;&#x05411;&#x08fd9;&#x04e24;&#x04e2a;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;&#x07684;&#x06cbb;&#x07597;&#x06216;&#x08bb8;&#x083b7;&#x076ca;&#x066f4;&#x09ad8;&#x0ff1b;&#x0518d;&#x08005;&#x0ff0c;NSCLC&#x04e2d;&#x09776;&#x05411;G-MDSCs&#x07684;&#x090e8;&#x05206;&#x06cbb;&#x07597;&#x065b9;&#x05f0f;&#x0540c;&#x06837;&#x04e5f;&#x09776;&#x05411;M-MDSCs&#x0ff0c;&#x04f8b;&#x05982;&#x06709;&#x06587;&#x0732e;<sup>[<xref rid="b70" ref-type="bibr">70</xref>]</sup>&#x062a5;&#x09053;&#x080bf;&#x07624;&#x076f8;&#x05173;&#x06210;&#x07ea4;&#x07ef4;&#x07ec6;&#x080de;&#x0ff08;cancer-associated fibroblasts, CAFs&#x0ff09;&#x05728;NSCLC&#x04e2d;&#x0901a;&#x08fc7;&#x08bf1;&#x05bfc;M-MDSCs&#x06765;&#x04fc3;&#x08fdb;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x03002;</p><p id="p00140">MDSCs&#x05728;TME&#x04e2d;&#x053d1;&#x06325;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x04f5c;&#x07528;&#x07684;&#x091cd;&#x08981;&#x06027;&#x05df2;&#x07ecf;&#x06beb;&#x065e0;&#x04e89;&#x08bae;&#x0ff0c;G-MDSCs&#x0548c;M-MDSCs&#x05728;&#x07ec6;&#x080de;&#x08868;&#x0578b;&#x03001;&#x057fa;&#x056e0;&#x08868;&#x08fbe;&#x0548c; &#x08c03;&#x063a7;&#x0901a;&#x08def;&#x04e0a;&#x05b58;&#x05728;&#x0660e;&#x0663e;&#x05dee;&#x05f02;&#x0ff0c;&#x08fd9;&#x063d0;&#x0793a;&#x07814;&#x07a76;&#x08005;&#x0548c;&#x04e34;&#x05e8a;&#x0533b;&#x0751f;&#x05e94;&#x06ce8;&#x0610f;&#x04e8c;&#x08005;&#x07684;&#x05dee;&#x05f02;&#x06027;&#x04ee5;&#x08fbe;&#x05230;&#x07cbe;&#x051c6;&#x0533b;&#x07597;&#x07684;&#x06cbb;&#x07597;&#x06548;&#x0679c;&#x03002;&#x04f46;&#x082e5;&#x05728;NSCLC&#x060a3;&#x08005;&#x04e2d;&#x051fa;&#x073b0;MDSCs&#x06574;&#x04f53;&#x08868;&#x08fbe;&#x05347;&#x09ad8;&#x065f6;&#x0ff0c;&#x06cbb;&#x07597;&#x0624b;&#x06bb5;&#x04e0a;&#x05355;&#x04e00;&#x09776;&#x05411;&#x067d0;&#x04e00;&#x0514d;&#x075ab;&#x06291;&#x05236;&#x07ec6;&#x080de;&#x04e9a;&#x07fa4;&#x053ef;&#x080fd;&#x04e0d;&#x08db3;&#x04ee5;&#x063a7;&#x05236;&#x080bf;&#x07624;&#x08fdb;&#x05c55;&#x03002;&#x0603b;&#x07684;&#x06765;&#x08bf4;&#x0ff0c;&#x08054;&#x05408;&#x06cbb;&#x07597;&#x07b56;&#x07565;&#x0662f;&#x05ef6;&#x07f13;&#x06216;&#x09006;&#x08f6c;&#x060a3;&#x08005;&#x08010;&#x0836f;&#x06700;&#x091cd;&#x08981;&#x04e14;&#x06700;&#x06709;&#x06548;&#x07684;&#x063aa;&#x065bd;&#x0ff0c;&#x076ee;&#x0524d;&#x05728;&#x05305;&#x062ec;NSCLC&#x05728;&#x05185;&#x07684;&#x0591a;&#x079cd;&#x0764c;&#x075c7;&#x04e2d;&#x0ff0c;&#x04f20;&#x07edf;&#x05316;&#x07597;&#x0836f;&#x07269;&#x03001;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x0836f;&#x07269;&#x04e0e;G-MDSCs&#x06291;&#x05236;&#x05242;&#x07684;&#x08054;&#x07528;&#x0ff0c;&#x053ef;&#x080fd;&#x06210;&#x04e3a;&#x05206;&#x05b50;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x053ca;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x065f6;&#x04ee3;&#x080cc;&#x0666f;&#x04e0b;&#x0ff0c;&#x06539;&#x05584;&#x060a3;&#x08005;&#x09884;&#x0540e;&#x07684;&#x06709;&#x06548;&#x06cbb;&#x07597;&#x065b9;&#x06848;&#x04e4b;&#x04e00;&#x03002;</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> The authors declare no potential conflicts of interest.</p></fn></fn-group><ref-list><!--
+<mixed-citation publication-type="book" publication-format="print">
+<source>
+<name><surname><given-names><collab>
+<publisher-loc>
+<publisher-name>
+<year><volume><issue><fpage><lpage>
+--><title>&#x053c2; &#x08003; &#x06587; &#x0732e;</title><ref id="b1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sung</surname><given-names>H</given-names></name>,
+<name><surname>Ferlay</surname><given-names>J</given-names></name>,
+<name><surname>Siegel</surname><given-names>RL</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries</article-title>.
+<source>CA Cancer J Clin</source>,
+<year>2021</year>,
+<volume>71</volume>(<issue>3</issue>): <fpage>209</fpage>-<lpage>249</lpage>. doi: <pub-id pub-id-type="doi">10.3322/caac.21660</pub-id>
+<pub-id pub-id-type="pmid">33538338</pub-id>
+</mixed-citation><!--Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin, 2021, 71(3): 209-249. doi: 10.3322/caac.21660 --></ref><ref id="b2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Thai</surname><given-names>AA</given-names></name>,
+<name><surname>Solomon</surname><given-names>BJ</given-names></name>,
+<name><surname>Sequist</surname><given-names>LV</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Lung cancer</article-title>.
+<source>Lancet</source>,
+<year>2021</year>,
+<volume>398</volume>(<issue>10299</issue>): <fpage>535</fpage>-<lpage>554</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(21)00312-3</pub-id>
+<pub-id pub-id-type="pmid">34273294</pub-id>
+</mixed-citation><!--Thai AA, Solomon BJ, Sequist LV, et al. Lung cancer. Lancet, 2021, 398(10299): 535-554. doi: 10.1016/S0140-6736(21)00312-3 --></ref><ref id="b3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hirsch</surname><given-names>FR</given-names></name>,
+<name><surname>Scagliotti</surname><given-names>GV</given-names></name>,
+<name><surname>Mulshine</surname><given-names>JL</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Lung cancer: current therapies and new targeted treatments</article-title>.
+<source>Lancet</source>,
+<year>2017</year>,
+<volume>389</volume>(<issue>10066</issue>): <fpage>299</fpage>-<lpage>311</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(16)30958-8</pub-id>
+<pub-id pub-id-type="pmid">27574741</pub-id>
+</mixed-citation><!--Hirsch FR, Scagliotti GV, Mulshine JL, et al. Lung cancer: current therapies and new targeted treatments. Lancet, 2017, 389(10066): 299-311. doi: 10.1016/S0140-6736(16)30958-8 --></ref><ref id="b4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lim</surname><given-names>ZF</given-names></name>,
+<name><surname>Ma</surname><given-names>PC</given-names></name></person-group>.
+<article-title>Emerging insights of tumor heterogeneity and drug resistance mechanisms in lung cancer targeted therapy</article-title>.
+<source>J Hematol Oncol</source>,
+<year>2019</year>,
+<volume>12</volume>(<issue>1</issue>): <fpage>134</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s13045-019-0818-2</pub-id>
+<pub-id pub-id-type="pmid">31815659</pub-id>
+</mixed-citation><!--Lim ZF, Ma PC. Emerging insights of tumor heterogeneity and drug resistance mechanisms in lung cancer targeted therapy. J Hematol Oncol, 2019, 12(1): 134. doi: 10.1186/s13045-019-0818-2 --></ref><ref id="b5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Y</given-names></name>,
+<name><surname>Yi</surname><given-names>M</given-names></name>,
+<name><surname>Niu</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Myeloid-derived suppressor cells: an emerging target for anticancer immunotherapy</article-title>.
+<source>Mol Cancer</source>,
+<year>2022</year>,
+<volume>21</volume>(<issue>1</issue>): <fpage>184</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12943-022-01657-y</pub-id>
+<pub-id pub-id-type="pmid">36163047</pub-id>
+</mixed-citation><!--Wu Y, Yi M, Niu M, et al. Myeloid-derived suppressor cells: an emerging target for anticancer immunotherapy. Mol Cancer, 2022, 21(1): 184. doi: 10.1186/s12943-022-01657-y --></ref><ref id="b6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hegde</surname><given-names>S</given-names></name>,
+<name><surname>Leader</surname><given-names>AM</given-names></name>,
+<name><surname>Merad</surname><given-names>M</given-names></name></person-group>.
+<article-title>MDSC: Markers, development, states, and unaddressed complexity</article-title>.
+<source>Immunity</source>,
+<year>2021</year>,
+<volume>54</volume>(<issue>5</issue>): <fpage>875</fpage>-<lpage>884</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.immuni.2021.04.004</pub-id>
+<pub-id pub-id-type="pmid">33979585</pub-id>
+</mixed-citation><!--Hegde S, Leader AM, Merad M. MDSC: Markers, development, states, and unaddressed complexity. Immunity, 2021, 54(5): 875-884. doi: 10.1016/j.immuni.2021.04.004 --></ref><ref id="b7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marvel</surname><given-names>D</given-names></name>,
+<name><surname>Gabrilovich</surname><given-names>DI</given-names></name></person-group>.
+<article-title>Myeloid-derived suppressor cells in the tumor microenvironment: expect the unexpected</article-title>.
+<source>J Clin Invest</source>,
+<year>2015</year>,
+<volume>125</volume>(<issue>9</issue>): <fpage>3356</fpage>-<lpage>3364</lpage>. doi: <pub-id pub-id-type="doi">10.1172/JCI80005</pub-id>
+<pub-id pub-id-type="pmid">26168215</pub-id>
+</mixed-citation><!--Marvel D, Gabrilovich DI. Myeloid-derived suppressor cells in the tumor microenvironment: expect the unexpected. J Clin Invest, 2015, 125(9): 3356-3364. doi: 10.1172/JCI80005 --></ref><ref id="b8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Condamine</surname><given-names>T</given-names></name>,
+<name><surname>Mastio</surname><given-names>J</given-names></name>,
+<name><surname>Gabrilovich</surname><given-names>DI</given-names></name></person-group>.
+<article-title>Transcriptional regulation of myeloid-derived suppressor cells</article-title>.
+<source>J Leukoc Biol</source>,
+<year>2015</year>,
+<volume>98</volume>(<issue>6</issue>): <fpage>913</fpage>-<lpage>922</lpage>. doi: <pub-id pub-id-type="doi">10.1189/jlb.4RI0515-204R</pub-id>
+<pub-id pub-id-type="pmid">26337512</pub-id>
+</mixed-citation><!--Condamine T, Mastio J, Gabrilovich DI. Transcriptional regulation of myeloid-derived suppressor cells. J Leukoc Biol, 2015, 98(6): 913-922. doi: 10.1189/jlb.4RI0515-204R --></ref><ref id="b9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>K</given-names></name>,
+<name><surname>Shi</surname><given-names>H</given-names></name>,
+<name><surname>Zhang</surname><given-names>B</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Myeloid-derived suppressor cells as immunosuppressive regulators and therapeutic targets in cancer</article-title>.
+<source>Signal Transduct Target Ther</source>,
+<year>2021</year>,
+<volume>6</volume>(<issue>1</issue>): <fpage>362</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-021-00670-9</pub-id>
+<pub-id pub-id-type="pmid">34620838</pub-id>
+</mixed-citation><!--Li K, Shi H, Zhang B, et al. Myeloid-derived suppressor cells as immunosuppressive regulators and therapeutic targets in cancer. Signal Transduct Target Ther, 2021, 6(1): 362. doi: 10.1038/s41392-021-00670-9 --></ref><ref id="b10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jaillon</surname><given-names>S</given-names></name>,
+<name><surname>Ponzetta</surname><given-names>A</given-names></name>,
+<name><surname>Di</surname><given-names>Mitri D</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Neutrophil diversity and plasticity in tumour progression and therapy</article-title>.
+<source>Nat Rev Cancer</source>,
+<year>2020</year>,
+<volume>20</volume>(<issue>9</issue>): <fpage>485</fpage>-<lpage>503</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41568-020-0281-y</pub-id>
+<pub-id pub-id-type="pmid">32694624</pub-id>
+</mixed-citation><!--Jaillon S, Ponzetta A, Di Mitri D, et al. Neutrophil diversity and plasticity in tumour progression and therapy. Nat Rev Cancer, 2020, 20(9): 485-503. doi: 10.1038/s41568-020-0281-y --></ref><ref id="b11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Condamine</surname><given-names>T</given-names></name>,
+<name><surname>Dominguez</surname><given-names>GA</given-names></name>,
+<name><surname>Youn</surname><given-names>JI</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Lectin-type oxidized LDL receptor-1 distinguishes population of human polymorphonuclear myeloid-derived suppressor cells in cancer patients</article-title>.
+<source>Sci Immunol</source>,
+<year>2016</year>,
+<volume>1</volume>(<issue>2</issue>): <fpage>aaf8943</fpage>. doi: <pub-id pub-id-type="doi">10.1126/sciimmunol.aaf8943</pub-id>
+<pub-id pub-id-type="pmid">28417112</pub-id>
+</mixed-citation><!--Condamine T, Dominguez GA, Youn JI, et al. Lectin-type oxidized LDL receptor-1 distinguishes population of human polymorphonuclear myeloid-derived suppressor cells in cancer patients. Sci Immunol, 2016, 1(2): aaf8943. doi: 10.1126/sciimmunol.aaf8943 --></ref><ref id="b12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ito</surname><given-names>A</given-names></name>,
+<name><surname>Akama</surname><given-names>Y</given-names></name>,
+<name><surname>Satoh-Takayama</surname><given-names>N</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Possible metastatic stage-dependent ILC 2 activation induces differential functions of MDSCs through IL-13/IL-13R&#x003b1;1 signaling during the progression of breast cancer lung metastasis</article-title>.
+<source>Cancers (Basel)</source>,
+<year>2022</year>,
+<volume>14</volume>(<issue>13</issue>): <fpage>3267</fpage>. doi: <pub-id pub-id-type="doi">10.3390/cancers14133267</pub-id>
+<pub-id pub-id-type="pmid">35805039</pub-id>
+</mixed-citation><!--Ito A, Akama Y, Satoh-Takayama N, et al. Possible metastatic stage-dependent ILC2 activation induces differential functions of MDSCs through IL-13/IL-13R&#x003b1;1 signaling during the progression of breast cancer lung metastasis. Cancers (Basel), 2022, 14(13): 3267. doi: 10.3390/cancers14133267 --></ref><ref id="b13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wen</surname><given-names>T</given-names></name>,
+<name><surname>Su</surname><given-names>C</given-names></name>,
+<name><surname>Cheng</surname><given-names>X</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Circulating myeloid-derived suppressors cells correlate with clinicopathological characteristics and outcomes undergoing neoadjuvant chemoimmunotherapy in non-small cell lung cancer</article-title>.
+<source>Clin Transl Oncol</source>,
+<year>2022</year>,
+<volume>24</volume>(<issue>6</issue>): <fpage>1184</fpage>-<lpage>1194</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s12094-021-02765-9</pub-id>
+<pub-id pub-id-type="pmid">34988921</pub-id>
+</mixed-citation><!--Wen T, Su C, Cheng X, et al. Circulating myeloid-derived suppressors cells correlate with clinicopathological characteristics and outcomes undergoing neoadjuvant chemoimmunotherapy in non-small cell lung cancer. Clin Transl Oncol, 2022, 24(6): 1184-1194. doi: 10.1007/s12094-021-02765-9 --></ref><ref id="b14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tian</surname><given-names>X</given-names></name>,
+<name><surname>Wang</surname><given-names>T</given-names></name>,
+<name><surname>Zheng</surname><given-names>Q</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Circulating CD15<sup>+</sup> LOX-1<sup>+</sup> PMN-MDSCs are a potential biomarker for the early diagnosis of non-small-cell lung cancer</article-title>.
+<source>Int J Clin Pract</source>,
+<year>2021</year>,
+<volume>75</volume>(<issue>8</issue>): <fpage>e14317</fpage>. doi: <pub-id pub-id-type="doi">10.1111/ijcp.14317</pub-id>
+<pub-id pub-id-type="pmid">33960078</pub-id>
+</mixed-citation><!--Tian X, Wang T, Zheng Q, et al. Circulating CD15<sup>+</sup> LOX-1<sup>+</sup> PMN-MDSCs are a potential biomarker for the early diagnosis of non-small-cell lung cancer. Int J Clin Pract, 2021, 75(8): e14317. doi: 10.1111/ijcp.14317 --></ref><ref id="b15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tumino</surname><given-names>N</given-names></name>,
+<name><surname>Besi</surname><given-names>F</given-names></name>,
+<name><surname>Martini</surname><given-names>S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Polymorphonuclear myeloid-derived suppressor cells are abundant in peripheral blood of cancer patients and suppress natural killer cell anti-tumor activity</article-title>.
+<source>Front Immunol</source>,
+<year>2022</year>,
+<volume>12</volume>: <fpage>803014</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2021.803014</pub-id>
+<pub-id pub-id-type="pmid">35116033</pub-id>
+</mixed-citation><!--Tumino N, Besi F, Martini S, et al. Polymorphonuclear myeloid-derived suppressor cells are abundant in peripheral blood of cancer patients and suppress natural killer cell anti-tumor activity. Front Immunol, 2022, 12: 803014. doi: 10.3389/fimmu.2021.803014 --></ref><ref id="b16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>HR</given-names></name>,
+<name><surname>Park</surname><given-names>SM</given-names></name>,
+<name><surname>Seo</surname><given-names>SU</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>The ratio of peripheral regulatory T cells to Lox-1<sup>+</sup> polymorphonuclear myeloid-derived suppressor cells predicts the early response to anti-PD-1 therapy in patients with non-small cell lung cancer</article-title>.
+<source>Am J Respir Crit Care Med</source>,
+<year>2019</year>,
+<volume>199</volume>(<issue>2</issue>): <fpage>243</fpage>-<lpage>246</lpage>. doi: <pub-id pub-id-type="doi">10.1164/rccm.201808-1502LE</pub-id>
+<pub-id pub-id-type="pmid">30339766</pub-id>
+</mixed-citation><!--Kim HR, Park SM, Seo SU, et al. The ratio of peripheral regulatory T cells to Lox-1<sup>+</sup> polymorphonuclear myeloid-derived suppressor cells predicts the early response to anti-PD-1 therapy in patients with non-small cell lung cancer. Am J Respir Crit Care Med, 2019, 199(2): 243-246. doi: 10.1164/rccm.201808-1502LE --></ref><ref id="b17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>De</surname><given-names>Cicco P</given-names></name>,
+<name><surname>Ercolano</surname><given-names>G</given-names></name>,
+<name><surname>Ianaro</surname><given-names>A</given-names></name></person-group>.
+<article-title>The new era of cancer immunotherapy: targeting myeloid-derived suppressor cells to overcome immune evasion</article-title>.
+<source>Front Immunol</source>,
+<year>2020</year>,
+<volume>11</volume>: <fpage>1680</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2020.01680</pub-id>
+<pub-id pub-id-type="pmid">32849585</pub-id>
+</mixed-citation><!--De Cicco P, Ercolano G, Ianaro A. The new era of cancer immunotherapy: targeting myeloid-derived suppressor cells to overcome immune evasion. Front Immunol, 2020, 11: 1680. doi: 10.3389/fimmu.2020.01680 --></ref><ref id="b18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Grzywa</surname><given-names>TM</given-names></name>,
+<name><surname>Sosnowska</surname><given-names>A</given-names></name>,
+<name><surname>Matryba</surname><given-names>P</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Myeloid cell-derived arginase in cancer immune response</article-title>.
+<source>Front Immunol</source>,
+<year>2020</year>,
+<volume>11</volume>: <fpage>938</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2020.00938</pub-id>
+<pub-id pub-id-type="pmid">32499785</pub-id>
+</mixed-citation><!--Grzywa TM, Sosnowska A, Matryba P, et al. Myeloid cell-derived arginase in cancer immune response. Front Immunol, 2020, 11: 938. doi: 10.3389/fimmu.2020.00938 --></ref><ref id="b19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Raber</surname><given-names>PL</given-names></name>,
+<name><surname>Thevenot</surname><given-names>P</given-names></name>,
+<name><surname>Sierra</surname><given-names>R</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Subpopulations of myeloid-derived suppressor cells impair T cell responses through independent nitric oxide-related pathways</article-title>.
+<source>Int J Cancer</source>,
+<year>2014</year>,
+<volume>134</volume>(<issue>12</issue>): <fpage>2853</fpage>-<lpage>2864</lpage>. doi: <pub-id pub-id-type="doi">10.1002/ijc.28622</pub-id>
+<pub-id pub-id-type="pmid">24259296</pub-id>
+</mixed-citation><!--Raber PL, Thevenot P, Sierra R, et al. Subpopulations of myeloid-derived suppressor cells impair T cell responses through independent nitric oxide-related pathways. Int J Cancer, 2014, 134(12): 2853-2864. doi: 10.1002/ijc.28622 --></ref><ref id="b20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Alcover</surname><given-names>A</given-names></name>,
+<name><surname>Alarc&#x000f3;n</surname><given-names>B</given-names></name>,
+<name><surname>Di</surname><given-names>Bartolo V</given-names></name></person-group>.
+<article-title>Cell biology of T cell receptor expression and regulation</article-title>.
+<source>Annu Rev Immunol</source>,
+<year>2018</year>,
+<volume>36</volume>: <fpage>103</fpage>-<lpage>125</lpage>. doi: <pub-id pub-id-type="doi">10.1146/annurev-immunol-042617-053429</pub-id>
+<pub-id pub-id-type="pmid">29261409</pub-id>
+</mixed-citation><!--Alcover A, Alarc&#x000f3;n B, Di Bartolo V. Cell biology of T cell receptor expression and regulation. Annu Rev Immunol, 2018, 36: 103-125. doi: 10.1146/annurev-immunol-042617-053429 --></ref><ref id="b21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>CY</given-names></name>,
+<name><surname>Wang</surname><given-names>YM</given-names></name>,
+<name><surname>Wang</surname><given-names>CL</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Population alterations of L-arginase- and inducible nitric oxide synthase-expressed CD11b<sup>+</sup>/CD14<sup>-</sup>/CD15<sup>+</sup>/CD33<sup>+</sup> myeloid-derived suppressor cells and CD8<sup>+</sup> T lymphocytes in patients with advanced-stage non-small cell lung cancer</article-title>.
+<source>J Cancer Res Clin Oncol</source>,
+<year>2010</year>,
+<volume>136</volume>(<issue>1</issue>): <fpage>35</fpage>-<lpage>45</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00432-009-0634-0</pub-id>
+<pub-id pub-id-type="pmid">19572148</pub-id>
+</mixed-citation><!--Liu CY, Wang YM, Wang CL, et al. Population alterations of L-arginase- and inducible nitric oxide synthase-expressed CD11b<sup>+</sup>/CD14<sup>-</sup>/CD15<sup>+</sup>/CD33<sup>+</sup> myeloid-derived suppressor cells and CD8<sup>+</sup> T lymphocytes in patients with advanced-stage non-small cell lung cancer. J Cancer Res Clin Oncol, 2010, 136(1): 35-45. doi: 10.1007/s00432-009-0634-0 --></ref><ref id="b22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Fletcher</surname><given-names>M</given-names></name>,
+<name><surname>Ramirez</surname><given-names>ME</given-names></name>,
+<name><surname>Sierra</surname><given-names>RA</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>l-Arginine depletion blunts antitumor T-cell responses by inducing myeloid-derived suppressor cells</article-title>.
+<source>Cancer Res</source>,
+<year>2015</year>,
+<volume>75</volume>(<issue>2</issue>): <fpage>275</fpage>-<lpage>283</lpage>. doi: <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-14-1491</pub-id>
+<pub-id pub-id-type="pmid">25406192</pub-id>
+</mixed-citation><!--Fletcher M, Ramirez ME, Sierra RA, et al. l-Arginine depletion blunts antitumor T-cell responses by inducing myeloid-derived suppressor cells. Cancer Res, 2015, 75(2): 275-283. doi: 10.1158/0008-5472.CAN-14-1491 --></ref><ref id="b23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rani</surname><given-names>V</given-names></name>,
+<name><surname>Deep</surname><given-names>G</given-names></name>,
+<name><surname>Singh</surname><given-names>RK</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Oxidative stress and metabolic disorders: Pathogenesis and therapeutic strategies</article-title>.
+<source>Life Sci</source>,
+<year>2016</year>,
+<volume>148</volume>: <fpage>183</fpage>-<lpage>193</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lfs.2016.02.002</pub-id>
+<pub-id pub-id-type="pmid">26851532</pub-id>
+</mixed-citation><!--Rani V, Deep G, Singh RK, et al. Oxidative stress and metabolic disorders: Pathogenesis and therapeutic strategies. Life Sci, 2016, 148: 183-193. doi: 10.1016/j.lfs.2016.02.002 --></ref><ref id="b24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Joshi</surname><given-names>S</given-names></name>,
+<name><surname>Sharabi</surname><given-names>A</given-names></name></person-group>.
+<article-title>Targeting myeloid-derived suppressor cells to enhance natural killer cell-based immunotherapy</article-title>.
+<source>Pharmacol Ther</source>,
+<year>2022</year>,
+<volume>235</volume>: <fpage>108114</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.pharmthera.2022.108114</pub-id>
+<pub-id pub-id-type="pmid">35122833</pub-id>
+</mixed-citation><!--Joshi S, Sharabi A. Targeting myeloid-derived suppressor cells to enhance natural killer cell-based immunotherapy. Pharmacol Ther, 2022, 235: 108114. doi: 10.1016/j.pharmthera.2022.108114 --></ref><ref id="b25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Z</given-names></name>,
+<name><surname>Huang</surname><given-names>H</given-names></name>,
+<name><surname>Han</surname><given-names>Q</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>SENP7 senses oxidative stress to sustain metabolic fitness and antitumor functions of CD8<sup>+</sup> T cells</article-title>.
+<source>J Clin Invest</source>,
+<year>2022</year>,
+<volume>132</volume>(<issue>7</issue>): <fpage>e155224</fpage>. doi: <pub-id pub-id-type="doi">10.1172/JCI155224</pub-id>
+<pub-id pub-id-type="pmid">35143421</pub-id>
+</mixed-citation><!--Wu Z, Huang H, Han Q, et al. SENP7 senses oxidative stress to sustain metabolic fitness and antitumor functions of CD8<sup>+</sup> T cells. J Clin Invest, 2022, 132(7): e155224. doi: 10.1172/JCI155224 --></ref><ref id="b26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>V</given-names></name>,
+<name><surname>Gabrilovich</surname><given-names>DI</given-names></name></person-group>.
+<article-title>Hypoxia-inducible factors in regulation of immune responses in tumour microenvironment</article-title>.
+<source>Immunology</source>,
+<year>2014</year>,
+<volume>143</volume>(<issue>4</issue>): <fpage>512</fpage>-<lpage>519</lpage>. doi: <pub-id pub-id-type="doi">10.1111/imm.12380</pub-id>
+<pub-id pub-id-type="pmid">25196648</pub-id>
+</mixed-citation><!--Kumar V, Gabrilovich DI. Hypoxia-inducible factors in regulation of immune responses in tumour microenvironment. Immunology, 2014, 143(4): 512-519. doi: 10.1111/imm.12380 --></ref><ref id="b27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y</given-names></name>,
+<name><surname>Liu</surname><given-names>H</given-names></name>,
+<name><surname>Zhang</surname><given-names>Z</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>G-MDSC-derived exosomes mediate the differentiation of M-MDSC into M2 macrophages promoting colitis-to-cancer transition</article-title>.
+<source>J Immunother Cancer</source>,
+<year>2023</year>,
+<volume>11</volume>(<issue>6</issue>): <fpage>e006166</fpage>. doi: <pub-id pub-id-type="doi">10.1136/jitc-2022-006166</pub-id>
+<pub-id pub-id-type="pmid">37364932</pub-id>
+</mixed-citation><!--Wang Y, Liu H, Zhang Z, et al. G-MDSC-derived exosomes mediate the differentiation of M-MDSC into M2 macrophages promoting colitis-to-cancer transition. J Immunother Cancer, 2023, 11(6): e006166. doi: 10.1136/jitc-2022-006166 --></ref><ref id="b28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Pesce</surname><given-names>S</given-names></name>,
+<name><surname>Greppi</surname><given-names>M</given-names></name>,
+<name><surname>Ferretti</surname><given-names>E</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>miRNAs in NK cell-based immune responses and cancer immunotherapy</article-title>.
+<source>Front Cell Dev Biol</source>,
+<year>2020</year>,
+<volume>8</volume>: <fpage>119</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcell.2020.00119</pub-id>
+<pub-id pub-id-type="pmid">32161759</pub-id>
+</mixed-citation><!--Pesce S, Greppi M, Ferretti E, et al. miRNAs in NK cell-based immune responses and cancer immunotherapy. Front Cell Dev Biol, 2020, 8: 119. doi: 10.3389/fcell.2020.00119 --></ref><ref id="b29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J</given-names></name>,
+<name><surname>Wang</surname><given-names>L</given-names></name>,
+<name><surname>Chen</surname><given-names>X</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>CD39/CD 73 upregulation on myeloid-derived suppressor cells via TGF-beta-mTOR-HIF-1 signaling in patients with non-small cell lung cancer</article-title>.
+<source>Oncoimmunology</source>,
+<year>2017</year>,
+<volume>6</volume>(<issue>6</issue>): <fpage>e1320011</fpage>. doi: <pub-id pub-id-type="doi">10.1080/2162402X.2017.1320011</pub-id>
+<pub-id pub-id-type="pmid">28680754</pub-id>
+</mixed-citation><!--Li J, Wang L, Chen X, et al. CD39/CD73 upregulation on myeloid-derived suppressor cells via TGF-beta-mTOR-HIF-1 signaling in patients with non-small cell lung cancer. Oncoimmunology, 2017, 6(6): e1320011. doi: 10.1080/2162402X.2017.1320011 --></ref><ref id="b30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Fu</surname><given-names>XG</given-names></name>,
+<name><surname>Deng</surname><given-names>J</given-names></name>,
+<name><surname>Xu</surname><given-names>WJ</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Histidine decarboxylase-expressing PMN-MDSC-derived TGF-beta 1 promotes the epithelial-mesenchymal transition of metastatic lung adenocarcinoma</article-title>.
+<source>Int J Clin Exp Pathol</source>,
+<year>2020</year>,
+<volume>13</volume>(<issue>6</issue>): <fpage>1361</fpage>-<lpage>1371</lpage>.
+<pub-id pub-id-type="pmid">32661471</pub-id>
+</mixed-citation><!--Fu XG, Deng J, Xu WJ, et al. Histidine decarboxylase-expressing PMN-MDSC-derived TGF-beta1 promotes the epithelial-mesenchymal transition of metastatic lung adenocarcinoma. Int J Clin Exp Pathol, 2020, 13(6): 1361-1371. --></ref><ref id="b31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Salminen</surname><given-names>A</given-names></name></person-group>.
+<article-title>Immunosuppressive network promotes immunosenescence associated with aging and chronic inflammatory conditions</article-title>.
+<source>J Mol Med (Berl)</source>,
+<year>2021</year>,
+<volume>99</volume>(<issue>11</issue>): <fpage>1553</fpage>-<lpage>1569</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00109-021-02123-w</pub-id>
+<pub-id pub-id-type="pmid">34432073</pub-id>
+</mixed-citation><!--Salminen A. Immunosuppressive network promotes immunosenescence associated with aging and chronic inflammatory conditions. J Mol Med (Berl), 2021, 99(11): 1553-1569. doi: 10.1007/s00109-021-02123-w --></ref><ref id="b32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jing</surname><given-names>B</given-names></name>,
+<name><surname>Wang</surname><given-names>T</given-names></name>,
+<name><surname>Sun</surname><given-names>B</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>IL6/STAT3 signaling orchestrates premetastatic niche formation and immunosuppressive traits in lung</article-title>.
+<source>Cancer Res</source>,
+<year>2020</year>,
+<volume>80</volume>(<issue>4</issue>): <fpage>784</fpage>-<lpage>797</lpage>. doi: <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-19-2013</pub-id>
+<pub-id pub-id-type="pmid">31848193</pub-id>
+</mixed-citation><!--Jing B, Wang T, Sun B, et al. IL6/STAT3 signaling orchestrates premetastatic niche formation and immunosuppressive traits in lung. Cancer Res, 2020, 80(4): 784-797. doi: 10.1158/0008-5472.CAN-19-2013 --></ref><ref id="b33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Corzo</surname><given-names>CA</given-names></name>,
+<name><surname>Cotter</surname><given-names>MJ</given-names></name>,
+<name><surname>Cheng</surname><given-names>P</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Mechanism regulating reactive oxygen species in tumor-induced myeloid-derived suppressor cells</article-title>.
+<source>J Immunol</source>,
+<year>2009</year>,
+<volume>182</volume>(<issue>9</issue>): <fpage>5693</fpage>-<lpage>5701</lpage>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.0900092</pub-id>
+<pub-id pub-id-type="pmid">19380816</pub-id>
+</mixed-citation><!--Corzo CA, Cotter MJ, Cheng P, et al. Mechanism regulating reactive oxygen species in tumor-induced myeloid-derived suppressor cells. J Immunol, 2009, 182(9): 5693-5701. doi: 10.4049/jimmunol.0900092 --></ref><ref id="b34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Vasquez-Dunddel</surname><given-names>D</given-names></name>,
+<name><surname>Pan</surname><given-names>F</given-names></name>,
+<name><surname>Zeng</surname><given-names>Q</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>STAT3 regulates arginase-I in myeloid-derived suppressor cells from cancer patients</article-title>.
+<source>J Clin Invest</source>,
+<year>2013</year>,
+<volume>123</volume>(<issue>4</issue>): <fpage>1580</fpage>-<lpage>1589</lpage>. doi: <pub-id pub-id-type="doi">10.1172/JCI60083</pub-id>
+<pub-id pub-id-type="pmid">23454751</pub-id>
+</mixed-citation><!--Vasquez-Dunddel D, Pan F, Zeng Q, et al. STAT3 regulates arginase-I in myeloid-derived suppressor cells from cancer patients. J Clin Invest, 2013, 123(4): 1580-1589. doi: 10.1172/JCI60083 --></ref><ref id="b35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>G</given-names></name>,
+<name><surname>Yao</surname><given-names>X</given-names></name>,
+<name><surname>Yan</surname><given-names>F</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Ligation of CD180 contributes to endotoxic shock by regulating the accumulation and immunosuppressive activity of myeloid-derived suppressor cells through STAT3</article-title>.
+<source>Biochim Biophys Acta Mol Basis Dis</source>,
+<year>2019</year>,
+<volume>1865</volume>(<issue>3</issue>): <fpage>535</fpage>-<lpage>546</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.bbadis.2018.12.013</pub-id>
+<pub-id pub-id-type="pmid">30557700</pub-id>
+</mixed-citation><!--Dong G, Yao X, Yan F, et al. Ligation of CD180 contributes to endotoxic shock by regulating the accumulation and immunosuppressive activity of myeloid-derived suppressor cells through STAT3. Biochim Biophys Acta Mol Basis Dis, 2019, 1865(3): 535-546. doi: 10.1016/j.bbadis.2018.12.013 --></ref><ref id="b36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>ZH</given-names></name>,
+<name><surname>Zhu</surname><given-names>YZ</given-names></name>,
+<name><surname>Su</surname><given-names>L</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Ze-Qi-Tang formula induces granulocytic myeloid-derived suppressor cell apoptosis via STAT3/S100A9/Bcl-2/Caspase-3 signaling to prolong the survival of mice with orthotopic lung cancer</article-title>.
+<source>Mediators Inflamm</source>,
+<year>2021</year>,
+<volume>2021</volume>: <fpage>8856326</fpage>. doi: <pub-id pub-id-type="doi">10.1155/2021/8856326</pub-id>
+<pub-id pub-id-type="pmid">33867859</pub-id>
+</mixed-citation><!--Xu ZH, Zhu YZ, Su L, et al. Ze-Qi-Tang formula induces granulocytic myeloid-derived suppressor cell apoptosis via STAT3/S100A9/Bcl-2/Caspase-3 signaling to prolong the survival of mice with orthotopic lung cancer. Mediators Inflamm, 2021, 2021: 8856326. doi: 10.1155/2021/8856326 --></ref><ref id="b37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>T</given-names></name>,
+<name><surname>Liu</surname><given-names>S</given-names></name>,
+<name><surname>Hanna</surname><given-names>NH</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>LAL deficiency induced myeloid-derived suppressor cells as targets and biomarkers for lung cancer</article-title>.
+<source>J Immunother Cancer</source>,
+<year>2023</year>,
+<volume>11</volume>(<issue>3</issue>): <fpage>e006272</fpage>. doi: <pub-id pub-id-type="doi">10.1136/jitc-2022-006272</pub-id>
+<pub-id pub-id-type="pmid">36914206</pub-id>
+</mixed-citation><!--Zhao T, Liu S, Hanna NH, et al. LAL deficiency induced myeloid-derived suppressor cells as targets and biomarkers for lung cancer. J Immunother Cancer, 2023, 11(3): e006272. doi: 10.1136/jitc-2022-006272 --></ref><ref id="b38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>Q</given-names></name>,
+<name><surname>Xiang</surname><given-names>M</given-names></name></person-group>.
+<article-title>Metabolic reprograming of MDSCs within tumor microenvironment and targeting for cancer immunotherapy</article-title>.
+<source>Acta Pharmacol Sin</source>,
+<year>2022</year>,
+<volume>43</volume>(<issue>6</issue>): <fpage>1337</fpage>-<lpage>1348</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41401-021-00776-4</pub-id>
+<pub-id pub-id-type="pmid">34561553</pub-id>
+</mixed-citation><!--Li Q, Xiang M. Metabolic reprograming of MDSCs within tumor microenvironment and targeting for cancer immunotherapy. Acta Pharmacol Sin, 2022, 43(6): 1337-1348. doi: 10.1038/s41401-021-00776-4 --></ref><ref id="b39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>W</given-names></name>,
+<name><surname>Zhu</surname><given-names>Y</given-names></name>,
+<name><surname>Chen</surname><given-names>X</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>CD73 expression in myeloid-derived suppressor cells is correlated with clinical stages in head and neck squamous cell carcinomas</article-title>.
+<source>Ann Transl Med</source>,
+<year>2021</year>,
+<volume>9</volume>(<issue>14</issue>): <fpage>1148</fpage>. doi: <pub-id pub-id-type="doi">10.21037/atm-21-2589</pub-id>
+<pub-id pub-id-type="pmid">34430589</pub-id>
+</mixed-citation><!--Zheng W, Zhu Y, Chen X, et al. CD73 expression in myeloid-derived suppressor cells is correlated with clinical stages in head and neck squamous cell carcinomas. Ann Transl Med, 2021, 9(14): 1148. doi: 10.21037/atm-21-2589 --></ref><ref id="b40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ryzhov</surname><given-names>S</given-names></name>,
+<name><surname>Novitskiy</surname><given-names>SV</given-names></name>,
+<name><surname>Goldstein</surname><given-names>AE</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Adenosinergic regulation of the expansion and immunosuppressive activity of CD11b<sup>+</sup>Gr1<sup>+</sup> cells</article-title>.
+<source>J Immunol</source>,
+<year>2011</year>,
+<volume>187</volume>(<issue>11</issue>): <fpage>6120</fpage>-<lpage>6129</lpage>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.1101225</pub-id>
+<pub-id pub-id-type="pmid">22039302</pub-id>
+</mixed-citation><!--Ryzhov S, Novitskiy SV, Goldstein AE, et al. Adenosinergic regulation of the expansion and immunosuppressive activity of CD11b<sup>+</sup>Gr1<sup>+</sup> cells. J Immunol, 2011, 187(11): 6120-6129. doi: 10.4049/jimmunol.1101225 --></ref><ref id="b41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kumar</surname><given-names>V</given-names></name>,
+<name><surname>Donthireddy</surname><given-names>L</given-names></name>,
+<name><surname>Marvel</surname><given-names>D</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Cancer-associated fibroblasts neutralize the anti-tumor effect of CSF 1 receptor blockade by inducing PMN-MDSC infiltration of tumors</article-title>.
+<source>Cancer Cell</source>,
+<year>2017</year>,
+<volume>32</volume>(<issue>5</issue>): <fpage>654</fpage>-<lpage>668</lpage>.e5. doi: <pub-id pub-id-type="doi">10.1016/j.ccell.2017.10.005</pub-id>
+<pub-id pub-id-type="pmid">29136508</pub-id>
+</mixed-citation><!--Kumar V, Donthireddy L, Marvel D, et al. Cancer-associated fibroblasts neutralize the anti-tumor effect of CSF1 receptor blockade by inducing PMN-MDSC infiltration of tumors. Cancer Cell, 2017, 32(5): 654-668.e5. doi: 10.1016/j.ccell.2017.10.005 --></ref><ref id="b42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>R</given-names></name>,
+<name><surname>Dong</surname><given-names>M</given-names></name>,
+<name><surname>Tu</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>PMN-MDSCs modulated by CCL 20 from cancer cells promoted breast cancer cell stemness through CXCL2-CXCR2 pathway</article-title>.
+<source>Signal Transduct Target Ther</source>,
+<year>2023</year>,
+<volume>8</volume>(<issue>1</issue>): 97. doi: <pub-id pub-id-type="doi">10.1038/s41392-023-01337-3</pub-id>
+</mixed-citation><!--Zhang R, Dong M, Tu J, et al. PMN-MDSCs modulated by CCL20 from cancer cells promoted breast cancer cell stemness through CXCL2-CXCR2 pathway. Signal Transduct Target Ther, 2023, 8(1): 97. doi: 10.1038/s41392-023-01337-3 --></ref><ref id="b43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bian</surname><given-names>Z</given-names></name>,
+<name><surname>Shi</surname><given-names>L</given-names></name>,
+<name><surname>Venkataramani</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Tumor conditions induce bone marrow expansion of granulocytic, but not monocytic, immunosuppressive leukocytes with increased CXCR2 expression in mice</article-title>.
+<source>Eur J Immunol</source>,
+<year>2018</year>,
+<volume>48</volume>(<issue>3</issue>): <fpage>532</fpage>-<lpage>542</lpage>. doi: <pub-id pub-id-type="doi">10.1002/eji.201746976</pub-id>
+<pub-id pub-id-type="pmid">29120053</pub-id>
+</mixed-citation><!--Bian Z, Shi L, Venkataramani M, et al. Tumor conditions induce bone marrow expansion of granulocytic, but not monocytic, immunosuppressive leukocytes with increased CXCR2 expression in mice. Eur J Immunol, 2018, 48(3): 532-542. doi: 10.1002/eji.201746976 --></ref><ref id="b44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lo-Coco</surname><given-names>F</given-names></name>,
+<name><surname>Avvisati</surname><given-names>G</given-names></name>,
+<name><surname>Vignetti</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Retinoic acid and arsenic trioxide for acute promyelocytic leukemia</article-title>.
+<source>N Engl J Med</source>,
+<year>2013</year>,
+<volume>369</volume>(<issue>2</issue>): <fpage>111</fpage>-<lpage>121</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1300874</pub-id>
+<pub-id pub-id-type="pmid">23841729</pub-id>
+</mixed-citation><!--Lo-Coco F, Avvisati G, Vignetti M, et al. Retinoic acid and arsenic trioxide for acute promyelocytic leukemia. N Engl J Med, 2013, 369(2): 111-121. doi: 10.1056/NEJMoa1300874 --></ref><ref id="b45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Olson</surname><given-names>DJ</given-names></name>,
+<name><surname>Luke</surname><given-names>JJ</given-names></name></person-group>.
+<article-title>Myeloid maturity: ATRA to enhance anti-PD-1?</article-title>
+<source>Clin Cancer Res</source>,
+<year>2023</year>,
+<volume>29</volume>(<issue>7</issue>): <fpage>1167</fpage>-<lpage>1169</lpage>. doi: <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-22-3652</pub-id>
+<pub-id pub-id-type="pmid">36656164</pub-id>
+</mixed-citation><!--Olson DJ, Luke JJ. Myeloid maturity: ATRA to enhance anti-PD-1? Clin Cancer Res, 2023, 29(7): 1167-1169. doi: 10.1158/1078-0432.CCR-22-3652 --></ref><ref id="b46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Anderson</surname><given-names>R</given-names></name>,
+<name><surname>Eftychis</surname><given-names>HA</given-names></name>,
+<name><surname>Weiner</surname><given-names>A</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>An in vivo and in vitro investigation of the phototoxic potential of tenoxicam, a new non-steroidal anti-inflammatory agent</article-title>.
+<source>Dermatologica</source>,
+<year>1987</year>,
+<volume>175</volume>(<issue>5</issue>): <fpage>229</fpage>-<lpage>234</lpage>. doi: <pub-id pub-id-type="doi">10.1159/000248909</pub-id>
+<pub-id pub-id-type="pmid">3678549</pub-id>
+</mixed-citation><!--Anderson R, Eftychis HA, Weiner A, et al. An in vivo and in vitro investigation of the phototoxic potential of tenoxicam, a new non-steroidal anti-inflammatory agent. Dermatologica, 1987, 175(5): 229-234. doi: 10.1159/000248909 --></ref><ref id="b47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Nefedova</surname><given-names>Y</given-names></name>,
+<name><surname>Fishman</surname><given-names>M</given-names></name>,
+<name><surname>Sherman</surname><given-names>S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Mechanism of all-trans retinoic acid effect on tumor-associated myeloid-derived suppressor cells</article-title>.
+<source>Cancer Res</source>,
+<year>2007</year>,
+<volume>67</volume>(<issue>22</issue>): <fpage>11021</fpage>-<lpage>11028</lpage>. doi: <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-07-2593</pub-id>
+<pub-id pub-id-type="pmid">18006848</pub-id>
+</mixed-citation><!--Nefedova Y, Fishman M, Sherman S, et al. Mechanism of all-trans retinoic acid effect on tumor-associated myeloid-derived suppressor cells. Cancer Res, 2007, 67(22): 11021-11028. doi: 10.1158/0008-5472.CAN-07-2593 --></ref><ref id="b48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hamilton</surname><given-names>MJ</given-names></name>,
+<name><surname>Bosiljcic</surname><given-names>M</given-names></name>,
+<name><surname>Lepard</surname><given-names>NE</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Macrophages are more potent immune suppressors ex vivo than immature myeloid-derived suppressor cells induced by metastatic murine mammary carcinomas</article-title>.
+<source>J Immunol</source>,
+<year>2014</year>,
+<volume>192</volume>(<issue>1</issue>): <fpage>512</fpage>-<lpage>522</lpage>. doi: <pub-id pub-id-type="doi">10.4049/jimmunol.1300096</pub-id>
+<pub-id pub-id-type="pmid">24285836</pub-id>
+</mixed-citation><!--Hamilton MJ, Bosiljcic M, Lepard NE, et al. Macrophages are more potent immune suppressors ex vivo than immature myeloid-derived suppressor cells induced by metastatic murine mammary carcinomas. J Immunol, 2014, 192(1): 512-522. doi: 10.4049/jimmunol.1300096 --></ref><ref id="b49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kusmartsev</surname><given-names>S</given-names></name>,
+<name><surname>Gabrilovich</surname><given-names>DI</given-names></name></person-group>.
+<article-title>Inhibition of myeloid cell differentiation in cancer: the role of reactive oxygen species</article-title>.
+<source>J Leukoc Biol</source>,
+<year>2003</year>,
+<volume>74</volume>(<issue>2</issue>): <fpage>186</fpage>-<lpage>196</lpage>. doi: <pub-id pub-id-type="doi">10.1189/jlb.0103010</pub-id>
+<pub-id pub-id-type="pmid">12885935</pub-id>
+</mixed-citation><!--Kusmartsev S, Gabrilovich DI. Inhibition of myeloid cell differentiation in cancer: the role of reactive oxygen species. J Leukoc Biol, 2003, 74(2): 186-196. doi: 10.1189/jlb.0103010 --></ref><ref id="b50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>R</given-names></name>,
+<name><surname>Salehi-Rad</surname><given-names>R</given-names></name>,
+<name><surname>Crosson</surname><given-names>W</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Inhibition of granulocytic myeloid-derived suppressor cells overcomes resistance to immune checkpoint inhibition in LKB1-deficient non-small cell lung cancer</article-title>.
+<source>Cancer Res</source>,
+<year>2021</year>,
+<volume>81</volume>(<issue>12</issue>): <fpage>3295</fpage>-<lpage>3308</lpage>. doi: <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-20-3564</pub-id>
+<pub-id pub-id-type="pmid">33853830</pub-id>
+</mixed-citation><!--Li R, Salehi-Rad R, Crosson W, et al. Inhibition of granulocytic myeloid-derived suppressor cells overcomes resistance to immune checkpoint inhibition in LKB1-deficient non-small cell lung cancer. Cancer Res, 2021, 81(12): 3295-3308. doi: 10.1158/0008-5472.CAN-20-3564 --></ref><ref id="b51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ching</surname><given-names>MM</given-names></name>,
+<name><surname>Reader</surname><given-names>J</given-names></name>,
+<name><surname>Fulton</surname><given-names>AM</given-names></name></person-group>.
+<article-title>Eicosanoids in cancer: prostaglandin E2 receptor 4 in cancer therapeutics and immunotherapy</article-title>.
+<source>Front Pharmacol</source>,
+<year>2020</year>,
+<volume>11</volume>: <fpage>819</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fphar.2020.00819</pub-id>
+<pub-id pub-id-type="pmid">32547404</pub-id>
+</mixed-citation><!--Ching MM, Reader J, Fulton AM. Eicosanoids in cancer: prostaglandin E2 receptor 4 in cancer therapeutics and immunotherapy. Front Pharmacol, 2020, 11: 819. doi: 10.3389/fphar.2020.00819 --></ref><ref id="b52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Exley</surname><given-names>MA</given-names></name>,
+<name><surname>Garcia</surname><given-names>S</given-names></name>,
+<name><surname>Zellander</surname><given-names>A</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Challenges and opportunities for immunotherapeutic intervention against myeloid immunosuppression in glioblastoma</article-title>.
+<source>J Clin Med</source>,
+<year>2022</year>,
+<volume>11</volume>(<issue>4</issue>): <fpage>1069</fpage>. doi: <pub-id pub-id-type="doi">10.3390/jcm11041069</pub-id>
+<pub-id pub-id-type="pmid">35207340</pub-id>
+</mixed-citation><!--Exley MA, Garcia S, Zellander A, et al. Challenges and opportunities for immunotherapeutic intervention against myeloid immunosuppression in glioblastoma. J Clin Med, 2022, 11(4): 1069. doi: 10.3390/jcm11041069 --></ref><ref id="b53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jin</surname><given-names>K</given-names></name>,
+<name><surname>Qian</surname><given-names>C</given-names></name>,
+<name><surname>Lin</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Cyclooxygenase-2-prostaglandin E 2 pathway: A key player in tumor-associated immune cells</article-title>.
+<source>Front Oncol</source>,
+<year>2023</year>,
+<volume>13</volume>: <fpage>1099811</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fonc.2023.1099811</pub-id>
+<pub-id pub-id-type="pmid">36776289</pub-id>
+</mixed-citation><!--Jin K, Qian C, Lin J, et al. Cyclooxygenase-2-prostaglandin E2 pathway: A key player in tumor-associated immune cells. Front Oncol, 2023, 13: 1099811. doi: 10.3389/fonc.2023.1099811 --></ref><ref id="b54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Harris</surname><given-names>RE</given-names></name></person-group>.
+<article-title>Cyclooxygenase-2 (cox-2) blockade in the chemoprevention of cancers of the colon, breast, prostate, and lung</article-title>.
+<source>Inflammopharmacology</source>,
+<year>2009</year>,
+<volume>17</volume>(<issue>2</issue>): <fpage>55</fpage>-<lpage>67</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10787-009-8049-8</pub-id>
+<pub-id pub-id-type="pmid">19340409</pub-id>
+</mixed-citation><!--Harris RE. Cyclooxygenase-2 (cox-2) blockade in the chemoprevention of cancers of the colon, breast, prostate, and lung. Inflammopharmacology, 2009, 17(2): 55-67. doi: 10.1007/s10787-009-8049-8 --></ref><ref id="b55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ohl</surname><given-names>K</given-names></name>,
+<name><surname>Tenbrock</surname><given-names>K</given-names></name></person-group>.
+<article-title>Reactive oxygen species as regulators of MDSC-mediated immune suppression</article-title>.
+<source>Front Immunol</source>,
+<year>2018</year>,
+<volume>9</volume>: <fpage>2499</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2018.02499</pub-id>
+<pub-id pub-id-type="pmid">30425715</pub-id>
+</mixed-citation><!--Ohl K, Tenbrock K. Reactive oxygen species as regulators of MDSC-mediated immune suppression. Front Immunol, 2018, 9: 2499. doi: 10.3389/fimmu.2018.02499 --></ref><ref id="b56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Veglia</surname><given-names>F</given-names></name>,
+<name><surname>Tyurin</surname><given-names>VA</given-names></name>,
+<name><surname>Blasi</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Fatty acid transport protein 2 reprograms neutrophils in cancer</article-title>.
+<source>Nature</source>,
+<year>2019</year>,
+<volume>569</volume>(<issue>7754</issue>): <fpage>73</fpage>-<lpage>78</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41586-019-1118-2</pub-id>
+<pub-id pub-id-type="pmid">30996346</pub-id>
+</mixed-citation><!--Veglia F, Tyurin VA, Blasi M, et al. Fatty acid transport protein 2 reprograms neutrophils in cancer. Nature, 2019, 569(7754): 73-78. doi: 10.1038/s41586-019-1118-2 --></ref><ref id="b57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>Y</given-names></name>,
+<name><surname>Tian</surname><given-names>X</given-names></name>,
+<name><surname>Wang</surname><given-names>T</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Long noncoding RNA Pvt 1 regulates the immunosuppression activity of granulocytic myeloid-derived suppressor cells in tumor-bearing mice</article-title>.
+<source>Mol Cancer</source>,
+<year>2019</year>,
+<volume>18</volume>(<issue>1</issue>): <fpage>61</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12943-019-0978-2</pub-id>
+<pub-id pub-id-type="pmid">30925926</pub-id>
+</mixed-citation><!--Zheng Y, Tian X, Wang T, et al. Long noncoding RNA Pvt1 regulates the immunosuppression activity of granulocytic myeloid-derived suppressor cells in tumor-bearing mice. Mol Cancer, 2019, 18(1): 61. doi: 10.1186/s12943-019-0978-2 --></ref><ref id="b58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Celik</surname><given-names>C</given-names></name>,
+<name><surname>Lee</surname><given-names>SYT</given-names></name>,
+<name><surname>Yap</surname><given-names>WS</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Endoplasmic reticulum stress and lipids in health and diseases</article-title>.
+<source>Prog Lipid Res</source>,
+<year>2023</year>,
+<volume>89</volume>: <fpage>101198</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.plipres.2022.101198</pub-id>
+<pub-id pub-id-type="pmid">36379317</pub-id>
+</mixed-citation><!--Celik C, Lee SYT, Yap WS, et al. Endoplasmic reticulum stress and lipids in health and diseases. Prog Lipid Res, 2023, 89: 101198. doi: 10.1016/j.plipres.2022.101198 --></ref><ref id="b59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Condamine</surname><given-names>T</given-names></name>,
+<name><surname>Kumar</surname><given-names>V</given-names></name>,
+<name><surname>Ramachandran</surname><given-names>IR</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>ER stress regulates myeloid-derived suppressor cell fate through TRAIL-R-mediated apoptosis</article-title>.
+<source>J Clin Invest</source>,
+<year>2014</year>,
+<volume>124</volume>(<issue>6</issue>): <fpage>2626</fpage>-<lpage>2639</lpage>. doi: <pub-id pub-id-type="doi">10.1172/JCI74056</pub-id>
+<pub-id pub-id-type="pmid">24789911</pub-id>
+</mixed-citation><!--Condamine T, Kumar V, Ramachandran IR, et al. ER stress regulates myeloid-derived suppressor cell fate through TRAIL-R-mediated apoptosis. J Clin Invest, 2014, 124(6): 2626-2639. doi: 10.1172/JCI74056 --></ref><ref id="b60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Santos</surname><given-names>CX</given-names></name>,
+<name><surname>Tanaka</surname><given-names>LY</given-names></name>,
+<name><surname>Wosniak</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Mechanisms and implications of reactive oxygen species generation during the unfolded protein response: roles of endoplasmic reticulum oxidoreductases, mitochondrial electron transport, and NADPH oxidase</article-title>.
+<source>Antioxid Redox Signal</source>,
+<year>2009</year>,
+<volume>11</volume>(<issue>10</issue>): <fpage>2409</fpage>-<lpage>2427</lpage>. doi: <pub-id pub-id-type="doi">10.1089/ars.2009.2625</pub-id>
+<pub-id pub-id-type="pmid">19388824</pub-id>
+</mixed-citation><!--Santos CX, Tanaka LY, Wosniak J, et al. Mechanisms and implications of reactive oxygen species generation during the unfolded protein response: roles of endoplasmic reticulum oxidoreductases, mitochondrial electron transport, and NADPH oxidase. Antioxid Redox Signal, 2009, 11(10): 2409-2427. doi: 10.1089/ars.2009.2625 --></ref><ref id="b61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Adeshakin</surname><given-names>AO</given-names></name>,
+<name><surname>Liu</surname><given-names>W</given-names></name>,
+<name><surname>Adeshakin</surname><given-names>FO</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Regulation of ROS in myeloid-derived suppressor cells through targeting fatty acid transport protein 2 enhanced anti-PD-L 1 tumor immunotherapy</article-title>.
+<source>Cell Immunol</source>,
+<year>2021</year>,
+<volume>362</volume>: <fpage>104286</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cellimm.2021.104286</pub-id>
+<pub-id pub-id-type="pmid">33524739</pub-id>
+</mixed-citation><!--Adeshakin AO, Liu W, Adeshakin FO, et al. Regulation of ROS in myeloid-derived suppressor cells through targeting fatty acid transport protein 2 enhanced anti-PD-L1 tumor immunotherapy. Cell Immunol, 2021, 362: 104286. doi: 10.1016/j.cellimm.2021.104286 --></ref><ref id="b62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hartwig</surname><given-names>T</given-names></name>,
+<name><surname>Montinaro</surname><given-names>A</given-names></name>,
+<name><surname>von</surname><given-names>Karstedt S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>The TRAIL-induced cancer secretome promotes a tumor-supportive immune microenvironment via CCR2</article-title>.
+<source>Mol Cell</source>,
+<year>2017</year>,
+<volume>65</volume>(<issue>4</issue>): <fpage>730</fpage>-<lpage>742</lpage>.e5. doi: <pub-id pub-id-type="doi">10.1016/j.molcel.2017.01.021</pub-id>
+<pub-id pub-id-type="pmid">28212753</pub-id>
+</mixed-citation><!--Hartwig T, Montinaro A, von Karstedt S, et al. The TRAIL-induced cancer secretome promotes a tumor-supportive immune microenvironment via CCR2. Mol Cell, 2017, 65(4): 730-742.e5. doi: 10.1016/j.molcel.2017.01.021 --></ref><ref id="b63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kong</surname><given-names>Q</given-names></name>,
+<name><surname>Zhu</surname><given-names>H</given-names></name>,
+<name><surname>Gong</surname><given-names>W</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Modified Bushen Yiqi formula enhances antitumor immunity by reducing the chemotactic recruitment of M2-TAMs and PMN-MDSCs in Lewis lung cancer-bearing mice</article-title>.
+<source>J Ethnopharmacol</source>,
+<year>2024</year>,
+<volume>319</volume>(<issue>Pt 1</issue>): <fpage>117183</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jep.2023.117183</pub-id>
+<pub-id pub-id-type="pmid">37739106</pub-id>
+</mixed-citation><!--Kong Q, Zhu H, Gong W, et al. Modified Bushen Yiqi formula enhances antitumor immunity by reducing the chemotactic recruitment of M2-TAMs and PMN-MDSCs in Lewis lung cancer-bearing mice. J Ethnopharmacol, 2024, 319(Pt 1): 117183. doi: 10.1016/j.jep.2023.117183 --></ref><ref id="b64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lu</surname><given-names>X</given-names></name>,
+<name><surname>Lu</surname><given-names>X</given-names></name></person-group>.
+<article-title>Enhancing immune checkpoint blockade therapy of genitourinary malignancies by co-targeting PMN-MDSCs</article-title>.
+<source>Biochim Biophys Acta Rev Cancer</source>,
+<year>2022</year>,
+<volume>1877</volume>(<issue>3</issue>):
+<volume>188702</volume>. doi: <pub-id pub-id-type="doi">10.1016/j.bbcan.2022.188702</pub-id>
+</mixed-citation><!--Lu X, Lu X. Enhancing immune checkpoint blockade therapy of genitourinary malignancies by co-targeting PMN-MDSCs. Biochim Biophys Acta Rev Cancer, 2022, 1877(3): 188702. doi: 10.1016/j.bbcan.2022.188702 --></ref><ref id="b65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Pillay</surname><given-names>J</given-names></name>,
+<name><surname>Tak</surname><given-names>T</given-names></name>,
+<name><surname>Kamp</surname><given-names>VM</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Immune suppression by neutrophils and granulocytic myeloid-derived suppressor cells: similarities and differences</article-title>.
+<source>Cell Mol Life Sci</source>,
+<year>2013</year>,
+<volume>70</volume>(<issue>20</issue>): <fpage>3813</fpage>-<lpage>3827</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s00018-013-1286-4</pub-id>
+<pub-id pub-id-type="pmid">23423530</pub-id>
+</mixed-citation><!--Pillay J, Tak T, Kamp VM, et al. Immune suppression by neutrophils and granulocytic myeloid-derived suppressor cells: similarities and differences. Cell Mol Life Sci, 2013, 70(20): 3813-3827. doi: 10.1007/s00018-013-1286-4 --></ref><ref id="b66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Deng</surname><given-names>Y</given-names></name>,
+<name><surname>Yang</surname><given-names>J</given-names></name>,
+<name><surname>Qian</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>TLR1/TLR2 signaling blocks the suppression of monocytic myeloid-derived suppressor cell by promoting its differentiation into M1-type macrophage</article-title>.
+<source>Mol Immunol</source>,
+<year>2019</year>,
+<volume>112</volume>: <fpage>266</fpage>-<lpage>273</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.molimm.2019.06.006</pub-id>
+<pub-id pub-id-type="pmid">31212097</pub-id>
+</mixed-citation><!--Deng Y, Yang J, Qian J, et al. TLR1/TLR2 signaling blocks the suppression of monocytic myeloid-derived suppressor cell by promoting its differentiation into M1-type macrophage. Mol Immunol, 2019, 112: 266-273. doi: 10.1016/j.molimm.2019.06.006 --></ref><ref id="b67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>J</given-names></name>,
+<name><surname>Han</surname><given-names>X</given-names></name>,
+<name><surname>Shi</surname><given-names>H</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Lung resided monocytic myeloid-derived suppressor cells contribute to premetastatic niche formation by enhancing MMP-9 expression</article-title>.
+<source>Mol Cell Probes</source>,
+<year>2020</year>,
+<volume>50</volume>: <fpage>101498</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.mcp.2019.101498</pub-id>
+<pub-id pub-id-type="pmid">31891749</pub-id>
+</mixed-citation><!--Zhang J, Han X, Shi H, et al. Lung resided monocytic myeloid-derived suppressor cells contribute to premetastatic niche formation by enhancing MMP-9 expression. Mol Cell Probes, 2020, 50: 101498. doi: 10.1016/j.mcp.2019.101498 --></ref><ref id="b68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bronte</surname><given-names>G</given-names></name>,
+<name><surname>Calabro</surname><given-names>L</given-names></name>,
+<name><surname>Olivieri</surname><given-names>F</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>The prognostic effects of circulating myeloid-derived suppressor cells in non-small cell lung cancer: systematic review and meta-analysis</article-title>.
+<source>Clin Exp Med</source>,
+<year>2023</year>,
+<volume>23</volume>(<issue>5</issue>): <fpage>1551</fpage>-<lpage>1561</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s10238-022-00946-6</pub-id>
+<pub-id pub-id-type="pmid">36401744</pub-id>
+</mixed-citation><!--Bronte G, Calabro L, Olivieri F, et al. The prognostic effects of circulating myeloid-derived suppressor cells in non-small cell lung cancer: systematic review and meta-analysis. Clin Exp Med, 2023, 23(5): 1551-1561. doi: 10.1007/s10238-022-00946-6 --></ref><ref id="b69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bronte</surname><given-names>G</given-names></name>,
+<name><surname>Petracci</surname><given-names>E</given-names></name>,
+<name><surname>De</surname><given-names>Matteis S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>High levels of circulating monocytic myeloid-derived suppressive-like cells are associated with the primary resistance to immune checkpoint inhibitors in advanced non-small cell lung cancer: an exploratory analysis</article-title>.
+<source>Front Immunol</source>,
+<year>2022</year>,
+<volume>13</volume>: <fpage>866561</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2022.866561</pub-id>
+<pub-id pub-id-type="pmid">35493483</pub-id>
+</mixed-citation><!--Bronte G, Petracci E, De Matteis S, et al. High levels of circulating monocytic myeloid-derived suppressive-like cells are associated with the primary resistance to immune checkpoint inhibitors in advanced non-small cell lung cancer: an exploratory analysis. Front Immunol, 2022, 13: 866561. doi: 10.3389/fimmu.2022.866561 --></ref><ref id="b70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Xiang</surname><given-names>H</given-names></name>,
+<name><surname>Ramil</surname><given-names>CP</given-names></name>,
+<name><surname>Hai</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Cancer-associated fibroblasts promote immunosuppression by inducing ROS-generating monocytic MDSCs in lung squamous cell carcinoma</article-title>.
+<source>Cancer Immunol Res</source>,
+<year>2020</year>,
+<volume>8</volume>(<issue>4</issue>): <fpage>436</fpage>-<lpage>450</lpage>. doi: <pub-id pub-id-type="doi">10.1158/2326-6066.CIR-19-0507</pub-id>
+<pub-id pub-id-type="pmid">32075803</pub-id>
+</mixed-citation><!--Xiang H, Ramil CP, Hai J, et al. Cancer-associated fibroblasts promote immunosuppression by inducing ROS-generating monocytic MDSCs in lung squamous cell carcinoma. Cancer Immunol Res, 2020, 8(4): 436-450. doi: 10.1158/2326-6066.CIR-19-0507 --></ref></ref-list></back></article>

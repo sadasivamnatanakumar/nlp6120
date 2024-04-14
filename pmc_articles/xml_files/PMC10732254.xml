@@ -1,0 +1,73 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="editorial"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Oncotarget</journal-id><journal-id journal-id-type="iso-abbrev">Oncotarget</journal-id><journal-id journal-id-type="publisher-id">Impact Journals LLC</journal-id><journal-title-group><journal-title>Oncotarget</journal-title></journal-title-group><issn pub-type="epub">1949-2553</issn><publisher><publisher-name>Impact Journals LLC</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38117541</article-id><article-id pub-id-type="pmc">PMC10732254</article-id>
+<article-id pub-id-type="publisher-id">28542</article-id><article-id pub-id-type="doi">10.18632/oncotarget.28542</article-id><article-categories><subj-group subj-group-type="heading"><subject>Editorial</subject></subj-group></article-categories><title-group><article-title>Therapeutically harnessing cancer stem cell-derived exosomes</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Teng</surname><given-names>Yong</given-names></name><xref rid="cor1" ref-type="corresp"/></contrib></contrib-group><author-notes><corresp id="cor1">
+<bold>
+<italic toggle="yes">Correspondence to:</italic>
+</bold>
+<italic toggle="yes">Yong Teng</italic>, Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory University, School of Medicine, Atlanta, GA 30322, USA; Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, GA 30322, USA <bold>
+<italic toggle="yes">email</italic>
+</bold>
+<email>yong.teng@emory.edu</email>
+</corresp></author-notes><pub-date pub-type="collection"><year>2023</year></pub-date><pub-date pub-type="epub"><day>20</day><month>12</month><year>2023</year></pub-date><volume>14</volume><fpage>995</fpage><lpage>996</lpage><history><date date-type="received"><day>02</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2023 Teng.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link> (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><kwd-group><kwd>cancer stem cells; exosomes</kwd><kwd>the tumor microenvironment</kwd><kwd>therapeutic target</kwd><kwd>anticancer strategy</kwd></kwd-group></article-meta></front><body><p>Cancer stem cells (CSCs), a small population of cancer cells capable of self-renewal, are thought to serve as a central hub for tumor initiation, growth, metastasis, and recurrence [<xref rid="R1" ref-type="bibr">1</xref>]. The potential for using CSCs in the diagnosis and treatment of cancer is gaining recognition. Exosomes are formed when multivesicular endosomes or multivesicular bodies fuse with the outer membrane of the cell, releasing various components such as DNA, RNA, lipids, metabolites, and cytosolic and cell surface proteins [<xref rid="R2" ref-type="bibr">2</xref>]. Over the past decade, our understanding of the characteristics and function of cancer-associated exosomes has expanded rapidly. As the major messengers, exosomes present in the tumor microenvironment (TME) play a critical role in maintaining the delicate balance between CSCs and non-CSCs [<xref rid="R3" ref-type="bibr">3</xref>]. Given the importance of CSCs, it is reasonable to believe that CSC-derived exosomes (CSC-Exos) are essential for communication between CSCs and other cells in the TME. Accumulating evidence has demonstrated that CSC-Exos contribute significantly to almost all fundamental aspects of cancer, including maintaining a continuous cycle of self-renewal within the TME, exerting control over neighboring or distant cells, enabling cancer cells to evade immune surveillance, and promoting immune tolerance [<xref rid="R4" ref-type="bibr">4</xref>].</p><p>Research indicates that CSC-Exos transport stemness-related factors, including OCT-4, SOX-2, NANOG, or lncRNA/microRNA, which in turn interact with neighboring cells to enhance stemness expression [<xref rid="R5" ref-type="bibr">5</xref>, <xref rid="R6" ref-type="bibr">6</xref>]. Moreover, CSC-Exos have the ability to maintain the crosstalk between CSCs and non-CSCs, which may involve the transport of TGF-&#x003b2; [<xref rid="R7" ref-type="bibr">7</xref>]. In addition, CSC-Exos play a role in promoting neovascularization and metastasis. A study has shown that CD103<sup>+</sup> cells direct CSC-Exos to clear cell renal cell carcinoma cells, and these exosomes carry miR-19b-3p into cancer cells, thereby inducing epithelial-mesenchymal transition (EMT) and facilitating metastasis [<xref rid="R8" ref-type="bibr">8</xref>]. Immune cells are vigilant in detecting and eliminating cells that undergo malignant changes. However, some of the transformed cells can evade immune surveillance and eventually form a tumor. Specifically, CSC-Exos enable cancer cells to evade immune surveillance and enable intercellular signaling within the immunosuppressive TME. On the other hand, CSC-Exos play an importance in promoting chemoresistance by delivering miRNAs, proteins and lipids to cancer cells, activating signaling pathways related to cell survival and growth, inducing EMT and remodeling the TME.</p><p>A deeper understanding of the characteristics and functions of CSC-Exos has the potential to lay the foundation for the development of novel clinical tools for diagnosis and prognosis, as well as therapies aimed at preventing tumor progression and recurrence. Recently, we have summarized research advances, explored opportunities and challenges, and outlined perspectives in this emerging field [<xref rid="R4" ref-type="bibr">4</xref>]. This work is intended to stimulate the exploration of innovative approaches, including the development of novel pharmaceuticals or interventions, to specifically target CSC-Exos and reduce their impact on cancer initiation and progression. While technical and regulatory challenges remain, recent significant advances in understanding the physiological and pathological functions of CSC-Exos have revealed numerous potential applications for diagnosis and treatment. These developments have accelerated the recognition of their broad clinical potential.</p></body><back><fn-group><fn id="n1" fn-type="COI-statement"><p>
+<bold>CONFLICTS OF INTEREST</bold>
+</p><p>Authors have no conflicts of interest to declare.</p></fn><fn id="n2" fn-type="supported-by"><p>
+<bold>FUNDING</bold>
+</p><p>YT is the inaugural recipient of the Wally Award from Winship Cancer Institute. This work was supported by NIH grants R01DE028351, R03DE032084 and R03DE028387.</p></fn></fn-group><ref-list><title>REFERENCES</title><ref id="R1"><label>1.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Batlle</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>.
+<source>Nat Med</source>. <year>2017</year>; <volume>23</volume>:<fpage>1124</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1038/nm.4409</pub-id>.
+<pub-id pub-id-type="pmid">28985214</pub-id>
+</mixed-citation></ref><ref id="R2"><label>2.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Valadi</surname>
+<given-names>H</given-names>
+</string-name>, <etal>et al</etal>.
+<source>Nat Cell Biol</source>. <year>2007</year>; <volume>9</volume>:<fpage>654</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1038/ncb1596</pub-id>.
+<pub-id pub-id-type="pmid">17486113</pub-id>
+</mixed-citation></ref><ref id="R3"><label>3.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <etal>et al</etal>.
+<source>Mol Cancer</source>. <year>2019</year>; <volume>18</volume>:<fpage>22</fpage>. <pub-id pub-id-type="doi">10.1186/s12943-019-0949-7</pub-id>.
+<pub-id pub-id-type="pmid">30736860</pub-id>
+</mixed-citation></ref><ref id="R4"><label>4.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Yang</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>.
+<source>J Exp Clin Cancer Res</source>. <year>2023</year>; <volume>42</volume>:<fpage>131</fpage>. <pub-id pub-id-type="doi">10.1186/s13046-023-02717-x</pub-id>.
+<pub-id pub-id-type="pmid">37217932</pub-id>
+</mixed-citation></ref><ref id="R5"><label>5.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>L&#x000f3;pez de Andr&#x000e9;s</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>.
+<source>J Hematol Oncol</source>. <year>2020</year>; <volume>13</volume>:<fpage>136</fpage>. <pub-id pub-id-type="doi">10.1186/s13045-020-00966-3</pub-id>.
+<pub-id pub-id-type="pmid">33059744</pub-id>
+</mixed-citation></ref><ref id="R6"><label>6.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Bourkoula</surname>
+<given-names>E</given-names>
+</string-name>, <etal>et al</etal>.
+<source>Stem Cells</source>. <year>2014</year>; <volume>32</volume>:<fpage>1239</fpage>&#x02013;<lpage>53</lpage>. <pub-id pub-id-type="doi">10.1002/stem.1605</pub-id>.
+<pub-id pub-id-type="pmid">24375787</pub-id>
+</mixed-citation></ref><ref id="R7"><label>7.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Chen</surname>
+<given-names>JH</given-names>
+</string-name>, <etal>et al</etal>.
+<source>Cancers (Basel)</source>. <year>2019</year>; <volume>12</volume>:<fpage>56</fpage>. <pub-id pub-id-type="doi">10.3390/cancers12010056</pub-id>.
+<pub-id pub-id-type="pmid">31878245</pub-id>
+</mixed-citation></ref><ref id="R8"><label>8.</label><mixed-citation publication-type="journal" publication-format="print">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <etal>et al</etal>.
+<source>Mol Cancer</source>. <year>2019</year>; <volume>18</volume>:<fpage>86</fpage>. <pub-id pub-id-type="doi">10.1186/s12943-019-0997-z</pub-id>.
+<pub-id pub-id-type="pmid">30975145</pub-id>
+</mixed-citation></ref></ref-list></back></article>

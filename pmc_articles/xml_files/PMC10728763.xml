@@ -1,0 +1,113 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="mco2465" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">MedComm (2020)</journal-id><journal-id journal-id-type="iso-abbrev">MedComm (2020)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2688-2663</journal-id><journal-id journal-id-type="publisher-id">MCO2</journal-id><journal-title-group><journal-title>MedComm</journal-title></journal-title-group><issn pub-type="epub">2688-2663</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38116062</article-id><article-id pub-id-type="pmc">PMC10728763</article-id><article-id pub-id-type="doi">10.1002/mco2.465</article-id><article-id pub-id-type="publisher-id">MCO2465</article-id><article-categories><subj-group subj-group-type="overline"><subject>Highlights</subject></subj-group><subj-group subj-group-type="heading"><subject>Highlights</subject></subj-group></article-categories><title-group><article-title>SARS&#x02010;CoV&#x02010;2 booster immunization: stimulating de novo B&#x02010;cell response and antibody generation</article-title><alt-title alt-title-type="left-running-head">HONG <sc>et&#x000a0;al</sc>.</alt-title></title-group><contrib-group><contrib id="mco2465-cr-0001" contrib-type="author"><name><surname>Hong</surname><given-names>Qiaonan</given-names></name><xref rid="mco2465-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mco2465-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mco2465-cr-0002" contrib-type="author"><name><surname>Bai</surname><given-names>Ziyi</given-names></name><xref rid="mco2465-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mco2465-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mco2465-cr-0003" contrib-type="author" corresp="yes"><name><surname>Tian</surname><given-names>Dong</given-names></name><xref rid="mco2465-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mco2465-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>22tiandong@wchscu.cn</email></address></contrib></contrib-group><aff id="mco2465-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Thoracic Surgery</named-content>
+<institution>West China Hospital, Sichuan University</institution>
+<city>Chengdu</city>
+<country country="CN">China</country>
+</aff><aff id="mco2465-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Lung Transplant Research Laboratory</named-content>
+<institution>Institute of Thoracic Oncology, West China Hospital, Sichuan University</institution>
+<city>Chengdu</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>Dong Tian, Department of Thoracic Surgery, West China Hospital, Sichuan University, 37 Guoxue Alley, Chengdu 610041, China.<break/> Email: <email>22tiandong@wchscu.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2023</year></pub-date><volume>4</volume><issue seq="530">6</issue><issue-id pub-id-type="doi">10.1002/mco2.v4.6</issue-id><elocation-id>e465</elocation-id><history>
+<date date-type="rev-recd"><day>26</day><month>11</month><year>2023</year></date>
+<date date-type="received"><day>13</day><month>7</month><year>2023</year></date>
+<date date-type="accepted"><day>30</day><month>11</month><year>2023</year></date>
+</history><permissions><!--&#x000a9; 2023 MedComm published by Sichuan International Medical Exchange & Promotion Association (SCIMEA) and John Wiley & Sons Australia, Ltd.--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. <italic toggle="yes">MedComm</italic> published by Sichuan International Medical Exchange &#x00026; Promotion Association (SCIMEA) and John Wiley &#x00026; Sons Australia, Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MCO2-4-e465.pdf"/><funding-group><award-group id="funding-0001"><funding-source>Key Research and Development Project of Sichuan Provincial Science and Technology Department</funding-source><award-id>23ZDYF2875</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="3"/><word-count count="1617"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.6 mode:remove_FC converted:19.12.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mco2465-cit-0005">
+<string-name>
+<surname>Hong</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>SARS&#x02010;CoV&#x02010;2 booster immunization: stimulating de novo B&#x02010;cell response and antibody generation</article-title>. <source>MedComm</source>. <year>2023</year>;<volume>4</volume>:<elocation-id>e465</elocation-id>. <pub-id pub-id-type="doi">10.1002/mco2.465</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="mco2465-note-0001" fn-type="equal"><p>Qiaonan Hong and Ziyi Bai contributed equally to this work as co&#x02010;first authors.</p></fn></fn-group></notes></front><body><sec sec-type="opening-section" id="mco2465-sec-0010"><label>1</label><p>Alsoussi et&#x000a0;al. recently reported in <italic toggle="yes">Nature</italic>
+<xref rid="mco2465-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> that developing vaccines derived from new variants can respond to the emergence of highly contagious variants. Boosting with the SARS&#x02010;CoV&#x02010;2 Omicron variant vaccine induces a de novo B&#x02010;cell response, which predominantly involves recruiting pre&#x02010;existing memory B cells. The research assessed the reaction of antigen&#x02010;specific B cells in humans to a booster immunization based on SARS&#x02010;CoV&#x02010;2 mRNA, which can further mature B cells and induce germinal center reaction. Additionally, the research showed that immunization using a monovalent B.1.1.529 BA.1&#x02010;matched vaccine led to a rare de novo B&#x02010;cell response, highlighting a novel epitope in the spike (S) protein of the B.1.1.529 BA.1 variant. This finding suggests the activation of naive B cells.</p><p>SARS&#x02010;CoV&#x02010;2 has a profound impact on people worldwide. Over time, the virus has demonstrated its ability to adapt continuously in response to the global population's immunity.<xref rid="mco2465-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="mco2465-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> As a result, the primary vaccinations are no longer enough to meet people's needs, leading to a growing focus on booster immunization strategies. However, it has not been checked in humans whether re&#x02010;exposure to the primary strain or the variant of interest induces a solid germinal center (GC) reaction, which is crucial for improving high affinity and lasting antibodies.</p><p>First, Alsoussi et&#x000a0;al. enrolled 46 healthy adults with no prior history of SARS&#x02010;CoV&#x02010;2 infection for their study. They had the third booster immunization of mRNA&#x02010;1273 or mRNA&#x02010;1273.213, following the completion of two doses of the primary mRNA vaccines (BNT162b2 or mRNA&#x02010;1273, both encoding complete sequence of SARS&#x02010;CoV&#x02010;2 S protein, based on the WA1/2020). In both cohorts, S&#x02010;specific immunoglobulin G (IgG) plasmablasts (PBs) were evaluated using an enzyme&#x02010;linked immune absorbent spot assay after 1 week. However, S&#x02010;specific IgA PBs in the mRNA&#x02010;1273.213 cohort were lower. The plasma antibody binding level of all strains increased within 4 weeks after immunization and decreased at 17 weeks. A strong S&#x02010;specific GC reaction could be seen in the subjects&#x02019; draining axillary lymph nodes, and persisted for at least 8 weeks after vaccination. Bone marrow plasma cells (BMPCs) producing IgG were detected in all participants who consented to collect bone marrow, and BMPCs were consistent with the continuous plasma antibody titer. Subsequently, to characterize the breadth of the boosted memory B cells (MBCs) pool, their binding of participant monoclonal antibodies (mAbs) to the S proteins of WA1/2020, B.1.351, B.1.617.2, and BA.1 strains were assessed using enzyme&#x02010;linked immunosorbent assay, and results showed that more than 90% of the mAbs recognized the S proteins of the WA1/2020, B.1.351, and B.1.617.2 strains, while approximately 60% identified the S protein of the BA.1 strain (Figure&#x000a0;<xref rid="mco2465-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="FIGURE" id="mco2465-fig-0001"><label>FIGURE 1</label><caption><p>Participants were vaccinated with two&#x02010;dose of SARS&#x02010;CoV&#x02010;2 mRNA vaccines (BNT162b2 or mRNA&#x02010;1273) and then were injected with the third dose of mRNA&#x02010;1273 and mRNA&#x02010;1273.213 vaccines. Enzyme&#x02010;linked immune absorbent spot (ELISpot) showed different S&#x02010;specific immunoglobulin G (IgG) titer. Analysis axillary lymph nodes found that S&#x02010;specific germinal center (GC) reaction could last for at least 8&#x000a0;weeks. Bone marrow detect bone marrow plasma cell (BMPC) that produce IgG. Enzyme&#x02010;linked immunosorbent assay (ELISA) showed the binding ability of monoclonal antibodies (mAbs) to different S proteins.</p></caption><graphic xlink:href="MCO2-4-e465-g001" position="anchor" id="jats-graphic-1"/></fig><p>After the booster immunization, scRNA&#x02010;seq analysis revealed that most identified S&#x02010;specific PB clones shared clonal relationships with MBCs, GC B cells, and/or plasma cells induced by initial vaccination. The PB response following the second dose and the booster injection within the primary vaccination revealed the presence of multiple S&#x02010;specific B&#x02010;cell clones. Compared to the clones involved in the primary response, the clones involved in the boosted PB response showed a notably higher frequency of somatic hypermutation (SHM), indicating their recall from affinity&#x02010;mature MBCs. Seventeen weeks after the booster vaccination, the SHM frequency of S&#x02010;specific MBCs significantly increased, surpassing that of clone&#x02010;related MBCs isolated 6 months after the primary vaccination, indicative of consistent GC&#x02010;driven maturation rounds. A similar trend was observed in paired S&#x02010;specific BMPC clones, both 6 and 9 months after the post&#x02010;primary immunization and 6 months after the booster injection. These results indicated that mRNA&#x02010;1273 and mRNA&#x02010;1273.213 encoding by B.1.351 and B.1.617.2, respectively, triggered strong GC reaction and MBC and BMPC responses maturation. However, no antibodies specifically targeting the variants encoded by the mRNA&#x02010;1273.213 vaccine were isolated, and there was no cross&#x02010;reaction with the original WA1/2020 S protein. Thus, the B&#x02010;cell response boosted with the mRNA&#x02010;1273.213 vaccine was primarily influenced by the primary vaccination series of mRNA&#x02010;1273 encoding the original S protein.</p><p>To assess whether a booster dose with an antigenically distinct formulation could elicit a detectable response to a new epitope, participants were administered a third dose of mRNA&#x02010;1273.529 following the completion of two doses of the mRNA vaccine targeting the ancestral strains. All participants had a strong circulating IgG&#x02010;producing PB response to the original WA1/2020 strain S protein and the vaccine&#x02010;encoded BA.1 S protein, with an MBC pool similar in breadth to the mAb from the mRNA&#x02010;1273 and mRNA&#x02010;1273.213 cohorts. The ability of the mAbs to neutralize a panel of authentic infectious SARS&#x02010;CoV&#x02010;2 variants was also evaluated, and it was found that the infection was reduced by at least 90% at 5&#x000a0;&#x003bc;g/mL. It is important to note that most isolated mAbs from BA.1&#x02010;specific MBCs, which do not bind to WA1/2020, still exhibited cross&#x02010;reactivity with the WA1/2020 S protein. This indicates that the S protein&#x02010;dependent sorting method may not be optimal for assessing the binding specificity of variants, as it fails to differentiate the binding specificities of variant proteins accurately. They tested the neutralizing ability of six mAbs, which only combined BA.1 with the SARS&#x02010;CoV&#x02010;2 variant, and found that they exhibited significantly reduced SHM levels and could not neutralize the primary strains. Subsequently, six BA.1&#x02010;specific mAb&#x02010;targeted amino acid residues were identified, and it is worth noting that many mutations were found to be the reversion of SARS&#x02010;CoV&#x02010;2 primary strains.</p><p>In summary, the research of Alsoussi et&#x000a0;al. provide crucial theoretical support for popularizing booster immunization in the future, including the effectiveness and breadth of human serum antibody response improved after booster immunization. Booster immunization has several advantages. First, the B&#x02010;cell clones induced by booster immunization exhibit a higher mutation rate than identical clones detected 1 week after completing the initial vaccination series. Second, it has been observed that the MBCs generated during the initial vaccination series play a dominant role in the recall response elicited by booster immunization. Additionally, after boosting immunization, a new GC reaction can be stimulated. The frequency of BMPCs of IgG secreted by the original SARS&#x02010;CoV&#x02010;2 S protein is significantly higher, which compared to observed 7 months after mild SARS&#x02010;CoV&#x02010;2 infection or 6 months after the primary mRNA vaccination series. This highlights the crucial role of repeated antigens exposure in increasing the frequency of antigen&#x02010;specific BMPC.</p><p>MBCs produced by primary vaccination can form competitive clones that are more specific than variants, thus affecting the immunity of booster immunization. The research of Alsoussi et&#x000a0;al. emphasizes that the study of de novo B cells is significant to deal with the variants that have not yet appeared. Several investigations have focused on using different vaccination strategies to amplify mutation&#x02010;specific B&#x02010;cell clones. For instance, Sokal et&#x000a0;al. showed that compared with other variants, Omicron's specific mutation resulted in more diverse receptor binding domain (RBD)&#x02010;specific MBCs. A small number of seriously infected COVID&#x02010;19 donors vaccinated with the mRNA vaccine could produce effective neutralizing antibodies, but the neutralizing ability from other variants needs to be further evaluated.<xref rid="mco2465-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> However, how to solve the influence of pre&#x02010;MBCs on booster immunization needs further research. To sum up, timely booster immunization is beneficial for inducing de novo B&#x02010;cell response, to cope with the rapid mutations of SARS&#x02010;CoV&#x02010;2.</p></sec><sec id="mco2465-sec-0020"><title>AUTHOR CONTRIBUTIONS</title><p>D.T. conceived the idea and planned the study. Q.H. and Z.B. drafted the manuscript. D.T. revised the manuscript. All authors read and approved the final manuscript.</p></sec><sec sec-type="COI-statement" id="mco2465-sec-0040"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare they have no conflicts of interest.</p></sec><sec id="mco2465-sec-0070"><title>ETHICS STATEMENT</title><p>Not applicable.</p></sec></body><back><ack id="mco2465-sec-0030"><title>ACKNOWLEDGMENTS</title><p>The figure was created by Biorender. This work was supported by the Key Research and Development Project of Sichuan Provincial Science and Technology Department (No. 23ZDYF2875).</p></ack><sec sec-type="data-availability" id="mco2465-sec-0060"><title>DATA AVAILABILITY STATEMENT</title><p>Not applicable.</p></sec><ref-list id="mco2465-bibl-0001"><title>REFERENCES</title><ref id="mco2465-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="mco2465-cit-0001">
+<string-name>
+<surname>Alsoussi</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Malladi</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>JQ</given-names>
+</string-name>, et&#x000a0;al. <article-title>SARS&#x02010;CoV&#x02010;2 Omicron boosting induces de novo B cell response in humans</article-title>. <source>Nature</source>. <year>2023</year>;<volume>617</volume>(<issue>7961</issue>):<fpage>592</fpage>&#x02010;<lpage>598</lpage>.<pub-id pub-id-type="pmid">37011668</pub-id>
+</mixed-citation></ref><ref id="mco2465-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="mco2465-cit-0002">
+<string-name>
+<surname>Carabelli</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Peacock</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Thorne</surname>
+<given-names>LG</given-names>
+</string-name>, et&#x000a0;al. <article-title>SARS&#x02010;CoV&#x02010;2 variant biology: immune escape, transmission and fitness</article-title>. <source>Nat Rev Microbiol</source>. <year>2023</year>;<volume>21</volume>(<issue>3</issue>):<fpage>162</fpage>&#x02010;<lpage>177</lpage>.<pub-id pub-id-type="pmid">36653446</pub-id>
+</mixed-citation></ref><ref id="mco2465-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="mco2465-cit-0003">
+<string-name>
+<surname>Sun</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bu</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>MS</given-names>
+</string-name>. <article-title>Molecular characteristics, immune evasion, and impact of SARS&#x02010;CoV&#x02010;2 variants</article-title>. <source>Signal Transduct Target Ther</source>. <year>2022</year>;<volume>7</volume>(<issue>1</issue>):<fpage>202</fpage>.<pub-id pub-id-type="pmid">35764603</pub-id>
+</mixed-citation></ref><ref id="mco2465-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="mco2465-cit-0004">
+<string-name>
+<surname>Sokal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Broketa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Barba&#x02010;Spaeth</surname>
+<given-names>G</given-names>
+</string-name>, et&#x000a0;al. <article-title>Analysis of mRNA vaccination&#x02010;elicited RBD&#x02010;specific memory B cells reveals strong but incomplete immune escape of the SARS&#x02010;CoV&#x02010;2 Omicron variant</article-title>. <source>Immunity</source>. <year>2022</year>;<volume>55</volume>(<issue>6</issue>):<fpage>1096</fpage>&#x02010;<lpage>1104.e4</lpage>.<pub-id pub-id-type="pmid">35483354</pub-id>
+</mixed-citation></ref></ref-list></back></article>

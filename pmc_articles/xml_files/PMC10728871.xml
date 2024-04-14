@@ -1,0 +1,76 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="correction"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Front Med (Lausanne)</journal-id><journal-id journal-id-type="iso-abbrev">Front Med (Lausanne)</journal-id><journal-id journal-id-type="publisher-id">Front. Med.</journal-id><journal-title-group><journal-title>Frontiers in Medicine</journal-title></journal-title-group><issn pub-type="epub">2296-858X</issn><publisher><publisher-name>Frontiers Media S.A.</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38116039</article-id><article-id pub-id-type="pmc">PMC10728871</article-id><article-id pub-id-type="doi">10.3389/fmed.2023.1339872</article-id><article-categories><subj-group subj-group-type="heading"><subject>Medicine</subject><subj-group><subject>Correction</subject></subj-group></subj-group></article-categories><title-group><article-title>Corrigendum: Absolute oxygen-guided radiation therapy improves tumor control in three preclinical tumor models</article-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Gertsenshteyn</surname><given-names>Inna</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="fn002" ref-type="author-notes">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Epel</surname><given-names>Boris</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="fn002" ref-type="author-notes">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Giurcanu</surname><given-names>Mihai</given-names></name><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Barth</surname><given-names>Eugene</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lukens</surname><given-names>John</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hall</surname><given-names>Kayla</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Martinez</surname><given-names>Jenipher Flores</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Grana</surname><given-names>Mellissa</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Maggio</surname><given-names>Matthew</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Miller</surname><given-names>Richard C.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sundramoorthy</surname><given-names>Subramanian V.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Krzykawska-Serda</surname><given-names>Martyna</given-names></name><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff6" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Pearson</surname><given-names>Erik</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Aydogan</surname><given-names>Bulent</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Weichselbaum</surname><given-names>Ralph R.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tormyshev</surname><given-names>Victor M.</given-names></name><xref rid="aff7" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kotecha</surname><given-names>Mrignayani</given-names></name><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Halpern</surname><given-names>Howard J.</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref><uri xlink:href="http://loop.frontiersin.org/people/2532532/overview"/></contrib></contrib-group><aff id="aff1"><sup>1</sup><institution>Department of Radiation and Cellular Oncology, The University of Chicago</institution>, <addr-line>Chicago, IL</addr-line>, <country>United States</country></aff><aff id="aff2"><sup>2</sup><institution>Department of Radiology, The University of Chicago</institution>, <addr-line>Chicago, IL</addr-line>, <country>United States</country></aff><aff id="aff3"><sup>3</sup><institution>Center for EPR Imaging in vivo Physiology, The University of Chicago</institution>, <addr-line>Chicago, IL</addr-line>, <country>United States</country></aff><aff id="aff4"><sup>4</sup><institution>O2M Technologies</institution>, <addr-line>Chicago, IL</addr-line>, <country>United States</country></aff><aff id="aff5"><sup>5</sup><institution>Department of Public Health Sciences, The University of Chicago</institution>, <addr-line>Chicago, IL</addr-line>, <country>United States</country></aff><aff id="aff6"><sup>6</sup><institution>Department of Biophysics and Cancer Biology, Jagiellonian University</institution>, <addr-line>Krak&#x000f3;w</addr-line>, <country>Poland</country></aff><aff id="aff7"><sup>7</sup><institution>Novosibirsk Institute of Organic Chemistry</institution>, <addr-line>Novosibirsk</addr-line>, <country>Russia</country></aff><author-notes><fn fn-type="edited-by"><p>Approved by: Frontiers Editorial Office, Frontiers Media SA, Switzerland</p></fn><corresp id="c001">*Correspondence: Howard J. Halpern <email>hhalpern@uchicago.edu</email></corresp><fn fn-type="equal" id="fn002"><p>&#x02020;These authors have contributed equally to this work and share first authorship</p></fn></author-notes><pub-date pub-type="epub"><day>05</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>05</day><month>12</month><year>2023</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>10</volume><elocation-id>1339872</elocation-id><history><date date-type="received"><day>16</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>21</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2023 Gertsenshteyn, Epel, Giurcanu, Barth, Lukens, Hall, Martinez, Grana, Maggio, Miller, Sundramoorthy, Krzykawska-Serda, Pearson, Aydogan, Weichselbaum, Tormyshev, Kotecha and Halpern.</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Gertsenshteyn, Epel, Giurcanu, Barth, Lukens, Hall, Martinez, Grana, Maggio, Miller, Sundramoorthy, Krzykawska-Serda, Pearson, Aydogan, Weichselbaum, Tormyshev, Kotecha and Halpern</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p></license></permissions><related-article related-article-type="corrected-article" ext-link-type="doi" id="RA1" xlink:href="10.3389/fmed.2023.1269689" journal-id="Front. Med." journal-id-type="nlm-ta" vol="10" page="1269689">A corrigendum on <article-title>Absolute oxygen-guided radiation therapy improves tumor control in three preclinical tumor models</article-title> by Gertsenshteyn I, Epel B, Giurcanu M, Barth E, Lukens J, Hall K, Martinez JF, Grana M, Maggio M, Miller RC, Sundramoorthy SV, Krzykawska-Serda M, Pearson E, Aydogan B, Weichselbaum RR, Tormyshev VM, Kotecha M and Halpern HJ (2023). <italic>Front. Med</italic>. 10:1269689. doi: <object-id>10.3389/fmed.2023.1269689</object-id></related-article><kwd-group><kwd>hypoxia</kwd><kwd>oxygen</kwd><kwd>electron paramagnetic resonance</kwd><kwd>preclinical imaging</kwd><kwd>radiotherapy</kwd></kwd-group><funding-group><funding-statement>&#x0201c;The author(s) declare financial support was received for the research, authorship, and/or publication of this article. Funding sources provided by the National Institutes of Health grants P41 EB002034, R01 CA098575, R01 CA236385, R50 CA211408, P30 CA014599, T32 EB002103, R44 CA224840 (SBIR Phase II to O2M, PI: Kotecha), and F31 CA254223.&#x0201d;</funding-statement><funding-statement>The authors apologize for this error and state that this does not change the scientific conclusions of the article in any way. The original article has been updated.</funding-statement></funding-group><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="0"/><page-count count="2"/><word-count count="610"/></counts><custom-meta-group><custom-meta><meta-name>section-at-acceptance</meta-name><meta-value>Nuclear Medicine</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>In the published article, there was an error in the Funding statement. The National Institutes of Health grant R01 CA236385 was missing in the statement. The correct funding statement appears below.</p></body><back><sec sec-type="disclaimer" id="s2"><title>Publisher's note</title><p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p></sec></back></article>

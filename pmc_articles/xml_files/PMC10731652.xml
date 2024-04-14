@@ -1,0 +1,209 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Chem Res Toxicol</journal-id><journal-id journal-id-type="iso-abbrev">Chem Res Toxicol</journal-id><journal-id journal-id-type="publisher-id">tx</journal-id><journal-id journal-id-type="coden">crtoec</journal-id><journal-title-group><journal-title>Chemical Research in Toxicology</journal-title></journal-title-group><issn pub-type="ppub">0893-228X</issn><issn pub-type="epub">1520-5010</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38055372</article-id><article-id pub-id-type="pmc">PMC10731652</article-id>
+<article-id pub-id-type="doi">10.1021/acs.chemrestox.3c00253</article-id><article-categories><subj-group><subject>Communication</subject></subj-group></article-categories><title-group><article-title>Investigating
+the Immune Basis of Green Tea Extract
+Induced Liver Injury in Healthy Donors Expressing HLA-B*35:01</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3568-8928</contrib-id><name><surname>Line</surname><given-names>James</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-1" ref-type="notes">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ali</surname><given-names>Serat-E</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes-1" ref-type="notes">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Grice</surname><given-names>Sophie</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Rao</surname><given-names>Tai</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4107-7832</contrib-id><name><surname>Naisbitt</surname><given-names>Dean J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Pharmacology and Therapeutics, <institution>University
+of Liverpool</institution>, Sherrington Building, Ashton Street, Liverpool L69 3GE, <country>United
+Kingdom</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Clinical Pharmacology, Xiangya Hospital, <institution>Central South University</institution>, Changsha 410008, <country>China</country></aff><aff id="aff3"><label>&#x000a7;</label>Hunan
+Key Laboratory of Pharmacogenetics, Institute of Clinical Pharmacology, <institution>Central South University</institution>, Changsha 410008, <country>China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Telephone: <phone>+44 151 7945346</phone>. E-mail: <email>dnes@liv.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>18</day><month>12</month><year>2023</year></pub-date><volume>36</volume><issue>12</issue><fpage>1872</fpage><lpage>1875</lpage><history><date date-type="received"><day>22</day><month>08</month><year>2023</year></date><date date-type="accepted"><day>01</day><month>12</month><year>2023</year></date><date date-type="rev-recd"><day>27</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx3c00253_0004" id="ab-tgr1"/></p><p>Epigallocatechin-3-<italic>O</italic>-gallate (EGCG) is the major
+component of green tea extract, commonly found in dietary supplements,
+and has been associated with immune-mediated liver injury. The purpose
+of this study was to investigate the immunogenicity of EGCG in healthy
+donors expressing HLA-B*35:01, and characterize EGCG responsive T-cell
+clones. We have shown that EGCG can prime peripheral blood mononuclear
+cells and T-cells from donors with and without the HLA-B*35:01 allele.
+T-cell clones were CD4<sup>+ve</sup> and capable of secreting Th1,
+Th2, and cytolytic molecules. These data demonstrate that EGCG can
+activate T-cells <italic>in vitro</italic>, suggesting a significant
+role in the pathogenesis of green tea extract induced liver injury.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Research Councils UK</institution><institution-id institution-id-type="doi">10.13039/501100000265</institution-id></institution-wrap></funding-source><award-id>MR/R009635/</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>tx3c00253</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>tx3c00253</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Herbal and
+dietary supplements
+(HDSs) have become a frequent component of daily life for millions
+of people across the globe, with over 50% of the US population taking
+at least one HDS per day.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> HDSs account
+for 20% of drug-induced liver injury (DILI) in the US, with the increased
+usage of HDSs over the last few decades correlating with an increase
+in the proportion of DILI cases that are attributable to HDSs.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Green tea extract (GTE) is derived from the <italic>Camellia sinensis</italic> plant and is a common constituent of multi-ingredient
+HDSs. Since 2006, GTE has been linked to over 50 cases of idiosyncratic
+liver injury.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> GTE-DILI is characterized by hepatocellular liver damage (with increases
+in serum transaminases) and is fatal in around 9% of cases.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Features of the reactions including a delayed
+onset, resolution of clinical symptoms following cessation of GTE
+intake, and rapid reoccurrence of symptoms upon rechallenge suggests
+they may be immune mediated.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup></p><p>There
+are multiple major catechins present in GTE, with (&#x02212;)
+epigallocatechin-3-<italic>O</italic>-gallate (EGCG) being the most
+abundant, making up between 5 and 12% of the bioavailable catechins.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> EGCG is among several herbal derived flavonoid compounds that have
+a strong association with the expression of HLA-B*35:01 and hepatocellular
+or cholestatic liver injury. 72% of confirmed GTE-DILI patients express
+the risk allele, which is otherwise present in the population at between
+5 and 15%.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup></p><p>In vivo studies have
+been conducted in programmed cell death protein
+1 (PD-1)<sup>(&#x02212;/&#x02212;)</sup> murine models, which demonstrated
+that at doses considered safe, GTE can drive increased ALT levels
+and increase the population of cytotoxic T-cells present in the liver.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>The aim of this study was to investigate
+the immunogenicity of
+EGCG using <italic>in vitro</italic> techniques, utilizing peripheral
+blood mononuclear cells (PBMCs) and T-cells from healthy donors, in
+addition to interrogating the allele restriction of any responses
+observed.</p><p>PBMCs from HLA-B*35:01 positive and negative healthy
+donors were
+cocultured with EGCG (25 &#x003bc;M) for 3 weeks and restimulated every
+7 days with irradiated autologous PBMC, EGCG (25 &#x003bc;M), and IL-2
+before being washed and rechallenged with various concentrations of
+EGCG (1&#x02013;50 &#x003bc;M). Priming of PBMC to EGCG was identified
+in 2 of 4 allele positive donors and 1 of 4 allele negative donors,
+with statistically significant (<italic>p</italic> &#x0003c; 0.0001) proliferation
+in response to EGCG treatment (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A). Additionally, secretion of T<sub>h</sub>1, T<sub>h</sub>2, and cytolytic molecules (IFN-&#x003b3;, IL-5, IL-13, and
+Granzyme B) was observed (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Priming of PBMC isolated from HLA-B*35:01 positive
+(green)
+and HLA-B*35:01 negative (red) healthy donors. EGCG (25 &#x003bc;M)
+and PBMCs were cocultured for 3 weeks and restimulated every 7 days
+with irradiated autologous PBMCs, EGCG (25 &#x003bc;M), and IL-2. Cells
+were washed on day 21 and rechallenged with either EGCG or cell culture
+medium for 48 h. (a) A proliferation reading was taken, through addition
+of <sup>3</sup>H thymidine for the final 16 h. Statistical significance
+was determined using a Mann&#x02013;Whitney test (**<italic>p</italic> &#x0003c; 0.01, ****<italic>p</italic> &#x0003c; 0.0001). (b) Cytokine secretion
+was measured from assay supernatant pooled from each condition using
+cytometric bead-based immunoassays (LEGENDplex, BioLegend Custom Human
+11-plex panel) carried out per manufacturer&#x02019;s instructions
+using a BD FACS Canto II.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx3c00253_0001" id="gr1" position="float"/></fig><p>Furthermore, T-cells isolated from random (non-HLA typed) healthy
+donors were cocultured with autologous monocyte derived dendritic
+cells (moDCs) and EGCG (25 &#x003bc;M) in the presence or absence of
+anti-PD-1 or programmed cell death ligand 1 (PD-L1) blocking antibodies
+(5 &#x003bc;g/mL). After 12 days, cells were washed and rechallenged
+with EGCG (25 &#x003bc;M) and a proliferation reading was taken. Priming
+of T-cells was enhanced in the presence of PD-1 and PD-L1 blockade,
+with stimulation index (SI) figures of over 10 in conditions subject
+to immune checkpoint blockade, compared to a maximum SI of 4 in unblocked
+conditions (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A,B). These data suggest that EGCG is immunogenic in nature and is
+able to prime PBMCs and T-cells from allele positive and negative
+healthy donors.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Priming of T-cells isolated from random healthy donors.
+(a) T-cells
+and monocyte derived dendritic cells (moDCs) were cocultured with
+EGCG (25 &#x003bc;M) in the presence or absence of PD-1 and PD-L1 blocking
+antibodies (5 &#x003bc;g/mL) for 12 days. After 12 days, cells were
+washed and rechallenged with EGCG (25 &#x003bc;M) or cell culture medium
+and a proliferation readout taken as previously described. (b) Visualization
+of priming data demonstrating increased number of proliferative wells
+on inclusion of PD-1 and PD-L1 blockade.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx3c00253_0002" id="gr2" position="float"/></fig><p>EGCG-specific T-cell clones (TCCs), generated by serial dilution,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> were identified in 2 healthy donors positive
+for HLA-B*35:01 expression (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). Drug-reactive T-cells that proliferated in a dose-dependent
+manner with EGCG were restricted to CD4<sup>+ve</sup> monoclonal populations
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). Clones
+were observed to secrete both Th<sub>1</sub> (IFN-&#x003b3;) and Th<sub>2</sub> (IL-5 and IL-13) cytokines. Most notably, secretion of Granzyme
+B was detected in all TCC profiled, indicating involvement of cytotoxic
+T-cell responses and potential for inducing liver injury (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Proliferation of
+TCC generated from HLA-B*35:01 positive donors
+(<italic>n</italic> = 2) following treatment with EGCG. TCCs were
+rechallenged in the presence of APCs with EGCG or cell culture medium
+for 48 h. Proliferation was measured as previously described. TCCs
+with a stimulation index (SI) &#x0003e; 1.5 were deemed to be responsive.
+(b) Dose-dependent proliferation of CD4<sup>+ve</sup> EGCG-specific
+TCCs. Clones were incubated with various concentrations of EGCG in
+the presence of APCs, and proliferation was measured as previously
+described. Statistical significance was determined using a Kruskal&#x02013;Wallis
+test (*<italic>p</italic> &#x0003c; 0.05). (c) Cytokine secretion of CD4<sup>+ve</sup> EGCG-specific TCCs. Clones were incubated with EGCG (50
+&#x003bc;M) or cell culture medium for 48 h. Secretion of IFN-&#x003b3;,
+IL-5, Granzyme B, IL-13, IL-17, IL-22, and Perforin was conducted
+using an enzyme-linked immunospot (ELISpot) as per the manufacturer&#x02019;s
+instructions (Mabtech, Sweden). (d) HLA restriction of EGCG-responsive
+TCCs. Proliferation in response to EGCG (50 &#x003bc;M) following blockade
+of HLA complexes by anti-HLA antibodies (10 &#x003bc;g/mL). A proliferation
+readout was taken as described previously, and statistical significance
+was determined using a 2-way ANOVA (****<italic>p</italic> &#x0003c; 0.0001).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="tx3c00253_0003" id="gr3" position="float"/></fig><p>TCCs and autologous antigen presenting cells (APCs)
+were treated
+with EGCG in the presence or absence of anti-HLA blocking antibodies.
+Proliferation of TCC was largely unaffected after HLA class I blockade
+(HLA-A, HLA-B, and HLA-C). However, proliferation was found to be
+inhibited in the presence of MHC class II blocking antibodies, indicating
+that T-cell responses to EGCG are driven primarily by MHC class II
+complexes (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>D). These data suggest that EGCG is able to activate CD4<sup>+ve</sup> TCC but do not rule out interactions with CD8<sup>+ve</sup> TCCs,
+which may be responsible for the small reduction in proliferation
+seen under MHC Class I blockade, suggesting that MHC Class I may have
+some role in antigen presentation.</p><p>In conclusion, EGCG is demonstrated
+to be inherently immunogenic,
+capable of priming PBMCs and T-cells from healthy donors that are
+positive and negative for the HLA-B*35:01 risk allele. Priming of
+immune cells demonstrates a dose-dependent trend and is enhanced through
+the addition of PD-1 and PD-L1 immune checkpoint blockade as demonstrated
+by <italic>in vivo</italic> research by Cho et al. in 2021. EGCG-responsive
+T-cells displaying a CD4<sup>+ve</sup> phenotype were generated from
+2-drug na&#x000ef;ve healthy donors expressing the HLA-B*35:01
+risk allele, associated with GTE-DILI. We have been able to identify
+TCCs that proliferate and secrete both cytotoxic and inflammatory
+cytokines such as IFN-&#x003b3; and Granzyme B, suggesting these CD4<sup>+ve</sup> T-cells may be responsible for the tissue damage seen.
+T-cell responses observed in this study were largely driven through
+MHC Class II (HLA-DR) interactions and not reliant upon expression
+of the MHC Class I allele association to respond. These data however
+do not exclude the possibility that CD8<sup>+ve</sup> TCCs may be
+present in small numbers or in the tissue resident compartment in
+patients and contribute to the clinical phenotype seen.</p><p>Further
+investigations into the allele restriction of EGCG responses
+are warranted, with cloning experiments focusing on individuals negative
+for HLA-B*35:01 expression needed to identify whether the generation
+of TCCs is possible in donors not expressing the risk allele. Additional
+functional T-cell analysis will be required to determine the mechanism
+by which EGCG is presented to T-cells in a processing-dependent or
+-independent manner. Further studies are ongoing to identify CD8<sup>+ve</sup> TCCs from healthy donors, and work is ongoing to recruit
+GTE-DILI patients to the study.</p></body><back><notes notes-type="" id="notes-1"><title>Author Contributions</title><p><sup>&#x022a5;</sup> J.L. and
+S.-E.A. contributed equally.</p></notes><notes notes-type="funding-statement" id="notes-2"><p>J.L. is a Ph.D.
+student funded by the British Pharmacological Society&#x02019;s AJ
+Clark Studentship; S.-E.A. is a Ph.D. graduate funded by the MRC DiMeN
+Doctoral Training Partnership; S.G. is a Ph.D. student funded by the
+MRC ITTP Studentship; T.R. is a Post-Doctoral Fellow funded by the
+China Scholarship Council. This work was funded by a grant from the
+MRC (grant number MR/R009635/1).</p></notes><ack><title>Acknowledgments</title><p>The authors would
+like to thank both the volunteers who participated
+in the project and the clinical research nurses involved in collecting
+blood samples.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>APCs</term><def><p>antigen presenting cells</p></def></def-item><def-item><term>DILI</term><def><p>drug-induced liver injury</p></def></def-item><def-item><term>HDS</term><def><p>herbal and dietary
+supplement</p></def></def-item><def-item><term>HLA</term><def><p>human
+leukocyte antigen</p></def></def-item><def-item><term>PBMCs</term><def><p>peripheral blood mononuclear cells</p></def></def-item><def-item><term>SI</term><def><p>stimulation index</p></def></def-item><def-item><term>TCC</term><def><p>T-cell clone</p></def></def-item><def-item><term>GTE</term><def><p>green tea extract</p></def></def-item><def-item><term>EGCG</term><def><p>epigallocatechin-3-<italic>O</italic>-gallate</p></def></def-item><def-item><term>MHC</term><def><p>major histocompatibility
+complex</p></def></def-item><def-item><term>PD-1</term><def><p>programmed
+cell death protein 1</p></def></def-item><def-item><term>PD-L1</term><def><p>programmed cell death ligand 1</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Bailey</surname><given-names>R. L.</given-names></name>; <name><surname>Gahche</surname><given-names>J. J.</given-names></name>; <name><surname>Lentino</surname><given-names>C. V.</given-names></name>; <name><surname>Dwyer</surname><given-names>J. T.</given-names></name>; <name><surname>Engel</surname><given-names>J. S.</given-names></name>; <name><surname>Thomas</surname><given-names>P. R.</given-names></name>; <name><surname>Betz</surname><given-names>J. M.</given-names></name>; <name><surname>Sempos</surname><given-names>C. T.</given-names></name>; <name><surname>Picciano</surname><given-names>M. F.</given-names></name>
+<article-title>Dietary
+supplement use in the United States, 2003&#x02013;2006</article-title>. <source>J. Nutr.</source>
+<year>2011</year>, <volume>141</volume>, <fpage>261</fpage>&#x02013;<lpage>266</lpage>. <pub-id pub-id-type="doi">10.3945/jn.110.133025</pub-id>.<pub-id pub-id-type="pmid">21178089</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Navarro</surname><given-names>V. J.</given-names></name>; <name><surname>Barnhart</surname><given-names>H.</given-names></name>; <name><surname>Bonkovsky</surname><given-names>H. L.</given-names></name>; <name><surname>Davern</surname><given-names>T.</given-names></name>; <name><surname>Fontana</surname><given-names>R. J.</given-names></name>; <name><surname>Grant</surname><given-names>L.</given-names></name>; <name><surname>Reddy</surname><given-names>K. R.</given-names></name>; <name><surname>Seeff</surname><given-names>L. B.</given-names></name>; <name><surname>Serrano</surname><given-names>J.</given-names></name>; <name><surname>Sherker</surname><given-names>A. H.</given-names></name>; <name><surname>Stolz</surname><given-names>A.</given-names></name>; <name><surname>Talwalkar</surname><given-names>J.</given-names></name>; <name><surname>Vega</surname><given-names>M.</given-names></name>; <name><surname>Vuppalanchi</surname><given-names>R.</given-names></name>
+<article-title>Liver injury from herbals and dietary
+supplements in the U.S. Drug-Induced Liver Injury Network</article-title>. <source>Hepatology</source>
+<year>2014</year>, <volume>60</volume>, <fpage>1399</fpage>&#x02013;<lpage>1408</lpage>. <pub-id pub-id-type="doi">10.1002/hep.27317</pub-id>.<pub-id pub-id-type="pmid">25043597</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Bjornsson</surname><given-names>E.</given-names></name>; <name><surname>Olsson</surname><given-names>R.</given-names></name>
+<article-title>Serious adverse liver reactions associated with herbal
+weight-loss supplements</article-title>. <source>J. Hepatol</source>
+<year>2007</year>, <volume>47</volume>, <fpage>295</fpage>&#x02013;<lpage>297</lpage>. <pub-id pub-id-type="doi">10.1016/j.jhep.2007.05.010</pub-id>.<pub-id pub-id-type="pmid">17562348</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Hoofnagle</surname><given-names>J. H.</given-names></name>; <name><surname>Bonkovsky</surname><given-names>H. L.</given-names></name>; <name><surname>Phillips</surname><given-names>E. J.</given-names></name>; <name><surname>Li</surname><given-names>Y. J.</given-names></name>; <name><surname>Ahmad</surname><given-names>J.</given-names></name>; <name><surname>Barnhart</surname><given-names>H.</given-names></name>; <name><surname>Durazo</surname><given-names>F.</given-names></name>; <name><surname>Fontana</surname><given-names>R. J.</given-names></name>; <name><surname>Gu</surname><given-names>J.</given-names></name>; <name><surname>Khan</surname><given-names>I.</given-names></name>; <name><surname>Kleiner</surname><given-names>D. E.</given-names></name>; <name><surname>Koh</surname><given-names>C.</given-names></name>; <name><surname>Rockey</surname><given-names>D. C.</given-names></name>; <name><surname>Seeff</surname><given-names>L. B.</given-names></name>; <name><surname>Serrano</surname><given-names>J.</given-names></name>; <name><surname>Stolz</surname><given-names>A.</given-names></name>; <name><surname>Tillmann</surname><given-names>H. L.</given-names></name>; <name><surname>Vuppalanchi</surname><given-names>R.</given-names></name>; <name><surname>Navarro</surname><given-names>V. J.</given-names></name>
+<article-title>HLA-B*35:01 and Green Tea-Induced
+Liver Injury</article-title>. <source>Hepatology</source>
+<year>2021</year>, <volume>73</volume>, <fpage>2484</fpage>&#x02013;<lpage>2493</lpage>. <pub-id pub-id-type="doi">10.1002/hep.31538</pub-id>.<pub-id pub-id-type="pmid">32892374</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Mazzanti</surname><given-names>G.</given-names></name>; <name><surname>Menniti-Ippolito</surname><given-names>F.</given-names></name>; <name><surname>Moro</surname><given-names>P. A.</given-names></name>; <name><surname>Cassetti</surname><given-names>F.</given-names></name>; <name><surname>Raschetti</surname><given-names>R.</given-names></name>; <name><surname>Santuccio</surname><given-names>C.</given-names></name>; <name><surname>Mastrangelo</surname><given-names>S.</given-names></name>
+<article-title>Hepatotoxicity from green tea: a
+review of the literature and two unpublished cases</article-title>. <source>European Journal of Clinical Pharmacology</source>
+<year>2009</year>, <volume>65</volume>, <fpage>331</fpage>&#x02013;<lpage>341</lpage>. <pub-id pub-id-type="doi">10.1007/s00228-008-0610-7</pub-id>.<pub-id pub-id-type="pmid">19198822</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Navarro</surname><given-names>V. J.</given-names></name>; <name><surname>Bonkovsky</surname><given-names>H. L.</given-names></name>; <name><surname>Hwang</surname><given-names>S. I.</given-names></name>; <name><surname>Vega</surname><given-names>M.</given-names></name>; <name><surname>Barnhart</surname><given-names>H.</given-names></name>; <name><surname>Serrano</surname><given-names>J.</given-names></name>
+<article-title>Catechins
+in dietary supplements and hepatotoxicity</article-title>. <source>Dig.
+Dis. Sci.</source>
+<year>2013</year>, <volume>58</volume>, <fpage>2682</fpage>&#x02013;<lpage>2690</lpage>. <pub-id pub-id-type="doi">10.1007/s10620-013-2687-9</pub-id>.<pub-id pub-id-type="pmid">23625293</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Samavat</surname><given-names>H.</given-names></name>; <name><surname>Dostal</surname><given-names>A. M.</given-names></name>; <name><surname>Wang</surname><given-names>R.</given-names></name>; <name><surname>Torkelson</surname><given-names>C. J.</given-names></name>; <name><surname>Yang</surname><given-names>C. S.</given-names></name>; <name><surname>Butler</surname><given-names>L. M.</given-names></name>; <name><surname>Kensler</surname><given-names>T. W.</given-names></name>; <name><surname>Wu</surname><given-names>A. H.</given-names></name>; <name><surname>Kurzer</surname><given-names>M. S.</given-names></name>; <name><surname>Yuan</surname><given-names>J. M.</given-names></name>
+<article-title>Effect of Green Tea Supplements on
+Liver Enzyme Elevation: Results from a Randomized Intervention Study
+in the United States</article-title>. <source>Cancer Prev Res. (Phila)</source>
+<year>2017</year>, <volume>10</volume>, <fpage>571</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1158/1940-6207.CAPR-17-0160</pub-id>.<pub-id pub-id-type="pmid">28765194</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Oketch-Rabah</surname><given-names>H. A.</given-names></name>; <name><surname>Roe</surname><given-names>A. L.</given-names></name>; <name><surname>Rider</surname><given-names>C. V.</given-names></name>; <name><surname>Bonkovsky</surname><given-names>H. L.</given-names></name>; <name><surname>Giancaspro</surname><given-names>G. I.</given-names></name>; <name><surname>Navarro</surname><given-names>V.</given-names></name>; <name><surname>Paine</surname><given-names>M. F.</given-names></name>; <name><surname>Betz</surname><given-names>J. M.</given-names></name>; <name><surname>Marles</surname><given-names>R. J.</given-names></name>; <name><surname>Casper</surname><given-names>S.</given-names></name>; <name><surname>Gurley</surname><given-names>B.</given-names></name>; <name><surname>Jordan</surname><given-names>S. A.</given-names></name>; <name><surname>He</surname><given-names>K.</given-names></name>; <name><surname>Kapoor</surname><given-names>M. P.</given-names></name>; <name><surname>Rao</surname><given-names>T. P.</given-names></name>; <name><surname>Sherker</surname><given-names>A. H.</given-names></name>; <name><surname>Fontana</surname><given-names>R. J.</given-names></name>; <name><surname>Rossi</surname><given-names>S.</given-names></name>; <name><surname>Vuppalanchi</surname><given-names>R.</given-names></name>; <name><surname>Seeff</surname><given-names>L. B.</given-names></name>; <name><surname>Stolz</surname><given-names>A.</given-names></name>; <name><surname>Ahmad</surname><given-names>J.</given-names></name>; <name><surname>Koh</surname><given-names>C.</given-names></name>; <name><surname>Serrano</surname><given-names>J.</given-names></name>; <name><surname>Low Dog</surname><given-names>T.</given-names></name>; <name><surname>Ko</surname><given-names>R.</given-names></name>
+<article-title>United States Pharmacopeia
+(USP) comprehensive review of the hepatotoxicity
+of green tea extracts</article-title>. <source>Toxicology Reports</source>
+<year>2020</year>, <volume>7</volume>, <fpage>386</fpage>&#x02013;<lpage>402</lpage>. <pub-id pub-id-type="doi">10.1016/j.toxrep.2020.02.008</pub-id>.<pub-id pub-id-type="pmid">32140423</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Cho</surname><given-names>T.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Yeung</surname><given-names>K.</given-names></name>; <name><surname>Cao</surname><given-names>Y.</given-names></name>; <name><surname>Uetrecht</surname><given-names>J.</given-names></name>
+<article-title>Liver Injury
+Caused by Green Tea Extract in PD-1&#x02013;/&#x02013; Mice: An Impaired
+Immune Tolerance Model for Idiosyncratic Drug-Induced Liver Injury</article-title>. <source>Chem. Res. Toxicol.</source>
+<year>2021</year>, <volume>34</volume>, <fpage>849</fpage>&#x02013;<lpage>856</lpage>. <pub-id pub-id-type="doi">10.1021/acs.chemrestox.0c00485</pub-id>.<pub-id pub-id-type="pmid">33617238</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Mauri-Hellweg</surname><given-names>D.</given-names></name>; <name><surname>Bettens</surname><given-names>F.</given-names></name>; <name><surname>Mauri</surname><given-names>D.</given-names></name>; <name><surname>Brander</surname><given-names>C.</given-names></name>; <name><surname>Hunziker</surname><given-names>T.</given-names></name>; <name><surname>Pichler</surname><given-names>W. J.</given-names></name>
+<article-title>Activation of drug-specific
+CD4+ and CD8+ T cells in
+individuals allergic to sulfonamides, phenytoin, and carbamazepine</article-title>. <source>J. Immunol</source>
+<year>1995</year>, <volume>155</volume>, <fpage>462</fpage>&#x02013;<lpage>472</lpage>. <pub-id pub-id-type="doi">10.4049/jimmunol.155.1.462</pub-id>.<pub-id pub-id-type="pmid">7602118</pub-id>
+</mixed-citation></ref></ref-list></back></article>

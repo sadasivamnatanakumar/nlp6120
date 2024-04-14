@@ -1,0 +1,326 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Org Lett</journal-id><journal-id journal-id-type="iso-abbrev">Org Lett</journal-id><journal-id journal-id-type="publisher-id">ol</journal-id><journal-id journal-id-type="coden">orlef7</journal-id><journal-title-group><journal-title>Organic Letters</journal-title></journal-title-group><issn pub-type="ppub">1523-7060</issn><issn pub-type="epub">1523-7052</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38039188</article-id><article-id pub-id-type="pmc">PMC10729020</article-id>
+<article-id pub-id-type="doi">10.1021/acs.orglett.3c03325</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Asymmetric Dearomatization
+of Phthalazines by Anion-Binding
+Catalysis</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4350-4968</contrib-id><name><surname>Vel&#x000e1;zquez</surname><given-names>Marta</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1755-1525</contrib-id><name><surname>Fern&#x000e1;ndez</surname><given-names>Rosario</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-1772-2723</contrib-id><name><surname>Lassaletta</surname><given-names>Jos&#x000e9; M.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8007-4111</contrib-id><name><surname>Monge</surname><given-names>David</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Departamento
+de Qu&#x000ed;mica Org&#x000e1;nica, Facultad de Qu&#x000ed;mica, <institution>Universidad de Sevilla and Centro de Innovaci&#x000f3;n
+en Qu&#x000ed;mica Avanzada (ORFEO-CINQA)</institution>, C/Prof. Garc&#x000ed;a Gonz&#x000e1;lez, 1, 41012 Sevilla, <country>Spain</country></aff><aff id="aff2"><label>&#x02021;</label><institution>Instituto
+de Investigaciones Qu&#x000ed;micas (CSIC-US) and Centro de Innovaci&#x000f3;n
+en Qu&#x000ed;mica Avanzada (ORFEO-CINQA)</institution>, Avenida Am&#x000e9;rico Vespucio, 49, 41092 Sevilla, <country>Spain</country></aff></contrib-group><author-notes><corresp id="cor3"><label>*</label>D.M.:
+email, <email>dmonge@us.es</email>.</corresp><corresp id="cor1"><label>*</label>R.F.: email, <email>ffernan@us.es</email>.</corresp><corresp id="cor2"><label>*</label>J.M.L.: email, <email>jmlassa@iiq.csic.es</email>.</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>15</day><month>12</month><year>2023</year></pub-date><volume>25</volume><issue>49</issue><fpage>8797</fpage><lpage>8802</lpage><history><date date-type="received"><day>10</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>12</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0009" id="ab-tgr1"/></p><p>A straightforward methodology for the enantioselective
+synthesis
+of 1,2-dihydrophthalazines <italic>via</italic> dearomatization of
+phthalazines by anion-binding catalysis has been developed. The process
+involves the Mannich-type addition of silyl ketene acetals to <italic>in situ</italic> generated <italic>N</italic>-acylphthalazinium chlorides
+using a <italic>tert</italic>-leucine derived thiourea as a H-bond
+donor catalyst. Ensuing selective and high-yielding transformations
+provide appealing dihydro- and tetrahydro-phthalazines, phthalazones,
+and piperazic acid homologues, en route to biologically relevant molecules.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Consejer&#x000c3;&#x000ad;a de Econom&#x000c3;&#x000ad;a, Innovaci&#x000c3;&#x000b3;n, Ciencia y Empleo, Junta de Andaluc&#x000c3;&#x000ad;a</institution><institution-id institution-id-type="doi">10.13039/501100002878</institution-id></institution-wrap></funding-source><award-id>P18-FR-3531</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>European Regional Development Fund</institution><institution-id institution-id-type="doi">10.13039/501100008530</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2022-137888NB-I00</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2019-106358GB-C22</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2019-106358GB-C21</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Consejer&#x000c3;&#x000ad;a de Econom&#x000c3;&#x000ad;a, Innovaci&#x000c3;&#x000b3;n, Ciencia y Empleo, Junta de Andaluc&#x000c3;&#x000ad;a</institution><institution-id institution-id-type="doi">10.13039/501100002878</institution-id></institution-wrap></funding-source><award-id>US-1262867</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Consejer&#x000c3;&#x000ad;a de Econom&#x000c3;&#x000ad;a, Innovaci&#x000c3;&#x000b3;n, Ciencia y Empleo, Junta de Andaluc&#x000c3;&#x000ad;a</institution><institution-id institution-id-type="doi">10.13039/501100002878</institution-id></institution-wrap></funding-source><award-id>P18-FR-644</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ol3c03325</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ol3c03325</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Benzodiazines are important
+bioactive heterocycles with a wide range of applications in the pharmaceutical
+and agrochemical fields.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Among them, phthalazine
+(2,3-diazanaphthalene) and dihydrophthalazine derivatives are probably
+the most privileged pharmacophores (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> For example,
+azelastine (a phthalazone) is an efficient histamine antagonist approved
+for the treatment of allergic rhinitis<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> and dihydrophthalazine SYM2206 is an AMPA receptor modulator with
+anticonvulsant activity.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Chiral racemic
+dihydrophthalazines BAL0030543<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> and (<italic>S</italic>)-RAB1 and their analogues<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> are
+potent dihydrofolate reductase inhibitors that have demonstrated activity
+against antibiotic-resistant strains of <italic>Staphylococcus aureus</italic>, among other Gram-positive bacteria.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Selective bioactive diazaheterocycles.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0001" id="gr5" position="float"/></fig><p>On the other hand, monocyclic derivatives have
+also shown interesting
+bioactivities. Selected examples are cilazapril, a marketed saturated
+pyridazine (piperazic acid derivative) drug for the treatment of hypertension,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> and matlystatins, a group of potent metalloproteinase
+inhibitors.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> However, their potential as
+therapeutic weapons contrasts with the scarcity of methodologies for
+accessing these chiral molecules in an enantioselective fashion. In
+this regard, a straightforward approach consists of the stereoselective
+dearomatization of phthalazin-2-ium salts derived from readily available
+phthalazines.</p><p>Several examples demonstrate the use of phthalazinium
+dicyanomethanides
+as stable azomethine ylides in [3 + 3] and [3 + 2] cycloaddition reactions.
+These reactions are enabled by Cu(I) and iminium catalysis, respectively
+(<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>A).<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Furthermore, an <italic>N</italic>-alkyl phthalazinium
+iodide was subjected to enamine catalysis for a nucleophilic dearomatization
+reaction in an intramolecular version. However, only a single example
+was reported (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>B).<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> Herein, we report the asymmetric
+synthesis of 1,2-dihydrophthalazines through dearomatization of phthalazines
+via anion-binding catalysis using H-bond donor organocatalysts (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>C). The process involves
+the nucleophilic addition of silyl ketene acetals to <italic>in situ</italic> generated <italic>N</italic>-acyl-phthalazinium halides.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Catalytic
+Asymmetric Dearomatization of Phthalazines</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0003" id="gr1" position="float"/></fig><p>Pioneered by Jacobsen,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> anion-binding
+catalysis<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> has enabled a wide range of
+nucleophilic dearomatizations of mono aza-heterocycles, such as isoquinolines,
+quinolines, and pyridines.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> However, attempts
+to implement these methodologies in diaza-heterocycles remain challenging
+due to the increased complexity associated with the presence of two
+nitrogens prone to be acylated, resulting in multiple reactive positions
+and thereby lower yields and side reactions. Moreover, enantioselectivities
+have been often compromised. To the best of our knowledge, only quinazolines
+(1,3-diazanaphthalenes) have been efficiently dearomatized with high
+enantioselectivities by asymmetric anion-binding catalysis. Employing
+chiral triazoles (CH-bond donors), Garc&#x000ed;a Manche&#x000f1;o
+and co-workers successfully developed the dearomatization of quinazoline
+through a nucleophilic C2-addition of silyl ketene acetals (up to
+92% ee), while phthalazine and pyridazine underwent dearomatization
+reactions with moderate enantioselectivities.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> It is worth mentioning that alternative metal-catalyzed dearomatization
+of pyridazine also remains virtually unknown.</p><p>Preliminary experiments
+were conducted employing phthalazine (<bold>1a</bold>) as a model
+substrate, 2,2,2-trichloroethyl chloroformate
+(TrocCl) as acylating reagent, and isopropyl TBS-ketene acetal <bold>2a</bold> as the nucleophile. The model reaction was initially studied
+in methyl <italic>tert-</italic>butyl ether (MTBE) employing a temperature
+gradient (from &#x02212;78 &#x000b0;C to room temperature over 18 h).
+Although a quite insoluble phthalazinium salt was generated, a significant
+background reaction took place in the absence of any catalyst (entry
+1, <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). From the
+initial screening of hydrogen-bond donor (HBD) organocatalysts (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03325/suppl_file/ol3c03325_si_001.pdf">Supporting Information</ext-link>), <italic>tert</italic>-leucine derived thiourea <bold>I</bold> emerged as the most promising
+candidate, affording (<italic>S</italic>)-<bold>3aa</bold> in 57%
+NMR-yield and 81% ee (entry 2). Organocatalyst <bold>II</bold>, featuring
+a combination of <italic>tert</italic>-leucine and (1<italic>R</italic>,2<italic>R</italic>)-1,2-diaminocyclohexane scaffolds similar to
+the optimal catalyst originally reported for the dearomatization of
+isoquinolines,<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> displayed almost no stereocontrol
+(entry 3). Next, HBDs <bold>III</bold>-<bold>VII</bold>, bearing the
+more rigid 2-substituted pyrrolidino amide motifs, were evaluated
+(entries 4&#x02013;8). In general, these catalysts exhibited good catalytic
+activities, achieving a maximum yield of 75% with thiourea <bold>IV</bold>. In accordance with a better conformational control exerted by the
+2-methyl-2-phenylpyrrolidine scaffold,<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> (<italic>S</italic>)-<bold>3aa</bold> was obtained in 89% ee employing
+either thiourea <bold>IV</bold> or urea <bold>V</bold> (entries 5
+and 6). Remarkably, catalyst <bold>VII</bold>, featuring a more extended
+&#x003c0; moiety, afforded <bold>3aa</bold> as a racemic mixture (entry
+8). Other ethereal solvents (Et<sub>2</sub>O or THF) and toluene were
+tolerated (entries 9&#x02013;12). However, none of them overcame the
+results obtained with MTBE. The influence of the acylating reagent
+on the reactivity and selectivity was further investigated (<xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>). In the chlorinated
+series, 2-chloroethoxycarbonyl-protected adduct <bold>4aa</bold> was
+obtained in lower enantioselectivity (66% ee), while only traces of
+product were formed with 1,1,1-trichloromethoxycabonyl chloride <bold>5aa</bold>. Phthalazines <bold>6aa</bold> and <bold>7aa</bold>, bearing
+Cbz and Ac protecting groups, were isolated in 75 and 98% yields,
+albeit with lower enantioselectivities (55 and 64%, respectively).
+To our delight, Bz-protected adduct <bold>8aa</bold> was obtained
+with essentially the same enantioselectivity than Troc-<bold>3aa</bold> (88% ee) and a better yield (87%). Other substitution patterns in
+the phenyl ring [<bold>9aa</bold> (<italic>o</italic>-Cl), <bold>10aa</bold> (<italic>p</italic>-Cl), <bold>11aa</bold> (<italic>p</italic>-NO<sub>2</sub>), and <bold>12aa</bold> (<italic>p</italic>-Me)] did not
+improve the enantioselectivity of the process (up to 86% ee for <bold>10aa</bold>). According to an anion-binding activation mode, the
+nature of the halide anion modified the reaction outcome. Hence, product <bold>8aa</bold> was isolated in lower enantioselectivity from reactions
+performed using benzoyl bromide or fluoride as the acylating reagent
+(73% and 30% ee, respectively). With the optimal conditions in hand,
+the catalyst loading could be reduced to 5 mol % without compromising
+yield or enantioselectivity. Next, the reactions of <bold>1a</bold> and <bold>2a</bold>, employing BzCl as the acylating reagent, were
+investigated in more detail. A comparison of noncatalyzed <italic>vs</italic> catalyzed reaction kinetics revealed maximum differentiation
+at the beginning of the process (from &#x02212;78 &#x000b0;C to &#x02212;30
+&#x000b0;C), affording <bold>8aa</bold> in 75% NMR-yield after 6 h (vs
+&#x0003c;5% in the background) (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). Moreover, it was observed that the enantioselectivity
+was slightly lower at the early stages (from &#x02212;78 to &#x02212;60
+&#x000b0;C; 79% and 82% ee after 2 and 4 h, respectively), reaching a
+maximum value of 88% ee after 6 h, which remained constant until the
+end of the reaction. Therefore, a slow temperature gradient (from
+&#x02212;78 &#x000b0;C to rt) was employed as optimal methodology for
+further studies (<xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref>). Different nucleophiles were initially tested.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Screening of Organocatalysts and Optimization
+of the Reaction Parameters<xref rid="t1fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0007" id="fx1" position="float"/><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0008" id="GRAPHIC-d14e369-autogenerated" position="float"/><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Reactions performed at 0.1 mmol
+scale.</p></fn><fn id="t1fn2"><label>b</label><p>Determined by <sup>1</sup>H NMR
+using mesitylene as internal standard.</p></fn><fn id="t1fn3"><label>c</label><p>Determined by HPLC.</p></fn><fn id="t1fn4"><label>d</label><p>(<italic>R</italic>)-enantiomer.</p></fn></table-wrap-foot></table-wrap><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Optimization of Acylating Reagents</title><p id="s2fn1">(a) Reactions performed
+at 0.2
+mmol scale. Yields given for isolated products after chromatography.
+ee&#x02019;s were determined by HPLC on chiral stationary phases. (b)
+Reaction performed with 5 mol % of catalyst loading.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0004" id="gr2" position="float"/></fig><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Noncatalyzed vs catalyzed reaction kinetics. Reactions were performed
+in MTBE with 5 mol % of catalyst from &#x02212;78 to 10 &#x000b0;C.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0002" id="gr6" position="float"/></fig><fig id="sch3" position="float"><label>Scheme 3</label><caption><title>Substrate Scope</title><p id="s3fn1">(a) Reactions performed
+at 0.2
+mmol scale. (b) Reaction performed at 1 mmol scale. (c) 2.5 equiv
+of <bold>2a</bold>. (d) 10 mol % of catalyst loading.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0005" id="gr3" position="float"/></fig><p>Silyl ketene acetals bearing isopropyl, methyl, ethyl,
+and benzyl
+ester moieties (<bold>2a</bold>&#x02013;<bold>d</bold>) performed efficiently,
+affording dihydrophthalazines (<italic>S</italic>)-<bold>8aa</bold>&#x02013;<bold>8ad</bold> in generally good yields (79&#x02013;89%)
+and enantioselectivities (84&#x02013;90% ee). However, the use of <italic>tert</italic>-butyl ketene acetal <bold>2e</bold> led to a moderate
+yield (49%) and lower enantioselectivity (78% ee).</p><p>Silyl enol
+ethers derived from acetone and cyclohexanone were not
+reactive in this transformation, while acetophenone-derived <bold>2f</bold> afforded <bold>8af</bold> in quantitative yield, albeit
+in low enantioselectivity (8% ee). Finally, vinylogous reagent <bold>2g</bold> was also tolerated, affording <bold>8ag</bold> in good
+yield (87%) with moderate enantioselectivity (55% ee). Next we carried
+out the dearomatization reaction of different phthalazines using <bold>2a</bold> as a representative nucleophile. Within the symmetric series,
+the product (<italic>S</italic>)-<bold>8ba</bold>, bearing an additional
+fused aromatic ring, was obtained in 93% ee. 6,7-Disubstitution was
+further evaluated: 6,7-dimethyl phthalazine (<bold>1d</bold>) proved
+to be also a suitable substrate, affording the corresponding product
+(<italic>S</italic>)-<bold>8da</bold> in excellent yield (91%) and
+enantioselectivity (92%). On the other hand, the introduction of chloro
+or alkoxy groups at these positions afforded products in poorer yields
+and enantioselectivities [(<italic>S</italic>)-<bold>8ca</bold>, 54%,
+46% ee; (<italic>S</italic>)-<bold>8ea</bold>, 77%, 40% ee]. The introduction
+of oxygenated substituents near the reactive center had a negative
+impact in the enantioselectivity. Thus, the dearomatization of 5,8-dimethoxyphthalazine
+(<bold>1f</bold>) afforded (<italic>S</italic>)-<bold>8fa</bold> in
+70% yield and 14% ee. Benzo[<italic>f</italic>]phthalazine <bold>1g</bold> afforded an inseparable mixture of regioisomers <bold>8ga</bold>/<bold>8ga</bold>&#x02032; (1:2) in good yield (88%) and moderate
+to excellent ee values (59 and 90% ee, respectively). More interestingly,
+C4-monosubstituted phthalazines afforded adducts (<italic>S</italic>)-<bold>8ha</bold>&#x02013;<bold>8pa</bold> in moderate-to-good yields
+(50&#x02013;80%) and excellent enantioselectivities (89&#x02013;98%
+ee), regardless of the nature of the substituents: chloro, cyano,
+alkoxy groups, with various substitution patterns, heteroaryls (exemplified
+by R = pyrrole), and a saturated heterocycle (R = morpholine). Finally,
+the challenging substrate <bold>1q</bold>, bearing both phthalazine
+and isoquinoline scaffolds, was evaluated. Remarkably, a double dearomatization
+process involving the corresponding dibenzoyl bis-chloride allowed
+the generation of two stereogenic centers in (<italic>S</italic>,<italic>S</italic>)-<bold>8qa</bold> with excellent stereocontrol [19:1 dr,
+98% ee (major)] and 71% yield. Finally, the methodology was extended
+to the dearomatization of pyridazine <bold>13a</bold>. Under the optimized
+conditions, dihydropyridazines (<italic>S</italic>)-<bold>14aa</bold> and (<italic>S</italic>)-<bold>14ae</bold> were obtained in high
+yields and moderate-to-good ee values of 52 and 85% ee, respectively.
+It&#x02032;s worth noting that Bz-pyridazinium chloride was more soluble
+in MTBE than the corresponding Bz-phthalazinium salt, thereby favoring
+the competing background reaction (82% NMR-yield in absence of catalyst).
+Additionally, other solvents and fixed temperatures (&#x02212;78 &#x000b0;C)
+were unsuccessfully tested (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03325/suppl_file/ol3c03325_si_001.pdf">Supporting Information</ext-link>). On the contrary, Troc-pyridazinium chloride was less soluble than
+Bz-protected one and (<italic>S</italic>)-<bold>15aa</bold>, (<italic>S</italic>)-<bold>15ad</bold>, and (<italic>S</italic>)-<bold>15ae</bold> were synthesized with superior enantioselectivities (85&#x02013;95%
+ee), albeit in moderate yields (46%, 55%, and 31%, respectively) even
+when using 10 mol % of catalyst loadings. Remarkably, the best enantioselectivity
+in this case was obtained when combined with <italic>tert</italic>-butyl ketene acetal <bold>2e</bold>, in contrast with the trend
+observed in the dearomatization of <bold>1a</bold>. Finally, the synthetic
+usefulness of dihydrophthalazines <bold>8</bold> was demonstrated
+by accessing several selected targets (<xref rid="sch4" ref-type="scheme">Scheme <xref rid="sch4" ref-type="scheme">4</xref></xref>). Under standard hydrogenation conditions
+[Pd(C)/ 1 atm (H<sub>2</sub>)], <bold>8aa</bold> underwent a chemoselective
+hydrogenation of the C=N double bond to afford cyclic hydrazino
+ester (<italic>S</italic>)-<bold>16</bold>. Under the same conditions,
+(<italic>S</italic>)-<bold>8ka</bold> was efficiently transformed
+into the phthalazone derivative (<italic>S</italic>)-<bold>17</bold> in high yields and without noticeable racemization.</p><fig id="sch4" position="float"><label>Scheme 4</label><caption><title>Transformations
+of Dihydrophthalazines <bold>8</bold></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_0006" id="gr4" position="float"/></fig><p>Additionally, 4-chloro substituted <bold>8ha</bold> was subjected
+to Sonogashira coupling to yield product (<italic>S</italic>)-<bold>18</bold> (77%). To illustrate the synthetic potential of dihydrophthalazines <bold>8</bold> as cyclic &#x003b2;-hydrazino acid precursors, hydrolysis
+of both the <sup><italic>i</italic></sup>Pr-ester and <italic>Bz</italic>-amide was performed under basic conditions [NaOH (3M), 37 &#x000b0;C].
+Subsequent chemoselective <italic>O</italic>-alkylation through S<sub>N</sub>2 of 2-bromoacetophenone yielded <bold>19</bold> without compromising
+the stereochemical integrity of the starting material (<bold>8aa</bold>). Additionally, milder basic conditions [NaOH (1M), from 0 &#x000b0;C
+to rt] allowed selective saponification of the <sup><italic>i</italic></sup>Pr-ester. Peptide-type coupling of the corresponding carboxylic
+acid with enantiopure <sc>l</sc>-phenylalanine ethyl ester, promoted
+by HBTU, afforded (<italic>S,S</italic>)-<bold>20</bold> in good overall
+yield (67%, 2 steps) and without a loss of enantiomeric purity (98%
+of diastereomeric excess). Crystals of (<italic>S,S</italic>)-<bold>20</bold> suitable for X-ray diffraction analysis served to determine
+the absolute <italic>S</italic> configuration of the newly created
+stereogenic center in (<italic>S</italic>)-<bold>8la</bold>. Within
+the Troc-protected series, the absolute <italic>S</italic> configuration
+of dihydrophthalazine <bold>3aa</bold> and dihydropyridazine <bold>15aa</bold> was assigned by a chemical correlation. Assuming a uniform
+stereochemical pathway, the absolute configurations of all other products
+were assigned by analogy.</p><p>In summary, anion-binding catalysis
+has enabled a three-component
+enantioselective dearomatization reaction of phthalazines, employing
+benzoyl chloride as the optimal acylating reagent and silyl ketene
+acetals as nucleophiles. This general methodology afforded 1,2-dihydrophthalazines
+in moderate-to-good yields and high enantioselectivities in most cases.
+Subsequent derivatizations provide direct access to key building blocks
+for the synthesis of dihydro- and tetrahydrophthalazines, phthalazones,
+and piperazic acid homologues.</p></body><back><notes notes-type="data-availability" id="notes-1"><title>Data Availability Statement</title><p>The data underlying
+this study are available in the published article and its <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03325/suppl_file/ol3c03325_si_001.pdf">Supporting Information</ext-link>.</p></notes><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.orglett.3c03325?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.orglett.3c03325</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental details, optimizations, spectroscopic and
+analytical data for new compounds, HPLC traces, crystallographic data
+of (<italic>S</italic>,<italic>S</italic>)-<bold>20</bold> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03325/suppl_file/ol3c03325_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03325_si_001.pdf"><caption><p>ol3c03325_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-3"><title>Author Contributions</title><p>The manuscript
+was written through contributions of all authors.</p></notes><notes notes-type="COI-statement" id="notes-4"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We thank
+the Spanish MICINN (grants PID2019-106358GB-C21,
+PID2019-106358GB-C22, and PID2022-137888NB-I00), European FEDER funds,
+and the Junta de Andaluc&#x000ed;a (grants P18-FR-3531, P18-FR-644,
+and US-1262867) for financial support. We also thank Dr. Francisco
+Jos&#x000e9; Fern&#x000e1;ndez de C&#x000f3;rdova (IIQ-CSIC) for X-ray
+structure analysis.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Mathew</surname><given-names>T.</given-names></name>; <name><surname>Papp</surname><given-names>A. &#x000c1;.</given-names></name>; <name><surname>Paknia</surname><given-names>F.</given-names></name>; <name><surname>Fustero</surname><given-names>S.</given-names></name>; <name><surname>Prakash</surname><given-names>G. K. S.</given-names></name>
+<article-title>Benzodiazines:
+recent synthetic advances</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2017</year>, <volume>46</volume>, <fpage>3060</fpage>&#x02013;<lpage>3094</lpage>. <pub-id pub-id-type="doi">10.1039/C7CS00082K</pub-id>.<pub-id pub-id-type="pmid">28452390</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Zaib</surname><given-names>S.</given-names></name>; <name><surname>Khan</surname><given-names>I.</given-names></name>
+<article-title>Synthetic and medicinal
+chemistry of phthalazines: Recent developments,
+opportunities and challenges</article-title>. <source>Bioorganic Chemistry</source>
+<year>2020</year>, <volume>105</volume>, <elocation-id>104425</elocation-id><pub-id pub-id-type="doi">10.1016/j.bioorg.2020.104425</pub-id>.<pub-id pub-id-type="pmid">33157344</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>McNeely</surname><given-names>W.</given-names></name>; <name><surname>Wiseman</surname><given-names>L. R.</given-names></name>
+<article-title>Intranasal azelastine.
+A review of its efficacy in
+the management of allergic rhinitis</article-title>. <source>Drugs</source>
+<year>1998</year>, <volume>56</volume>, <fpage>91</fpage>&#x02013;<lpage>114</lpage>. <pub-id pub-id-type="doi">10.2165/00003495-199856010-00011</pub-id>.<pub-id pub-id-type="pmid">9664202</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4a"><label>a</label><name><surname>Pelletier</surname><given-names>J. C.</given-names></name>; <name><surname>Hesson</surname><given-names>D. P.</given-names></name>; <name><surname>Jones</surname><given-names>K. A.</given-names></name>; <name><surname>Costa</surname><given-names>A.-M.</given-names></name>
+<article-title>Substituted
+1,2-Dihydrophthalazines: Potent, Selective, and Noncompetitive Inhibitors
+of the AMPA Receptor</article-title>. <source>J. Med. Chem.</source>
+<year>1996</year>, <volume>39</volume>, <fpage>343</fpage>&#x02013;<lpage>346</lpage>. <pub-id pub-id-type="doi">10.1021/jm950740w</pub-id>.<pub-id pub-id-type="pmid">8558499</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="cit4b"><label> b</label><name><surname>Welch</surname><given-names>N. C.</given-names></name>; <name><surname>Lin</surname><given-names>W.</given-names></name>; <name><surname>Juranka</surname><given-names>P. F.</given-names></name>; <name><surname>Morris</surname><given-names>C. E.</given-names></name>; <name><surname>Stys</surname><given-names>P. K.</given-names></name>
+<article-title>Traditional AMPA receptor antagonists partially block
+Na<sub>v</sub>1.6-mediated persistent current</article-title>. <source>Neuropharmacology</source>
+<year>2008</year>, <volume>55</volume>, <fpage>1165</fpage>&#x02013;<lpage>1171</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuropharm.2008.07.015</pub-id>.<pub-id pub-id-type="pmid">18687344</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5a"><label>a</label><name><surname>Caspers</surname><given-names>P.</given-names></name>; <name><surname>Bury</surname><given-names>L.</given-names></name>; <name><surname>Gaucher</surname><given-names>B.</given-names></name>; <name><surname>Heim</surname><given-names>J.</given-names></name>; <name><surname>Shapiro</surname><given-names>S.</given-names></name>; <name><surname>Siegrist</surname><given-names>S.</given-names></name>; <name><surname>Schmitt-Hoffmann</surname><given-names>A.</given-names></name>; <name><surname>Thenoz</surname><given-names>L.</given-names></name>; <name><surname>Urwyler</surname><given-names>H.</given-names></name>
+<article-title>In Vitro and In Vivo Properties of
+Dihydrophthalazine Antifolates, a Novel Family of Antibacterial Drugs</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2009</year>, <volume>53</volume>, <fpage>3620</fpage>&#x02013;<lpage>3627</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00377-09</pub-id>.<pub-id pub-id-type="pmid">19546364</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="cit5b"><label> b</label><name><surname>Bowker</surname><given-names>K. E.</given-names></name>; <name><surname>Caspers</surname><given-names>P.</given-names></name>; <name><surname>Gaucher</surname><given-names>B.</given-names></name>; <name><surname>MacGowan</surname><given-names>A. P.</given-names></name>
+<article-title>In Vitro
+Activities of Three New Dihydrofolate Reductase Inhibitors against
+Clinical Isolates of Gram-Positive Bacteria</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2009</year>, <volume>53</volume>, <fpage>4949</fpage>&#x02013;<lpage>4952</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.00845-09</pub-id>.<pub-id pub-id-type="pmid">19738027</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6a"><label>a</label><name><surname>Bourne</surname><given-names>C. R.</given-names></name>; <name><surname>Bunce</surname><given-names>R. A.</given-names></name>; <name><surname>Bourne</surname><given-names>P. C.</given-names></name>; <name><surname>Berlin</surname><given-names>K. D.</given-names></name>; <name><surname>Barrow</surname><given-names>E. W.</given-names></name>; <name><surname>Barrow</surname><given-names>W. W.</given-names></name>
+<article-title>Crystal structure of Bacillus anthracis
+dihydrofolate reductase with the dihydrophthalazine-based trimethoprim
+derivative RAB1 provides a structural explanation of potency and selectivity</article-title>. <source>Antimicrob. Agents Chemother.</source>
+<year>2009</year>, <volume>53</volume>, <fpage>3065</fpage>&#x02013;<lpage>3073</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.01666-08</pub-id>.<pub-id pub-id-type="pmid">19364848</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="cit6b"><label> b</label><name><surname>Bourne</surname><given-names>C. R.</given-names></name>; <name><surname>Wakeham</surname><given-names>N.</given-names></name>; <name><surname>Webb</surname><given-names>N.</given-names></name>; <name><surname>Nammalwar</surname><given-names>B.</given-names></name>; <name><surname>Bunce</surname><given-names>R. A.</given-names></name>; <name><surname>Berlin</surname><given-names>K. D.</given-names></name>; <name><surname>Barrow</surname><given-names>W. W.</given-names></name>
+<article-title>The Structure and
+Competitive Substrate Inhibition of Dihydrofolate Reductase from Enterococcus
+Faecalis Reveal Restrictions to Cofactor Docking</article-title>. <source>Biochemistry</source>
+<year>2014</year>, <volume>53</volume>, <fpage>1228</fpage>&#x02013;<lpage>1238</lpage>. <pub-id pub-id-type="doi">10.1021/bi401104t</pub-id>.<pub-id pub-id-type="pmid">24495113</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Attwood</surname><given-names>M.
+R.</given-names></name>; <name><surname>Hassall</surname><given-names>C. H.</given-names></name>; <name><surname>Krohn</surname><given-names>A.</given-names></name>; <name><surname>Lawton</surname><given-names>G.</given-names></name>; <name><surname>Redshaw</surname><given-names>S.</given-names></name>
+<article-title>The Design
+and Synthesis of the Angiotensin Converting Enzyme Inhibitor Cilazapril
+and Related Bicyclic Compounds</article-title>. <source>J. Chem. Soc.,
+Perkin Trans. 1</source>
+<year>1986</year>, <fpage>1011</fpage>&#x02013;<lpage>1019</lpage>. <pub-id pub-id-type="doi">10.1039/P19860001011</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8a"><label>a</label><name><surname>Haruyama</surname><given-names>H.</given-names></name>; <name><surname>Ohkuma</surname><given-names>Y.</given-names></name>; <name><surname>Nagaki</surname><given-names>H.</given-names></name>; <name><surname>Ogita</surname><given-names>T.</given-names></name>; <name><surname>Tamaki</surname><given-names>K.</given-names></name>; <name><surname>Kinoshita</surname><given-names>T.</given-names></name>
+<article-title>Matlystatins,
+new inhibitors of type
+IV collagenases from Actinomadura atramentaria. III. Structure elucidation
+of matlystatins A to F</article-title>. <source>J. Antibiot.</source>
+<year>1994</year>, <volume>47</volume>, <fpage>1473</fpage>&#x02013;<lpage>1480</lpage>. <pub-id pub-id-type="doi">10.7164/antibiotics.47.1473</pub-id>.</mixed-citation><mixed-citation publication-type="journal" id="cit8b"><label> b</label><name><surname>Leipoldt</surname><given-names>F.</given-names></name>; <name><surname>Santos-Aberturas</surname><given-names>J.</given-names></name>; <name><surname>Stegmann</surname><given-names>D. P.</given-names></name>; <name><surname>Wolf</surname><given-names>F.</given-names></name>; <name><surname>Kulik</surname><given-names>A.</given-names></name>; <name><surname>Lacret</surname><given-names>R.</given-names></name>; <name><surname>Popadi&#x00107;</surname><given-names>D.</given-names></name>; <name><surname>Keinh&#x000f6;rster</surname><given-names>D.</given-names></name>; <name><surname>Kirchner</surname><given-names>N.</given-names></name>; <name><surname>Bekiesch</surname><given-names>P.</given-names></name>; <name><surname>Gross</surname><given-names>H.</given-names></name>; <name><surname>Truman</surname><given-names>A. W.</given-names></name>; <name><surname>Kaysser</surname><given-names>L.</given-names></name>
+<article-title>Warhead biosynthesis and the origin
+of structural diversity in hydroxamate metalloproteinase inhibitors</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>1965</fpage><pub-id pub-id-type="doi">10.1038/s41467-017-01975-6</pub-id>.<pub-id pub-id-type="pmid">29213087</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9a"><label>a</label><name><surname>Yuan</surname><given-names>C.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Gao</surname><given-names>Z.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Feng</surname><given-names>Y.</given-names></name>; <name><surname>Xiao</surname><given-names>Y.</given-names></name>; <name><surname>Guo</surname><given-names>H.</given-names></name>
+<article-title>Cu(I)-Catalyzed
+Highly
+Enantioselective [3 + 3] Cycloaddition between Two different 1,3-Dipoles,
+Phthalazinium Dicyanomethanides and Iminoester-Derived Azomethine
+Ylides</article-title>. <source>Org. Lett.</source>
+<year>2015</year>, <volume>17</volume>, <fpage>26</fpage>&#x02013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1021/ol503169d</pub-id>.<pub-id pub-id-type="pmid">25522129</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="cit9b"><label> b</label><name><surname>Fern&#x000e1;ndez</surname><given-names>N.</given-names></name>; <name><surname>Carrillo</surname><given-names>L.</given-names></name>; <name><surname>Vicario</surname><given-names>J. L.</given-names></name>; <name><surname>Bad&#x000ed;a</surname><given-names>D.</given-names></name>; <name><surname>Reyes</surname><given-names>E.</given-names></name>
+<article-title>Organocatalytic enantioselective
+[3 + 2] cycloaddition using stable azomethine ylides</article-title>. <source>Chem. Commun.</source>
+<year>2011</year>, <volume>47</volume>, <fpage>12313</fpage>&#x02013;<lpage>12315</lpage>. <pub-id pub-id-type="doi">10.1039/c1cc15671c</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Frisch</surname><given-names>K.</given-names></name>; <name><surname>Landa</surname><given-names>A.</given-names></name>; <name><surname>Saaby</surname><given-names>S.</given-names></name>; <name><surname>J&#x000f8;rgensen</surname><given-names>K. A.</given-names></name>
+<article-title>Organocatalytic
+Diastereo- and Enantioselective Annulation Reactions&#x02014;Construction
+of Optically Active 1,2-Dihydroisoquinoline and 1,2-Dihydrophthalazine
+Derivatives</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2005</year>, <volume>44</volume>, <fpage>6058</fpage>&#x02013;<lpage>6063</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200501900</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Taylor</surname><given-names>M. S.</given-names></name>; <name><surname>Tokunaga</surname><given-names>N.</given-names></name>; <name><surname>Jacobsen</surname><given-names>E. N.</given-names></name>
+<article-title>Enantioselective
+Thiourea-Catalyzed
+Acyl-Mannich Reactions of Isoquinolines</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2005</year>, <volume>44</volume>, <fpage>6700</fpage>&#x02013;<lpage>6704</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200502277</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="book" id="cit12a"><label>a</label><source>Anion-Binding Catalysis</source>; <person-group person-group-type="editor"><name><surname>Garc&#x000ed;a Manche&#x000f1;o</surname><given-names>O.</given-names></name></person-group>, Ed.; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim</publisher-loc>, <year>2021</year>.</mixed-citation><mixed-citation publication-type="journal" id="cit12b"><label>b</label><name><surname>Brak</surname><given-names>K.</given-names></name>; <name><surname>Jacobsen</surname><given-names>E. N.</given-names></name>
+<article-title>Asymmetric Ion-Pairing
+Catalysis</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>534</fpage>&#x02013;<lpage>561</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201205449</pub-id>.</mixed-citation></ref><ref id="ref13"><note><p>For a review, see:</p></note><mixed-citation publication-type="journal" id="cit13a"><label>a</label><name><surname>Aleksiev</surname><given-names>M.</given-names></name>; <name><surname>Garc&#x000ed;a Manche&#x000f1;o</surname><given-names>O.</given-names></name>
+<article-title>Enantioselective
+dearomatization
+reactions of heteroarenes by anion-binding organocatalysis</article-title>. <source>Chem. Commun.</source>
+<year>2023</year>, <volume>59</volume>, <fpage>3360</fpage>&#x02013;<lpage>3372</lpage>. <pub-id pub-id-type="doi">10.1039/D2CC07101K</pub-id>.</mixed-citation><note><p>Selected examples, Isoquinolines:</p></note><note id="cit13b"><label>b</label><p>ref (<xref ref-type="bibr" rid="ref11">11</xref>).</p></note><mixed-citation publication-type="journal" id="cit13c"><label> c</label><name><surname>Matador</surname><given-names>E.</given-names></name>; <name><surname>Iglesias-Sig&#x000fc;enza</surname><given-names>J.</given-names></name>; <name><surname>Monge</surname><given-names>D.</given-names></name>; <name><surname>Merino</surname><given-names>P.</given-names></name>; <name><surname>Fern&#x000e1;ndez</surname><given-names>R.</given-names></name>; <name><surname>Lassaletta</surname><given-names>J. M.</given-names></name>
+<article-title>Enantio- and Diastereoselective Nucleophilic Addition
+of <italic>N</italic>-<italic>tert</italic>-Butylhydrazones to Isoquinolinium
+Ions through Anion-Binding Catalysis</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>5096</fpage>&#x02013;<lpage>5101</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202012861</pub-id>.</mixed-citation><note><p>Quinolines:</p></note><mixed-citation publication-type="journal" id="cit13d"><label> d</label><name><surname>Zurro</surname><given-names>M.</given-names></name>; <name><surname>Asmus</surname><given-names>S.</given-names></name>; <name><surname>Beckendorf</surname><given-names>S.</given-names></name>; <name><surname>M&#x000fc;ck-Lichtenfeld</surname><given-names>C.</given-names></name>; <name><surname>Garc&#x000ed;a-Manche&#x000f1;o</surname><given-names>O.</given-names></name>
+<article-title>Chiral Helical
+Oligotriazoles: New Class of Anion-Binding Catalysts for the Asymmetric
+Dearomatization of Electron-Deficient <italic>N</italic>-Heteroarenes</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>13999</fpage>&#x02013;<lpage>14002</lpage>. <pub-id pub-id-type="doi">10.1021/ja507940k</pub-id>.<pub-id pub-id-type="pmid">25211494</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="cit13e"><label> e</label><name><surname>G&#x000f3;mez-Mart&#x000ed;nez</surname><given-names>A.</given-names></name>; <name><surname>P&#x000e9;rez-Aguilar</surname><given-names>M. d. C.</given-names></name>; <name><surname>Piekarski</surname><given-names>D. G.</given-names></name>; <name><surname>Daniliuc</surname><given-names>C. G.</given-names></name>; <name><surname>Garc&#x000ed;a-Manche&#x000f1;o</surname><given-names>O.</given-names></name>
+<article-title><italic>N</italic>,<italic>N</italic>-Dialkylhydrazones as Versatile Umpolung Reagents
+in Enantioselective Anion-Binding Catalysis</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2021</year>, <volume>60</volume>, <fpage>5102</fpage>&#x02013;<lpage>5107</lpage>. <pub-id pub-id-type="doi">10.1002/anie.202013380</pub-id>.</mixed-citation><note><p>Pyridines:</p></note><mixed-citation publication-type="journal" id="cit13f"><label> f</label><name><surname>Garc&#x000ed;a-Manche&#x000f1;o</surname><given-names>O.</given-names></name>; <name><surname>Asmus</surname><given-names>S.</given-names></name>; <name><surname>Zurro</surname><given-names>M.</given-names></name>; <name><surname>Fischer</surname><given-names>T.</given-names></name>
+<article-title>Highly Enantioselective
+Nucleophilic Dearomatization of Pyridines by Anion-Binding Catalysis</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2015</year>, <volume>54</volume>, <fpage>8823</fpage><pub-id pub-id-type="doi">10.1002/anie.201502708</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Fischer</surname><given-names>T.</given-names></name>; <name><surname>Bamberger</surname><given-names>J.</given-names></name>; <name><surname>Garc&#x000ed;a Manche&#x000f1;o</surname><given-names>O.</given-names></name>
+<article-title>Asymmetric
+nucleophilic dearomatization of diazarenes by anion-binding catalysis</article-title>. <source>Org. Biomol. Chem.</source>
+<year>2016</year>, <volume>14</volume>, <fpage>5794</fpage>&#x02013;<lpage>5802</lpage>. <pub-id pub-id-type="doi">10.1039/C6OB00248J</pub-id>.<pub-id pub-id-type="pmid">27064711</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Lehnherr</surname><given-names>D.</given-names></name>; <name><surname>Ford</surname><given-names>D. D.</given-names></name>; <name><surname>Bendelsmith</surname><given-names>A. J.</given-names></name>; <name><surname>Kennedy</surname><given-names>C. R.</given-names></name>; <name><surname>Jacobsen</surname><given-names>E. N.</given-names></name>
+<article-title>Conformational
+Control of Chiral Amido-Thiourea Catalysts Enables Improved Activity
+and Enantioselectivity</article-title>. <source>Org. Lett.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>3214</fpage>&#x02013;<lpage>3217</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.6b01435</pub-id>.<pub-id pub-id-type="pmid">27294369</pub-id>
+</mixed-citation></ref></ref-list></back></article>

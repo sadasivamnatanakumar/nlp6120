@@ -1,0 +1,135 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="anr312262" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Anaesth Rep</journal-id><journal-id journal-id-type="iso-abbrev">Anaesth Rep</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2637-3726</journal-id><journal-id journal-id-type="publisher-id">ANR3</journal-id><journal-title-group><journal-title>Anaesthesia Reports</journal-title></journal-title-group><issn pub-type="epub">2637-3726</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38028658</article-id><article-id pub-id-type="pmc">PMC10680574</article-id>
+<article-id pub-id-type="doi">10.1002/anr3.12262</article-id><article-id pub-id-type="publisher-id">ANR312262</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical and Educational Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical and Educational Articles</subject></subj-group></article-categories><title-group><article-title>Potential interaction between exogenous anabolic steroids and sugammadex: failed reversal of rocuronium in a patient taking testosterone and trestolone acetate</article-title><alt-title alt-title-type="right-running-head">Potential interaction between exogenous anabolic steroids and sugammadex</alt-title><alt-title alt-title-type="left-running-head">Farkas et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="anr312262-cr-0001" contrib-type="author"><name><surname>Farkas</surname><given-names>K.</given-names></name><role>Chief Resident</role><xref rid="anr312262-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="anr312262-cr-0002" contrib-type="author"><name><surname>Aeberhard</surname><given-names>A.&#x02010;C.</given-names></name><role>Resident</role><xref rid="anr312262-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="anr312262-cr-0003" contrib-type="author"><name><surname>Schiffer</surname><given-names>E.</given-names></name><role>Associate Professor</role><xref rid="anr312262-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="anr312262-cr-0004" contrib-type="author"><name><surname>Brull</surname><given-names>S. J.</given-names></name><role>Emeritus Professor</role><xref rid="anr312262-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="anr312262-cr-0005" contrib-type="author"><name><surname>Czarnetzki</surname><given-names>C.</given-names></name><role>Titular Professor</role><xref rid="anr312262-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="anr312262-cr-0006" contrib-type="author" corresp="yes"><name><surname>Maillard</surname><given-names>J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7496-1280</contrib-id><role>Attending Anaesthesiologist</role><xref rid="anr312262-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><address><email>julien.maillard@hcuge.ch</email></address></contrib></contrib-group><aff id="anr312262-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine</named-content>
+<institution>University Hospitals of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="anr312262-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine</named-content>
+<institution>University Hospitals of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="anr312262-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine</named-content>
+<institution>University Hospitals of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="anr312262-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesiology and Perioperative Medicine</named-content>
+<institution>Mayo Clinic College of Medicine and Science</institution>
+<city>Jacksonville</city>
+<named-content content-type="country-part">Florida</named-content>
+<country country="US">United States</country>
+</aff><aff id="anr312262-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine</named-content>
+<institution>University Hospitals of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><aff id="anr312262-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine</named-content>
+<institution>University Hospitals of Geneva</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: J. Maillard<break/>
+Email: <email>julien.maillard@hcuge.ch</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>11</month><year>2023</year></pub-date><pub-date pub-type="collection"><season>Jul-Dec</season><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>27</day><month>11</month><year>2023</year></pub-date><volume>11</volume><issue seq="260">2</issue><issue-id pub-id-type="doi">10.1002/anr3.v11.2</issue-id><elocation-id>e12262</elocation-id><history>
+<date date-type="accepted"><day>02</day><month>11</month><year>2023</year></date>
+</history><permissions><!--2023 &#x000a9; Association of Anaesthetists--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. <italic toggle="yes">Anaesthesia Reports</italic> published by John Wiley &#x00026; Sons Ltd on behalf of Association of Anaesthetists.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ANR3-11-e12262.pdf"/><kwd-group kwd-group-type="author-generated"><kwd id="anr312262-kwd-0001">neuromuscular nondepolarizing agents</kwd><kwd id="anr312262-kwd-0002">steroids</kwd><kwd id="anr312262-kwd-0003">sugammadex</kwd></kwd-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="2"/><word-count count="1030"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July&#x02010;December 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.5 mode:remove_FC converted:27.11.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="anr312262-ntgp-0001"><fn id="anr312262-note-0001"><p>1 Chief Resident, 2 Resident, 3 Associate Professor, 5 Titular Professor, 6 Attending Anaesthesiologist, Department of Anaesthesiology, Pharmacology, Intensive Care and Emergency Medicine, University Hospitals of Geneva, Geneva, Switzerland</p><p>4 Emeritus Professor, Department of Anaesthesiology and Perioperative Medicine, Mayo Clinic College of Medicine and Science, Jacksonville, Florida, United States</p></fn></fn-group></notes></front><body id="anr312262-body-0001"><p>Sugammadex is a selective neuromuscular blocking agent (NMBA) binding drug which reverses neuromuscular block induced by aminosteroid non&#x02010;depolarising NMBAs. It contains a gamma&#x02010;cyclodextrin structure with a hydrophilic internal cavity into which aminosteroid NMBAs are bound with high affinity, thereby inactivating them (Fig.&#x000a0;<xref rid="anr312262-fig-0001" ref-type="fig">1</xref>) [<xref rid="anr312262-bib-0001" ref-type="bibr">1</xref>]. However, sugammadex can also bind to other molecules [<xref rid="anr312262-bib-0002" ref-type="bibr">2</xref>]. Here, we report a failure of sugammadex antagonism of neuromuscular block with rocuronium in a patient who was taking exogenous steroid hormones.</p><fig position="float" fig-type="Figure" id="anr312262-fig-0001"><label>Figure 1</label><caption><p>Comparison of chemical structures of (a) rocuronium, (b) testosterone and (c) trestolone acetate.</p></caption><graphic xlink:href="ANR3-11-e12262-g001" position="anchor" id="jats-graphic-1"/></fig><p>A 60&#x02010;year&#x02010;old man, scheduled for a robot&#x02010;assisted nephrectomy, disclosed an ongoing use of steroids related to his bodybuilding practice. Self&#x02010;medication included testosterone (750&#x02013;1000&#x02009;mg per week intramuscularly) and trestolone acetate (300&#x02009;mg per week intramuscularly). Trestolone acetate is a selective androgen receptor modulator and a nandrolone derivative, 10 times more potent than testosterone (Fig.&#x000a0;<xref rid="anr312262-fig-0001" ref-type="fig">1</xref>). Preoperative testing revealed a free testosterone blood level of 5540&#x02009;pmol.l<sup>&#x02212;1</sup> (reference value, 170&#x02013;660&#x02009;pmol.l<sup>&#x02212;1</sup>) and total testosterone (sex hormone binding globulin, SHBG) of 134&#x02009;nmol.l<sup>&#x02212;1</sup> (reference value, 6.1&#x02013;27.1&#x02009;nmol.l<sup>&#x02212;1</sup>). The patient weighed 102&#x02009;kg and was 180&#x02009;cm tall, with normal renal function.</p><p>Routine general anaesthesia was provided for the robotic surgery, with a total rocuronium dose of 139&#x02009;mg intravenously (60&#x02009;mg at induction followed by infusion of 0.2&#x02009;mg.kg<sup>&#x02212;1</sup>.h<sup>&#x02212;1</sup>). The baseline train&#x02010;of&#x02010;four ratio (TOFr) measured with acceleromyography (Philips IntelliVue NMT, Philips, Amsterdam, The Netherlands) before rocuronium administration was 100%. At the end of surgery, TOFr was 33%, requiring administration of 2&#x02009;mg.kg<sup>&#x02212;1</sup> sugammadex. Ten minutes after administration of sugammadex 200&#x02009;mg intravenously the TOFr had increased to 48%. After five more minutes, TOFr reached 52%. Due to this unusually slow reversal, an interaction between sugammadex and steroid hormones was suspected, and we supplemented the neuromuscular block antagonism with intravenous neostigmine 2.5&#x02009;mg and glycopyrrolate 0.5&#x02009;mg. Within 45&#x02009;seconds of neostigmine administration, TOFr recovered to 100%.</p><p>This case describes what might be a faster&#x02010;than&#x02010;expected antagonistic effect of neostigmine; however, the onset of action of neostigmine administered at a recovery TOFr of 21% can be as quick as 40&#x02009;sec [<xref rid="anr312262-bib-0003" ref-type="bibr">3</xref>]. This was consistent with our observations, particularly since neostigmine was given after sugammadex&#x02010;induced recovery had already started. Our case suggests the potential for pharmacological interactions that may reduce the efficacy of sugammadex in antagonising aminosteroid NMBAs. Anabolic steroids, such as testosterone or trestolone acetate, used to increase muscle mass, are increasingly popular. It is possible that these drugs or their metabolites, which share some of the structural properties of aminosteroid NMBAs, may bind to sugammadex thereby reducing its effectiveness.</p><p>Sugammadex is known to interact with endogenous steroid hormones: it reduces progesterone levels, prompting the advice for patients who take the oral contraceptive pill to use additional non&#x02010;hormonal contraception after administration [<xref rid="anr312262-bib-0004" ref-type="bibr">4</xref>], and one study reported a transient increase in endogenous testosterone after sugammadex administration [<xref rid="anr312262-bib-0005" ref-type="bibr">5</xref>]. However, there are no studies investigating this interaction between anabolic steroids and sugammadex, therefore our observations remain speculative. Other reasons for delayed reversal with sugammadex should be considered, as should neuromuscular monitor malfunction or erroneous readings. The potential effects of trestolone acetate, and in particular, its potential effects on the efficacy of sugammadex, should be studied further.</p></body><back><ack id="anr312262-sec-0002"><title>Acknowledgements</title><p>This case was published with the written consent of the patient. No external funding was received, and no competing interests declared. We would like to thank Santiago Lascano, PhD, for help with the illustrations.</p></ack><ref-list id="anr312262-bibl-0001" content-type="cited-references"><title>References</title><ref id="anr312262-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="anr312262-cit-0001">
+<string-name>
+<surname>Irani</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Voss</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Whittle</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sleigh</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Encapsulation dynamics of neuromuscular blocking drugs by sugammadex</article-title>. <source>Anesthesiology</source>
+<year>2023</year>; <volume>138</volume>: <fpage>152</fpage>&#x02013;<lpage>163</lpage>.<pub-id pub-id-type="pmid">36512718</pub-id>
+</mixed-citation></ref><ref id="anr312262-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="anr312262-cit-0002">
+<string-name>
+<surname>Zwiers</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van den Heuvel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Smeets</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rutherford</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Assessment of the potential for displacement interactions with sugammadex: a pharmacokinetic&#x02010;pharmacodynamic modelling approach</article-title>. <source>Clinical Drug Investigation</source>
+<year>2011</year>; <volume>31</volume>: <fpage>101</fpage>&#x02013;<lpage>111</lpage>.<pub-id pub-id-type="pmid">21067251</pub-id>
+</mixed-citation></ref><ref id="anr312262-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="anr312262-cit-0003">
+<string-name>
+<surname>Lavery</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Mirakhur</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>FM</given-names>
+</string-name>. <article-title>A comparison of edrophonium and neostigmine for the antagonism of atracurium&#x02010;induced neuromuscular block</article-title>. <source>Anesthesia and Analgesia</source>
+<year>1985</year>; <volume>64</volume>: <fpage>867</fpage>&#x02013;<lpage>870</lpage>.<pub-id pub-id-type="pmid">3161421</pub-id>
+</mixed-citation></ref><ref id="anr312262-bib-0004"><label>4</label><mixed-citation publication-type="miscellaneous" id="anr312262-cit-0004">
+<collab collab-type="authors">National Institute for Health and Care Excellence</collab>
+. <article-title>Sugammadex|Interactions|BNF|NICE, 2023</article-title>. <ext-link xlink:href="https://bnf.nice.org.uk/interactions/sugammadex/" ext-link-type="uri">https://bnf.nice.org.uk/interactions/sugammadex/</ext-link> (accessed 22/10/2023).</mixed-citation></ref><ref id="anr312262-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="anr312262-cit-0005">
+<string-name>
+<surname>Gunduz Gul</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Ozer</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Demirel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Aksu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Erhan</surname>
+<given-names>OL</given-names>
+</string-name>. <article-title>The effect of sugammadex on steroid hormones: a randomized clinical study</article-title>. <source>Journal of Clinical Anesthesia</source>
+<year>2016</year>; <volume>34</volume>: <fpage>62</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">27687347</pub-id>
+</mixed-citation></ref></ref-list></back></article>

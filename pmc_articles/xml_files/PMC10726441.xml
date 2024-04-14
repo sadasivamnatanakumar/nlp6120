@@ -1,0 +1,575 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Med Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">ACS Med Chem Lett</journal-id><journal-id journal-id-type="publisher-id">ml</journal-id><journal-id journal-id-type="coden">amclct</journal-id><journal-title-group><journal-title>ACS Medicinal Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-5875</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">PMC10726441</article-id><article-id pub-id-type="doi">10.1021/acsmedchemlett.3c00326</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Discovery
+of Tumor-Targeted 6-Methyl Substituted
+Pemetrexed and Related Antifolates with Selective Loss of RFC Transport</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-3073-8060</contrib-id><name><surname>Kaku</surname><given-names>Krishna</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ravindra</surname><given-names>Manasa P.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Tong</surname><given-names>Nian</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Choudhary</surname><given-names>Shruti</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Li</surname><given-names>Xinxin</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Yu</surname><given-names>Jianming</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Karim</surname><given-names>Mohammad</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Brzezinski</surname><given-names>Madelyn</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>O&#x02019;Connor</surname><given-names>Carrie</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath10"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5631-5202</contrib-id><name><surname>Hou</surname><given-names>Zhanjun</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath11"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6860-8133</contrib-id><name><surname>Matherly</surname><given-names>Larry H.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000a7;</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref><xref rid="notes2" ref-type="notes">&#x022a5;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5513-7616</contrib-id><name><surname>Gangjee</surname><given-names>Aleem</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x022a5;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Division
+of Medicinal Chemistry, Graduate School of Pharmaceutical Sciences, <institution>Duquesne University</institution>, 600 Forbes Avenue, Pittsburgh, Pennsylvania 15282, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Molecular
+Therapeutics Program, <institution>Barbara Ann Karmanos
+Cancer Institute</institution>, 4100 John R, Detroit, Michigan 48201, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label>Department
+of Oncology, <institution>Wayne State University School
+of Medicine</institution>, Detroit, Michigan 48201, <country>United States</country></aff><aff id="aff4"><label>&#x02225;</label>Department
+of Pharmacology, <institution>Wayne State University
+School of Medicine</institution>, Detroit, Michigan 48201, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>matherly@karmanos.org</email>. Phone: <phone>313-578-4280</phone>.</corresp><corresp id="cor2"><label>*</label><email>gangjee@duq.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>11</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>15</day><month>11</month><year>2023</year></pub-date><volume>14</volume><issue>12</issue><fpage>1682</fpage><lpage>1691</lpage><history><date date-type="received"><day>26</day><month>07</month><year>2023</year></date><date date-type="accepted"><day>10</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>09</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0010" id="ab-tgr1"/></p><p>Pemetrexed and related 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates are substrates for the ubiquitously
+expressed
+reduced folate carrier (RFC), and the proton-coupled folate transporter
+(PCFT) and folate receptors (FRs) which are more tumor-selective.
+A long-standing goal has been to discover tumor-targeted therapeutics
+that draw from one-carbon metabolic vulnerabilities of cancer cells
+and are selective for transport by FRs and PCFT over RFC. We discovered
+that a methyl group at the 6-position of the pyrrole ring in the bicyclic
+scaffold of 5-substituted 2-amino-4-oxo-pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates <bold>1</bold>&#x02013;<bold>4</bold> (including
+pemetrexed) abolished transport by RFC with modest impacts on FRs
+or PCFT. From molecular modeling, loss of RFC transport involves steric
+repulsion in the scaffold binding site due to the 6-methyl moiety.
+6-Methyl substitution preserved antiproliferative activities toward
+human tumor cells (KB, IGROV3) with selectivity over IOSE 7576 normal
+ovary cells and inhibition of <italic>de novo</italic> purine biosynthesis.
+Thus, adding a 6-methyl moiety to 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates affords tumor transport selectivity
+while preserving antitumor efficacy.</p></abstract><kwd-group><kwd>Antifolate</kwd><kwd>Folate receptor</kwd><kwd>Pemetrexed</kwd><kwd>Proton-coupled folate transporter</kwd><kwd>Reduced folate carrier</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Division of Cancer Prevention, National Cancer Institute</institution><institution-id institution-id-type="doi">10.13039/100007316</institution-id></institution-wrap></funding-source><award-id>R01 CA250469</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Eunice and Milton Ring Endowed Chair for Cancer Research</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Duquesne University</institution><institution-id institution-id-type="doi">10.13039/100009854</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Division of Cancer Prevention, National Cancer Institute</institution><institution-id institution-id-type="doi">10.13039/100007316</institution-id></institution-wrap></funding-source><award-id>R01 CA53535</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ml3c00326</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ml3c00326</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>One-carbon (C1) metabolism offers
+an important therapeutic target for many cancers, reflecting its role
+in the biosynthesis of purines, thymidylate, serine, and methionine,
+and in supporting biological methylation reactions from S-adenosylmethione.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> Chemotherapy with antifolates has been a cornerstone
+of cancer therapy for over 60 years.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Clinically
+used antifolates include methotrexate (MTX), pemetrexed (PMX), pralatrexate
+(PTX), and raltitrexed (RTX) (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). While antifolates serve important roles in the therapeutic
+armamentarium for cancer, they manifest clinical challenges, most
+notably dose-limiting toxicities and emergence of drug resistance.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Clinically used antifolates.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0001" id="gr1" position="float"/></fig><p>Membrane transport of antifolates is integral to
+their therapeutic
+efficacy in treating a variety of malignancies and nonmalignant conditions.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> Pharmacologically important folate transporters include the reduced
+folate carrier (RFC) (SLC19A1), the proton-coupled folate transporter
+(PCFT) (SLC46A1), and the high-affinity folate receptor (FR) &#x003b1;
+and FR&#x003b2;.<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> These systems mediate cellular accumulations of folate cofactors
+and classic antifolates; however, they have different substrate specificities
+and mechanisms.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref7">7</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> Both RFC and PCFT are facilitative transporters;
+RFC is a folate-organic anion antiporter,<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> and PCFT is a folate-proton symporter.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> FRs are glycosyl phosphatidylinositol-modified proteins that mediate
+cellular uptake of (anti)folates by receptor-mediated endocytosis.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref10">10</xref></sup></p><p>RFC is ubiquitously expressed and is the major tissue transporter
+of folates.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Dose-limiting toxicities of
+classic antifolates are partially due to their membrane transport
+by RFC in both normal tissues and tumors.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> In addition, loss of transport in tumors due to decreased expression
+or mutation of RFC results in insufficient levels of intracellular
+antifolates to inhibit metabolic targets and sustain polyglutamate
+synthesis.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup></p><p>PCFT is the major mechanism for intestinal
+folate uptake.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Although PCFT is expressed
+in a select number
+of other tissues including the choroid plexus, kidney, liver, and
+spleen,<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> PCFT is not a major tissue transporter of
+folates. Further, transport by PCFT is optimal at acidic pHs not commonly
+associated with most tissues,<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> and the modest level
+of PCFT transport that occurs at neutral pH is suppressed by bicarbonate.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Notably, PCFT is expressed in solid tumors including
+malignant pleural mesothelioma,<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> pancreatic
+adenocarcinoma,<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> nonsmall cell lung cancer,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and epithelial ovarian cancer<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> and is highly active in the acidic tumor microenvironment.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>FR&#x003b1; is expressed in normal epithelial tissues such as
+kidney,
+lung, choroid plexus, and placenta and in several tumors including
+ovarian cancer, nonsmall cell lung cancer, triple negative breast
+cancer, and kidney, endometrial, and colorectal cancers.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref9">9</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> However, only FR&#x003b1; in tumors
+exhibits the basolateral exposure required for access to the circulation.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> FR&#x003b2; is expressed in placenta, mature neutrophils,
+and activated monocytes and macrophages, along with acute myeloid
+leukemia (AML) blasts.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup></p><p>PMX (<bold>1</bold>) is
+a 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine benzoyl
+antifolate with a 2-carbon bridge (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). PMX primarily inhibits thymidylate
+synthase (TS) with secondary inhibition at glycinamide ribonucleotide
+formyltransferase (GARFTase) and 5-aminoimidazole-4-carboxamide (AICA)
+ribonucleotide formyl transferase (AICARFTase) in <italic>de novo</italic> purine biosynthesis.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> The 5-substituted
+pyrrolo[2,3-<italic>d</italic>]pyrimidine benozyl compound <bold>2</bold> (3-carbon bridge) and the analogous pyrrolo[2,3-<italic>d</italic>]pyrimidine thienoyl compound <bold>3</bold> (2-carbon bridge) (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>) were reported to
+inhibit GARFTase and AICARFTase.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> While these
+compounds would presumably circumvent resistance due to alterations
+in TS, the 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine
+compounds including PMX all exhibit promiscuous transport in that
+they are substrates for RFC as well as for PCFT and FRs.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>6-Unsubstituted
+lead compounds (Series I) and the corresponding
+6-methyl analogues (Series II).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0002" id="gr2" position="float"/></fig><p>Our long-standing goal has been to discover potent
+folate-based,
+tumor-targeted agents that draw from unique C1 metabolic vulnerabilities
+of cancer cells and are selective for membrane transport by FRs and
+PCFT over RFC.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref25">25</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup> We envisage that cytotoxic C1 inhibitors that are selectively transported
+by PCFT or FRs with limited transport by RFC would be far less toxic
+to normal tissues and would also circumvent resistance due to loss
+of RFC.</p><p>We reasoned that if a simple structural modification
+could be introduced
+into targeted antifolates to abolish RFC transport, while preserving
+uptake by FRs and/or PCFT along with intracellular target engagement,
+a more effective agent would be realized. One such structural modification
+involves adding a 6-methyl group to the 5-subsituted pyrrolo[2,3-<italic>d</italic>]pyrimidine scaffold. We hypothesized that a strategically
+placed methyl moiety could sterically hinder drug attachment and net
+transport by RFC. As long as the net impact was greater toward RFC
+than on either PCFT or FRs, this would result in a more tumor-selective
+analogue than the corresponding nonmethylated compound. In addition
+to a potential impact on substrate binding to RFC, 6-methyl substitution
+also effects conformational restriction on the flexibility of the
+5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds;
+this could further enhance selectivity for transport by PCFT and FRs
+over RFC as well as target engagement.</p><p>In this report, we extend
+our systematic structure&#x02013;activity
+relationship (SAR) studies of pyrrolo[2,3-<italic>d</italic>]pyrimidine
+antifolates related to PMX (<bold>1</bold>) by introducing a methyl
+group at the unsubstituted 6-position of the pyrrole ring in the bicyclic
+scaffolds of 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine
+antifolates <bold>1</bold>&#x02013;<bold>4</bold>, generating <bold>5</bold>&#x02013;<bold>8</bold>, respectively (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). Compound <bold>4</bold>, the fluorinated
+analogue of PMX (<bold>1</bold>) and compound <bold>5</bold>, the
+6-methyl analogue of PMX (<bold>1</bold>), were published previously;<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup> however, there is no report in the literature regarding their transport
+properties.</p><p>Given our goal to test the impact of 6-methyl substitutions
+on
+5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates <bold>1</bold>&#x02013;<bold>4</bold> on cellular uptake by the pharmacologically
+important folate transporters RFC, PCFT, and FRs, it was important
+to model the proposed 6-methyl-substituted analogues compared to the
+corresponding des-methyl compounds in the known structures for PCFT
+(PDB: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="7BC7">7BC7</ext-link>),<sup><xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref34">34</xref></sup> FR&#x003b1; (PDB: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="5IZQ">5IZQ</ext-link>),<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> FR&#x003b2; (PDB: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="4KN2">4KN2</ext-link>),<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> and RFC (PDB: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="PDB" xlink:href="8GOF">8GOF</ext-link>).<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> PMX (<bold>1</bold>) and its 6-methyl analogue (<bold>5</bold>) were selected as representative
+of the four pairs of des-methyl (<bold>1</bold>&#x02013;<bold>4</bold>) and 6-methyl compounds (<bold>5</bold>&#x02013;<bold>8</bold>) (<bold>Series I and II</bold>, respectively; <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>) for the computational study.</p><p>In <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, compounds <bold>1</bold> (green) and <bold>5</bold> (purple) and the residues within
+5 to 6 &#x000c5; of the C6 position are shown as space-filled models.
+The folate binding sites of PCFT (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a,b), FR&#x003b1; (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c,d), and FR&#x003b2; (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e,f) can all accommodate a 6-methyl group,
+without any steric hindrance. However, in the binding site for RFC
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>g,h), the
+6-methyl group of <bold>5</bold> (<bold>panel h</bold>) causes a serious
+steric clash with Tyr126, while breaking the edge-to-face &#x003c0;
+interaction of the pyrrole ring with Tyr126. Thus, the 6-methyl moiety
+of compound <bold>5</bold> seems likely to interfere with cellular
+uptake by RFC, although the 6-methyl group does not appear to compromise
+the binding and transport of <bold>5</bold> by PCFT or FRs &#x003b1;
+or &#x003b2;. Similar simulations with compounds <bold>6</bold>&#x02013;<bold>8</bold> provided identical conclusions (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00326/suppl_file/ml3c00326_si_001.pdf">Figure S1</ext-link> in the Supporting Information).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p><bold>Docked poses of
+1 (PMX, green) and 5 (6-methyl PMX analogue,
+purple) in binding pockets of (a, b) PCFT, (c, d) FR&#x003b1;, (e, f)
+FR&#x003b2;, and (g, h) RFC.</bold> The ligands in (g, h) are shown
+180&#x000b0; horizontally flipped compared to (a&#x02013;f) for a better
+view in the RFC binding pocket.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0003" id="gr3" position="float"/></fig><p>To assess the 6-methyl moiety&#x02019;s ability
+to restrict movement
+of the flexible 5-substituent compared to the 6-unsubstituted analogues,
+we performed a low-mode conformational search (LMCS) using MacroModel.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> Conformations within 5 kcal/mol of the lowest-energy
+conformer were generated. The conformation numbers obtained for each
+of the energy-minimized compounds (in parentheses) are as follows: <bold>1</bold> (268) vs <bold>5</bold> (243); <bold>2</bold> (605) vs <bold>6</bold> (535); <bold>3</bold> (359) vs <bold>7</bold> (281); and <bold>4</bold> (339) vs <bold>8</bold> (299). Thus, compared to the parent
+6-des-methyl pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds <bold>1</bold>&#x02013;<bold>4</bold>, the corresponding 6-methyl compounds <bold>5</bold>&#x02013;<bold>8</bold> exhibit substantially fewer conformations.</p><p>For the synthesis, nucleophilic aromatic substitution of the commercially
+available 2-amino-6-chloropyrimidin-4(3<italic>H</italic>)-one <bold>9</bold> (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>) with hydrazine hydrate afforded the intermediate hydrazine <bold>10</bold>.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup></p><fig id="sch1" position="float"><label>Scheme 1</label><caption><p id="s1fn1">Reagents and conditions:
+(a)
+Hydrazine hydrate, H<sub>2</sub>O, reflux, 3 h, 72%.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0005" id="gr5" position="float"/></fig><p>Palladium-catalyzed Heck coupling of commercially available
+starting
+materials <bold>11a</bold> and <bold>11c</bold> (<xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>) and alkenol <bold>12</bold> gave the coupled, unsaturated secondary alcohols that rearranged
+to the vinyl alcohols and tautomerized to afford the ketones <bold>17a</bold> and <bold>17c</bold>. A similar Heck coupling of <bold>11a</bold> with alkenone <bold>13</bold> provided an unsaturated
+ketone <bold>14</bold> which underwent catalytic hydrogenation to
+give <bold>17b</bold>. The ketone intermediate <bold>17d</bold> was
+synthesized using a modified Heck coupling reaction between <bold>11d</bold> and alkenol <bold>12</bold>, employing an electron-rich
+phosphine ligand.</p><fig id="sch2" position="float"><label>Scheme 2</label><caption><p id="s2fn1">Reagents and conditions:
+(a)
+Bu<sub>4</sub>NCl, Pd(OAc)<sub>2</sub>, LiCl, LiOAc, or KOAc, DMF,
+80 &#x000b0;C, 3&#x02013;16 h, 64&#x02013;97% (Z = I or Br); (b) 5% Pd/C,
+H<sub>2</sub>, 35 psi, rt, 24 h, 90&#x02013;95%; (c) 2-(di-<italic>tert</italic>-butylphosphino)-1-phenylindole, Pd(dba)<sub>2</sub>, TEA, 80 &#x000b0;C, 2 h, 52%; (d) DMP, CHCl<sub>3</sub>, 3 h, rt,
+67%.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0006" id="gr6" position="float"/></fig><p>A key step in the synthesis of the 5-substituted
+2-amino-4-oxo-6-methyl
+pyrrolo[2,3-<italic>d</italic>]pyrimidine classical antifolates involved
+thermal indolization of the hydrazones <bold>18a</bold>&#x02013;<bold>d</bold><sup><xref ref-type="bibr" rid="ref32">32</xref></sup> (<xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref>). Condensation of the ketones <bold>17a</bold>&#x02013;<bold>d</bold> with the hydrazine <bold>10</bold> under reflux
+in 2-methoxyethanol afforded the key pyrimidine hydrazone intermediates <bold>18a</bold>&#x02013;<bold>d</bold>.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> Fischer
+indole cyclization of hydrazones <bold>18a</bold>&#x02013;<bold>d</bold> was accomplished regioselectively to the 5-substituted, 2-amino-4-oxo-6-methyl
+pyrrolo[2,3-<italic>d</italic>]pyrimidines <bold>19a</bold>&#x02013;<bold>d</bold> by thermolysis in diphenyl ether. <sup>1</sup>H NMR showed
+no evidence of the presence of the other possible 6-substituted regioisomer
+(a key determinant is the presence of a C6-CH<sub>3</sub> chemical
+shift). The aromatic esters of <bold>19a</bold>&#x02013;<bold>d</bold> were subjected to base-catalyzed hydrolysis to afford pteroic acids <bold>20a</bold>&#x02013;<bold>d</bold>. Compounds <bold>20a</bold>&#x02013;<bold>d</bold> were subsequently coupled with <sc>l</sc>-glutamate diesters
+to afford <bold>21a</bold>&#x02013;<bold>d</bold>. Final saponification
+of diesters <bold>21a</bold>&#x02013;<bold>d</bold> with 1 N NaOH,
+followed by neutralization and acidification to pH 4 in the cold,
+provided target compounds <bold>5</bold>&#x02013;<bold>8</bold>.</p><fig id="sch3" position="float"><label>Scheme 3</label><caption><p id="s3fn1">Reagents and conditions:
+(a)
+2-methoxyethanol, reflux, 14 h, 56&#x02013;89%; (b) Ph<sub>2</sub>O,
+240 &#x000b0;C, or reflux, 5&#x02013;8 h, 12&#x02013;77%; (c) 1 N NaOH,
+rt, 12 h, 63&#x02013;94%; (d) Dimethyl- or diethyl-<sc>l</sc>-glutamate,
+(i) NMM, CDMT, DMF, rt or 40 &#x000b0;C, 8&#x02013;12 h, 30&#x02013;78%
+or (ii) isobutyl chloroformate, TEA, DMF, 0 &#x000b0;C, to rt, 60 h,
+61% ; (e) (i) 1 N NaOH, rt, 1&#x02013;24 h; (ii) 0&#x02013;4 &#x000b0;C,
+1 N HCl, 19&#x02013;80%.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0007" id="gr7" position="float"/></fig><p>For desmethyl compound <bold>4</bold>, a different synthetic strategy
+was used. A Sonogashira coupling reaction between bromofluorobenzoate <bold>11d</bold> and unsaturated alkynol <bold>22</bold> afforded <bold>23</bold> (<xref rid="sch4" ref-type="scheme">Scheme <xref rid="sch4" ref-type="scheme">4</xref></xref>), followed by hydrogenation and oxidation to obtain aldehyde <bold>25</bold>. Bromination afforded <bold>26</bold>, which was immediately
+condensed with 2,6-diamino-4-oxo-pyrimidine at 45 &#x000b0;C to afford
+the 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine <bold>27</bold>. Ester hydrolysis of <bold>27</bold>, followed by the amide
+coupling of <bold>28</bold> with <sc>l</sc>-glutamate diethyl ester
+hydrochloride, afforded <bold>29</bold>. The diester <bold>29</bold> was hydrolyzed with 1 N NaOH, followed by acidification to pH 4
+at 0&#x02013;4 &#x000b0;C, to provide compound <bold>4</bold>.</p><fig id="sch4" position="float"><label>Scheme 4</label><caption><p id="s4fn1">Reagents and conditions:
+(a)
+CuI, PdCl<sub>2</sub>, PPh<sub>3</sub>, Et<sub>3</sub>N, CH<sub>3</sub>CN, microwave, 100 &#x000b0;C, 1 h, 63%; (b) 10% Pd/C, H<sub>2</sub>, 55 psi, MeOH, rt, 9 h, 95%; (c) Dess-Martin Periodinane, CH<sub>2</sub>Cl<sub>2</sub>, 0 &#x000b0;C; to rt, 3 h, 45%, (d) Br<sub>2</sub>, 1,4-dioxane, CH<sub>2</sub>Cl<sub>2</sub>, rt, 3 h; (e) 2,6-diaminopyrimidin-4(3<italic>H</italic>)-one, CH<sub>3</sub>COONa, MeOH, 45 &#x000b0;C; 12 h, 46%
+over two steps; (f) 1 N NaOH, rt, 3 h, 96%; (g) <italic>N</italic>-methylmorpholine, 2-chloro-4,6-dimethoxy-1,3,5-triazine, <sc>l</sc>-glutamate diethyl ester hydrochloride, DMF, rt, 12 h, 59%;(h) (i)
+1 N, NaOH, rt, 3 h; (ii) 0&#x02013;4 &#x000b0;C, 1 N HCl, 56%.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0008" id="gr8" position="float"/></fig><p>To assess the impact of 6-methyl substitutions on
+the bicyclic
+scaffolds of the pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates <bold>1</bold>&#x02013;<bold>4</bold> on RFC transport vis-&#x000e0;-vis
+PCFT, FR&#x003b1;, and FR&#x003b2;, we used a unique biological readout
+for transport activity. This involved proliferation assays with isogenic
+Chinese hamster ovary (CHO) sublines derived from RFC-, FR-, and PCFT-null
+MTXRIIOua<sup>R</sup>2&#x02013;4 CHO cells<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> engineered to express the human FR&#x003b1; (RT16),<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> FR&#x003b2; (D4),<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> RFC (PC43&#x02013;10),<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> or PCFT (R2/PCFT4).<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> As these CHO cell lines are genetically identical except for their
+folate transporters, differences in inhibition of cell proliferation
+by specific cytotoxic antifolates directly reflect transporter specificities.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>RFC-expressing PC43&#x02013;10
+cells were potently inhibited by
+the 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds <bold>1</bold>&#x02013;<bold>4</bold> with half-maximal inhibitory concentration
+(IC<sub>50</sub>) values that ranged from 31 to 169 nM (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). This extended to FR&#x003b1;-expressing
+RT16 (IC<sub>50</sub> values of 6.8&#x02013;550 nM), FR&#x003b2;-expressing
+D4 (IC<sub>50</sub> values of 3.5&#x02013;552 nM), and PCFT-expressing
+R2/PCFT4 (22&#x02013;329 nM) cells. We discovered that for the corresponding
+6-methyl substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine analogues <bold>5</bold>&#x02013;<bold>8</bold>, RFC-mediated cell inhibition was
+uniformly abolished (IC<sub>50</sub> &#x0003e; 1000 nM), with modest effects
+on FR&#x003b1; (RT16 IC<sub>50</sub>s from 2.5&#x02013;100 nM) and FR&#x003b2;
+(D4 IC<sub>50</sub>s from 2.6&#x02013;49 nM) (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). For PCFT-expressing R2/PCFT4 cells, 6-methyl
+pyrrole substitution completely preserved (<bold>7</bold>) or slightly
+increased (<bold>5</bold>, <bold>6</bold>) inhibition potencies (relative
+to compounds <bold>3</bold>, <bold>1</bold>, and <bold>2</bold>, respectively).
+However, the 6-methyl substitution in compound <bold>8</bold> abolished
+PCFT activity altogether. Transport specificities are further reflected
+in &#x0201c;Specificity Ratios&#x0201d;, defined as the ratios of IC<sub>50</sub> values for PC43&#x02013;10 (RFC) to those for R2/PCFT4 (PCFT),
+RT16 (FR&#x003b1;), or D4 (FR&#x003b2;) cells (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Thus, our rationale to provide steric
+hindrance with a 6-methyl moiety to impede attachment to the RFC was
+indeed realized.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title><bold>Cell Proliferation (IC</bold><sub><bold>50</bold></sub><bold>nM) Assays with 6-Methyl 5-substituted
+Pyrrolo[2,3-</bold><italic>d</italic><bold>]pyrimidine Analogues</bold><xref rid="tbl1-fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0009" id="gr9" position="float"/><table-wrap-foot><fn id="tbl1-fn1"><label>a</label><p>Growth inhibition assays were
+performed using CHO sublines derived from RFC-, PCFT-, and FR-null
+MTXRIIOuaR2-4 CHO cells (R2)<sup><xref ref-type="bibr" rid="ref39">39</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> engineered to express
+human RFC (PC43-10),<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> PCFT (R2/PCFT4),<sup><xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> FR&#x003b1; (RT16),<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> or FR&#x003b2; (D4).<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Human cell lines include KB nasopharengeal carcinoma
+cells, IGROV1 ovarian cancer cells,<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> and
+IOSE 7576 normal ovary cells.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> Experimental
+methods are described in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00326/suppl_file/ml3c00326_si_001.pdf">Supporting Information</ext-link> and were previously published.<sup><xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> Results are shown as mean values from three to five experiments
+(&#x000b1; standard errors) and are presented as the calculated IC<sub>50</sub> values representing the concentrations at which growth of
+50% of cells was inhibited relative to untreated cells. &#x0201c;Selectivity
+Ratios&#x0201d; are ratios of IC<sub>50</sub> values from the respective
+CHO sublines.</p></fn></table-wrap-foot></table-wrap><p><xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> also shows
+the inhibition of proliferation of KB human nasopharyngeal carcinoma
+cells and IGROV1 epithelial ovarian cancer cells, both of which express
+RFC, PCFT, and FR&#x003b1;.<sup><xref ref-type="bibr" rid="ref27">27</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> Results are compared
+to those with IOSE 7576 normal ovary cells<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> which express RFC comparable to IGROV1 cells accompanying low levels
+of PCFT (&#x0223c;30% of IGROV1) and undetectable FR&#x003b1;. For the
+tumor cells, except the des-methyl compound <bold>4</bold> with IGROV1
+cells, all compounds were inhibitory. The 6-methyl substituted compounds
+(<bold>5</bold>, <bold>6</bold>, and <bold>8</bold>) inhibited KB
+cell proliferation with nanomolar IC<sub>50</sub> values only slightly
+less than those for the nonmethylated 5-substituted (<bold>1</bold>, <bold>2</bold>, and <bold>4</bold>) pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds. For both KB and IGROV1 cells, compound <bold>7</bold> was the most potent inhibitor with 242-fold and 127-fold,
+respectively, greater potencies than the corresponding 6-desmethyl
+analogue <bold>3</bold>.</p><p>Des-methyl compounds <bold>2</bold> and <bold>3</bold> were more
+potent toward IOSE 7576 cells than IGROV1 cells (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). Whereas compound <bold>1</bold> (PMX) was more active toward IGROV1 cells, <bold>4</bold> was inactive
+toward both IGROV1 and IOSE 7576 cells. Notably, the 6-methyl-substituted
+compounds <bold>5</bold>, <bold>7</bold>, and <bold>8</bold> were
+far more potent than the corresponding des-methyl compounds (<bold>1</bold>, <bold>3</bold>, and <bold>4</bold>) toward IGROV1 cells.
+Conversely, compounds <bold>5</bold>, <bold>7</bold>, and <bold>8</bold> were inert toward IOSE 7576 cells up to 1000 nM. Compound <bold>6</bold> was modestly inhibitory toward both IGROV1 and IOSE 7576
+cells. Thus, 6-methyl substitution increases potency toward IGROV1
+ovarian cancer cells over IOSE 7576 normal ovary cells.</p><p>To identify
+the targeted pathways/enzymes of these pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds (<bold>1</bold>, <bold>2</bold>, <bold>4</bold>&#x02013;<bold>8</bold>), <italic>in vitro</italic> growth
+inhibition assays were performed with KB tumor cells in glycine-,
+adenosine-, and thymidine-free media without additions or in the presence
+of thymidine (10 &#x003bc;M), adenosine (60 &#x003bc;M), or glycine (130
+&#x003bc;M) (both singly and in various combinations; <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>).<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> For <italic>de novo</italic> purine biosynthesis
+inhibitors, protection was also tested with AICA (320 &#x003bc;M), which
+is metabolized to AICA ribonucleotide (substrate for the AICARFTase
+reaction, thus circumventing GARFTase).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p><bold>Metabolite protection
+experiments.</bold> To demonstrate
+the intracellular target(s) for the pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates (<bold>1</bold>, <bold>2</bold>, <bold>4</bold>&#x02013;<bold>8</bold>), proliferation of KB cells was assayed in
+the presence of the inhibitors with nucleosides (adenosine, thymidine),
+glycine, and 5-aminoimidazole-4-carboxamide (AICA). Cell densities
+were measured with a fluorescence assay<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> and a fluorescence plate reader. Results were normalized to cell
+densities in the absence of drug. Results shown are mean values plus/minus
+standard errors from triplicate experiments. Experimental details
+are described in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00326/suppl_file/ml3c00326_si_001.pdf">Supporting Information</ext-link>, and the methods have been previously published.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_0004" id="gr4" position="float"/></fig><p>The 5-subsituted pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds
+showed patterns of metabolite protection consistent with the inhibition
+of multiple C1 pathways. Interestingly, compounds <bold>2</bold> and <bold>4</bold> like PMX (<bold>1</bold>) consistently inhibited both thymidylate
+and purine nucleotide biosynthesis (protected by adenosine and thymidine),
+the latter most likely at AICARFTase as well as at GARFTase (protection
+by AICA).<sup><xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup> For compound <bold>2</bold>, addition of glycine provided greater
+protection than did adenosine and thymidine alone. This suggests an
+inhibition of mitochondrial C1 metabolism in addition to nucleotide
+biosynthesis in the cytosol.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup> Conversely,
+the 6-methyl-substituted compounds <bold>5</bold>&#x02013;<bold>8</bold> were exclusive inhibitors of <italic>de novo</italic> purine biosynthesis
+(protected by adenosine alone), most likely at GARFTase (protected
+by AICA).<sup><xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>In summary, a methyl group plays a vital role in the molecular
+recognition of endogenous and exogenous ligands by receptors.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> Further, the steric and electronic effects of
+a methyl group can influence selective ligand binding and increased
+potency, among various other pharmacologic effects.<sup><xref ref-type="bibr" rid="ref48">48</xref>&#x02212;<xref ref-type="bibr" rid="ref50">50</xref></sup></p><p>In the
+current study, we synthesized 6-methyl 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds (<bold>5</bold>, <bold>6</bold>, <bold>7</bold>, and <bold>8</bold>) as tumor-targeted antifolates based
+on the structures of the nonmethylated 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine compounds <bold>1</bold>, <bold>2</bold>, <bold>3</bold>, and <bold>4</bold>.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> Our goal was to explore the impact of 6-methyl substitutions on
+drug uptake and cell inhibition mediated by RFC vis &#x000e1; vis more
+tumor-selective PCFT, FR&#x003b1;, and FR&#x003b2;.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> A compelling rationale
+for our study was provided from molecular modeling of our pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates in the RFC structure<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> which indicated a steric clash of the 6-methyl
+moiety of compounds <bold>5</bold>&#x02013;<bold>8</bold> with Tyr126
+in the RFC binding site; no analogous feature was seen for PCFT or
+for FRs &#x003b1; or &#x003b2;. As a biological readout of transport,
+we used our isogenic panel of CHO sublines.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>Consistent with our prior studies,<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> we confirmed
+that 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates <bold>1</bold>&#x02013;<bold>4</bold> without 6-methyl substitutions exhibited
+promiscuous transport by RFC as well as by PCFT and FRs &#x003b1; and
+&#x003b2;. In KB cells, the loss of cell proliferation reflected inhibition
+of thymidylate biosynthesis and purine nucleotide biosynthesis at
+both GARFTase and AICARFTase. For compound <bold>2</bold>, inhibition
+of mitochondrial C1 metabolism was also suggested. We discovered that
+6-methyl-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates <bold>5</bold>&#x02013;<bold>8</bold> are distinctly selective for transport
+by PCFT and FRs over RFC and exclusively target <italic>de novo</italic> purine biosynthesis at GARFTase.<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref31">31</xref></sup> Selectivity ratios for the 6-methyl compounds with PCFT ranged from
+&#x0003e;15.5 (<bold>6</bold>) to &#x0003e;130 (<bold>5</bold>), whereas for
+FR&#x003b1;
+selectivity ranged from &#x0003e;10 (<bold>8</bold>) to &#x0003e;395 (<bold>7</bold>). For FR&#x003b2;, selectivity ratios ranged from &#x0003e;20 (<bold>8</bold>) to &#x0003e;383 (<bold>6</bold>). Inhibition of cell proliferation
+by the
+6-methyl-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates <bold>5</bold>&#x02013;<bold>8</bold> was extended to IGROV1 cells with
+comparison to IOSE 7576 cells, demonstrating that the 6-methyl substitution
+promotes tumor selectivity.</p><p>In conclusion, we established that
+6-methyl substitutions on the
+pyrrole ring of 5-substituted pyrrolo[2,3-<italic>d</italic>]pyrimidine
+analogues preserved or increased inhibitor potencies and tumor selectivity,
+while positively impacting drug uptake by FRs and PCFT over RFC. Improved
+target selectivity, potency, and modified mechanisms-of-action (including
+multienzyme inhibition) provide compelling evidence of the profound
+impact of minor structural alterations in antitumor drug polypharmacology
+for tumor-targeted pyrrolo[2,3-<italic>d</italic>]pyrimidine antifolates.
+Clearly, the 6-methyl group provides an elegantly simple structural
+solution that would afford significant advantages over current clinically
+used antifolates.</p></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsmedchemlett.3c00326?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsmedchemlett.3c00326</ext-link>.<list id="silist" list-type="simple"><list-item><p>Additional molecular modeling figures, synthetic experimental
+details, and biological assay methods (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00326/suppl_file/ml3c00326_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00326_si_001.pdf"><caption><p>ml3c00326_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes2"><title>Author Contributions</title><p><sup>&#x022a5;</sup> These authors contributed equally to this
+work.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1378-autogenerated"><p>The authors
+declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by grants R01 CA250469 (L.H.
+Matherly, A. Gangjee) and R01 CA53535 (L.H. Matherly, Z. Hou) from
+the National Cancer Institute, the Eunice and Milton Ring Endowed
+Chair for Cancer Research (L.H. Matherly), and the Duquesne University
+Adrian Van Kaam Chair in Scholarly Excellence (Aleem Gangjee).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Ducker</surname><given-names>G. S.</given-names></name>; <name><surname>Rabinowitz</surname><given-names>J. D.</given-names></name>
+<article-title>One-Carbon Metabolism in Health and Disease</article-title>. <source>Cell Metab</source>
+<year>2017</year>, <volume>25</volume>, <fpage>27</fpage>&#x02013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1016/j.cmet.2016.08.009</pub-id>.<pub-id pub-id-type="pmid">27641100</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Visentin</surname><given-names>M.</given-names></name>; <name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>The antifolates</article-title>. <source>Hematol Oncol Clin North Am.</source>
+<year>2012</year>, <volume>26</volume>, <fpage>629</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1016/j.hoc.2012.02.002</pub-id>.<pub-id pub-id-type="pmid">22520983</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Wilson</surname><given-names>M. R.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>
+<article-title>The major
+facilitative folate transporters
+solute carrier 19A1 and solute carrier 46A1: biology and role in antifolate
+chemotherapy of cancer</article-title>. <source>Drug Metab. Dispos.</source>
+<year>2014</year>, <volume>42</volume>, <fpage>632</fpage>&#x02013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1124/dmd.113.055723</pub-id>.<pub-id pub-id-type="pmid">24396145</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Elnakat</surname><given-names>H.</given-names></name>; <name><surname>Ratnam</surname><given-names>M.</given-names></name>
+<article-title>Distribution, functionality
+and gene regulation of
+folate receptor isoforms: implications in targeted therapy</article-title>. <source>Advanced drug delivery reviews</source>
+<year>2004</year>, <volume>56</volume>, <fpage>1067</fpage>&#x02013;<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1016/j.addr.2004.01.001</pub-id>.<pub-id pub-id-type="pmid">15094207</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Deng</surname><given-names>Y.</given-names></name>
+<article-title>Human reduced
+folate carrier: translation of basic
+biology to cancer etiology and therapy</article-title>. <source>Cancer
+metastasis reviews</source>
+<year>2007</year>, <volume>26</volume>, <fpage>111</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1007/s10555-007-9046-2</pub-id>.<pub-id pub-id-type="pmid">17334909</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>The promise and challenges
+of exploiting the proton-coupled
+folate transporter for selective therapeutic targeting of cancer</article-title>. <source>Cancer chemotherapy and pharmacology</source>
+<year>2018</year>, <volume>81</volume>, <fpage>1</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1007/s00280-017-3473-8</pub-id>.<pub-id pub-id-type="pmid">29127457</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>The molecular identity
+and characterization of a Proton-coupled
+Folate Transporter-PCFT; biological ramifications and impact on the
+activity of pemetrexed</article-title>. <source>Cancer metastasis reviews</source>
+<year>2007</year>, <volume>26</volume>, <fpage>129</fpage>&#x02013;<lpage>39</lpage>. <pub-id pub-id-type="doi">10.1007/s10555-007-9047-1</pub-id>.<pub-id pub-id-type="pmid">17340171</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="book" id="cit8"><person-group person-group-type="allauthors"><name><surname>Kamen</surname><given-names>B. A.</given-names></name></person-group><article-title>Folate Receptors
+and Therapeutic Applications</article-title>. In <source>Targeted
+Drug Strategies for Cancer and Inflammation</source><italic>;</italic><person-group person-group-type="editor"><name><surname>Jackman</surname><given-names>A. L.</given-names></name>, <name><surname>Leamon</surname><given-names>C. P.</given-names></name></person-group>, Eds.; <publisher-name>Springer US</publisher-name>: <publisher-loc>Boston, MA</publisher-loc>, <year>2011</year>; pp <fpage>35</fpage>&#x02013;<lpage>47</lpage>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Diop-Bove</surname><given-names>N.</given-names></name>; <name><surname>Visentin</surname><given-names>M.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Mechanisms of membrane
+transport of folates into cells and across epithelia</article-title>. <source>Annu. Rev. Nutr</source>
+<year>2011</year>, <volume>31</volume>, <fpage>177</fpage>&#x02013;<lpage>201</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-nutr-072610-145133</pub-id>.<pub-id pub-id-type="pmid">21568705</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kamen</surname><given-names>B. A.</given-names></name>; <name><surname>Wang</surname><given-names>M. T.</given-names></name>; <name><surname>Streckfuss</surname><given-names>A. J.</given-names></name>; <name><surname>Peryea</surname><given-names>X.</given-names></name>; <name><surname>Anderson</surname><given-names>R. G.</given-names></name>
+<article-title>Delivery
+of folates to the cytoplasm of MA104 cells is mediated by a surface
+membrane receptor that recycles</article-title>. <source>J. Biol. Chem.</source>
+<year>1988</year>, <volume>263</volume>, <fpage>13602</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/S0021-9258(18)68284-5</pub-id>.<pub-id pub-id-type="pmid">3417674</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Resistance to antifolates</article-title>. <source>Oncogene</source>
+<year>2003</year>, <volume>22</volume>, <fpage>7431</fpage>&#x02013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1038/sj.onc.1206946</pub-id>.<pub-id pub-id-type="pmid">14576850</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Qiu</surname><given-names>A.</given-names></name>; <name><surname>Jansen</surname><given-names>M.</given-names></name>; <name><surname>Sakaris</surname><given-names>A.</given-names></name>; <name><surname>Min</surname><given-names>S. H.</given-names></name>; <name><surname>Chattopadhyay</surname><given-names>S.</given-names></name>; <name><surname>Tsai</surname><given-names>E.</given-names></name>; <name><surname>Sandoval</surname><given-names>C.</given-names></name>; <name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Akabas</surname><given-names>M. H.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Identification of an intestinal folate transporter
+and the molecular basis for hereditary folate malabsorption</article-title>. <source>Cell</source>
+<year>2006</year>, <volume>127</volume>, <fpage>917</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="doi">10.1016/j.cell.2006.09.041</pub-id>.<pub-id pub-id-type="pmid">17129779</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Desmoulin</surname><given-names>S. K.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>The human proton-coupled folate transporter:
+Biology and therapeutic applications to cancer</article-title>. <source>Cancer Biol. Ther</source>
+<year>2012</year>, <volume>13</volume>, <fpage>1355</fpage>&#x02013;<lpage>1373</lpage>. <pub-id pub-id-type="doi">10.4161/cbt.22020</pub-id>.<pub-id pub-id-type="pmid">22954694</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Qiu</surname><given-names>A.</given-names></name>; <name><surname>Min</surname><given-names>S. H.</given-names></name>; <name><surname>Jansen</surname><given-names>M.</given-names></name>; <name><surname>Malhotra</surname><given-names>U.</given-names></name>; <name><surname>Tsai</surname><given-names>E.</given-names></name>; <name><surname>Cabelof</surname><given-names>D. C.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Akabas</surname><given-names>M. H.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Rodent intestinal folate transporters (SLC46A1): secondary
+structure, functional properties, and response to dietary folate restriction</article-title>. <source>Am. J. Physiol Cell Physiol</source>
+<year>2007</year>, <volume>293</volume>, <fpage>C1669</fpage>&#x02013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1152/ajpcell.00202.2007</pub-id>.<pub-id pub-id-type="pmid">17898134</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Membrane
+transporters and folate
+homeostasis: intestinal absorption and transport into systemic compartments
+and tissues</article-title>. <source>Expert reviews in molecular medicine</source>
+<year>2009</year>, <volume>11</volume>, <elocation-id>e4</elocation-id><pub-id pub-id-type="doi">10.1017/S1462399409000969</pub-id>.<pub-id pub-id-type="pmid">19173758</pub-id>
+</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Zhao</surname><given-names>R.</given-names></name>; <name><surname>Visentin</surname><given-names>M.</given-names></name>; <name><surname>Suadicani</surname><given-names>S. O.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Inhibition of the
+proton-coupled folate transporter (PCFT-SLC46A1) by bicarbonate and
+other anions</article-title>. <source>Mol. Pharmacol.</source>
+<year>2013</year>, <volume>84</volume>, <fpage>95</fpage>&#x02013;<lpage>103</lpage>. <pub-id pub-id-type="doi">10.1124/mol.113.085605</pub-id>.<pub-id pub-id-type="pmid">23609145</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Giovannetti</surname><given-names>E.</given-names></name>; <name><surname>Zucali</surname><given-names>P. A.</given-names></name>; <name><surname>Assaraf</surname><given-names>Y. G.</given-names></name>; <name><surname>Funel</surname><given-names>N.</given-names></name>; <name><surname>Gemelli</surname><given-names>M.</given-names></name>; <name><surname>Stark</surname><given-names>M.</given-names></name>; <name><surname>Thunnissen</surname><given-names>E.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Muller</surname><given-names>I. B.</given-names></name>; <name><surname>Struys</surname><given-names>E. A.</given-names></name>; <name><surname>Perrino</surname><given-names>M.</given-names></name>; <name><surname>Jansen</surname><given-names>G.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Peters</surname><given-names>G. J.</given-names></name>
+<article-title>Role of proton-coupled folate transporter
+in pemetrexed
+resistance of mesothelioma: clinical evidence and new pharmacological
+tools</article-title>. <source>Ann. Oncol</source>
+<year>2017</year>, <volume>28</volume>, <fpage>2725</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1093/annonc/mdx499</pub-id>.<pub-id pub-id-type="pmid">28945836</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Dekhne</surname><given-names>A. S.</given-names></name>; <name><surname>Ning</surname><given-names>C.</given-names></name>; <name><surname>Nayeen</surname><given-names>M. J.</given-names></name>; <name><surname>Shah</surname><given-names>K.</given-names></name>; <name><surname>Kalpage</surname><given-names>H.</given-names></name>; <name><surname>Fr&#x000fc;hauf</surname><given-names>J.</given-names></name>; <name><surname>Wallace-Povirk</surname><given-names>A.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>H&#x000fc;ttemann</surname><given-names>M.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Cellular
+Pharmacodynamics of a Novel Pyrrolo[3,2-<italic>d</italic>]pyrimidine
+Inhibitor Targeting Mitochondrial and Cytosolic One-Carbon Metabolism</article-title>. <source>Mol. Pharmacol.</source>
+<year>2020</year>, <volume>97</volume>, <fpage>9</fpage>&#x02013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1124/mol.119.117937</pub-id>.<pub-id pub-id-type="pmid">31707355</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Wilson</surname><given-names>M. R.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Huang</surname><given-names>J.</given-names></name>; <name><surname>Ratnam</surname><given-names>M.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Targeting
+Nonsquamous Nonsmall Cell Lung Cancer via the Proton-Coupled Folate
+Transporter with 6-Substituted Pyrrolo[2,3-d]Pyrimidine Thienoyl Antifolates</article-title>. <source>Mol. Pharmacol.</source>
+<year>2016</year>, <volume>89</volume>, <fpage>425</fpage>&#x02013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1124/mol.115.102798</pub-id>.<pub-id pub-id-type="pmid">26837243</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Gattoc</surname><given-names>L.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Wallace-Povirk</surname><given-names>A.</given-names></name>; <name><surname>George</surname><given-names>C.</given-names></name>; <name><surname>Orr</surname><given-names>S.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Morris</surname><given-names>R. T.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Dual Targeting
+of Epithelial Ovarian Cancer Via Folate Receptor alpha and the Proton-Coupled
+Folate Transporter with 6-Substituted Pyrrolo[2,3-d]pyrimidine Antifolates</article-title>. <source>Mol. Cancer Ther</source>
+<year>2017</year>, <volume>16</volume>, <fpage>819</fpage>&#x02013;<lpage>830</lpage>. <pub-id pub-id-type="doi">10.1158/1535-7163.MCT-16-0444</pub-id>.<pub-id pub-id-type="pmid">28138029</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Parker</surname><given-names>N.</given-names></name>; <name><surname>Turk</surname><given-names>M. J.</given-names></name>; <name><surname>Westrick</surname><given-names>E.</given-names></name>; <name><surname>Lewis</surname><given-names>J. D.</given-names></name>; <name><surname>Low</surname><given-names>P. S.</given-names></name>; <name><surname>Leamon</surname><given-names>C. P.</given-names></name>
+<article-title>Folate receptor expression in carcinomas
+and normal
+tissues determined by a quantitative radioligand binding assay</article-title>. <source>Analytical biochemistry</source>
+<year>2005</year>, <volume>338</volume>, <fpage>284</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1016/j.ab.2004.12.026</pub-id>.<pub-id pub-id-type="pmid">15745749</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Chattopadhyay</surname><given-names>S.</given-names></name>; <name><surname>Moran</surname><given-names>R. G.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>
+<article-title>Pemetrexed: biochemical
+and cellular
+pharmacology, mechanisms, and clinical applications</article-title>. <source>Mol. Cancer Ther</source>
+<year>2007</year>, <volume>6</volume>, <fpage>404</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1158/1535-7163.MCT-06-0343</pub-id>.<pub-id pub-id-type="pmid">17308042</pub-id>
+</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Mitchell-Ryan</surname><given-names>S.</given-names></name>; <name><surname>Raghavan</surname><given-names>S.</given-names></name>; <name><surname>George</surname><given-names>C.</given-names></name>; <name><surname>Orr</surname><given-names>S.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Novel 5-substituted
+pyrrolo[2,3-d]pyrimidines
+as dual inhibitors of glycinamide ribonucleotide formyltransferase
+and 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase
+and as potential antitumor agents</article-title>. <source>J. Med. Chem.</source>
+<year>2015</year>, <volume>58</volume>, <fpage>1479</fpage>&#x02013;<lpage>93</lpage>. <pub-id pub-id-type="doi">10.1021/jm501787c</pub-id>.<pub-id pub-id-type="pmid">25602637</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Mitchell-Ryan</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Raghavan</surname><given-names>S.</given-names></name>; <name><surname>Ravindra</surname><given-names>M. P.</given-names></name>; <name><surname>Hales</surname><given-names>E.</given-names></name>; <name><surname>Orr</surname><given-names>S.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Discovery
+of 5-substituted pyrrolo[2,3-d]pyrimidine antifolates as dual acting
+inhibitors of glycinamide ribonucleotide formyltransferase and 5-aminoimidazole-4-carboxamide
+ribonucleotide formyltransferase in de novo purine nucleotide biosynthesis:
+implications of inhibiting 5-aminoimidazole-4-carboxamide ribonucleotide
+formyltransferase to AMPK activation and anti-tumor activity</article-title>. <source>J. Med. Chem.</source>
+<year>2013</year>, <volume>56</volume>, <fpage>10016</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1021/jm401328u</pub-id>.<pub-id pub-id-type="pmid">24256410</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Deng</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Buck</surname><given-names>S. A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Synthesis and discovery of high affinity
+folate receptor-specific glycinamide ribonucleotide formyltransferase
+inhibitors with antitumor activity</article-title>. <source>J. Med.
+Chem.</source>
+<year>2008</year>, <volume>51</volume>, <fpage>5052</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1021/jm8003366</pub-id>.<pub-id pub-id-type="pmid">18680275</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Desmoulin</surname><given-names>S. K.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Stout</surname><given-names>M.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Fulterer</surname><given-names>A.</given-names></name>; <name><surname>Chang</surname><given-names>M. H.</given-names></name>; <name><surname>Romero</surname><given-names>M. F.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Targeting
+the proton-coupled folate
+transporter for selective delivery of 6-substituted pyrrolo[2,3-d]pyrimidine
+antifolate inhibitors of de novo purine biosynthesis in the chemotherapy
+of solid tumors</article-title>. <source>Mol. Pharmacol.</source>
+<year>2010</year>, <volume>78</volume>, <fpage>577</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1124/mol.110.065896</pub-id>.<pub-id pub-id-type="pmid">20601456</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Kugel
+Desmoulin</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Hales</surname><given-names>E.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Stout</surname><given-names>M.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Therapeutic targeting
+of a novel 6-substituted pyrrolo [2,3-d]pyrimidine thienoyl antifolate
+to human solid tumors based on selective uptake by the proton-coupled
+folate transporter</article-title>. <source>Mol. Pharmacol.</source>
+<year>2011</year>, <volume>80</volume>, <fpage>1096</fpage>&#x02013;<lpage>107</lpage>. <pub-id pub-id-type="doi">10.1124/mol.111.073833</pub-id>.<pub-id pub-id-type="pmid">21940787</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Ravindra</surname><given-names>M.</given-names></name>; <name><surname>Wilson</surname><given-names>M. R.</given-names></name>; <name><surname>Tong</surname><given-names>N.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Karim</surname><given-names>M.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>Wallace-Povirk</surname><given-names>A.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Fluorine-Substituted Pyrrolo[2,3- d]Pyrimidine Analogues
+with Tumor Targeting via Cellular Uptake by Folate Receptor alpha
+and the Proton-Coupled Folate Transporter and Inhibition of de Novo
+Purine Nucleotide Biosynthesis</article-title>. <source>J. Med. Chem.</source>
+<year>2018</year>, <volume>61</volume>, <fpage>4228</fpage>&#x02013;<lpage>4248</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jmedchem.8b00408</pub-id>.<pub-id pub-id-type="pmid">29701475</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Kugel Desmoulin</surname><given-names>S.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>Deng</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Synthesis
+and antitumor activity of a novel series
+of 6-substituted pyrrolo[2,3-d]pyrimidine thienoyl antifolate inhibitors
+of purine biosynthesis with selectivity for high affinity folate receptors
+and the proton-coupled folate transporter over the reduced folate
+carrier for cellular entry</article-title>. <source>J. Med. Chem.</source>
+<year>2010</year>, <volume>53</volume>, <fpage>1306</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1021/jm9015729</pub-id>.<pub-id pub-id-type="pmid">20085328</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Desmoulin</surname><given-names>S. K.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Fulterer</surname><given-names>A.</given-names></name>; <name><surname>Chang</surname><given-names>M.-H.</given-names></name>; <name><surname>Mitchell-Ryan</surname><given-names>S.</given-names></name>; <name><surname>Stout</surname><given-names>M.</given-names></name>; <name><surname>Romero</surname><given-names>M. F.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Synthesis, biological, and antitumor activity of a
+highly potent 6-substituted pyrrolo[2,3-d]pyrimidine thienoyl antifolate
+inhibitor with proton-coupled folate transporter and folate receptor
+selectivity over the reduced folate carrier that inhibits beta-glycinamide
+ribonucleotide formyltransferase</article-title>. <source>J. Med. Chem.</source>
+<year>2011</year>, <volume>54</volume>, <fpage>7150</fpage>&#x02013;<lpage>7164</lpage>. <pub-id pub-id-type="doi">10.1021/jm200739e</pub-id>.<pub-id pub-id-type="pmid">21879757</pub-id>
+</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Wallace</surname><given-names>A.</given-names></name>; <name><surname>Raghavan</surname><given-names>S.</given-names></name>; <name><surname>Deis</surname><given-names>S. M.</given-names></name>; <name><surname>Wilson</surname><given-names>M. R.</given-names></name>; <name><surname>Yang</surname><given-names>S.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Orr</surname><given-names>S.</given-names></name>; <name><surname>George</surname><given-names>C.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Mitchell-Ryan</surname><given-names>S.</given-names></name>; <name><surname>Dann</surname><given-names>C. E.</given-names><suffix>3rd</suffix></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>6-Substituted
+Pyrrolo[2,3-d]pyrimidine Thienoyl Regioisomers as Targeted Antifolates
+for Folate Receptor alpha and the Proton-Coupled Folate Transporter
+in Human Tumors</article-title>. <source>J. Med. Chem.</source>
+<year>2015</year>, <volume>58</volume>, <fpage>6938</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jmedchem.5b00801</pub-id>.<pub-id pub-id-type="pmid">26317331</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>C
+Taylor</surname><given-names>E.</given-names></name>; <name><surname>Hu</surname><given-names>B.</given-names></name>
+<article-title>A Fischer-indole approach to pyrrolo[2,3-<italic>d</italic>]pyrimidines</article-title>. <source>Heterocycles</source>
+<year>1996</year>, <volume>43</volume>, <fpage>323</fpage>&#x02013;<lpage>338</lpage>. <pub-id pub-id-type="doi">10.3987/COM-95-7260</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="patent" id="cit33"><person-group person-group-type="allauthors"><name><surname>Taylor</surname><given-names>E. C. K.</given-names></name>; <name><surname>D</surname><given-names>G.</given-names></name>; <name><surname>Shih</surname><given-names>C.</given-names></name>; <name><surname>Grindey</surname><given-names>G. B.</given-names></name></person-group><article-title>N-(pyrrolo[2,3-d]pyrimidin-3-ylacyl)-glutamic
+acid derivatives</article-title>. <patent>EP0432677A1</patent>, June 19, <year>1991</year>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Parker</surname><given-names>J. L.</given-names></name>; <name><surname>Deme</surname><given-names>J. C.</given-names></name>; <name><surname>Kuteyi</surname><given-names>G.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Huo</surname><given-names>J.</given-names></name>; <name><surname>Goldman</surname><given-names>I. D.</given-names></name>; <name><surname>Owens</surname><given-names>R. J.</given-names></name>; <name><surname>Biggin</surname><given-names>P. C.</given-names></name>; <name><surname>Lea</surname><given-names>S. M.</given-names></name>; <name><surname>Newstead</surname><given-names>S.</given-names></name>
+<article-title>Structural basis of antifolate recognition
+and transport
+by PCFT</article-title>. <source>Nature</source>
+<year>2021</year>, <volume>595</volume>, <fpage>130</fpage>&#x02013;<lpage>134</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-021-03579-z</pub-id>.<pub-id pub-id-type="pmid">34040256</pub-id>
+</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Golani</surname><given-names>L. K.</given-names></name>; <name><surname>Wallace-Povirk</surname><given-names>A.</given-names></name>; <name><surname>Deis</surname><given-names>S. M.</given-names></name>; <name><surname>Wong</surname><given-names>J.</given-names></name>; <name><surname>Ke</surname><given-names>J.</given-names></name>; <name><surname>Gu</surname><given-names>X.</given-names></name>; <name><surname>Raghavan</surname><given-names>S.</given-names></name>; <name><surname>Wilson</surname><given-names>M. R.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>de Waal</surname><given-names>P. W.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Xu</surname><given-names>H. E.</given-names></name>; <name><surname>Melcher</surname><given-names>K.</given-names></name>; <name><surname>Dann</surname><given-names>C. E.</given-names><suffix>3rd</suffix></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Tumor Targeting with Novel 6-Substituted
+Pyrrolo [2,3-d] Pyrimidine Antifolates with Heteroatom Bridge Substitutions
+via Cellular Uptake by Folate Receptor alpha and the Proton-Coupled
+Folate Transporter and Inhibition of de Novo Purine Nucleotide Biosynthesis</article-title>. <source>J. Med. Chem.</source>
+<year>2016</year>, <volume>59</volume>, <fpage>7856</fpage>&#x02013;<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jmedchem.6b00594</pub-id>.<pub-id pub-id-type="pmid">27458733</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Wibowo</surname><given-names>A. S.</given-names></name>; <name><surname>Singh</surname><given-names>M.</given-names></name>; <name><surname>Reeder</surname><given-names>K. M.</given-names></name>; <name><surname>Carter</surname><given-names>J. J.</given-names></name>; <name><surname>Kovach</surname><given-names>A. R.</given-names></name>; <name><surname>Meng</surname><given-names>W.</given-names></name>; <name><surname>Ratnam</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Dann</surname><given-names>C. E.</given-names><suffix>3rd</suffix></name>
+<article-title>Structures of human folate receptors
+reveal biological
+trafficking states and diversity in folate and antifolate recognition</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<year>2013</year>, <volume>110</volume>, <fpage>15180</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1308827110</pub-id>.<pub-id pub-id-type="pmid">23934049</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Sun</surname><given-names>P.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Ma</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zeng</surname><given-names>L.</given-names></name>; <name><surname>Nie</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Lou</surname><given-names>J.</given-names></name>; <name><surname>Gao</surname><given-names>A.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Gao</surname><given-names>P.</given-names></name>
+<article-title>Recognition of cyclic dinucleotides
+and folates by human SLC19A1</article-title>. <source>Nature</source>
+<year>2022</year>, <volume>612</volume>, <fpage>170</fpage>&#x02013;<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-022-05452-z</pub-id>.<pub-id pub-id-type="pmid">36265513</pub-id>
+</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="computer-program" id="cit38"><source>Schr&#x000f6;dinger</source><italic>,</italic> Release 2023&#x02013;1; <publisher-name>MacroModel,
+S., LLC</publisher-name>: <publisher-loc>New York, NY</publisher-loc>, <year>2021</year>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Flintoff</surname><given-names>W.
+F.</given-names></name>; <name><surname>Davidson</surname><given-names>S. V.</given-names></name>; <name><surname>Siminovitch</surname><given-names>L.</given-names></name>
+<article-title>Isolation and partial characterization
+of three methotrexate-resistant phenotypes from Chinese hamster ovary
+cells</article-title>. <source>Somatic Cell Genet.</source>
+<year>1976</year>, <volume>2</volume>, <fpage>245</fpage>&#x02013;<lpage>261</lpage>. <pub-id pub-id-type="doi">10.1007/BF01538963</pub-id>.<pub-id pub-id-type="pmid">1028172</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Flintoff</surname><given-names>W. F.</given-names></name>; <name><surname>Nagainis</surname><given-names>C. R.</given-names></name>
+<article-title>Transport of methotrexate
+in Chinese hamster ovary
+cells: a mutant defective in methotrexate uptake and cell binding</article-title>. <source>Arch. Biochem. Biophys.</source>
+<year>1983</year>, <volume>223</volume>, <fpage>433</fpage>&#x02013;<lpage>440</lpage>. <pub-id pub-id-type="doi">10.1016/0003-9861(83)90607-0</pub-id>.<pub-id pub-id-type="pmid">6859869</pub-id>
+</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Wong</surname><given-names>S. C.</given-names></name>; <name><surname>Proefke</surname><given-names>S. A.</given-names></name>; <name><surname>Bhushan</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Isolation
+of human
+cDNAs that restore methotrexate sensitivity and reduced folate carrier
+activity in methotrexate transport-defective Chinese hamster ovary
+cells</article-title>. <source>J. Biol. Chem.</source>
+<year>1995</year>, <volume>270</volume>, <fpage>17468</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.270.29.17468</pub-id>.<pub-id pub-id-type="pmid">7615551</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Deng</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Kugel Desmoulin</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Cherian</surname><given-names>C.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Synthesis
+and biological activity
+of a novel series of 6-substituted thieno[2,3-d]pyrimidine antifolate
+inhibitors of purine biosynthesis with selectivity for high affinity
+folate receptors over the reduced folate carrier and proton-coupled
+folate transporter for cellular entry</article-title>. <source>J. Med.
+Chem.</source>
+<year>2009</year>, <volume>52</volume>, <fpage>2940</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1021/jm8011323</pub-id>.<pub-id pub-id-type="pmid">19371039</pub-id>
+</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Karve</surname><given-names>T. M.</given-names></name>; <name><surname>Preet</surname><given-names>A.</given-names></name>; <name><surname>Sneed</surname><given-names>R.</given-names></name>; <name><surname>Salamanca</surname><given-names>C.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Kumar</surname><given-names>D.</given-names></name>; <name><surname>Rosen</surname><given-names>E. M.</given-names></name>; <name><surname>Saha</surname><given-names>T.</given-names></name>
+<article-title>BRCA1 regulates
+follistatin function in ovarian cancer and human ovarian surface epithelial
+cells</article-title>. <source>PLoS One</source>
+<year>2012</year>, <volume>7</volume>, <elocation-id>e37697</elocation-id><pub-id pub-id-type="doi">10.1371/journal.pone.0037697</pub-id>.<pub-id pub-id-type="pmid">22685544</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Wallace-Povirk</surname><given-names>A.</given-names></name>; <name><surname>Tong</surname><given-names>N.</given-names></name>; <name><surname>Wong-Roushar</surname><given-names>J.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Bao</surname><given-names>X.</given-names></name>; <name><surname>Garcia</surname><given-names>G. E.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Dann</surname><given-names>C. E.</given-names><suffix>3rd</suffix></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>
+<article-title>Discovery of 6-substituted
+thieno[2,3-d]pyrimidine
+analogs as dual inhibitors of glycinamide ribonucleotide formyltransferase
+and 5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase
+in de novo purine nucleotide biosynthesis in folate receptor expressing
+human tumors</article-title>. <source>Bioorg. Med. Chem.</source>
+<year>2021</year>, <volume>37</volume>, <fpage>116093</fpage><pub-id pub-id-type="doi">10.1016/j.bmc.2021.116093</pub-id>.<pub-id pub-id-type="pmid">33773393</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Dekhne</surname><given-names>A. S.</given-names></name>; <name><surname>Shah</surname><given-names>K.</given-names></name>; <name><surname>Ducker</surname><given-names>G. S.</given-names></name>; <name><surname>Katinas</surname><given-names>J. M.</given-names></name>; <name><surname>Wong-Roushar</surname><given-names>J.</given-names></name>; <name><surname>Nayeen</surname><given-names>M. J.</given-names></name>; <name><surname>Doshi</surname><given-names>A.</given-names></name>; <name><surname>Ning</surname><given-names>C.</given-names></name>; <name><surname>Bao</surname><given-names>X.</given-names></name>; <name><surname>Fruhauf</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Wallace-Povirk</surname><given-names>A.</given-names></name>; <name><surname>O&#x02019;Connor</surname><given-names>C.</given-names></name>; <name><surname>Dzinic</surname><given-names>S. H.</given-names></name>; <name><surname>White</surname><given-names>K.</given-names></name>; <name><surname>Kushner</surname><given-names>J.</given-names></name>; <name><surname>Kim</surname><given-names>S.</given-names></name>; <name><surname>Huttemann</surname><given-names>M.</given-names></name>; <name><surname>Polin</surname><given-names>L.</given-names></name>; <name><surname>Rabinowitz</surname><given-names>J. D.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Hou</surname><given-names>Z.</given-names></name>; <name><surname>Dann</surname><given-names>C. E.</given-names><suffix>3rd</suffix></name>; <name><surname>Gangjee</surname><given-names>A.</given-names></name>; <name><surname>Matherly</surname><given-names>L. H.</given-names></name>
+<article-title>Novel Pyrrolo[3,2-d]pyrimidine
+Compounds Target Mitochondrial
+and Cytosolic One-carbon Metabolism with Broad-spectrum Antitumor
+Efficacy</article-title>. <source>Mol. Cancer Ther</source>
+<year>2019</year>, <volume>18</volume>, <fpage>1787</fpage>&#x02013;<lpage>1799</lpage>. <pub-id pub-id-type="doi">10.1158/1535-7163.MCT-19-0037</pub-id>.<pub-id pub-id-type="pmid">31289137</pub-id>
+</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Benard</surname><given-names>J.</given-names></name>; <name><surname>Da Silva</surname><given-names>J.</given-names></name>; <name><surname>De Blois</surname><given-names>M. C.</given-names></name>; <name><surname>Boyer</surname><given-names>P.</given-names></name>; <name><surname>Duvillard</surname><given-names>P.</given-names></name>; <name><surname>Chiric</surname><given-names>E.</given-names></name>; <name><surname>Riou</surname><given-names>G.</given-names></name>
+<article-title>Characterization
+of a human ovarian
+adenocarcinoma line, IGROV1, in tissue culture and in nude mice</article-title>. <source>Cancer Res.</source>
+<year>1985</year>, <volume>45</volume>, <fpage>4970</fpage>&#x02013;<lpage>4979</lpage>.<pub-id pub-id-type="pmid">3861241</pub-id>
+</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Barreiro</surname><given-names>E. J.</given-names></name>; <name><surname>K&#x000fc;mmerle</surname><given-names>A. E.</given-names></name>; <name><surname>Fraga</surname><given-names>C. A. M.</given-names></name>
+<article-title>The methylation effect in medicinal
+chemistry</article-title>. <source>Chem. Rev.</source>
+<year>2011</year>, <volume>111</volume>, <fpage>5215</fpage>&#x02013;<lpage>5246</lpage>. <pub-id pub-id-type="doi">10.1021/cr200060g</pub-id>.<pub-id pub-id-type="pmid">21631125</pub-id>
+</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Bissantz</surname><given-names>C.</given-names></name>; <name><surname>Kuhn</surname><given-names>B.</given-names></name>; <name><surname>Stahl</surname><given-names>M.</given-names></name>
+<article-title>A medicinal
+chemist&#x02019;s guide
+to molecular interactions</article-title>. <source>J. Med. Chem.</source>
+<year>2010</year>, <volume>53</volume>, <fpage>5061</fpage>&#x02013;<lpage>5084</lpage>. <pub-id pub-id-type="doi">10.1021/jm100112j</pub-id>.<pub-id pub-id-type="pmid">20345171</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Leung</surname><given-names>C. S.</given-names></name>; <name><surname>Leung</surname><given-names>S. S. F.</given-names></name>; <name><surname>Tirado-Rives</surname><given-names>J.</given-names></name>; <name><surname>Jorgensen</surname><given-names>W. L.</given-names></name>
+<article-title>Methyl
+effects on protein-ligand binding</article-title>. <source>J. Med. Chem.</source>
+<year>2012</year>, <volume>55</volume>, <fpage>4489</fpage>&#x02013;<lpage>4500</lpage>. <pub-id pub-id-type="doi">10.1021/jm3003697</pub-id>.<pub-id pub-id-type="pmid">22500930</pub-id>
+</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Schonherr</surname><given-names>H.</given-names></name>; <name><surname>Cernak</surname><given-names>T.</given-names></name>
+<article-title>Profound methyl effects
+in drug discovery and a call
+for new C&#x025a1;H methylation reactions</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2013</year>, <volume>52</volume>, <fpage>12256</fpage>&#x02013;<lpage>12267</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201303207</pub-id>.</mixed-citation></ref></ref-list></back></article>

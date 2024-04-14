@@ -1,0 +1,700 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38054653</article-id><article-id pub-id-type="pmc">PMC10726360</article-id>
+<article-id pub-id-type="doi">10.1021/acs.jpclett.3c02899</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Tunable Tesla-Scale
+Magnetic Attosecond Pulses through
+Ring-Current Gating</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9065-9076</contrib-id><name><surname>de las Heras</surname><given-names>Alba</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2069-6776</contrib-id><name><surname>Bonaf&#x000e9;</surname><given-names>Franco P.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6153-2647</contrib-id><name><surname>Hern&#x000e1;ndez-Garc&#x000ed;a</surname><given-names>Carlos</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2060-3151</contrib-id><name><surname>Rubio</surname><given-names>Angel</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff3" ref-type="aff">&#x000b6;</xref><xref rid="aff4" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5477-2108</contrib-id><name><surname>Neufeld</surname><given-names>Ofer</given-names></name><xref rid="cor3" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Grupo
+de Investigaci&#x000f3;n en Aplicaciones del L&#x000e1;ser y Fot&#x000f3;nica,
+Departamento de F&#x000ed;sica Aplicada, <institution>Universidad de Salamanca</institution>, Salamanca 37008, <country>Spain</country></aff><aff id="aff2"><label>&#x02021;</label><institution>Max
+Planck Institute for the Structure and Dynamics of Matter and Center
+for Free-Electron Laser Science</institution>, Hamburg 22761, <country>Germany</country></aff><aff id="aff3"><label>&#x000b6;</label>Center
+for Computational Quantum Physics, <institution>The Flatiron
+Institute</institution>, New York 10010, <country>United States</country></aff><aff id="aff4"><label>&#x000a7;</label>Nano-Bio
+Spectroscopy Group, Departamento de F&#x000ed;sica de Materiales, <institution>Universidad del Pa&#x000ed;s Vasco</institution>, San Sebast&#x000ed;an 20018, <country>Spain</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label><email>albadelasheras@usal.es</email></corresp><corresp id="cor2"><label>*</label><email>angel.rubio@mpsd.mpg.de</email></corresp><corresp id="cor3"><label>*</label><email>ofer.neufeld@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><volume>14</volume><issue>49</issue><fpage>11160</fpage><lpage>11167</lpage><history><date date-type="received"><day>17</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>30</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>28</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_0004" id="ab-tgr1"/></p><p>Coherent control over electron dynamics in atoms and
+molecules
+using high-intensity circularly polarized laser pulses gives rise
+to current loops, resulting in the emission of magnetic fields. We
+propose, and demonstrate with ab initio calculations, &#x0201c;current-gating&#x0201d;
+schemes to generate direct or alternating-current magnetic pulses
+in the infrared spectral region, with highly tunable waveform and
+frequency, and showing femtosecond-to-attosecond pulse duration. In
+optimal conditions, the magnetic pulse can be highly isolated from
+the driving laser and exhibits a high flux density (&#x0223c;1 T at
+a few hundred nanometers from the source, with a pulse duration of
+787 attoseconds) for application in forefront experiments of ultrafast
+spectroscopy. Our work paves the way toward the generation of attosecond
+magnetic fields to probe ultrafast magnetization, chiral responses,
+and spin dynamics.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Simons Foundation</institution><institution-id institution-id-type="doi">10.13039/100000893</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Grupos Consolidados</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>IT1249-19</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministero dell&#x000e2;&#x00080;&#x00099;Istruzione, dell&#x000e2;&#x00080;&#x00099;Universit&#x000c3;&#x000a0; e della Ricerca</institution><institution-id institution-id-type="doi">10.13039/501100003407</institution-id></institution-wrap></funding-source><award-id>737/2021</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>SFB925</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>H2020 European Research Council</institution><institution-id institution-id-type="doi">10.13039/100010663</institution-id></institution-wrap></funding-source><award-id>851201</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Horizon 2020 Framework Programme</institution><institution-id institution-id-type="doi">10.13039/100010661</institution-id></institution-wrap></funding-source><award-id>895747</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Horizon 2020 Framework Programme</institution><institution-id institution-id-type="doi">10.13039/100010661</institution-id></institution-wrap></funding-source><award-id>860553</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz3c02899</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz3c02899</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Ultrafast photoionization occurs
+in the interaction of strong laser pulses with atoms or molecules.
+In the low-frequency regime, the dominant strong-field ionization
+mechanism is tunneling of bound electrons through the Coulomb potential
+barrier distorted by the laser field.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> The process
+of tunnel ionization has been extensively investigated in recent decades.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref8">8</xref></sup> Besides its fundamental importance for understanding ultrafast laser-induced
+electron dynamics,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> it plays a crucial
+role in high-order harmonic generation (HHG) and attosecond science
+in atoms and molecules.<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> Tunnel ionization triggered by
+a circularly polarized pulse is an especially intriguing process,
+since the tunneling barrier rotates during the laser interaction,
+inducing additional angular momenta on both the bound and continuum
+electron wavepackets.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref20">20</xref></sup> As a result, the circularly polarized laser pulse induces a long-lived
+electronic ring current on the atomic scale,<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref21">21</xref></sup> leading to the generation of a long-lived magnetic field of high
+intensity.<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup></p><p>The conventional generation
+of strong magnetic fields typically
+relies on conducting or superconducting materials arranged into loops
+or coils where the electric current flows.<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> Such magnetic sources are particularly effective in quasi-static
+magnetic phenomena or long-duration magnetization dynamics.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Also, more sophisticated strategies have been
+applied to improve the field strength, reaching up to 100 T in a magnetic
+texture.<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> However, these approaches do
+not provide a straightforward way to generate ultrashort magnetic
+pulses, which could initiate and probe ultrafast spin responses, chirality,
+or magnetic dynamics at a high temporal resolution.</p><p>Alternatively,
+optical methods based on femtosecond laser pulses
+have made substantial progress in producing shorter magnetic bursts
+through laser-induced currents in plasmas,<sup><xref ref-type="bibr" rid="ref27">27</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> plasmonic nanostructures,<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> semiconductors,<sup><xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> molecules,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref41">41</xref></sup> or atoms.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Interestingly, additional
+control over the magnetic field features can be gained by shaping
+the spatial structure of the laser beams.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> Nevertheless, to our knowledge the perspective
+of attosecond time scales has only been theoretically foreseen in
+relation to the attosecond electromagnetic pulses,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> where the dominance of the electric field
+overshadows the magnetic component. Therefore, the generation of isolated,
+strong, ultrashort magnetic fields is highly desirable to advance
+the control of purely magnetic phenomena, spintronics, chirotronics,<sup><xref ref-type="bibr" rid="ref45">45</xref>&#x02212;<xref ref-type="bibr" rid="ref51">51</xref></sup> or even HHG.<sup><xref ref-type="bibr" rid="ref52">52</xref>,<xref ref-type="bibr" rid="ref53">53</xref></sup> Indeed, attosecond magnetic
+pulses would open up new avenues for the study and manipulation of
+magnetic phenomena on ultrafast time scales by accessing the fastest
+magnetic, spin, and chiral dynamics.<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref54">54</xref>&#x02212;<xref ref-type="bibr" rid="ref58">58</xref></sup> For instance, magnetic sources reaching the attosecond scale could
+boost scientific and technological breakthroughs in ultrafast magnetometry,
+magnetic phase transitions, materials science, plasma physics, topological
+systems, and high-speed data storage. However, many challenges in
+obtaining bright ultrashort tunable magnetic pulses remain unresolved,
+such as addressing macroscopic effects, separating the magnetic pulse
+from the electric field, maintaining a high flux far from the target,
+and controlling the temporal durations and wavelength.</p><p>In this
+Letter, we propose laser-induced &#x0201c;current-gating&#x0201d;
+as a method to generate magnetic pulses within the femtosecond to
+attosecond regime. The long-lived electronic ring currents can be
+gated by using time-delayed counter-rotating circularly polarized
+laser pulses for high control over the pulse duration, waveform, and
+spectral content of the magnetic field emission. We demonstrate this
+proposal by performing ab initio calculations of time-dependent density-functional
+theory (TDDFT) coupled to Maxwell equations.<sup><xref ref-type="bibr" rid="ref59">59</xref>,<xref ref-type="bibr" rid="ref60">60</xref></sup> This state-of-the-art theoretical approach allows us not only to
+analyze the ultrafast nonperturbative and out-of-equilibrium multielectron
+dynamics occurring during the laser&#x02013;atom interaction but also
+the spatial and temporal profile of the magnetic field emission. We
+couple this ab initio single-emitter methodology with an analytic
+model describing the response of a full macroscopic gas jet, as employed
+in experiments. Our theory predicts that under a suitable choice of
+the driving parameters, the generated magnetic field can be isolated
+from the driving laser, showing a high flux density of &#x0223c;1 T
+at a few hundred nanometers from a macroscopic target. We further
+demonstrate that by employing sets of more than two gating pulses,
+the waveform of the generated magnetic pulse can be controlled to
+mimic a few-cycle pulse with the desired wavelength and duration.
+Our results set a route toward the tunable generation of Tesla-scale
+attosecond magnetic field pulses.</p><p>We first outline the system
+of study and our methodology to describe
+the laser&#x02013;atom interplay. We explore the interaction of a train
+of intense circularly polarized laser pulses with an atomic noble
+gas jet in a collinear setup. The laser carrier wavelengths (800,
+400, and 267 nm covering the infrared, visible, and ultraviolet regions
+of the electromagnetic spectrum) are chosen to be off-resonant with
+the typical energy scales of the atom. We are interested in high driving
+intensities that trigger highly nonlinear optical phenomena and strong-field
+ionization. We consider 4-cycle pulses full duration with a sinusoidal
+envelope, provided in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02899/suppl_file/jz3c02899_si_001.pdf">Supporting Information</ext-link>. Theoretically, the multielectron dynamics during the light&#x02013;matter
+interaction are described ab initio within the time-dependent Kohn&#x02013;Sham
+(KS) equations<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> of TDDFT in the length
+gauge<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m001" position="anchor"/><label>1</label></disp-formula>in the open-access <sc>Octopus</sc> code.<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> The equations are given in atomic units, discretized
+over a real-space grid, and solved in real-time. &#x003c6;<sub arrange="stack"><italic>n</italic></sub><sup arrange="stack">KS</sup>(<bold>r</bold>,<italic>t</italic>) are the KS orbitals (with <italic>n</italic> being the orbital index), and <bold>E</bold>(<italic>t</italic>) is the external electric field in the dipole approximation (neglecting
+the magnetic field of the incoming laser pulse, which is a <italic>c</italic> factor weaker than the electric field). <italic>c</italic> is the speed of light in vacuum. The KS potential <italic>v</italic><sub>KS</sub>(<bold>r</bold>, <italic>t</italic>) = <italic>v</italic><sub>ion</sub>(<bold>r</bold>) + <italic>v</italic><sub>H</sub>(<bold>r</bold>, <italic>t</italic>) + <italic>v</italic><sub>xc</sub>[<italic>n</italic>(<bold>r</bold>, <italic>t</italic>)] &#x02013; <bold>r</bold>&#x000b7;<bold>E</bold>(<italic>t</italic>) includes the usual terms
+describing the electron-nuclei interaction <italic>v</italic><sub>ion</sub> (which also incorporates interactions with core electrons),
+the Hartree potential <italic>v</italic><sub>H</sub>, the exchange&#x02013;correlation
+functional <italic>v</italic><sub><italic>xc</italic></sub> of the
+electron density <italic>n</italic>(<bold>r</bold>, <italic>t</italic>) = <inline-formula id="d33e422"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m002.gif"/></inline-formula>,<sup><xref ref-type="bibr" rid="ref61">61</xref></sup> and the dipole
+term &#x02212;<bold>r</bold>&#x000b7;<bold>E</bold>(<italic>t</italic>) describing the interaction with the laser field. We employ the
+adiabatic local density approximation including a self-interaction
+correction<sup><xref ref-type="bibr" rid="ref62">62</xref></sup> and the frozen-core approximation
+for inner electrons by using norm-conserving pseudopotentials<sup><xref ref-type="bibr" rid="ref63">63</xref></sup> for faster computational performance. The need
+for nonadiabatic exchange&#x02013;correlation functionals in TDDFT
+to describe electron scattering processes<sup><xref ref-type="bibr" rid="ref64">64</xref>,<xref ref-type="bibr" rid="ref65">65</xref></sup> or excitation mechanisms<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> is of no relevance
+in the nonresonant generation of ring currents, where dynamical correlations
+are a minor effect and the physical process is well described by a
+single active electron picture.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref17">17</xref></sup> Within the TDDFT framework, we calculate the microscopic current
+density:<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m003" position="anchor"/><label>2</label></disp-formula>In the dipole approximation, the vector potential, <bold>A</bold>(<italic>t</italic>), is a time-dependent function satisfying
+the following relationship with the external electric field: <bold>E</bold>(<italic>t</italic>) = <inline-formula id="d33e467"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m004.gif"/></inline-formula>. Considering the spatial degrees of freedom
+in the electromagnetic field is beyond the scope of this work. All
+additional details about the methodology and technical aspects can
+be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02899/suppl_file/jz3c02899_si_001.pdf">Supporting Information</ext-link>,
+where we also provide results from all-electron calculations or KS
+equations in the velocity gauge for further validation of our approach.</p><p>Among the noble gases, we focus the study on neon atoms due to
+their electron configuration 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>, which constitutes the most compact distribution of closed-shell
+valence p-orbitals. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a illustrates the scheme of a single intense off-resonant
+circularly polarized electric laser pulse interacting with a neon
+atom. The figure shows the spatial profile of the current density
+obtained in our TDDFT calculations after the laser&#x02013;atom interaction.
+The azimuthal current emerging in the vicinity of the nuclei is the
+consequence of asymmetric electron populations in <italic>p</italic><sub>+</sub> and <italic>p</italic><sub>&#x02013;</sub> valence orbitals,
+which arise from a propensity in ionization rates from these orbitals
+under a circularly polarized driving laser.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref17">17</xref></sup> Curiously, the direction of the current flow opposes
+the helicity of the laser field because the ionization probability
+is higher for counter-rotating electrons than corotating electrons.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> Overall, the resulting magnetic field is linearly polarized along
+the light propagation axis, and its orientation depends on the clockwise
+or anticlockwise direction of the current. In <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b, we present the dependence of the generated
+current amplitude on the driving peak intensity for different central
+wavelengths (267, 400, and 800 nm). Our results demonstrate that the
+azimuthal current increases for drivers with higher peak intensity
+and shorter wavelength. This follows the expected trend, since the
+mechanism behind the ring current generation relies on strong-field
+ionization, and its amplitude is proportional to the total ionized
+charge.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Scheme of a circularly polarized electric pulse inducing a
+long-lived stationary azimuthal current, whose origin is associated
+with a different electron population in the <italic>p</italic><sub>+</sub> and <italic>p</italic><sub>&#x02013;</sub> valence orbitals.
+The resulting magnetic field is static and linearly polarized along
+the longitudinal axis, and it persists after the laser pulse. (b)
+Dependence of the long-lived current amplitude on the driving peak
+intensity for different incident central wavelengths (267 nm is displayed
+in purple, 400 nm in blue, and 800 nm in orange). (c) The ultrafast
+buildup of the ring current (black dashed line) and the magnetic field
+(blue solid line) at the center of the current loop for a driving
+wavelength of 267 nm and peak intensity of 1.4 PW/cm<sup>2</sup>.
+We also depict in panel c the temporal profile of the incoming circularly
+polarized electric pulse (green line in an arbitrary vertical axis).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_0001" id="gr1" position="float"/></fig><p>After reproducing the appearance of stationary
+ring currents with
+our theoretical approach, we explore their buildup and their connection
+to magnetic field emission. Differently from previous approaches to
+obtain the magnetic field based on particle-in-cell codes,<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> the induced magnetic moment,<sup><xref ref-type="bibr" rid="ref43">43</xref></sup> or generalized
+Biot-Savart laws<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> like the Jefimenko equation,<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> we couple TDDFT and the microscopic Maxwell equations via the Riemann&#x02013;Silberstein
+representation<sup><xref ref-type="bibr" rid="ref59">59</xref></sup> using the multisystem
+framework of <sc>Octopus</sc>.<sup><xref ref-type="bibr" rid="ref60">60</xref></sup> This formalism
+allows a reformulation of Maxwell&#x02019;s equations in Schr&#x000f6;dinger-like
+form, resulting in efficient coupled propagation in real-time and
+real-space of both the TDDFT KS equations and Maxwell&#x02019;s equations.<sup><xref ref-type="bibr" rid="ref59">59</xref>,<xref ref-type="bibr" rid="ref60">60</xref></sup></p><p>In our numerical multisystem coupling, the current density
+computed
+via TDDFT is the input for the Maxwell solver. Our approach neglects
+the nondipole magnetic field effects and the atomic back-reaction,
+whose effect is overshadowed by the strong driving electric field.
+We show in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c the ultrafast turn-on preceding the stationary regime for a driving
+wavelength of 267 nm and a peak intensity of 1.4 PW/cm<sup>2</sup>. Noticeably, we certify a direct correspondence between the&#x000a0;azimuthal
+stationary current (black dashed line) and the&#x000a0;magnetic field
+(blue solid line), as expected from the well-established Amp&#x000e8;re&#x02013;Maxwell
+law: &#x02207; &#x000d7; <bold>B</bold>(<bold>r</bold>, <italic>t</italic>) = <inline-formula id="d33e569"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m005.gif"/></inline-formula>. Practically, it allows us to simplify
+the following analyses by only computing the electronic current and
+generalizing the interpretations to the magnetic field. We refer to
+the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02899/suppl_file/jz3c02899_si_001.pdf">Supporting Information</ext-link> for all numerical
+and technical details for this propagation scheme, as well as an in-depth
+analysis of the spatial distribution of the generated magnetic field.
+The temporal waveform of the driving circularly polarized electric
+pulse is depicted in arbitrary units (green line in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c) as a reference for readers.</p><p>Up until this stage, our results fully validate previous works
+on magnetic fields and impulses generated by strong-field-driven currents
+in other systems.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref38">38</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> However, as the currents are expected to be relatively long-lived,
+with electronic coherence times on scales of tens of femtoseconds
+that would only decay as the electron population in the valence orbitals
+equilibrates as a result of scattering processes, the magnetic field
+emission extends for several tens of femtoseconds, or longer. In order
+to generate shorter pulses, other strategies must be employed. In
+what follows, we demonstrate a current-gating strategy based on nonresonant
+optical switches for improved temporal control over the generated
+ring currents, thus creating an ultrafast magnetic pulse synthesizer
+to precisely shape the magnetic field emission on femtosecond to attosecond
+scales.</p><p>We propose the optical-gating configurations depicted
+in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a,b to control
+the
+temporal profile of the ring current (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c,d) and thus the waveform of the magnetic
+field. By combining two counter-rotating circularly polarized laser
+pulses separated by a tunable time delay (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a), we induce an ultrafast turn-on and subsequent
+extinction (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c) of both the ring-current and the magnetic field. To completely
+remove the ring current, the intensity of the second pulse needs to
+be adjusted to a slightly higher value than the first one (blue solid
+line in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c corresponds
+to <italic>I</italic><sub>1</sub> = 1.40 PW/cm<sup>2</sup>, <italic>I</italic><sub>2</sub> = 1.55 PW/cm<sup>2</sup> at a central wavelength
+of 267 nm). This arises since the bound electron population depletes
+during the interaction, increasing the ionization potential of the
+system (binding the electrons more strongly), and thus the second
+pulse requires a higher intensity to balance the population of <italic>p</italic><sub>+</sub> and <italic>p</italic><sub>&#x02013;</sub> orbitals.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Current-gating
+schemes for waveform control of ultrashort magnetic
+pulses. (a) The synthesis of two time-delayed counter-rotating circularly
+polarized temporally gates the emission of a DC magnetic pulse by
+limiting the temporal window of the ring current. (c) The duration
+of the magnetic burst can be tuned by the time delay <italic>t</italic><sub>d</sub>. The inset shows the linear relation of the full-width
+at half-maximum (fwhm) intensity of the magnetic field with the time
+delay, with the shortest pulse corresponding to 787 attoseconds. By
+adding a third gating pulse in panel (b), we synthesize in panel (d)
+the profile of a single-cycle magnetic pulse, whose wavelength can
+be tuned with the time delay between the pulses.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_0002" id="gr2" position="float"/></fig><p>By tuning the time delay between the two pulses, <italic>t</italic><sub>d</sub>, we shape the waveform of the magnetic field
+and gain
+control over the pulse duration, as emphasized in the inset of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c, reaching subfemtosecond
+duration (787 as). The full-width at half-maximum (fwhm) is defined
+in terms of the intensity of the magnetic pulse. Further progress
+in the development of high-intensity ultrashort driving pulses at
+shorter wavelengths could technically allow the generation of even
+shorter magnetic field pulses. Notably, without any additional manipulation,
+by setting longer time delays than the duration of the driving pulses,
+the magnetic field emission is temporally isolated, but they still
+copropagate and overlap in space. However, optical setups can be developed
+to filter out the driving laser field (both electric and magnetic
+components) to provide full spatial and temporal separation for applications.
+For example, by applying spectral filtering, our controlled magnetic
+field emission (which is DC in nature and carries much lower spectral
+content) can be isolated from the driver and other high-frequency
+emissions. We should also note that circularly polarized pulses in
+centrosymmetric isotropic media do not generate efficient high-harmonic
+emission,<sup><xref ref-type="bibr" rid="ref67">67</xref>&#x02212;<xref ref-type="bibr" rid="ref70">70</xref></sup> such that there is only a need to filter out the driving frequencies.
+Another option to spatially and temporally select the magnetic field
+emission is using polarization filtering, since the polarization of
+the synthesized magnetic field is orthogonal to the driver. Moreover,
+the interaction with a noble gas avoids the additional complexity
+of molecular alignment or ultrafast decoherence times due to ionic
+vibrations.<sup><xref ref-type="bibr" rid="ref71">71</xref></sup> All of these points should
+aid the experimental observation and application of our scheme.</p><p>Similar setups of collinear counter-rotating circularly polarized
+laser pulses are employed in polarization-gating techniques,<sup><xref ref-type="bibr" rid="ref72">72</xref>,<xref ref-type="bibr" rid="ref73">73</xref></sup> which are widely applied to isolate a single attosecond pulse in
+HHG<sup><xref ref-type="bibr" rid="ref69">69</xref>,<xref ref-type="bibr" rid="ref74">74</xref></sup> when the two pulses overlap in time. Even
+if the physical mechanism responsible for the attosecond electric
+field emission in polarization gating is different than here, these
+experimental developments<sup><xref ref-type="bibr" rid="ref69">69</xref>,<xref ref-type="bibr" rid="ref74">74</xref></sup> also benefit the implementation
+for generating ultrashort magnetic pulses.</p><p>To provide further
+tunability in the magnetic emission, we consider
+a train of three gating pulses, as shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b. Remarkably, the central wavelength of
+the magnetic pulse can be controlled by tuning the time delay between
+the laser pulses. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>d displays the temporal waveform of a single-cycle magnetic
+pulse whose wavelength of 1.8 &#x003bc;m (corresponding to a frequency
+of &#x0223c;167 THz) is determined by a time delay of 2.2 fs. The peak
+intensities of the 3 pulses are set to <italic>I</italic><sub>1</sub> = 1.0 PW/cm<sup>2</sup>, <italic>I</italic><sub>2</sub> = 1.4 PW/cm<sup>2</sup>, and <italic>I</italic><sub>3</sub> = 1.2 PW/cm<sup>2</sup>. By adjusting the peak intensities, pulse duration, and time delay
+of the drivers, we customize the temporal waveform of the magnetic
+field.</p><p>A closer inspection of <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b,d points out that the ring current (and
+consequently
+the induced magnetic field) is maximum at the temporal gate between
+the two circular switch pulses (minimums of the driving electric field),
+which might appear counterintuitive at first glance. To clarify the
+physical mechanism behind this observation, we identify the role of
+each of the pulses in coherent control of the ring currents. The
+first pulse initiates the strong-field ionization asymmetry between <italic>p</italic><sub>+</sub> and <italic>p</italic><sub>&#x02013;</sub> valence
+orbitals that gives rise to a ring current whose amplitude increases
+during the interaction. The second pulse, due to its counter-rotating
+circular polarization, first cancels this ring current and then builds
+up a current flow in the opposite direction (flipping the sign of
+the magnetic emission) since <italic>I</italic><sub>2</sub> is significantly
+higher than <italic>I</italic><sub>1</sub>. Then, the third pulse
+(corotating with the first and counter-rotating with the second driver)
+is employed as a final optical switch to suppress the ring current.
+In essence, by tuning the time delay between a train of counter-rotating
+drivers, we effectively control the time window of the magnetic emission,
+which oscillates following the helicity of the laser. Note also that
+the wavelength of the magnetic field, &#x003bb;<sub><italic>B</italic></sub>, is obviously determined by its period, <italic>T</italic><sub><italic>B</italic></sub>, by the standard relation &#x003bb;<sub><italic>B</italic></sub> = <italic>cT</italic><sub><italic>B</italic></sub>. In that respect, our scheme translates the time-delay parameter,
+which is easily tuned in experiments, to effective spectral-domain
+control over the magnetic pulse. It enables the temporal and spectral
+shaping of the magnetic field (including its carrier wave) by driving
+the system with off-resonant single-color laser fields. Hence, this
+approach should allow unique possibilities for exploring the responses
+of matter to variable frequency magnetic pulses. Importantly, by
+adding more switch pulses, one could in principle synthesize any desired
+magnetic field temporal waveform.</p><p>Finally, we extend the study
+to a macroscopic magnetic source composed
+of several ring currents by using an analytic model. This allows us
+to explore the expected magnetic field emission in the realistic conditions
+of the thin gas jets employed in experiments, whereas all results
+up to now considered only a single emitter. We sum the magnetic field
+of multiple stationary current loops placed on random positions separated
+by an average distance &#x027e8;<italic>d</italic>&#x027e9; (see <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a,b), so that the
+longitudinal component is given by <italic>B</italic><sub><italic>z</italic></sub>(<bold>r</bold>) = <inline-formula id="d33e755"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m006.gif"/></inline-formula>, where <inline-formula id="d33e759"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m007.gif"/></inline-formula> is the loop index. For the averaged static
+magnetic component associated with each filamentary current loop of
+radius <italic>a</italic> = 0.2 au (which is taken from our ab initio
+TDDFT calculations), we consider the following off-axis equation:<sup><xref ref-type="bibr" rid="ref75">75</xref></sup><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m008" position="anchor"/><label>3</label></disp-formula>where <italic>B</italic><sub>0</sub> is the
+magnetic field at the center of the loop, &#x003b1; = <inline-formula id="d33e774"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m009.gif"/></inline-formula> and &#x003b2; = <italic>z</italic><sub>r</sub>/<italic>a</italic> are the radial and longitudinal angles respectively
+defined in terms of the relative coordinates (<italic>x</italic><sub>r</sub>, <italic>y</italic><sub>r</sub>, <italic>z</italic><sub>r</sub>) = (<italic>x</italic> &#x02013; <italic>x</italic><sub>0</sub>, <italic>y</italic> &#x02013; <italic>y</italic><sub>0</sub>, <italic>z</italic> &#x02013; <italic>z</italic><sub>0</sub>), whose origin lies at the
+center of the loop (<italic>x</italic><sub>0</sub>, <italic>y</italic><sub>0</sub>, <italic>z</italic><sub>0</sub>). <italic>Q</italic> = (1 + &#x003b1;)<sup>2</sup> + &#x003b2;<sup>2</sup> and &#x003ba; = <inline-formula id="d33e825"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m010.gif"/></inline-formula> are dimensionless parameters. Then, &#x003c7;(&#x003ba;)
+and &#x003be;(&#x003ba;) are the complete elliptic integral functions
+of the first and second kind, respectively.<sup><xref ref-type="bibr" rid="ref76">76</xref></sup> Even though this model is limited by the assumption of steady-state
+independent ring currents and the coherence between all of the atoms
+in the gas, it should be a valid approximation at the peaks of the
+magnetic emission in our gating scheme (when the currents reach a
+stationary regime). Thus, our purpose is to obtain an approximation
+of the spatial scaling of the magnetic field under the macroscopic
+conditions of the experiments.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Illustration of (a) a single ring-current
+producing a magnetic
+field <italic>B</italic><sub>0</sub> at the center and (b) a macroscopic
+distribution. (c) Decay of the magnetic field (relative to the field
+at the origin) along the longitudinal axis for a single loop (cyan),
+a 2D loop distribution of 401 &#x000d7; 401 nm<sup>2</sup> (yellow),
+and a 3D target of 401 &#x000d7; 401 &#x000d7; 101 nm<sup>3</sup>, which
+is experimentally accesible (green). (d) Magnetic flux at 100 nm from
+the edge of the 2D distribution as a function of the number of loops
+for different average separation distances &#x027e8;<italic>d</italic>&#x027e9;.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_0003" id="gr3" position="float"/></fig><p>In <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, we
+analyze the decay of the macroscopic magnetic field in terms of <italic>B</italic><sub>0</sub>. The magnetic field of a single ring current
+drastically decreases even for small distances along the longitudinal
+axis (cyan line in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c), which is trivially expected from the standard <inline-formula id="d33e858"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_m011.gif"/></inline-formula> dependence on the Biot-Savart law. In contrast,
+the decay is considerably diminished for a 401 &#x000d7; 401 nm<sup>2</sup> array of current loops (yellow line in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c) or even more for a volumetric distribution
+of 401 &#x000d7; 401 &#x000d7; 101 nm<sup>3</sup> (green line in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c, where the loops
+are separated by an average distance of &#x027e8;<italic>d</italic>&#x027e9; = 2 nm). This geometry mimics realistic accessible conditions
+for typical strong-field ionization experiments. From a magnetostatics
+perspective, one could imagine an approximately infinite wall of current
+loops, yielding a uniform field as long as the detector is placed
+at a longitudinal distance smaller than the size of the wall. This
+provides an intuitive explanation for why the magnetic field emission
+is still considerable even at a reasonable distance of a few hundred
+nanometers away from the gas jet.</p><p>This reduced spatial decay
+is particularly important for the applicability
+of such magnetic sources, since the sample can be positioned hundreds
+of nanometers from the edge of the magnetic source, instead of requiring
+atomic-scale precision. <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d shows the magnetic flux at 100 nm from the edge of a 2D
+target as a function of the number of loops for different average
+separation distances (&#x027e8;<italic>d</italic>&#x027e9; = 1 nm in
+blue, 2 nm in orange, and 3 nm in black). As expected, the magnetic
+flux increases with the ring-current density, i.e., larger number
+of loops and smaller separation distance. Importantly, for achievable
+experimental conditions, the expected magnetic flux at a distance
+of &#x0223c;100 nm from the gas jet can be as high as 1 T, while still
+generating pulses with durations of hundreds of attoseconds.</p><p>In summary, we propose to use a train of counter-rotating circularly
+polarized laser pulses to control the electron population imbalance
+in the <italic>p</italic><sub>+</sub> and <italic>p</italic><sub>&#x02013;</sub> valence orbitals of neon atoms. These drivers can be viewed as optical
+switches to temporally shape the magnetic field emission. The extension
+of our proposed &#x0201c;current-gating&#x0201d; technique to other
+systems like molecules or solids should be straightforward, since
+the key idea is simply to confine the magnetic emission into an ultrashort
+temporal window. Thus, our scheme enables the synthesis of tunable
+strong magnetic fields of femtosecond to attosecond pulse duration,
+with the possibility of isolation from the electromagnetic driver
+in both space and time by applying spectral or polarization filtering.
+Such sources constitute an ultrafast magnetic switch to probe the
+fastest magnetic, spin, and chiral dynamics.<sup><xref ref-type="bibr" rid="ref44">44</xref>,<xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref>,<xref ref-type="bibr" rid="ref54">54</xref>&#x02212;<xref ref-type="bibr" rid="ref57">57</xref></sup> Furthermore, extension to drivers in other spectral regimes (like
+mid-infrared or X-rays) could provide magnetic fields in the Terahertz
+range or at extremely high frequencies. We also show that despite
+the spatially localized magnetic field emitted from a single ring
+current, the total field from multiple emitters exhibits a diminished
+decay of hundreds of nanometers, which can be applied in ultrafast
+spectroscopy experiments and attosecond metrology.</p><p>As a potential
+outlook, we expect that our technique could also
+be employed for studying the electron dynamics induced and probed
+by the magnetic pulse in the form of magnetic spectroscopy. By measuring
+magnetic fields, one could infer attosecond electron dynamics, in
+analogy with standard X-ray attosecond experiments or HHG spectroscopies.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref77">77</xref></sup> We believe this would open interesting
+opportunities for exploring electron correlations and spin&#x02013;orbit
+coupled dynamics in complex systems.<sup><xref ref-type="bibr" rid="ref78">78</xref>&#x02212;<xref ref-type="bibr" rid="ref82">82</xref></sup></p></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02899?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02899</ext-link>.<list id="silist" list-type="simple"><list-item><p>Details about the methodology, results of the spatial
+distribution of the magnetic field from a single emitter, and a gauge
+comparison of the ring-current output with/without the pseudopotential
+approach (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02899/suppl_file/jz3c02899_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02899_si_001.pdf"><caption><p>jz3c02899_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d14e1347-autogenerated"><p>The
+authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by the Cluster of Excellence
+Advanced Imaging of Matter (AIM), Grupos Consolidados (IT1249-19),
+SFB925, &#x0201c;Light Induced Dynamics and Control of Correlated Quantum
+Systems&#x0201d;. It has received funding from the European Union&#x02019;s
+Horizon 2020 research and innovation programme under the Marie Sk&#x00142;odowska-Curie
+Grant (No. 860553), the ERC Starting Grant ATTOSTRUCTURA (No. 851201),
+and NextGenerationEU MUR D.M. 737/2021, &#x0201c;Materials Manipulation
+with Light.&#x0201d; The Flatiron Institute is a division of the Simons
+Foundation. A.d.l.H. acknowledges the financial support from Universidad
+de Salamanca for her international stay at MPSD. F.P.B. acknowledges
+financial support from the European Union&#x02019;s Horizon 2020 research
+and innovation programme under the Marie Sklodowska-Curie Grant (No.
+895747, Nano-LightQD). O.N. gratefully acknowledges the generous support
+of a Schmidt Science Fellowship.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Keldysh</surname><given-names>L. V.</given-names></name>
+<article-title>Ionization
+in the field of a strong electromagnetic wave</article-title>. <source>J. Exp. Theor. Phys.</source>
+<year>1965</year>, <volume>20</volume>, <fpage>1307</fpage>&#x02013;<lpage>1314</lpage>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Ivanov</surname><given-names>M. Y.</given-names></name>; <name><surname>Spanner</surname><given-names>M.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>
+<article-title>Anatomy of strong field ionization</article-title>. <source>J. Mod. Opt.</source>
+<year>2005</year>, <volume>52</volume>, <fpage>165</fpage>&#x02013;<lpage>184</lpage>. <pub-id pub-id-type="doi">10.1080/0950034042000275360</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Landsman</surname><given-names>A. S.</given-names></name>; <name><surname>Keller</surname><given-names>U.</given-names></name>
+<article-title>Attosecond science and the tunnelling
+time problem</article-title>. <source>Phys. Rep.</source>
+<year>2015</year>, <volume>547</volume>, <fpage>1</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/j.physrep.2014.09.002</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Yudin</surname><given-names>G. L.</given-names></name>; <name><surname>Ivanov</surname><given-names>M. Y.</given-names></name>
+<article-title>Nonadiabatic tunnel
+ionization: Looking inside a laser
+cycle</article-title>. <source>Phys. Rev. A</source>
+<year>2001</year>, <volume>64</volume>, <fpage>013409</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.64.013409</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Shafir</surname><given-names>D.</given-names></name>; <name><surname>Soifer</surname><given-names>H.</given-names></name>; <name><surname>Bruner</surname><given-names>B. D.</given-names></name>; <name><surname>Dagan</surname><given-names>M.</given-names></name>; <name><surname>Mairesse</surname><given-names>Y.</given-names></name>; <name><surname>Patchkovskii</surname><given-names>S.</given-names></name>; <name><surname>Ivanov</surname><given-names>M. Y.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>; <name><surname>Dudovich</surname><given-names>N.</given-names></name>
+<article-title>Resolving
+the time when an electron exits a tunnelling barrier</article-title>. <source>Nature</source>
+<year>2012</year>, <volume>485</volume>, <fpage>343</fpage>&#x02013;<lpage>346</lpage>. <pub-id pub-id-type="doi">10.1038/nature11025</pub-id>.<pub-id pub-id-type="pmid">22596157</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Uiberacker</surname><given-names>M.</given-names></name>; <name><surname>Uphues</surname><given-names>T.</given-names></name>; <name><surname>Schultze</surname><given-names>M.</given-names></name>; <name><surname>Verhoef</surname><given-names>A. J.</given-names></name>; <name><surname>Yakovlev</surname><given-names>V.</given-names></name>; <name><surname>Kling</surname><given-names>M. F.</given-names></name>; <name><surname>Rauschenberger</surname><given-names>J.</given-names></name>; <name><surname>Kabachnik</surname><given-names>N. M.</given-names></name>; <name><surname>Schr&#x000f6;der</surname><given-names>H.</given-names></name>; <name><surname>Lezius</surname><given-names>M.</given-names></name>; et al. <article-title>Attosecond real-time
+observation of electron tunnelling in atoms</article-title>. <source>Nature</source>
+<year>2007</year>, <volume>446</volume>, <fpage>627</fpage>&#x02013;<lpage>632</lpage>. <pub-id pub-id-type="doi">10.1038/nature05648</pub-id>.<pub-id pub-id-type="pmid">17410167</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Sainadh</surname><given-names>U.
+S.</given-names></name>; <name><surname>Xu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Atia-Tul-Noor</surname><given-names>A.</given-names></name>; <name><surname>Wallace</surname><given-names>W. C.</given-names></name>; <name><surname>Douguet</surname><given-names>N.</given-names></name>; <name><surname>Bray</surname><given-names>A.</given-names></name>; <name><surname>Ivanov</surname><given-names>I.</given-names></name>; <name><surname>Bartschat</surname><given-names>K.</given-names></name>; <name><surname>Kheifets</surname><given-names>A.</given-names></name>; et al. <article-title>Attosecond angular streaking and tunnelling
+time in atomic hydrogen</article-title>. <source>Nature</source>
+<year>2019</year>, <volume>568</volume>, <fpage>75</fpage>&#x02013;<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1028-3</pub-id>.<pub-id pub-id-type="pmid">30886392</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Kneller</surname><given-names>O.</given-names></name>; <name><surname>Azoury</surname><given-names>D.</given-names></name>; <name><surname>Federman</surname><given-names>Y.</given-names></name>; <name><surname>Kr&#x000fc;ger</surname><given-names>M.</given-names></name>; <name><surname>Uzan</surname><given-names>A. J.</given-names></name>; <name><surname>Orenstein</surname><given-names>G.</given-names></name>; <name><surname>Bruner</surname><given-names>B. D.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>; <name><surname>Patchkovskii</surname><given-names>S.</given-names></name>; <name><surname>Ivanov</surname><given-names>M.</given-names></name>; et al. <article-title>A look under the tunnelling
+barrier via attosecond-gated interferometry</article-title>. <source>Nat. Photonics</source>
+<year>2022</year>, <volume>16</volume>, <fpage>304</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1038/s41566-022-00955-7</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Hofmann</surname><given-names>C.</given-names></name>; <name><surname>Landsman</surname><given-names>A. S.</given-names></name>; <name><surname>Keller</surname><given-names>U.</given-names></name>
+<article-title>Attoclock revisited
+on electron tunnelling
+time</article-title>. <source>J. Mod. Opt.</source>
+<year>2019</year>, <volume>66</volume>, <fpage>1052</fpage>&#x02013;<lpage>1070</lpage>. <pub-id pub-id-type="doi">10.1080/09500340.2019.1596325</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Krausz</surname><given-names>F.</given-names></name>; <name><surname>Ivanov</surname><given-names>M.</given-names></name>
+<source>Attosecond physics. Rev. Mod.
+Phys.</source>
+<year>2009</year>, <volume>81</volume>, <fpage>163</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1103/RevModPhys.81.163</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Popmintchev</surname><given-names>T.</given-names></name>; <name><surname>Chen</surname><given-names>M.-C.</given-names></name>; <name><surname>Arpin</surname><given-names>P.</given-names></name>; <name><surname>Murnane</surname><given-names>M. M.</given-names></name>; <name><surname>Kapteyn</surname><given-names>H. C.</given-names></name>
+<article-title>The attosecond
+nonlinear optics of bright coherent X-ray generation</article-title>. <source>Nat. Photonics</source>
+<year>2010</year>, <volume>4</volume>, <fpage>822</fpage>&#x02013;<lpage>832</lpage>. <pub-id pub-id-type="doi">10.1038/nphoton.2010.256</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Scrinzi</surname><given-names>A.</given-names></name>; <name><surname>Wickenhauser</surname><given-names>M.</given-names></name>; <name><surname>Baltu&#x00161;ka</surname><given-names>A.</given-names></name>; <name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Kitzler</surname><given-names>M.</given-names></name>
+<article-title>Internal momentum state mapping using
+high harmonic radiation</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2008</year>, <volume>101</volume>, <fpage>033901</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.101.033901</pub-id>.<pub-id pub-id-type="pmid">18764256</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>
+<article-title>Nonadiabatic tunneling
+in circularly polarized laser
+fields: Physical picture and calculations</article-title>. <source>Phys.
+Rev. A</source>
+<year>2011</year>, <volume>84</volume>, <fpage>063415</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.84.063415</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>
+<article-title>Nonadiabatic tunneling
+in circularly polarized laser
+fields. II. Derivation of formulas</article-title>. <source>Phys. Rev.
+A</source>
+<year>2013</year>, <volume>87</volume>, <fpage>013433</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.87.013433</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Lein</surname><given-names>M.</given-names></name>
+<article-title>Numerical verification
+of the theory of nonadiabatic tunnel ionization
+in strong circularly polarized laser fields</article-title>. <source>J. Phys. B: At. Mol. Opt. Phys.</source>
+<year>2014</year>, <volume>47</volume>, <fpage>204016</fpage><pub-id pub-id-type="doi">10.1088/0953-4075/47/20/204016</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Kaushal</surname><given-names>J.</given-names></name>; <name><surname>Morales</surname><given-names>F.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>
+<article-title>Opportunities
+for detecting ring
+currents using an attoclock setup</article-title>. <source>Phys. Rev.
+A</source>
+<year>2015</year>, <volume>92</volume>, <fpage>063405</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.92.063405</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Eckart</surname><given-names>S.</given-names></name>; <name><surname>Kunitski</surname><given-names>M.</given-names></name>; <name><surname>Richter</surname><given-names>M.</given-names></name>; <name><surname>Hartung</surname><given-names>A.</given-names></name>; <name><surname>Rist</surname><given-names>J.</given-names></name>; <name><surname>Trinter</surname><given-names>F.</given-names></name>; <name><surname>Fehre</surname><given-names>K.</given-names></name>; <name><surname>Schlott</surname><given-names>N.</given-names></name>; <name><surname>Henrichs</surname><given-names>K.</given-names></name>; <name><surname>Schmidt</surname><given-names>L. P. H.</given-names></name>; et al. <article-title>Ultrafast preparation and detection of ring
+currents in single atoms</article-title>. <source>Nat. Phys.</source>
+<year>2018</year>, <volume>14</volume>, <fpage>701</fpage>&#x02013;<lpage>704</lpage>. <pub-id pub-id-type="doi">10.1038/s41567-018-0080-5</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Li</surname><given-names>Y.</given-names></name>; <name><surname>Lan</surname><given-names>P.</given-names></name>; <name><surname>Xie</surname><given-names>H.</given-names></name>; <name><surname>He</surname><given-names>M.</given-names></name>; <name><surname>Zhu</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Q.</given-names></name>; <name><surname>Lu</surname><given-names>P.</given-names></name>
+<article-title>Nonadiabatic tunnel
+ionization in strong circularly polarized laser
+fields: counterintuitive angular shifts in the photoelectron momentum
+distribution</article-title>. <source>Opt. Express</source>
+<year>2015</year>, <volume>23</volume>, <fpage>28801</fpage><pub-id pub-id-type="doi">10.1364/OE.23.028801</pub-id>.<pub-id pub-id-type="pmid">26561149</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Ngoko
+Djiokap</surname><given-names>J.</given-names></name>; <name><surname>Hu</surname><given-names>S.</given-names></name>; <name><surname>Madsen</surname><given-names>L.</given-names></name>; <name><surname>Manakov</surname><given-names>N.</given-names></name>; <name><surname>Meremianin</surname><given-names>A.</given-names></name>; <name><surname>Starace</surname><given-names>A. F.</given-names></name>
+<article-title>Electron vortices in photoionization
+by circularly polarized attosecond pulses</article-title>. <source>Phys.
+Rev. Lett.</source>
+<year>2015</year>, <volume>115</volume>, <fpage>113004</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.115.113004</pub-id>.<pub-id pub-id-type="pmid">26406828</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Pengel</surname><given-names>D.</given-names></name>; <name><surname>Kerbstadt</surname><given-names>S.</given-names></name>; <name><surname>Johannmeyer</surname><given-names>D.</given-names></name>; <name><surname>Englert</surname><given-names>L.</given-names></name>; <name><surname>Bayer</surname><given-names>T.</given-names></name>; <name><surname>Wollenhaupt</surname><given-names>M.</given-names></name>
+<article-title>Electron vortices
+in femtosecond multiphoton ionization</article-title>. <source>Phys.
+Rev. Lett.</source>
+<year>2017</year>, <volume>118</volume>, <fpage>053003</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.118.053003</pub-id>.<pub-id pub-id-type="pmid">28211728</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Neufeld</surname><given-names>O.</given-names></name>; <name><surname>Cohen</surname><given-names>O.</given-names></name>
+<article-title>Background-free measurement
+of ring currents by symmetry-breaking
+high-harmonic spectroscopy</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2019</year>, <volume>123</volume>, <fpage>103202</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.123.103202</pub-id>.<pub-id pub-id-type="pmid">31573280</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Yuan</surname><given-names>K.-J.</given-names></name>; <name><surname>Bandrauk</surname><given-names>A. D.</given-names></name>
+<article-title>Attosecond-magnetic-field-pulse
+generation by intense
+few-cycle circularly polarized UV laser pulses</article-title>. <source>Phys. Rev. A</source>
+<year>2013</year>, <volume>88</volume>, <fpage>013417</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.88.013417</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Yuan</surname><given-names>K.-J.</given-names></name>; <name><surname>Bandrauk</surname><given-names>A. D.</given-names></name>
+<article-title>Attosecond-magnetic-field-pulse
+generation by coherent
+circular molecular electron wave packets</article-title>. <source>Phys.
+Rev. A</source>
+<year>2015</year>, <volume>91</volume>, <fpage>042509</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.91.042509</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="book" id="cit24"><person-group person-group-type="allauthors"><name><surname>Shneerson</surname><given-names>G. A.</given-names></name>; <name><surname>Dolotenko</surname><given-names>M. I.</given-names></name>; <name><surname>Krivosheev</surname><given-names>S. I.</given-names></name></person-group><source>Strong and Superstrong
+Pulsed Magnetic Fields Generation</source>; <publisher-name>Walter
+de Gruyter GmbH</publisher-name>: <publisher-loc>Berlin</publisher-loc>, <year>2014</year>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Yanuka</surname><given-names>D.</given-names></name>; <name><surname>Efimov</surname><given-names>S.</given-names></name>; <name><surname>Nitishinskiy</surname><given-names>M.</given-names></name>; <name><surname>Rososhek</surname><given-names>A.</given-names></name>; <name><surname>Krasik</surname><given-names>Y. E.</given-names></name>
+<article-title>Generation
+of strong pulsed magnetic fields using a compact, short pulse generator</article-title>. <source>J. Appl. Phys.</source>
+<year>2016</year>, <volume>119</volume>, <fpage>144901</fpage><pub-id pub-id-type="doi">10.1063/1.4945814</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Jaime</surname><given-names>M.</given-names></name>; <name><surname>Daou</surname><given-names>R.</given-names></name>; <name><surname>Crooker</surname><given-names>S. A.</given-names></name>; <name><surname>Weickert</surname><given-names>F.</given-names></name>; <name><surname>Uchida</surname><given-names>A.</given-names></name>; <name><surname>Feiguin</surname><given-names>A. E.</given-names></name>; <name><surname>Batista</surname><given-names>C. D.</given-names></name>; <name><surname>Dabkowska</surname><given-names>H. A.</given-names></name>; <name><surname>Gaulin</surname><given-names>B. D.</given-names></name>
+<article-title>Magnetostriction and magnetic texture
+to 100.75 T in
+frustrated SrCu2(BO 3)2</article-title>. <source>Proc. Natl. Acad. Sci.
+U.S.A.</source>
+<year>2012</year>, <volume>109</volume>, <fpage>12404</fpage>&#x02013;<lpage>12407</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1200743109</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Najmudin</surname><given-names>Z.</given-names></name>; <name><surname>Tatarakis</surname><given-names>M.</given-names></name>; <name><surname>Pukhov</surname><given-names>A.</given-names></name>; <name><surname>Clark</surname><given-names>E. L.</given-names></name>; <name><surname>Clarke</surname><given-names>R. J.</given-names></name>; <name><surname>Dangor</surname><given-names>A. E.</given-names></name>; <name><surname>Faure</surname><given-names>J.</given-names></name>; <name><surname>Malka</surname><given-names>V.</given-names></name>; <name><surname>Neely</surname><given-names>D.</given-names></name>; <name><surname>Santala</surname><given-names>M. I.</given-names></name>; et al. <article-title>Measurements of the inverse faraday effect
+from relativistic laser interactions with an underdense plasma</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2001</year>, <volume>87</volume>, <fpage>215004</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.87.215004</pub-id>.<pub-id pub-id-type="pmid">11736346</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Sandhu</surname><given-names>A. S.</given-names></name>; <name><surname>Dharmadhikari</surname><given-names>A. K.</given-names></name>; <name><surname>Rajeev</surname><given-names>P. P.</given-names></name>; <name><surname>Kumar</surname><given-names>G. R.</given-names></name>; <name><surname>Sengupta</surname><given-names>S.</given-names></name>; <name><surname>Das</surname><given-names>A.</given-names></name>; <name><surname>Kaw</surname><given-names>P. K.</given-names></name>
+<article-title>Laser-generated ultrashort multimegagauss magnetic
+pulses in plasmas</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2002</year>, <volume>89</volume>, <fpage>225002</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.89.225002</pub-id>.<pub-id pub-id-type="pmid">12485075</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Shi</surname><given-names>Y.</given-names></name>; <name><surname>Vieira</surname><given-names>J.</given-names></name>; <name><surname>Trines</surname><given-names>R. M.</given-names></name>; <name><surname>Bingham</surname><given-names>R.</given-names></name>; <name><surname>Shen</surname><given-names>B. F.</given-names></name>; <name><surname>Kingham</surname><given-names>R. J.</given-names></name>
+<article-title>Magnetic field generation
+in plasma waves driven by
+copropagating intense twisted lasers</article-title>. <source>Phys.
+Rev. Lett.</source>
+<year>2018</year>, <volume>121</volume>, <fpage>145002</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.121.145002</pub-id>.<pub-id pub-id-type="pmid">30339446</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Sederberg</surname><given-names>S.</given-names></name>; <name><surname>Kong</surname><given-names>F.</given-names></name>; <name><surname>Corkum</surname><given-names>P. B.</given-names></name>
+<article-title>Tesla-scale
+terahertz magnetic impulses</article-title>. <source>Phys. Rev. X.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>011063</fpage><pub-id pub-id-type="doi">10.1103/PhysRevX.10.011063</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Mou</surname><given-names>Y.</given-names></name>; <name><surname>Gallas</surname><given-names>B.</given-names></name>; <name><surname>Maitre</surname><given-names>A.</given-names></name>; <name><surname>Coolen</surname><given-names>L.</given-names></name>; <name><surname>Mivelle</surname><given-names>M.</given-names></name>
+<article-title>Tesla-range
+femtosecond pulses of stationary magnetic field, optically generated
+at the nanoscale in a plasmonic antenna</article-title>. <source>ACS
+Nano</source>
+<year>2022</year>, <volume>16</volume>, <fpage>386</fpage>&#x02013;<lpage>393</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.1c06922</pub-id>.<pub-id pub-id-type="pmid">34962766</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Tsiatmas</surname><given-names>A.</given-names></name>; <name><surname>Atmatzakis</surname><given-names>E.</given-names></name>; <name><surname>Papasimakis</surname><given-names>N.</given-names></name>; <name><surname>Fedotov</surname><given-names>V.</given-names></name>; <name><surname>Luk&#x02019;Yanchuk</surname><given-names>B.</given-names></name>; <name><surname>Zheludev</surname><given-names>N. I.</given-names></name>; <name><surname>Javier Garc&#x000ed;a De Abajo</surname><given-names>F.</given-names></name>
+<article-title>Optical generation
+of intense ultrashort magnetic pulses at the nanoscale</article-title>. <source>New J. Phys.</source>
+<year>2013</year>, <volume>15</volume>, <fpage>113035</fpage><pub-id pub-id-type="doi">10.1088/1367-2630/15/11/113035</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Matos-Abiague</surname><given-names>A.</given-names></name>; <name><surname>Berakdar</surname><given-names>J.</given-names></name>
+<article-title>Photoinduced charge currents in mesoscopic rings</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2005</year>, <volume>94</volume>, <fpage>166801</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.94.166801</pub-id>.<pub-id pub-id-type="pmid">15904257</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>W&#x000e4;tzel</surname><given-names>J.</given-names></name>; <name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Berakdar</surname><given-names>J.</given-names></name>
+<article-title>Ultrafast optically induced resonant
+and non-resonant current generation in atoms and nanostructures: role
+of the photons orbital angular momentum</article-title>. <source>J.
+Mod. Opt.</source>
+<year>2017</year>, <volume>64</volume>, <fpage>1088</fpage>&#x02013;<lpage>1095</lpage>. <pub-id pub-id-type="doi">10.1080/09500340.2017.1288836</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Blanco</surname><given-names>M.</given-names></name>; <name><surname>Cambronero</surname><given-names>F.</given-names></name>; <name><surname>Flores-Arias</surname><given-names>M. T.</given-names></name>; <name><surname>Conejero Jarque</surname><given-names>E.</given-names></name>; <name><surname>Plaja</surname><given-names>L.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Garc&#x000ed;a</surname><given-names>C.</given-names></name>
+<article-title>Ultraintense
+femtosecond magnetic nanoprobes induced by azimuthally polarized laser
+beams</article-title>. <source>ACS Photonics</source>
+<year>2019</year>, <volume>6</volume>, <fpage>38</fpage>&#x02013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1021/acsphotonics.8b01312</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Sederberg</surname><given-names>S.</given-names></name>; <name><surname>Kong</surname><given-names>F.</given-names></name>; <name><surname>Hufnagel</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Karimi</surname><given-names>E.</given-names></name>; <name><surname>Corkum</surname><given-names>P. B.</given-names></name>
+<article-title>Vectorized optoelectronic
+control and metrology in
+a semiconductor</article-title>. <source>Nat. Photonics</source>
+<year>2020</year>, <volume>14</volume>, <fpage>680</fpage>&#x02013;<lpage>685</lpage>. <pub-id pub-id-type="doi">10.1038/s41566-020-0690-1</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Jana</surname><given-names>K.</given-names></name>; <name><surname>Herperger</surname><given-names>K. R.</given-names></name>; <name><surname>Kong</surname><given-names>F.</given-names></name>; <name><surname>Mi</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Corkum</surname><given-names>P. B.</given-names></name>; <name><surname>Sederberg</surname><given-names>S.</given-names></name>
+<article-title>Reconfigurable electronic circuits
+for magnetic fields controlled by structured light</article-title>. <source>Nat. Photonics</source>
+<year>2021</year>, <volume>15</volume>, <fpage>622</fpage>&#x02013;<lpage>626</lpage>. <pub-id pub-id-type="doi">10.1038/s41566-021-00832-9</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Manz</surname><given-names>J.</given-names></name>; <name><surname>Shigeta</surname><given-names>Y.</given-names></name>; <name><surname>Yagi</surname><given-names>K.</given-names></name>
+<article-title>Unidirectional
+electronic
+ring current driven by a few cycle circularly polarized laser pulse:
+Quantum model simulations for Mg-porphyrin</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2006</year>, <volume>128</volume>, <fpage>7043</fpage>&#x02013;<lpage>7049</lpage>. <pub-id pub-id-type="doi">10.1021/ja057197l</pub-id>.<pub-id pub-id-type="pmid">16719485</pub-id>
+</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Yuan</surname><given-names>K. J.</given-names></name>; <name><surname>Bandrauk</surname><given-names>A. D.</given-names></name>
+<article-title>Attosecond-magnetic-field-pulse generation by electronic
+currents in bichromatic circularly polarized UV laser fields</article-title>. <source>Phys. Rev. A</source>
+<year>2015</year>, <volume>92</volume>, <fpage>063401</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.92.063401</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>K. J.</given-names></name>; <name><surname>Lu</surname><given-names>H.</given-names></name>; <name><surname>Bandrauk</surname><given-names>A. D.</given-names></name>
+<article-title>Spatiotemporal evolution
+of ultrafast magnetic-field generation in molecules with intense bichromatic
+circularly polarized UV laser pulses</article-title>. <source>Phys.
+Rev. A</source>
+<year>2019</year>, <volume>99</volume>, <fpage>053416</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.99.053416</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Sun</surname><given-names>S.</given-names></name>; <name><surname>Yong</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>F.</given-names></name>; <name><surname>Mukamel</surname><given-names>S.</given-names></name>
+<article-title>Coherent ring-current
+migration of Mg-phthalocyanine probed by time-resolved X-ray circular
+dichroism</article-title>. <source>Chem. Sci.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>10327</fpage>&#x02013;<lpage>10335</lpage>. <pub-id pub-id-type="doi">10.1039/D2SC02768B</pub-id>.<pub-id pub-id-type="pmid">36277617</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Barth</surname><given-names>I.</given-names></name>; <name><surname>Manz</surname><given-names>J.</given-names></name>
+<article-title>Electric ring currents
+in atomic orbitals and magnetic fields induced
+by short intense circularly polarized &#x003c0; laser pulses</article-title>. <source>Phys. Rev. A</source>
+<year>2007</year>, <volume>75</volume>, <fpage>012510</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.75.012510</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Bose</surname><given-names>T.</given-names></name>; <name><surname>Berakdar</surname><given-names>J.</given-names></name>
+<article-title>Nonlinear magneto-optical response to light carrying
+orbital angular momentum</article-title>. <source>J. Opt.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>125201</fpage><pub-id pub-id-type="doi">10.1088/2040-8978/16/12/125201</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>W&#x000e4;tzel</surname><given-names>J.</given-names></name>; <name><surname>Rebernik Ribi&#x0010d;</surname><given-names>P.</given-names></name>; <name><surname>Coreno</surname><given-names>M.</given-names></name>; <name><surname>Danailov</surname><given-names>M. B.</given-names></name>; <name><surname>David</surname><given-names>C.</given-names></name>; <name><surname>Demidovich</surname><given-names>A.</given-names></name>; <name><surname>Di Fraia</surname><given-names>M.</given-names></name>; <name><surname>Giannessi</surname><given-names>L.</given-names></name>; <name><surname>Hansen</surname><given-names>K.</given-names></name>; <name><surname>Kru&#x00161;i&#x0010d;</surname><given-names>&#x00160;.</given-names></name>; et al. <article-title>Light-induced magnetization at the nanoscale</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2022</year>, <volume>128</volume>, <fpage>157205</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.128.157205</pub-id>.<pub-id pub-id-type="pmid">35499884</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Ayuso</surname><given-names>D.</given-names></name>; <name><surname>Neufeld</surname><given-names>O.</given-names></name>; <name><surname>Ordonez</surname><given-names>A. F.</given-names></name>; <name><surname>Decleva</surname><given-names>P.</given-names></name>; <name><surname>Lerner</surname><given-names>G.</given-names></name>; <name><surname>Cohen</surname><given-names>O.</given-names></name>; <name><surname>Ivanov</surname><given-names>M.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>
+<article-title>Synthetic chiral light
+for efficient control of chiral light&#x02013;matter interaction</article-title>. <source>Nat. Photonics</source>
+<year>2019</year>, <volume>13</volume>, <fpage>866</fpage>&#x02013;<lpage>871</lpage>. <pub-id pub-id-type="doi">10.1038/s41566-019-0531-2</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Neufeld</surname><given-names>O.</given-names></name>; <name><surname>Ayuso</surname><given-names>D.</given-names></name>; <name><surname>Decleva</surname><given-names>P.</given-names></name>; <name><surname>Ivanov</surname><given-names>M. Y.</given-names></name>; <name><surname>Smirnova</surname><given-names>O.</given-names></name>; <name><surname>Cohen</surname><given-names>O.</given-names></name>
+<article-title>Ultrasensitive chiral spectroscopy
+by dynamical symmetry breaking
+in high harmonic generation</article-title>. <source>Phys. Rev. X.</source>
+<year>2019</year>, <volume>9</volume>, <fpage>031002</fpage><pub-id pub-id-type="doi">10.1103/PhysRevX.9.031002</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Baykusheva</surname><given-names>D.</given-names></name>; <name><surname>Zindel</surname><given-names>D.</given-names></name>; <name><surname>Svoboda</surname><given-names>V.</given-names></name>; <name><surname>Bommeli</surname><given-names>E.</given-names></name>; <name><surname>Ochsner</surname><given-names>M.</given-names></name>; <name><surname>Tehlar</surname><given-names>A.</given-names></name>; <name><surname>W&#x000f6;rner</surname><given-names>H. J.</given-names></name>
+<article-title>Real-time
+probing of chirality during
+a chemical reaction</article-title>. <source>Proc. Natl. Acad. Sci.
+U.S.A.</source>
+<year>2019</year>, <volume>116</volume>, <fpage>23923</fpage>&#x02013;<lpage>23929</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1907189116</pub-id>.<pub-id pub-id-type="pmid">31723044</pub-id>
+</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Beaulieu</surname><given-names>S.</given-names></name>; <name><surname>Comby</surname><given-names>A.</given-names></name>; <name><surname>Clergerie</surname><given-names>A.</given-names></name>; <name><surname>Caillat</surname><given-names>J.</given-names></name>; <name><surname>Descamps</surname><given-names>D.</given-names></name>; <name><surname>Dudovich</surname><given-names>N.</given-names></name>; <name><surname>Fabre</surname><given-names>B.</given-names></name>; <name><surname>G&#x000e9;neaux</surname><given-names>R.</given-names></name>; <name><surname>L&#x000e9;gar&#x000e9;</surname><given-names>F.</given-names></name>; <name><surname>Petit</surname><given-names>S.</given-names></name>; et al. <article-title>Attosecond-resolved
+photoionization of chiral molecules</article-title>. <source>Science</source>
+<year>2017</year>, <volume>358</volume>, <fpage>1288</fpage>&#x02013;<lpage>1294</lpage>. <pub-id pub-id-type="doi">10.1126/science.aao5624</pub-id>.<pub-id pub-id-type="pmid">29217568</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Cireasa</surname><given-names>R.</given-names></name>; <name><surname>Boguslavskiy</surname><given-names>A. E.</given-names></name>; <name><surname>Pons</surname><given-names>B.</given-names></name>; <name><surname>Wong</surname><given-names>M. C.</given-names></name>; <name><surname>Descamps</surname><given-names>D.</given-names></name>; <name><surname>Petit</surname><given-names>S.</given-names></name>; <name><surname>Ruf</surname><given-names>H.</given-names></name>; <name><surname>Thir&#x000e9;</surname><given-names>N.</given-names></name>; <name><surname>Ferr&#x000e9;</surname><given-names>A.</given-names></name>; <name><surname>Suarez</surname><given-names>J.</given-names></name>; et al. <article-title>Probing
+molecular chirality
+on a sub-femtosecond timescale</article-title>. <source>Nat. Phys.</source>
+<year>2015</year>, <volume>11</volume>, <fpage>654</fpage>&#x02013;<lpage>658</lpage>. <pub-id pub-id-type="doi">10.1038/nphys3369</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Patterson</surname><given-names>D.</given-names></name>; <name><surname>Schnell</surname><given-names>M.</given-names></name>; <name><surname>Doyle</surname><given-names>J. M.</given-names></name>
+<article-title>Enantiomer-specific
+detection of
+chiral molecules via microwave spectroscopy</article-title>. <source>Nature</source>
+<year>2013</year>, <volume>497</volume>, <fpage>475</fpage>&#x02013;<lpage>477</lpage>. <pub-id pub-id-type="doi">10.1038/nature12150</pub-id>.<pub-id pub-id-type="pmid">23698447</pub-id>
+</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Rhee</surname><given-names>H.</given-names></name>; <name><surname>June</surname><given-names>Y.-G.</given-names></name>; <name><surname>Lee</surname><given-names>J.-S.</given-names></name>; <name><surname>Lee</surname><given-names>K.-K.</given-names></name>; <name><surname>Ha</surname><given-names>J.-H.</given-names></name>; <name><surname>Kim</surname><given-names>Z. H.</given-names></name>; <name><surname>Jeon</surname><given-names>S.-J.</given-names></name>; <name><surname>Cho</surname><given-names>M.</given-names></name>
+<article-title>Femtosecond characterization
+of vibrational optical activity of chiral molecules</article-title>. <source>Nature</source>
+<year>2009</year>, <volume>458</volume>, <fpage>310</fpage>&#x02013;<lpage>313</lpage>. <pub-id pub-id-type="doi">10.1038/nature07846</pub-id>.<pub-id pub-id-type="pmid">19295604</pub-id>
+</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Milo&#x00161;evic</surname><given-names>D. B.</given-names></name>; <name><surname>Starace</surname><given-names>A. F.</given-names></name>
+<article-title>Magnetic-field-induced intensity revivals in harmonic
+generation</article-title>. <source>Phys. Rev. Lett.</source>
+<year>1999</year>, <volume>82</volume>, <fpage>2653</fpage>&#x02013;<lpage>2656</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevLett.82.2653</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Mart&#x000ed;n-Hern&#x000e1;ndez</surname><given-names>R.</given-names></name>; <name><surname>Hu</surname><given-names>H.</given-names></name>; <name><surname>Baltuska</surname><given-names>A.</given-names></name>; <name><surname>Plaja</surname><given-names>L.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Garc&#x000ed;a</surname><given-names>C.</given-names></name>
+<article-title>Fourier-limited
+attosecond pulse from high harmonic generation assisted by ultrafast
+magnetic fields</article-title>. <source>Ultrafast Science</source>
+<year>2023</year>, <volume>3</volume>, <fpage>0036</fpage><pub-id pub-id-type="doi">10.34133/ultrafastscience.0036</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Siegrist</surname><given-names>F.</given-names></name>; <name><surname>Gessner</surname><given-names>J. A.</given-names></name>; <name><surname>Ossiander</surname><given-names>M.</given-names></name>; <name><surname>Denker</surname><given-names>C.</given-names></name>; <name><surname>Chang</surname><given-names>Y.-P.</given-names></name>; <name><surname>Schr&#x000f6;der</surname><given-names>M. C.</given-names></name>; <name><surname>Guggenmos</surname><given-names>A.</given-names></name>; <name><surname>Cui</surname><given-names>Y.</given-names></name>; <name><surname>Walowski</surname><given-names>J.</given-names></name>; <name><surname>Martens</surname><given-names>U.</given-names></name>; et al. <article-title>Light-wave dynamic control of magnetism</article-title>. <source>Nature</source>
+<year>2019</year>, <volume>571</volume>, <fpage>240</fpage>&#x02013;<lpage>244</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1333-x</pub-id>.<pub-id pub-id-type="pmid">31243366</pub-id>
+</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Neufeld</surname><given-names>O.</given-names></name>; <name><surname>Tancogne-Dejean</surname><given-names>N.</given-names></name>; <name><surname>De Giovannini</surname><given-names>U.</given-names></name>; <name><surname>H&#x000fc;bener</surname><given-names>H.</given-names></name>; <name><surname>Rubio</surname><given-names>A.</given-names></name>
+<article-title>Attosecond magnetization
+dynamics in non-magnetic materials driven
+by intense femtosecond lasers</article-title>. <source>Npj Comput. Mater.</source>
+<year>2023</year>, <volume>9</volume>, <fpage>39</fpage><pub-id pub-id-type="doi">10.1038/s41524-023-00997-7</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Naaman</surname><given-names>R.</given-names></name>; <name><surname>Waldeck</surname><given-names>D. H.</given-names></name>
+<article-title>Chiral-induced spin
+selectivity effect</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2012</year>, <volume>3</volume>, <fpage>2178</fpage>&#x02013;<lpage>2187</lpage>. <pub-id pub-id-type="doi">10.1021/jz300793y</pub-id>.<pub-id pub-id-type="pmid">26295768</pub-id>
+</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Beaulieu</surname><given-names>S.</given-names></name>; <name><surname>Comby</surname><given-names>A.</given-names></name>; <name><surname>Fabre</surname><given-names>B.</given-names></name>; <name><surname>Descamps</surname><given-names>D.</given-names></name>; <name><surname>Ferr&#x000e9;</surname><given-names>A.</given-names></name>; <name><surname>Garcia</surname><given-names>G.</given-names></name>; <name><surname>G&#x000e9;neaux</surname><given-names>R.</given-names></name>; <name><surname>L&#x000e9;gar&#x000e9;</surname><given-names>F.</given-names></name>; <name><surname>Nahon</surname><given-names>L.</given-names></name>; <name><surname>Petit</surname><given-names>S.</given-names></name>; et al. <article-title>Probing
+ultrafast dynamics
+of chiral molecules using time-resolved photoelectron circular dichroism</article-title>. <source>Faraday Discuss.</source>
+<year>2016</year>, <volume>194</volume>, <fpage>325</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1039/C6FD00113K</pub-id>.<pub-id pub-id-type="pmid">27752675</pub-id>
+</mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>S&#x000e1;nchez-Tejerina</surname><given-names>L.</given-names></name>; <name><surname>Mart&#x000ed;n-Hern&#x000e1;ndez</surname><given-names>R.</given-names></name>; <name><surname>Yanes</surname><given-names>R.</given-names></name>; <name><surname>Plaja</surname><given-names>L.</given-names></name>; <name><surname>L&#x000f3;pez-D&#x000ed;az</surname><given-names>L.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Garc&#x000ed;a</surname><given-names>C.</given-names></name>
+<article-title>All-optical
+non-linear chiral ultrafast magnetization dynamics driven by circularly
+polarized magnetic fields</article-title>. <source>High Power Laser
+Science and Engineering</source>
+<year>2023</year>, <volume>11</volume>, <fpage>E82</fpage><pub-id pub-id-type="doi">10.1017/hpl.2023.71</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Jest&#x000e4;dt</surname><given-names>R.</given-names></name>; <name><surname>Ruggenthaler</surname><given-names>M.</given-names></name>; <name><surname>Oliveira</surname><given-names>M. J. T.</given-names></name>; <name><surname>Rubio</surname><given-names>A.</given-names></name>; <name><surname>Appel</surname><given-names>H.</given-names></name>
+<article-title>Light-matter
+interactions within the Ehrenfest&#x02013;Maxwell&#x02013;Pauli&#x02013;Kohn&#x02013;Sham
+framework: fundamentals, implementation, and nano-optical applications</article-title>. <source>Adv. Phys.</source>
+<year>2019</year>, <volume>68</volume>, <fpage>225</fpage>&#x02013;<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1080/00018732.2019.1695875</pub-id>.</mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Tancogne-Dejean</surname><given-names>N.</given-names></name>; <name><surname>Oliveira</surname><given-names>M. J.</given-names></name>; <name><surname>Andrade</surname><given-names>X.</given-names></name>; <name><surname>Appel</surname><given-names>H.</given-names></name>; <name><surname>Borca</surname><given-names>C. H.</given-names></name>; <name><surname>Le Breton</surname><given-names>G.</given-names></name>; <name><surname>Buchholz</surname><given-names>F.</given-names></name>; <name><surname>Castro</surname><given-names>A.</given-names></name>; <name><surname>Corni</surname><given-names>S.</given-names></name>; <name><surname>Correa</surname><given-names>A. A.</given-names></name>; et al. <article-title>Octopus, a computational
+framework for exploring
+light-driven phenomena and quantum dynamics in extended and finite
+systems</article-title>. <source>J. Chem. Phys.</source>
+<year>2020</year>, <volume>152</volume>, <fpage>124119</fpage><pub-id pub-id-type="doi">10.1063/1.5142502</pub-id>.<pub-id pub-id-type="pmid">32241132</pub-id>
+</mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="book" id="cit61"><person-group person-group-type="editor"><name><surname>Marques</surname><given-names>M.</given-names></name>, <name><surname>Ulrich</surname><given-names>C.</given-names></name>, <name><surname>Nagueira</surname><given-names>F.</given-names></name>, <name><surname>Rubio</surname><given-names>A.</given-names></name>, <name><surname>Burke</surname><given-names>K.</given-names></name>, <name><surname>Gross</surname><given-names>E. K. U.</given-names></name></person-group>, Eds. <source>Time-Dependent Density Functional Theory</source>, <source>Lecture Notes in Physics</source>; <publisher-name>Springer</publisher-name>: <publisher-loc>Berlin</publisher-loc>, <year>2006</year>.</mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Perdew</surname><given-names>J. P.</given-names></name>; <name><surname>Zunger</surname><given-names>A.</given-names></name>
+<article-title>Self-interaction correction to density-functional
+approximations
+for many-electron systems</article-title>. <source>Phys. Rev.B</source>
+<year>1981</year>, <volume>23</volume>, <fpage>5048</fpage>&#x02013;<lpage>5079</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.23.5048</pub-id>.</mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Hartwigsen</surname><given-names>C.</given-names></name>; <name><surname>Goedecker</surname><given-names>S.</given-names></name>; <name><surname>Hutter</surname><given-names>J.</given-names></name>
+<article-title>Relativistic separable dual-space
+Gaussian pseudopotentials from H to Rn</article-title>. <source>Phys.
+Rev.B</source>
+<year>1998</year>, <volume>58</volume>, <fpage>3641</fpage>&#x02013;<lpage>3662</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.58.3641</pub-id>.</mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Wilken</surname><given-names>F.</given-names></name>; <name><surname>Bauer</surname><given-names>D.</given-names></name>
+<article-title>Momentum distributions in time-dependent density-functional theory:
+Product-phase approximation for nonsequential double ionization in
+strong laser fields</article-title>. <source>Phys. Rev. A</source>
+<year>2007</year>, <volume>76</volume>, <fpage>023409</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.76.023409</pub-id>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Suzuki</surname><given-names>Y.</given-names></name>; <name><surname>Lacombe</surname><given-names>L.</given-names></name>; <name><surname>Watanabe</surname><given-names>K.</given-names></name>; <name><surname>Maitra</surname><given-names>N. T.</given-names></name>
+<article-title>Exact time-dependent
+exchange-correlation potential in electron scattering processes</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2017</year>, <volume>119</volume>, <fpage>263401</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.119.263401</pub-id>.<pub-id pub-id-type="pmid">29328727</pub-id>
+</mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Maitra</surname><given-names>N. T.</given-names></name>
+<article-title>Double
+and charge-transfer excitations in time-dependent density functional
+theory</article-title>. <source>Annu. Rev. Phys. Chem.</source>
+<year>2022</year>, <volume>73</volume>, <fpage>117</fpage>&#x02013;<lpage>140</lpage>. <pub-id pub-id-type="doi">10.1146/annurev-physchem-082720-124933</pub-id>.<pub-id pub-id-type="pmid">34910562</pub-id>
+</mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Budil</surname><given-names>K. S.</given-names></name>; <name><surname>Sali&#x000e8;res</surname><given-names>P.</given-names></name>; <name><surname>Perry</surname><given-names>M. D.</given-names></name>; <name><surname>L&#x02019;Huillier</surname><given-names>A.</given-names></name>
+<article-title>Influence
+of ellipticity on harmonic generation</article-title>. <source>Phys.
+Rev. A</source>
+<year>1993</year>, <volume>48</volume>, <fpage>R3437</fpage>&#x02013;<lpage>R3440</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevA.48.R3437</pub-id>.<pub-id pub-id-type="pmid">9910089</pub-id>
+</mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Antoine</surname><given-names>P.</given-names></name>; <name><surname>L&#x02019;Huillier</surname><given-names>A.</given-names></name>; <name><surname>Lewenstein</surname><given-names>M.</given-names></name>; <name><surname>Sali&#x000e8;res</surname><given-names>P.</given-names></name>; <name><surname>Carr&#x000e9;</surname><given-names>B.</given-names></name>
+<article-title>Theory of high-order harmonic generation by an elliptically
+polarized laser field</article-title>. <source>Phys. Rev. A</source>
+<year>1996</year>, <volume>53</volume>, <fpage>1725</fpage>&#x02013;<lpage>1745</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevA.53.1725</pub-id>.<pub-id pub-id-type="pmid">9913065</pub-id>
+</mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Sola</surname><given-names>I. J.</given-names></name>; <name><surname>M&#x000e9;vel</surname><given-names>E.</given-names></name>; <name><surname>Elouga</surname><given-names>L.</given-names></name>; <name><surname>Constant</surname><given-names>E.</given-names></name>; <name><surname>Strelkov</surname><given-names>V.</given-names></name>; <name><surname>Poletto</surname><given-names>L.</given-names></name>; <name><surname>Villoresi</surname><given-names>P.</given-names></name>; <name><surname>Benedetti</surname><given-names>E.</given-names></name>; <name><surname>Caumes</surname><given-names>J.-P.</given-names></name>; <name><surname>Stagira</surname><given-names>S.</given-names></name>; et al. <article-title>Controlling attosecond
+electron dynamics by phase-stabilized polarization gating</article-title>. <source>Nat. Phys.</source>
+<year>2006</year>, <volume>2</volume>, <fpage>319</fpage>&#x02013;<lpage>322</lpage>. <pub-id pub-id-type="doi">10.1038/nphys281</pub-id>.</mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="journal" id="cit70"><name><surname>Neufeld</surname><given-names>O.</given-names></name>; <name><surname>Podolsky</surname><given-names>D.</given-names></name>; <name><surname>Cohen</surname><given-names>O.</given-names></name>
+<article-title>Floquet group theory and its application
+to selection rules in harmonic generation</article-title>. <source>Nat.
+Commun.</source>
+<year>2019</year>, <volume>10</volume>, <fpage>405</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-07935-y</pub-id>.<pub-id pub-id-type="pmid">30679423</pub-id>
+</mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Garg</surname><given-names>M.</given-names></name>; <name><surname>Martin-Jimenez</surname><given-names>A.</given-names></name>; <name><surname>Pisarra</surname><given-names>M.</given-names></name>; <name><surname>Luo</surname><given-names>Y.</given-names></name>; <name><surname>Mart&#x000ed;n</surname><given-names>F.</given-names></name>; <name><surname>Kern</surname><given-names>K.</given-names></name>
+<article-title>Real-space subfemtosecond imaging of quantum electronic coherences
+in molecules</article-title>. <source>Nat. Photonics</source>
+<year>2022</year>, <volume>16</volume>, <fpage>196</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.1038/s41566-021-00929-1</pub-id>.</mixed-citation></ref><ref id="ref72"><mixed-citation publication-type="journal" id="cit72"><name><surname>Corkum</surname><given-names>P. B.</given-names></name>; <name><surname>Burnett</surname><given-names>N. H.</given-names></name>; <name><surname>Ivanov</surname><given-names>M. Y.</given-names></name>
+<article-title>Subfemtosecond
+pulses</article-title>. <source>Opt. Lett.</source>
+<year>1994</year>, <volume>19</volume>, <fpage>1870</fpage><pub-id pub-id-type="doi">10.1364/OL.19.001870</pub-id>.<pub-id pub-id-type="pmid">19855681</pub-id>
+</mixed-citation></ref><ref id="ref73"><mixed-citation publication-type="journal" id="cit73"><name><surname>Tcherbakoff</surname><given-names>O.</given-names></name>; <name><surname>M&#x000e9;vel</surname><given-names>E.</given-names></name>; <name><surname>Descamps</surname><given-names>D.</given-names></name>; <name><surname>Plumridge</surname><given-names>J.</given-names></name>; <name><surname>Constant</surname><given-names>E.</given-names></name>
+<article-title>Time-gated high-order harmonic generation</article-title>. <source>Phys. Rev. A</source>
+<year>2003</year>, <volume>68</volume>, <fpage>043804</fpage><pub-id pub-id-type="doi">10.1103/PhysRevA.68.043804</pub-id>.</mixed-citation></ref><ref id="ref74"><mixed-citation publication-type="journal" id="cit74"><name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Ren</surname><given-names>X.</given-names></name>; <name><surname>Yin</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>K.</given-names></name>; <name><surname>Chew</surname><given-names>A.</given-names></name>; <name><surname>Cheng</surname><given-names>Y.</given-names></name>; <name><surname>Cunningham</surname><given-names>E.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Hu</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>
+<article-title>53-attosecond
+X-ray pulses reach the carbon K-edge</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>186</fpage><pub-id pub-id-type="doi">10.1038/s41467-017-00321-0</pub-id>.</mixed-citation></ref><ref id="ref75"><mixed-citation publication-type="book" id="cit75"><person-group person-group-type="allauthors"><name><surname>Knoepfel</surname><given-names>H. E.</given-names></name></person-group><source>Magnetic Fields: A
+Comprehensive Theoretical Treatise for Practical Use</source>; <publisher-name>Wiley</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>2000</year>.</mixed-citation></ref><ref id="ref76"><mixed-citation publication-type="book" id="cit76"><person-group person-group-type="allauthors"><name><surname>Abramowitz</surname><given-names>M.</given-names></name>; <name><surname>Stegun</surname><given-names>I.</given-names></name></person-group><source>Handbook
+of Mathematical Functions: With Formulas, Graphs, and Mathematical
+Tables; Applied mathematics series</source>; <publisher-name>Dover
+Publications</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>1965</year>.</mixed-citation></ref><ref id="ref77"><mixed-citation publication-type="journal" id="cit77"><name><surname>Ossiander</surname><given-names>M.</given-names></name>; <name><surname>Siegrist</surname><given-names>F.</given-names></name>; <name><surname>Shirvanyan</surname><given-names>V.</given-names></name>; <name><surname>Pazourek</surname><given-names>R.</given-names></name>; <name><surname>Sommer</surname><given-names>A.</given-names></name>; <name><surname>Latka</surname><given-names>T.</given-names></name>; <name><surname>Guggenmos</surname><given-names>A.</given-names></name>; <name><surname>Nagele</surname><given-names>S.</given-names></name>; <name><surname>Feist</surname><given-names>J.</given-names></name>; <name><surname>Burgd&#x000f6;rfer</surname><given-names>J.</given-names></name>; et al. <article-title>Attosecond correlation dynamics</article-title>. <source>Nat. Phys.</source>
+<year>2017</year>, <volume>13</volume>, <fpage>280</fpage>&#x02013;<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1038/nphys3941</pub-id>.</mixed-citation></ref><ref id="ref78"><mixed-citation publication-type="journal" id="cit78"><name><surname>Smirnova</surname><given-names>O.</given-names></name>; <name><surname>Mairesse</surname><given-names>Y.</given-names></name>; <name><surname>Patchkovskii</surname><given-names>S.</given-names></name>; <name><surname>Dudovich</surname><given-names>N.</given-names></name>; <name><surname>Villeneuve</surname><given-names>D.</given-names></name>; <name><surname>Corkum</surname><given-names>P.</given-names></name>; <name><surname>Ivanov</surname><given-names>M. Y.</given-names></name>
+<article-title>High harmonic
+interferometry of multi-electron
+dynamics in molecules</article-title>. <source>Nature</source>
+<year>2009</year>, <volume>460</volume>, <fpage>972</fpage>&#x02013;<lpage>977</lpage>. <pub-id pub-id-type="doi">10.1038/nature08253</pub-id>.<pub-id pub-id-type="pmid">19626004</pub-id>
+</mixed-citation></ref><ref id="ref79"><mixed-citation publication-type="journal" id="cit79"><name><surname>de
+las Heras</surname><given-names>A.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Garc&#x000ed;a</surname><given-names>C.</given-names></name>; <name><surname>Plaja</surname><given-names>L.</given-names></name>
+<article-title>Spectral signature of back reaction in correlated electron dynamics
+in intense electromagnetic fields</article-title>. <source>Phys. Rev.
+Res.</source>
+<year>2020</year>, <volume>2</volume>, <fpage>033047</fpage><pub-id pub-id-type="doi">10.1103/PhysRevResearch.2.033047</pub-id>.</mixed-citation></ref><ref id="ref80"><mixed-citation publication-type="journal" id="cit80"><name><surname>Neufeld</surname><given-names>O.</given-names></name>; <name><surname>Cohen</surname><given-names>O.</given-names></name>
+<article-title>Probing ultrafast electron
+correlations in high harmonic generation</article-title>. <source>Phys.
+Rev. Res.</source>
+<year>2020</year>, <volume>2</volume>, <fpage>033037</fpage><pub-id pub-id-type="doi">10.1103/PhysRevResearch.2.033037</pub-id>.</mixed-citation></ref><ref id="ref81"><mixed-citation publication-type="journal" id="cit81"><name><surname>Goulielmakis</surname><given-names>E.</given-names></name>; <name><surname>Loh</surname><given-names>Z. H.</given-names></name>; <name><surname>Wirth</surname><given-names>A.</given-names></name>; <name><surname>Santra</surname><given-names>R.</given-names></name>; <name><surname>Rohringer</surname><given-names>N.</given-names></name>; <name><surname>Yakovlev</surname><given-names>V. S.</given-names></name>; <name><surname>Zherebtsov</surname><given-names>S.</given-names></name>; <name><surname>Pfeifer</surname><given-names>T.</given-names></name>; <name><surname>Azzeer</surname><given-names>A. M.</given-names></name>; <name><surname>Kling</surname><given-names>M. F.</given-names></name>; et al. <article-title>Real-time
+observation of valence electron motion</article-title>. <source>Nature</source>
+<year>2010</year>, <volume>466</volume>, <fpage>739</fpage>&#x02013;<lpage>743</lpage>. <pub-id pub-id-type="doi">10.1038/nature09212</pub-id>.<pub-id pub-id-type="pmid">20686571</pub-id>
+</mixed-citation></ref><ref id="ref82"><mixed-citation publication-type="journal" id="cit82"><name><surname>Shiner</surname><given-names>A. D.</given-names></name>; <name><surname>Schmidt</surname><given-names>B. E.</given-names></name>; <name><surname>Trallero-Herrero</surname><given-names>C.</given-names></name>; <name><surname>W&#x000f6;rner</surname><given-names>H. J.</given-names></name>; <name><surname>Patchkovskii</surname><given-names>S.</given-names></name>; <name><surname>Corkum</surname><given-names>P. B.</given-names></name>; <name><surname>Kieffer</surname><given-names>J.-C.</given-names></name>; <name><surname>L&#x000e9;gar&#x000e9;</surname><given-names>F.</given-names></name>; <name><surname>Villeneuve</surname><given-names>D. M.</given-names></name>
+<article-title>Probing collective multi-electron
+dynamics in xenon
+with high-harmonic spectroscopy</article-title>. <source>Nat. Phys.</source>
+<year>2011</year>, <volume>7</volume>, <fpage>464</fpage>&#x02013;<lpage>467</lpage>. <pub-id pub-id-type="doi">10.1038/nphys1940</pub-id>.</mixed-citation></ref></ref-list></back></article>

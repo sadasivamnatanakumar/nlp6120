@@ -1,0 +1,487 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="brief-report"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Org Biomol Chem</journal-id><journal-id journal-id-type="iso-abbrev">Org Biomol Chem</journal-id><journal-id journal-id-type="publisher-id">OB</journal-id><journal-id journal-id-type="coden">OBCRAK</journal-id><journal-title-group><journal-title>Organic &#x00026; Biomolecular Chemistry</journal-title></journal-title-group><issn pub-type="ppub">1477-0520</issn><issn pub-type="epub">1477-0539</issn><publisher><publisher-name>The Royal Society of Chemistry</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">37970888</article-id><article-id pub-id-type="pmc">PMC10732280</article-id>
+<article-id pub-id-type="publisher-id">d3ob01464a</article-id><article-id pub-id-type="doi">10.1039/d3ob01464a</article-id><article-categories><subj-group subj-group-type="heading"><subject>Chemistry</subject></subj-group></article-categories><title-group><article-title>QN-302 demonstrates opposing effects between i-motif and G-quadruplex DNA structures in the promoter of the S100P gene<xref rid="fn1" ref-type="fn">&#x02020;</xref></article-title><fn-group><fn id="fn1"><label>&#x02020;</label><p>Electronic supplementary information (ESI) available: Experimental details, supporting UV melting, CD melting and CD titrations. See DOI: <uri xlink:href="https://doi.org/10.1039/d3ob01464a">https://doi.org/10.1039/d3ob01464a</uri></p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5727-6839</contrib-id><name><surname>Alexandrou</surname><given-names>Effrosyni</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0858-1746</contrib-id><name><surname>Guneri</surname><given-names>Dilek</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0622-6548</contrib-id><name><surname>Neidle</surname><given-names>Stephen</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8538-0484</contrib-id><name><surname>Waller</surname><given-names>Zo&#x000eb; A. E.</given-names></name><xref rid="affa" ref-type="aff">a</xref></contrib><aff id="affa">
+<label>a</label>
+<institution>School of Pharmacy, University College London</institution>
+<addr-line>29-39 Brunswick Square</addr-line>
+<city>London</city>
+<postal-code>WC1N 1AX</postal-code>
+<country>UK</country>
+<email>s.neidle@ucl.ac.uk</email>
+<email>z.waller@ucl.ac.uk</email>
+</aff></contrib-group><pub-date publication-format="electronic" date-type="pub" iso-8601-date="2023-11-06"><day>6</day><month>11</month><year>2023</year></pub-date><pub-date publication-format="electronic" date-type="collection" iso-8601-date="2023-12-20"><day>20</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>6</day><month>11</month><year>2023</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.--><volume>22</volume><issue>1</issue><fpage>55</fpage><lpage>58</lpage><history><date date-type="received" iso-8601-date="2023-09-12"><day>12</day><month>9</month><year>2023</year></date><date date-type="accepted" iso-8601-date="2023-10-24"><day>24</day><month>10</month><year>2023</year></date></history><permissions><copyright-statement>This journal is &#x000a9; The Royal Society of Chemistry</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>The Royal Society of Chemistry</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2023-11-06">https://creativecommons.org/licenses/by/3.0/</ali:license_ref></license></permissions><abstract><p>GC-rich sequences can fold into G-quadruplexes and i-motifs and are known to control gene expression in many organisms. The potent G-quadruplex experimental anticancer drug QN-302 down-regulates a number of cancer-related genes, in particular <italic toggle="yes">S100P</italic>. Here we show this ligand has strong opposing effects with i-motif DNA structures and is one of the most potent i-motif destabilising agents reported to date. QN-302 down-regulates the expression of numerous cancer-related genes by pan-quadruplex targeting. QN-302 exhibits exceptional combined synergistic effects compared to many other G-quadruplex and i-motif interacting compounds. This work further emphasises the importance of considering G-quadruplex and i-motif DNA structures as one dynamic system.</p></abstract><abstract abstract-type="toc"><p>The potent G-quadruplex experimental drug QN-302 has strong opposing effects with i-motif DNA structures at the promoter of <italic toggle="yes">S100P</italic>.<graphic xlink:href="d3ob01464a-ga.jpg" id="ga" position="float"/></p></abstract><funding-group><award-group><funding-source>
+<institution-wrap><institution>Biotechnology and Biological Sciences Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000268</institution-id></institution-wrap>
+</funding-source><award-id>BB/W001616/1</award-id></award-group></funding-group><counts><page-count count="4"/></counts><custom-meta-group><custom-meta><meta-name>pubstatus</meta-name><meta-value>Paginated Article</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>Promoter sequences within cancer-related genes frequently contain repeats of short G-tracts that can fold into higher-order quadruplex structures under appropriate conditions.<sup><xref rid="cit1" ref-type="bibr">1&#x02013;5</xref></sup> Their complementary C-tract strands can also fold into i-motif arrangements.<sup><xref rid="cit6" ref-type="bibr">6,7</xref></sup> Stabilization of these structures by appropriate small-molecule compounds can result in transcriptional inhibition, and ultimately to cancer cell death.<sup><xref rid="cit1" ref-type="bibr">1,5</xref></sup> Several thousand such compounds have been described, and some show promise as potential drug candidates.<sup><xref rid="cit8" ref-type="bibr">8&#x02013;12</xref></sup> We have developed several series of substituted naphthalene diimide derivatives,<sup><xref rid="cit13" ref-type="bibr">13&#x02013;15</xref></sup> and the most recent, QN-302 (<xref rid="fig1" ref-type="fig">Fig. 1</xref>), shows high potency in cell growth inhibition assays, favourable pharmacological properties and antitumour activity in several <italic toggle="yes">in vivo</italic> cancer models.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> The transcriptional profile in cancer cells of genes down-regulated by QN-302 is in accordance with the hypothesis that it is a pan-quadruplex stabilising agent, affecting genes in several important cancer-related pathways.<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> However, to date it cannot be excluded that QN-302 also stabilises i-motif structures formed on the complementary C-rich strand of G-quadruplex sequences. The present study addresses this issue with a major gene target as an exemplar.</p><fig position="float" id="fig1"><label>Fig. 1</label><caption><title>Structure of QN-302.</title></caption><graphic xlink:href="d3ob01464a-f1" position="float"/></fig><p>QN-302 is currently in clinical development with Qualigen Therapeutics Inc. It has been granted Orphan Drug Designation status for the treatment of pancreatic cancer, clearance has been granted by the FDA in the USA to proceed to clinical trials for human cancers, which are now underway.</p><p>QN-302 down-regulates the expression of a number of significant cancer-related genes,<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> including the <italic toggle="yes">S100P</italic> gene in cancer cells and in a xenograft model of pancreatic cancer.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> This gene codes for a small (10.4 kDa) calcium-binding protein and is highly upregulated in 70% of human pancreatic cancer patients, correlating with disease status.<sup><xref rid="cit18" ref-type="bibr">18,19</xref></sup> The S100P protein has been proposed as a plausible biomarker for diagnostic purposes and as a therapeutic target in pancreatic cancer.<sup><xref rid="cit20" ref-type="bibr">20,21</xref></sup> The <italic toggle="yes">S100P</italic> promoter<sup><xref rid="cit22" ref-type="bibr">22</xref></sup> contains a C-rich sequence containing four C-tracts on the coding strand, 48 nucleotides upstream from the transcription start site. The complementary four G-tract sequence on the template strand forms a stable G-quadruplex, which is further stabilised by QN-302.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> Here we report on the biophysical characterisation and comparison of both the G-rich and C-rich sequences from the promoter region of <italic toggle="yes">S100P</italic>.</p><p>We initially characterised both the C-rich [5&#x02032;-TCCCAACCCCACTGTCCCACCCT-3&#x02032;] and G-rich [5&#x02032;- AGGGTGGGACAGTGGGGTTGGGA-3&#x02032;] sequences from the promoter region of the <italic toggle="yes">S100P</italic> gene. All experiments were performed in 10 mM lithium cacodylate and 100 mM KCl. The G-quadruplex forming sequence was examined at pH 7.0 and the i-motif at between pHs 4.0 and 8.0. UV melting and annealing experiments showed that the G-rich sequence had a <italic toggle="yes">T</italic><sub>m</sub> of 75.0 &#x000b1; 0.2 &#x000b0;C and a <italic toggle="yes">T</italic><sub>a</sub> of 73.3 &#x000b1; 0.7 &#x000b0;C at pH 7.0 (Fig. S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This is consistent with our previous CD experiments indicating that the G-quadruplex structure formed would be highly stable under physiological conditions.<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> The complementary C-rich sequence had a <italic toggle="yes">T</italic><sub>m</sub> of 45.4 &#x000b1; 0.6 &#x000b0;C and a <italic toggle="yes">T</italic><sub>a</sub> of 43.0 &#x000b1; 0.0 &#x000b0;C at pH 5.5 (Fig. S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>). This <italic toggle="yes">T</italic><sub>m</sub> is similar to the melting temperature of other i-motifs of this length with three-cytosine long tracks at the same pH.<sup><xref rid="cit23" ref-type="bibr">23</xref></sup> UV thermal difference spectroscopy on the C-rich sequence showed positive peaks at 240 and 265 nm and a negative peak at 295 nm (<xref rid="fig2" ref-type="fig">Fig. 2</xref>, left), consistent with i-motif structure.<sup><xref rid="cit24" ref-type="bibr">24</xref></sup> Circular dichroism studies at acidic pH gave a spectrum with a positive peak at 288 nm and a negative peak at 260 nm, which is also consistent with an i-motif structure<sup><xref rid="cit25" ref-type="bibr">25</xref></sup> (<xref rid="fig2" ref-type="fig">Fig. 2</xref>, right). The i-motif forming sequence was found to have a transitional pH (pH<sub>T</sub>) of 6.4, which indicates that this C-rich sequence can form an i-motif at near-neutral pH.<sup><xref rid="cit23" ref-type="bibr">23,26</xref></sup></p><fig position="float" id="fig2"><label>Fig. 2</label><caption><title>Left: thermal difference spectra of the C-rich i-motif forming <italic toggle="yes">S100P</italic> sequence: at 2.5 &#x003bc;M in 10 mM lithium cacodylate and 100 mM KCl buffer at pH 5.5. Right: CD spectra of the C-rich <italic toggle="yes">S100P</italic> sequence at 10 &#x003bc;M DNA in 10 mM lithium cacodylate and 100 mM KCl buffer at pH as indicated. Inset: corresponding plot of ellipticity at 288 nm at the different pHs to determine the transitional pH.</title></caption><graphic xlink:href="d3ob01464a-f2" position="float"/></fig><p>QN-302 is one of the most potent G-quadruplex binding ligands reported to date with a <italic toggle="yes">K</italic><sub>d</sub> of 4.9 nM for the G-quadruplex forming sequence from hTERT.<sup><xref rid="cit15" ref-type="bibr">15</xref></sup> It was previously shown to stabilise the G-quadruplex from the promoter region of <italic toggle="yes">S100P</italic> with &#x00394;<italic toggle="yes">T</italic><sub>m</sub> values of 7.4 &#x000b1; 0.2 &#x000b0;C at 10 &#x003bc;M (1 eq.), 17.0 &#x000b1; 0.1 &#x000b0;C at 20 &#x003bc;M (2 eq.) and 20.0 &#x000b1; 1.3 &#x000b0;C at 50 &#x003bc;M (5 eq.) (<xref rid="tab1" ref-type="table">Table 1</xref>).<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> These data indicates that QN-302 has a strong stabilising effect on the G-quadruplex structure formed.</p><table-wrap position="float" id="tab1"><caption><title>Change in melting temperature (&#x00394;<italic toggle="yes">T</italic><sub>m)</sub> of the <italic toggle="yes">S100P</italic> G-quadruplex and i-motif with QN-302 measured by CD melting experiments</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/></colgroup><thead><tr><th rowspan="2" valign="bottom" colspan="1">[QN-302] &#x003bc;M</th><th rowspan="1" colspan="1">&#x00394;<italic toggle="yes">T</italic><sub>m</sub> (&#x000b0;C)</th><th rowspan="1" colspan="1">&#x00394;<italic toggle="yes">T</italic><sub>m</sub> (&#x000b0;C)</th></tr><tr><th rowspan="1" colspan="1">
+<italic toggle="yes">S100P</italic> G &#x02013; quadruplex<sup><xref rid="cit17" ref-type="bibr">17</xref></sup></th><th rowspan="1" colspan="1">
+<italic toggle="yes">S100P</italic> i &#x02013; motif</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">7.4 &#x000b1; 0.2</td><td rowspan="1" colspan="1">&#x02212;6.5 &#x000b1; 1.7</td></tr><tr><td rowspan="1" colspan="1">20</td><td rowspan="1" colspan="1">17.0 &#x000b1; 0.1</td><td rowspan="1" colspan="1">&#x02212;14.3 &#x000b1; 0.1</td></tr><tr><td rowspan="1" colspan="1">50</td><td rowspan="1" colspan="1">20.0 &#x000b1; 1.3</td><td rowspan="1" colspan="1">&#x02212;20.7 &#x000b1; 1.1</td></tr></tbody></table></table-wrap><p>We then focused in detail on the effects of QN-302 on the C-rich sequence from the <italic toggle="yes">S100P</italic> promoter. &#x00394;<italic toggle="yes">T</italic><sub>m</sub> values in the presence of QN-302 were determined in 10 mM lithium cacodylate, 100 mM KCl at pH 5.5, where the <italic toggle="yes">S100P</italic> sequence would be fully folded (<xref rid="fig2" ref-type="fig">Fig. 2</xref>). At 10 &#x003bc;M (1 eq.) of QN-302 the &#x00394;<italic toggle="yes">T</italic><sub>m</sub> values were found to be &#x02212;6.5 &#x000b1; 1.7 &#x000b0;C, &#x02212;14.3 &#x000b1; 0.1 &#x000b0;C at 20 &#x003bc;M (2 eq.) and &#x02212;20.7 &#x000b1; 1.1 &#x000b0;C at 50 &#x003bc;M (5 eq.), demonstrating a dose-dependent destabilisation of i-motif structure by QN-302 (<xref rid="fig3" ref-type="fig">Fig. 3</xref>, <xref rid="tab1" ref-type="table">Table 1</xref> and Fig. S4<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Other known G-quadruplex ligands such as berberine, BRACO-19, Phen-DC3, pyridostatin, RHPS4 and TmPyP4 have previously been shown to destabilise i-motifs, but to a lesser extent.<sup><xref rid="cit27" ref-type="bibr">27&#x02013;29</xref></sup> For example, BRACO-19 has a &#x00394;<italic toggle="yes">T</italic><sub>m</sub> values of &#x02212;7.3 &#x000b1; 0.7 &#x000b0;C for the i-motif forming sequence from the promoter region of the DAP gene<sup><xref rid="cit28" ref-type="bibr">28</xref></sup> and &#x02212;13.4 &#x000b1; 0.5 &#x000b0;C for the i-motif from the human telomere. These &#x00394;<italic toggle="yes">T</italic><sub>m</sub> values are significantly smaller compared to our observations with QN-302. Di Porzio, Galli <italic toggle="yes">et al.</italic> have synthesised bis-triazolyl-pyridine derivatives that appear to have highly destabilising effects on the <italic toggle="yes">c-Myc</italic> and the hTelo i-motifs with &#x00394;<italic toggle="yes">T</italic><sub>m</sub> values of up to &#x02212;29 &#x000b1; 1 &#x000b0;C in one case. However, this destabilisation was achieved with double the number of ligand equivalents (10 molar equivalents) in phosphate buffer at pH 5.0.<sup><xref rid="cit29" ref-type="bibr">29</xref></sup> These ligands did not have the same high stabilising effect on their respective G-quadruplexes as we observe with QN-302. To the best of our knowledge QN-302 is one of the most potent destabilising agents for i-motifs reported to date. Highly destabilising activity was also observed when QN-302 was tested against the i-motif forming sequences from the human genome including the telomeric sequence (hTelo), the insulin linked polymorphic region (ILPR) and the promoter region of DAP (Fig. S5&#x02013;S7 and Table S1<xref rid="fn1" ref-type="fn">&#x02020;</xref>).</p><fig position="float" id="fig3"><label>Fig. 3</label><caption><title>Representative CD melting experiments with 10 &#x003bc;M <italic toggle="yes">S100P</italic> i-motif in 10 mM lithium cacodylate 100 mM KCl buffer (pH 5.5), and 0, 10, 20 or 50 &#x003bc;M QN-302, as indicated.</title></caption><graphic xlink:href="d3ob01464a-f3" position="float"/></fig><p>To further investigate the destabilising effects of the <italic toggle="yes">S100P</italic> i-motif by QN-302 CD titrations were performed (<xref rid="fig4" ref-type="fig">Fig. 4</xref>). Upon addition of QN-302 at a concentration range from 0 to 110 &#x003bc;M, the CD signal intensity at 288 nm was found to decrease in a dose-dependent fashion until a point at &#x0223c;50 &#x003bc;M beyond which no further reduction in the ellipticity was observed. The decrease in the CD signal suggested ligand-dependent disruption of the <italic toggle="yes">S100P</italic> i-motif, consistent with unfolding of the structure to a single strand. This agrees with the CD melting experiments showing destabilisation. A plot of ellipticity against QN-302 concentration gave a sigmoidal-shaped curve (<xref rid="fig4" ref-type="fig">Fig. 4</xref>), indicative of a cooperative unfolding effect. By fitting the sigmoidal-shaped curves to the Hill 1 equation using Origin software, we obtained Hill coefficients (<italic toggle="yes">n</italic>) of 2.3 &#x000b1; 0.2. This reveals that the binding of QN-302 exhibits positive cooperativity (<italic toggle="yes">n</italic> &#x0003e; 1) for the <italic toggle="yes">S100P</italic> i-motif. Additionally, the concentration of QN-302 that is required to reach 50% reduction of the molar ellipticity was determined to be 31 &#x000b1; 4 &#x003bc;M. Analogous CD titration experiments with the G-quadruplex forming sequence showed no significant changes in topology (Fig. S3<xref rid="fn1" ref-type="fn">&#x02020;</xref>). Indicating that the ligand is G-quadruplex stabilising and has both i-motif destabilising and unfolding properties. Taken together, the biophysical data illustrate the dynamic interplay of the two higher order DNA structures.</p><fig position="float" id="fig4"><label>Fig. 4</label><caption><title>Left: CD titration of the C-rich <italic toggle="yes">S100P</italic> sequence (10 &#x003bc;M) and QN-302 (0&#x02013;110 &#x003bc;M) in 10 mM lithium cacodylate and 100 mM KCl buffer at pH 5.5. Right: plot of ellipticity at 288 nm against QN-302 concentration and corresponding Hill 1 fitting.</title></caption><graphic xlink:href="d3ob01464a-f4" position="float"/></fig><p>To further compare the affinity of QN-302 for the <italic toggle="yes">S100P</italic> i-motif and G-quadruplexes, UV titrations were performed (Fig. S8&#x02013;S13 and Table S2<xref rid="fn1" ref-type="fn">&#x02020;</xref>) and the dissociation constants (<italic toggle="yes">K</italic><sub>d</sub>) were determined. The <italic toggle="yes">K</italic><sub>d</sub> for the G-quadruplex (<italic toggle="yes">K</italic><sub>d</sub> = 2.0 &#x000b1; 0.3 &#x003bc;M) was found to be about six times lower than for the i-motif (<italic toggle="yes">K</italic><sub>d</sub> = 11.7 &#x000b1; 2.9 &#x003bc;M), indicating that QN-302 has higher affinity for G-quadruplex compared to i-motif. This was not unexpected, given QN-302 was designed to target G-quadruplex structures.</p><p>Numerous studies have shown that high expression of the <italic toggle="yes">S100P</italic> gene is correlated with pancreatic cancer progression in humans.<sup><xref rid="cit18" ref-type="bibr">18&#x02013;21</xref></sup> The proposed mode of action involves the stabilisation of the G-quadruplex sequence in the promoter.<sup><xref rid="cit17" ref-type="bibr">17,22</xref></sup> This stabilisation would inhibit transcription factor binding and the progression of RNA polymerase, resulting in direct downregulation of <italic toggle="yes">S100P</italic> gene expression at the transcriptional level analogous to other ligands such as pyridostatin.<sup><xref rid="cit16" ref-type="bibr">16,17,30</xref></sup> In this study we have further examined the mechanistic details of QN-302 interacting with the higher-order structures that can be formed in this promoter region of the <italic toggle="yes">S100P</italic> gene and in particular have examined the potential role of the i-motif formed by the C-rich strand. QN-302 has a strong destabilising effect on the <italic toggle="yes">S100P</italic> i-motif as it is illustrated by CD melting and titration experiments. Therefore, QN-302 by stabilizing the G-quadruplex structure and destabilizing the i-motif structure, has a dual role and may exert a synergistic effect on the inhibition of transcription of the <italic toggle="yes">S100P</italic> gene. Ligand-induced G-quadruplex stabilization inhibits gene expression whereas stabilization of i-motifs could activate transcription.<sup><xref rid="cit31" ref-type="bibr">31,32</xref></sup> This highlights the importance of evaluating the effects of a compound on both the i-motifs and the G-quadruplexes potentially formed from a duplex region of appropriate sequence. This is particularly important given the fact that G-quadruplex and i-motif formation in cells are interdependent.<sup><xref rid="cit33" ref-type="bibr">33</xref></sup> In the case of <italic toggle="yes">S100P</italic>, there is biological evidence that QN-302 can switch off gene expression<sup><xref rid="cit17" ref-type="bibr">17</xref></sup> which may be a consequence of both the stabilisation of the G-quadruplex and the destabilisation of the i-motif. This suggests how these two alternative structures operate together in the <italic toggle="yes">S100P</italic> promoter.</p><p>The findings reported here demonstrate that QN-302 both strongly stabilizes the <italic toggle="yes">S100P</italic> promoter G-quadruplex and strongly destabilizes the complementary i-motif <italic toggle="yes">in vitro</italic>. These data are consistent with and supportive of previous conclusions<sup><xref rid="cit16" ref-type="bibr">16</xref></sup> that QN-302 down-regulates the expression of numerous cancer-related genes by pan-quadruplex targeting. This is particularly important given the recent analysis of TCGA PanCancer Atlas PDAC datasets that indicate poor prognosis in patients with high <italic toggle="yes">S100P</italic> expression.<sup><xref rid="cit34" ref-type="bibr">34</xref></sup> QN-302 exhibits exceptional combined synergistic effects compared to many other G-quadruplex and i-motif interacting compounds. Overall, this work further emphasises the importance of considering these two alternative DNA structures as one dynamic system and as one target.</p><sec sec-type="data-availability"><title>Data availability</title><p>Data is available on Figshare: <uri>10.6084/m9.figshare.24476551</uri>.</p></sec><sec><title>Author contributions</title><p>S. N. and Z. A. E. W. conceived the study, E. A, D. G. and Z. A. E. W. designed the experiments E. A. and D. G. performed the experiments E. A., D. G., S. N. and Z. A. E. W. wrote the paper, contributed to the manuscript revision, and approved the final version.</p></sec><sec sec-type="COI-statement"><title>Conflicts of interest</title><p>S. Neidle is a paid consultant and Advisory Board member of Qualigen Inc.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="OB-022-D3OB01464A-s001" position="float" content-type="local-data"><label>OB-022-D3OB01464A-s001</label><media xlink:href="OB-022-D3OB01464A-s001.pdf" id="d64e615" position="anchor"/></supplementary-material></sec></body><back><ack><p>D. G. is supported by the Biotechnology and Biological Sciences Research Council grant BB/W001616/1.</p></ack><ref-list><ref id="cit1"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Siddiqui-Jain</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Grand</surname><given-names>C. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bearss</surname><given-names>D. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hurley</surname><given-names>L. H.</given-names></name>
+</person-group><source>Proc. Natl. Acad. Sci. U. S. A.</source><year>2002</year><volume>99</volume><fpage>11593</fpage><lpage>11598</lpage><pub-id pub-id-type="doi">10.1073/pnas.182256799</pub-id><pub-id pub-id-type="pmid">12195017</pub-id>
+</element-citation></ref><ref id="cit2"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Huppert</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Balasubramanian</surname><given-names>S.</given-names></name>
+</person-group><source>Nucleic Acids Res.</source><year>2007</year><volume>35</volume><fpage>406</fpage><lpage>413</lpage><pub-id pub-id-type="doi">10.1093/nar/gkl1057</pub-id><pub-id pub-id-type="pmid">17169996</pub-id>
+</element-citation></ref><ref id="cit3"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Balasubramanian</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hurley</surname><given-names>L. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>Nat. Rev. Drug Discovery</source><year>2011</year><volume>10</volume><fpage>261</fpage><lpage>275</lpage><pub-id pub-id-type="doi">10.1038/nrd3428</pub-id><pub-id pub-id-type="pmid">21455236</pub-id>
+</element-citation></ref><ref id="cit4"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Shin</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chapman</surname><given-names>N. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sarker</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kenward</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>S. K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Weatherbee-Martin</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pandey</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dupr&#x000e9;</surname><given-names>D. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Rainey</surname><given-names>J. K.</given-names></name>
+</person-group><source>Biochim. Biophys. Acta, Gen. Subj.</source><year>2017</year><volume>1861</volume><fpage>1901</fpage><lpage>1912</lpage><pub-id pub-id-type="doi">10.1016/j.bbagen.2017.05.017</pub-id><pub-id pub-id-type="pmid">28546009</pub-id>
+</element-citation></ref><ref id="cit5"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lago</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nadai</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cernilogar</surname><given-names>F. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kazerani</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dom&#x000ed;niguez Moreno</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schotta</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Richter</surname><given-names>S. N.</given-names></name>
+</person-group><source>Nat. Commun.</source><year>2021</year><volume>12</volume><fpage>3885</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-24198-2</pub-id><pub-id pub-id-type="pmid">34162892</pub-id>
+</element-citation></ref><ref id="cit6"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Brown</surname><given-names>S. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kendrick</surname><given-names>S.</given-names></name>
+</person-group><source>Pharmaceuticals</source><year>2021</year><volume>14</volume><fpage>96</fpage><pub-id pub-id-type="doi">10.3390/ph14020096</pub-id><pub-id pub-id-type="pmid">33513764</pub-id>
+</element-citation></ref><ref id="cit7"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Irving</surname><given-names>K. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>King</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waller</surname><given-names>Z. A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Evans</surname><given-names>C. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>N. M.</given-names></name>
+</person-group><source>Biochimie</source><year>2022</year><volume>198</volume><fpage>33</fpage><lpage>47</lpage><pub-id pub-id-type="doi">10.1016/j.biochi.2022.03.001</pub-id><pub-id pub-id-type="pmid">35259471</pub-id>
+</element-citation></ref><ref id="cit8"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>J. Med. Chem.</source><year>2016</year><volume>59</volume><fpage>5987</fpage><lpage>6011</lpage><pub-id pub-id-type="doi">10.1021/acs.jmedchem.5b01835</pub-id><pub-id pub-id-type="pmid">26840940</pub-id>
+</element-citation></ref><ref id="cit9"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hurley</surname><given-names>L. H.</given-names></name>
+</person-group><source>Bioorg. Med. Chem. Lett.</source><year>2022</year><volume>77</volume><fpage>129016</fpage><pub-id pub-id-type="doi">10.1016/j.bmcl.2022.129016</pub-id><pub-id pub-id-type="pmid">36195286</pub-id>
+</element-citation></ref><ref id="cit10"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mendes</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Aljnadi</surname><given-names>I. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Bahls</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Victor</surname><given-names>B. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Paulo</surname><given-names>A.</given-names></name>
+</person-group><source>Pharmaceuticals</source><year>2022</year><volume>15</volume><fpage>300</fpage><pub-id pub-id-type="doi">10.3390/ph15030300</pub-id><pub-id pub-id-type="pmid">35337098</pub-id>
+</element-citation></ref><ref id="cit11"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ruggiero</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Richter</surname><given-names>S. N.</given-names></name>
+</person-group><source>Bioorg. Med. Chem. Lett.</source><year>2023</year><volume>79</volume><fpage>129085</fpage><pub-id pub-id-type="doi">10.1016/j.bmcl.2022.129085</pub-id><pub-id pub-id-type="pmid">36423824</pub-id>
+</element-citation></ref><ref id="cit12"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heine</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Juranek</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brossart</surname><given-names>P.</given-names></name>
+</person-group><source>Mol. Cancer</source><year>2021</year><volume>20</volume><fpage>52</fpage><pub-id pub-id-type="doi">10.1186/s12943-021-01339-1</pub-id><pub-id pub-id-type="pmid">33722265</pub-id>
+</element-citation></ref><ref id="cit13"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Micco</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Collie</surname><given-names>G. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dale</surname><given-names>A. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ohnmacht</surname><given-names>S. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pazitna</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gunaratnam</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Reszka</surname><given-names>A. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>J. Med. Chem.</source><year>2013</year><volume>56</volume><fpage>2959</fpage><lpage>2974</lpage><pub-id pub-id-type="doi">10.1021/jm301899y</pub-id><pub-id pub-id-type="pmid">23514618</pub-id>
+</element-citation></ref><ref id="cit14"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Marchetti</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zyner</surname><given-names>K. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ohnmacht</surname><given-names>S. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Robson</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Haider</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morton</surname><given-names>J. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Marsico</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vo</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Laughlin-Toth</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ahmed</surname><given-names>A. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Di Vita</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pazitna</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gunaratnam</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Besser</surname><given-names>R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Andrade</surname><given-names>A. C. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Diocou</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pike</surname><given-names>J. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tannahill</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pedley</surname><given-names>R. B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Evans</surname><given-names>T. R. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wilson</surname><given-names>W. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Balasubramanian</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>J. Med. Chem.</source><year>2018</year><volume>61</volume><fpage>2500</fpage><lpage>2517</lpage><pub-id pub-id-type="doi">10.1021/acs.jmedchem.7b01781</pub-id><pub-id pub-id-type="pmid">29356532</pub-id>
+</element-citation></ref><ref id="cit15"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vo</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oxenford</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Angell</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Marchetti</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ohnmacht</surname><given-names>S. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wilson</surname><given-names>W. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>ACS Med. Chem. Lett.</source><year>2020</year><volume>11</volume><fpage>991</fpage><lpage>999</lpage><pub-id pub-id-type="doi">10.1021/acsmedchemlett.0c00041</pub-id><pub-id pub-id-type="pmid">32435416</pub-id>
+</element-citation></ref><ref id="cit16"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ahmed</surname><given-names>A. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Angell</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oxenford</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Worthington</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Williams</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Barton</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Fowler</surname><given-names>T. G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>O'Flynn</surname><given-names>D. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Sunose</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>McConville</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vo</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wilson</surname><given-names>W. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Karim</surname><given-names>S. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morton</surname><given-names>J. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>ACS Med. Chem. Lett.</source><year>2020</year><volume>11</volume><fpage>1634</fpage><lpage>1644</lpage><pub-id pub-id-type="doi">10.1021/acsmedchemlett.0c00317</pub-id><pub-id pub-id-type="pmid">32832034</pub-id>
+</element-citation></ref><ref id="cit17"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ahmed</surname><given-names>A. A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Greenhalf</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Palmer</surname><given-names>D. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Williams</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Worthington</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Arshad</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Haider</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Alexandrou</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guneri</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waller</surname><given-names>Z. A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Neidle</surname><given-names>S.</given-names></name>
+</person-group><source>Molecules</source><year>2023</year><volume>28</volume><fpage>2452</fpage><pub-id pub-id-type="doi">10.3390/molecules28062452</pub-id><pub-id pub-id-type="pmid">36985425</pub-id>
+</element-citation></ref><ref id="cit18"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Prica</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Radon</surname><given-names>T.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Crnogorac-Jurcevic</surname><given-names>T.</given-names></name>
+</person-group><source>Am. J. Cancer Res.</source><year>2016</year><volume>6</volume><fpage>562</fpage><lpage>576</lpage><pub-id pub-id-type="pmid">27186425</pub-id>
+</element-citation></ref><ref id="cit19"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>Q.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Guo</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tao</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Dong</surname><given-names>D.</given-names></name>
+</person-group><source>Front. Oncol.</source><year>2021</year><volume>11</volume><fpage>711180</fpage><pub-id pub-id-type="doi">10.3389/fonc.2021.711180</pub-id><pub-id pub-id-type="pmid">34527585</pub-id>
+</element-citation></ref><ref id="cit20"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ideno</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Mori</surname><given-names>Y.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Nakamura</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Ohtsuka</surname><given-names>T.</given-names></name>
+</person-group><source>Diagnostics</source><year>2020</year><volume>10</volume><fpage>1056</fpage><pub-id pub-id-type="doi">10.3390/diagnostics10121056</pub-id><pub-id pub-id-type="pmid">33291257</pub-id>
+</element-citation></ref><ref id="cit21"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jiang</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hu</surname><given-names>M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>R.</given-names></name>
+</person-group><source>Bioengineered</source><year>2021</year><volume>12</volume><fpage>9006</fpage><lpage>9020</lpage><pub-id pub-id-type="doi">10.1080/21655979.2021.1992331</pub-id><pub-id pub-id-type="pmid">34654352</pub-id>
+</element-citation></ref><ref id="cit22"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gibadulinova</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Oveckova</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Parkkila</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pastorekova</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pastorek</surname><given-names>J.</given-names></name>
+</person-group><source>Oncol. Rep.</source><year>2008</year><volume>20</volume><fpage>391</fpage><lpage>396</lpage><pub-id pub-id-type="pmid">18636203</pub-id>
+</element-citation></ref><ref id="cit23"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wright</surname><given-names>E. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Huppert</surname><given-names>J. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waller</surname><given-names>Z. A. E.</given-names></name>
+</person-group><source>Nucleic Acids Res.</source><year>2017</year><volume>45</volume><fpage>2951</fpage><lpage>2959</lpage><pub-id pub-id-type="doi">10.1093/nar/gkx090</pub-id><pub-id pub-id-type="pmid">28180276</pub-id>
+</element-citation></ref><ref id="cit24"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mergny</surname><given-names>J.-L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lacroix</surname><given-names>L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amrane</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chaires</surname><given-names>J. B.</given-names></name>
+</person-group><source>Nucleic Acids Res.</source><year>2005</year><volume>33</volume><fpage>e138</fpage><lpage>e138</lpage><pub-id pub-id-type="doi">10.1093/nar/gni134</pub-id><pub-id pub-id-type="pmid">16157860</pub-id>
+</element-citation></ref><ref id="cit25"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kypr</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kejnovsk&#x000e1;</surname><given-names>I.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Renciuk</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Vorl&#x000ed;ckov&#x000e1;</surname><given-names>M.</given-names></name>
+</person-group><source>Nucleic Acids Res.</source><year>2009</year><volume>37</volume><fpage>1713</fpage><lpage>1725</lpage><pub-id pub-id-type="doi">10.1093/nar/gkp026</pub-id><pub-id pub-id-type="pmid">19190094</pub-id>
+</element-citation></ref><ref id="cit26"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhou</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wei</surname><given-names>C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jia</surname><given-names>G.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Feng</surname><given-names>Z.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Li</surname><given-names>C.</given-names></name>
+</person-group><source>Mol. BioSyst.</source><year>2010</year><volume>6</volume><fpage>580</fpage><lpage>586</lpage><pub-id pub-id-type="doi">10.1039/B919600E</pub-id><pub-id pub-id-type="pmid">20174686</pub-id>
+</element-citation></ref><ref id="cit27"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Pagano</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Iaccarino</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Abdelhamid</surname><given-names>M. A. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brancaccio</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Garzarella</surname><given-names>E. U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Di Porzio</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Novellino</surname><given-names>E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waller</surname><given-names>Z. A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pagano</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amato</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Randazzo</surname><given-names>A.</given-names></name>
+</person-group><source>Front. Chem.</source><year>2018</year><volume>6</volume><fpage>281</fpage><pub-id pub-id-type="doi">10.3389/fchem.2018.00281</pub-id><pub-id pub-id-type="pmid">30137743</pub-id>
+</element-citation></ref><ref id="cit28"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Abdelhamid</surname><given-names>M. A. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gates</surname><given-names>A. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waller</surname><given-names>Z. A. E.</given-names></name>
+</person-group><source>Biochemistry</source><year>2019</year><volume>58</volume><fpage>245</fpage><lpage>249</lpage><pub-id pub-id-type="doi">10.1021/acs.biochem.8b00968</pub-id><pub-id pub-id-type="pmid">30350580</pub-id>
+</element-citation></ref><ref id="cit29"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Di Porzio</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Galli</surname><given-names>U.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Amato</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Zizza</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Iachettini</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Iaccarino</surname><given-names>N.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Marzano</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Santoro</surname><given-names>F.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Brancaccio</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Carotenuto</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>De Tito</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Biroccio</surname><given-names>A.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pagano</surname><given-names>B.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tron</surname><given-names>G. C.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Randazzo</surname><given-names>A.</given-names></name>
+</person-group><source>Int. J. Mol. Sci.</source><year>2021</year><volume>22</volume><fpage>11959</fpage><pub-id pub-id-type="doi">10.3390/ijms222111959</pub-id><pub-id pub-id-type="pmid">34769387</pub-id>
+</element-citation></ref><ref id="cit30"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Spiegel</surname><given-names>J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Cuesta</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Adhikari</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>H&#x000e4;nsel-Hertsch</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Tannahill</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Balasubramanian</surname><given-names>S.</given-names></name>
+</person-group><source>Genome Biol.</source><year>2021</year><volume>22</volume><fpage>117</fpage><pub-id pub-id-type="doi">10.1186/s13059-021-02324-z</pub-id><pub-id pub-id-type="pmid">33892767</pub-id>
+</element-citation></ref><ref id="cit31"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kendrick</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hecht</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hurley</surname><given-names>L. H.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2014</year><volume>136</volume><fpage>4172</fpage><lpage>4185</lpage><pub-id pub-id-type="doi">10.1021/ja4109352</pub-id><pub-id pub-id-type="pmid">24559432</pub-id>
+</element-citation></ref><ref id="cit32"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kendrick</surname><given-names>S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Kang</surname><given-names>H. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Alam</surname><given-names>M. P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Madathil</surname><given-names>M. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Agrawal</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Gokhale</surname><given-names>V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hecht</surname><given-names>S. M.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hurley</surname><given-names>L. H.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2014</year><volume>136</volume><fpage>4161</fpage><lpage>4171</lpage><pub-id pub-id-type="doi">10.1021/ja410934b</pub-id><pub-id pub-id-type="pmid">24559410</pub-id>
+</element-citation></ref><ref id="cit33"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>King</surname><given-names>J. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Irving</surname><given-names>K. L.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Evans</surname><given-names>C. W.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Chikhale</surname><given-names>R. V.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Becker</surname><given-names>R.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Morris</surname><given-names>C. J.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Pe&#x000f1;a Martinez</surname><given-names>C. D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Schofield</surname><given-names>P.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Christ</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Hurley</surname><given-names>L. H.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Waller</surname><given-names>Z. A. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Iyer</surname><given-names>K. S.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Smith</surname><given-names>N. M.</given-names></name>
+</person-group><source>J. Am. Chem. Soc.</source><year>2020</year><volume>142</volume><fpage>20600</fpage><lpage>20604</lpage><pub-id pub-id-type="doi">10.1021/jacs.0c11708</pub-id><pub-id pub-id-type="pmid">33253551</pub-id>
+</element-citation></ref><ref id="cit34"><element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Srivastava</surname><given-names>K.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Lines</surname><given-names>K. E.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Jach</surname><given-names>D.</given-names></name>
+</person-group><person-group person-group-type="author">
+<name><surname>Crnogorac-Jurcevic</surname><given-names>T.</given-names></name>
+</person-group><source>Oncongene</source><year>2023</year><pub-id pub-id-type="doi">10.1038/s41388-023-02851-y</pub-id></element-citation></ref></ref-list></back></article>

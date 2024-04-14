@@ -1,0 +1,560 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38059566</article-id><article-id pub-id-type="pmc">PMC10726356</article-id>
+<article-id pub-id-type="doi">10.1021/acs.jpclett.3c02702</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Efficient Electron
+Hopping Transport through Azurin-Based
+Junctions</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Rold&#x000e1;n-Pi&#x000f1;ero</surname><given-names>Carlos</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6902-1553</contrib-id><name><surname>Romero-Mu&#x000f1;iz</surname><given-names>Carlos</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0513-8888</contrib-id><name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>Ismael</given-names></name><xref rid="aff3" ref-type="aff">&#x000b6;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8338-9119</contrib-id><name><surname>Vilhena</surname><given-names>J. G.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5896-541X</contrib-id><name><surname>P&#x000e9;rez</surname><given-names>Rub&#x000e9;n</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7421-0682</contrib-id><name><surname>Cuevas</surname><given-names>Juan Carlos</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5292-6759</contrib-id><name><surname>Zotti</surname><given-names>Linda A.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff4" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Departamento
+de F&#x000ed;sica Te&#x000f3;rica de la Materia Condensada, <institution>Universidad Aut&#x000f3;noma de Madrid</institution>, E-28049 Madrid, <country>Spain</country></aff><aff id="aff2"><label>&#x02021;</label>Departamento
+de F&#x000ed;sica de la Materia Condensada, <institution>Universidad de Sevilla</institution>, PO Box 1065, 41080 Sevilla, <country>Spain</country></aff><aff id="aff3"><label>&#x000b6;</label>Department
+of Chemistry, Faculty of Natural &#x00026; Mathematical Sciences, <institution>King&#x02019;s College London</institution>, Britannia House, 7 Trinity Street, London SE1 1DB, <country>U.K.</country></aff><aff id="aff4"><label>&#x000a7;</label>Condensed
+Matter Physics Center (IFIMAC), <institution>Universidad
+Aut&#x000f3;noma de Madrid</institution>, E-28049 Madrid, <country>Spain</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>linda.zotti@uam.es</email>.</corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><volume>14</volume><issue>49</issue><fpage>11242</fpage><lpage>11249</lpage><history><date date-type="received"><day>26</day><month>09</month><year>2023</year></date><date date-type="accepted"><day>09</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>27</day><month>10</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_0006" id="ab-tgr1"/></p><p>We conducted a theoretical
+study of electron transport
+through
+junctions of the blue-copper azurin from <italic>Pseudomonas aeruginosa</italic>. We found that single-site hopping can lead to either higher or
+lower current values compared to fully coherent transport. This depends
+on the structural details of the junctions as well as the alignment
+of the protein orbitals. Moreover, we show how the asymmetry of the <italic>IV</italic> curves can be affected by the position of the tip in
+the junction and that, under specific conditions, such a hopping mechanism
+is consistent with a fairly low temperature dependence of the current.
+Finally, we show that increasing the number of hopping sites leads
+to higher hopping currents. Our findings, from fully quantum calculations,
+provide deep insight to help guide the interpretation of experimental <italic>IV</italic> curves on highly complex systems.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>H2020 European Research Council</institution><institution-id institution-id-type="doi">10.13039/100010663</institution-id></institution-wrap></funding-source><award-id>772391</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>TED2021-132219A-I00</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>RYC2021-031176-I</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2021- 125604NB-I00</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2020-115864RB-I00</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2020-114880GB-I00</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>PID2020-113722RJ-100</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministerio de Ciencia e Innovaci&#x000c3;&#x000b3;n</institution><institution-id institution-id-type="doi">10.13039/501100004837</institution-id></institution-wrap></funding-source><award-id>CEX2018-000805-M</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Biotechnology and Biological Sciences Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000268</institution-id></institution-wrap></funding-source><award-id>BB/X002810/1</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Comunidad de Madrid</institution><institution-id institution-id-type="doi">10.13039/100012818</institution-id></institution-wrap></funding-source><award-id>SI3/PJI/2021- 00191</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Comunidad de Madrid</institution><institution-id institution-id-type="doi">10.13039/100012818</institution-id></institution-wrap></funding-source><award-id>2020-T1/ND- 20306</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz3c02702</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz3c02702</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>The field of
+protein electronics
+has flourished remarkably over the past decade.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> The interest in these systems is mainly triggered by the
+highly efficient charge-transfer that proteins can exhibit over long
+distances,<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> besides their role in extremely important
+processes such as in the respiratory and photosynthetic chains.<sup><xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref5">5</xref></sup> However, experimental advances have also enabled the study of electron
+transport through proteins incorporated in solid-state junctions.<sup><xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref7">7</xref></sup> This has paved the way for the development of future electrical
+devices based on proteins as active elements, as well as their use
+in sensors and biocompatible devices.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> In
+addition, interesting mechanical, self-assembly, chemical recognition,
+and optoelectronic properties have been revealed which could be exploited
+in the development of such new-generation devices. Among various types
+of proteins studied in the field, the blue-copper azurin from <italic>Pseudomonas aeruginosa</italic> has been analyzed quite extensively.<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref13">13</xref></sup> These studies brought to light several surprising electron-transport
+properties: these include the possibility of inducing drastic changes
+in the gate-voltage dependence via a single amino acid mutation,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> the lack of temperature dependence down to 4&#x02009;K<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref16">16</xref></sup> (which was interpreted as an
+indication of coherent tunneling), and the considerably high conductance
+values (up to 10<sup>&#x02013;5</sup><italic>G</italic><sub>0</sub> in single-protein experiments<sup><xref ref-type="bibr" rid="ref17">17</xref></sup>) observed
+despite its large size.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Nevertheless,
+to date, the exact nature of the transport mechanism through this
+protein is still the subject of a long-standing debate;<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> several types of processes such as 2-step tunneling,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> fully coherent transport,<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> and carrier-cascade<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> have been
+proposed. Recently, some of us have shown that fully coherent tunneling
+through a single-azurin junction would lead to extremely low conductance
+values as compared to those observed in experiments.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> This was deduced from a density functional theory (DFT)-based
+study, which involved a high number of geometrical structures obtained
+via molecular dynamics simulations (MD), reproducing a broad range
+of structures likely formed in STM experiments. A subsequent study
+of ours revealed that, within the same transport mechanism, the role
+of the central metallic ion would not be as relevant as expected compared
+to other residues of the protein.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> These
+findings have cast doubts on the actual role of fully coherent transport
+with respect to other types of transport processes (such as sequential
+tunneling, for instance), which were otherwise suggested.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> Clarifying such a basic issue is paramount in
+the prospect of developing protein-based electronics and optimizing
+the performance of any electrical device incorporating these kinds
+of systems. Therefore, in order to shed light on this puzzle, we hereby
+extend our investigation on azurin-based junctions to the analysis
+of an incoherent type of electron transport, which until now was only
+tackled by means of simple models<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> (which
+do not include the complexity of the whole electronic structure of
+these systems). In particular, we have analyzed a hopping process
+through either the Cu ion or a histidine residue which was previously
+found to be relevant in the tunneling process.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> We will show that the hopping currents can be higher or
+lower than those obtained in a fully coherent transport depending
+on structural details of the junctions such as the tip&#x02013;protein
+contact. These also affect the asymmetries in the <italic>IV</italic> curves, depending on the different coupling established with the
+electrodes.</p><p>More specifically, we have computed current&#x02013;voltage
+(<italic>IV</italic>) curves based on an incoherent-transport (hopping)
+model
+for gold&#x02013;azurin&#x02013;gold junctions, such as those displayed
+in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a. The geometrical
+structures were obtained via MD simulations, the details of which
+were reported in previous works.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup> There, the
+study of their electronic-structure properties is also presented.
+They were extracted via a fully quantum approach based on DFT calculations
+which were performed by using the code OpenMX.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref24">24</xref></sup> We started our investigation by focusing on the Cu ion, which previous
+literature<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> indicated as the main player in the electron transport through this
+protein. In the model employed in this study, an electron travels
+between a substrate and a tip via hopping on the Cu ion (which is
+located in the central area of the protein), as depicted in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b. The black arrows
+indicate the transfer rates for each of the two steps in each direction.
+In the following, we will refer to the substrate and tip as the left
+and right electrode, respectively.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Initial (i, iii) and final (ii, iv)
+geometries for the MD simulations
+mimicking junction formation through blinking (left) and side-indentation
+(right), respectively. (b) Schematic representation of the electron-transport
+mechanism taking place in a metal&#x02013;azurin&#x02013;metal junction
+via hopping through the Cu ion. (c) Schematic representation of the
+three cases considered for the level alignments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_0001" id="gr1" position="float"/></fig><p>In the framework of the Marcus theory,<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> for a given
+bias voltage <italic>V</italic> applied between left and right electrode,
+the transfer rates between the leads and the Cu ion can be calculated
+as<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m001" position="anchor"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m002" position="anchor"/><label>2</label></disp-formula><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m003" position="anchor"/><label>3</label></disp-formula><disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m004" position="anchor"/><label>4</label></disp-formula>where <italic>f</italic>(<italic>E</italic>) are the
+Fermi distribution functions, while &#x003bc;<sub><italic>L</italic>/<italic>R</italic></sub> is the voltage-induced displacement
+of the chemical potential of either the left or the right metallic
+electrode, calculated as<disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m005" position="anchor"/><label>5</label></disp-formula>In
+our model, the Fermi level of the left
+(right) electrode is shifted downward (upward) in energy for positive
+bias, while it is shifted in the opposite directions for negative
+bias. <italic>W</italic><sub>ox/red</sub> are distribution functions
+given by<disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m006" position="anchor"/><label>6</label></disp-formula><disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m007" position="anchor"/><label>7</label></disp-formula>where &#x003bb;
+is the reorganization energy
+of the hopping center and <inline-formula id="d33e388"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m008.gif"/></inline-formula> is the
+position of the level, which changes
+as a function of the bias voltage (see below for further details).
+Here, &#x00393;<sub><italic>L</italic>/<italic>R</italic></sub> is the
+level broadening associated with the coupling with the left or right
+electrode. They were calculated as<disp-formula id="eq8"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m009" position="anchor"/><label>8</label></disp-formula>where &#x003c1;<sub><italic>M</italic></sub> is the average density
+of states per atom in the left or right electrode
+while <italic>t</italic><sub><italic>M</italic></sub> can be interpreted
+as a through-bridge tunneling matrix element.<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> All quantities (except for the reorganization energy) were obtained
+from the output of the DFT calculations performed on the whole metal&#x02013;protein&#x02013;metal
+junctions. In particular, the evaluation of <italic>t</italic><sub><italic>M</italic></sub> required two distinct postprocessing calculations
+for the left and right metal&#x02013;protein interfaces. In our procedure,
+the total Hamiltonian <italic>H</italic> is first divided into blocks
+as follows:<disp-formula id="eq9"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m010" position="anchor"/><label>9</label></disp-formula>where <italic>H</italic><sub><italic>L</italic></sub>, <italic>H</italic><sub>Cu</sub>, and <italic>H</italic><sub><italic>R</italic></sub> are the blocks
+relative to the left electrode,
+the Cu ion, and the right electrode, respectively, while <italic>H</italic><sub>Prot</sub> is the block corresponding to the protein deprived
+of the Cu orbitals. The off-diagonal terms correspond to the interactions
+among these four main components. Within the limit of validity of
+perturbation theory, <italic>t</italic><sub><italic>L</italic></sub> is then given by <italic>H</italic><sub><italic>L</italic>,Prot</sub><italic>g</italic>(<italic>E</italic>)<italic>H</italic><sub>Prot,Cu</sub>, whereas <italic>t</italic><sub><italic>R</italic></sub> is given
+by <italic>H</italic><sub>Cu,Prot</sub><italic>g</italic>(<italic>E</italic>)<italic>H</italic><sub>Prot,<italic>R</italic></sub>.
+Here, <italic>g</italic>(<italic>E</italic>) is Green&#x02019;s function
+corresponding to the protein deprived of the Cu-ion, which acts as
+the bridge in both steps (metal&#x02013;Cu and Cu&#x02013;metal). Obviously,
+for each process, the residues in the protein which are spatially
+located far away from the direct path between Cu and the electrode
+do not contribute significantly. More specifically, the Green&#x02019;s
+function <italic>g</italic>(<italic>E</italic>) is calculated as<disp-formula id="eq10"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m011" position="anchor"/><label>10</label></disp-formula><italic>S</italic><sub>Prot</sub> being the
+corresponding block of the overlap matrix. The dependence of the uncorrected
+position of the level &#x003b5;<sub>0</sub> on the coupling with the
+electrodes and the bias voltage was taken into account by calculating
+it as follows:<disp-formula id="eq11"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m012" position="anchor"/><label>11</label></disp-formula>Here, &#x003b5;<sub><italic>C</italic></sub> is a correction that we apply to the molecular orbitals
+of the protein
+in order to address the inaccuracy induced in the energy-level alignment
+by the use of the DFT-GGA approach. This was achieved by means of
+a scissor-like correction<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> which results
+in an increase of the HOMO&#x02013;LUMO gap.</p><p>The quantity <italic>r</italic> serves the purpose of addressing
+the energy displacement of the level &#x003b5;<sub>0</sub> due to the
+coupling with the electrodes.<disp-formula id="eq12"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m013" position="anchor"/><label>12</label></disp-formula></p><p>Finally, the current was computed as<sup><xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref27">27</xref></sup><disp-formula id="eq13"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m014" position="anchor"/><label>13</label></disp-formula></p><p>In order to account for a possible
+role of more than one hopping
+site, we also explored the use of a three-site model, in which the
+central site is the metal ion whereas the other two are the two portions
+of protein comprised between the ion and the electrode on each side.
+In this case, the analytical expression of the current becomes more
+cumbersome. The details about the extraction of the current values
+in this case can be found in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">SI</ext-link>. For
+the sake of comparison, for selected cases, we compared the current
+values with those obtained within a fully coherent mechanism. In this
+case, the current is given by the Landauer formula<disp-formula id="eq14"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m015" position="anchor"/><label>14</label></disp-formula>where <italic>f</italic><sub><italic>L</italic>/<italic>R</italic></sub>(<italic>E</italic>) are the Fermi functions
+of left and right electrodes. The transmission <italic>T</italic>(<italic>E</italic>, <italic>V</italic>) has been computed by Green&#x02019;s
+function techniques as described in ref (<xref ref-type="bibr" rid="ref18">18</xref>) upon applying the same gap correction as for
+the hopping model (see below for details).</p><p>We now turn to analysis
+of the computational results. We have
+considered single-protein junctions that mimic structures likely to
+be obtained with STM-based techniques. In the present study, these
+include two main sets of geometries: (i) junctions obtained by simulating
+the blinking technique and (ii) junctions obtained by simulating a
+lateral indentation (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a). In the former, the tip is positioned in the proximity
+of the protein, avoiding physical contact. However, thermal fluctuations
+induce continuous attachment and detachment from the tip. Jumps in
+the current signal are detected whenever chemical bond is established.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref30">30</xref>&#x02212;<xref ref-type="bibr" rid="ref33">33</xref></sup> In the latter, the tip approaches the protein sideways, while it
+is kept at a fixed distance from the surface. As mentioned before,
+the study of the mechanical and electronic properties of these structures
+(obtained by MD and uncorrected DFT-GGA) was reported in previous
+works.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref22">22</xref></sup></p><p>In the present study, we have considered
+three possible scenarios
+for the zero-bias alignment of the protein with respect to the Fermi
+level of the electrodes (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c): the Fermi level lying in the middle of the HOMO&#x02013;LUMO
+gap (i) and either the HOMO (ii) or the LUMO (ii) being very close
+to the Fermi level. For the sake of simplicity, we will refer to these
+three cases as symmetric, HOMO-dominated, and LUMO-dominated, respectively.
+For all of them, based on previous literature,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> the size of the HOMO&#x02013;LUMO gap was increased by 1
+eV with respect to the GGA value. The reason for considering these
+three representative cases lies in the conflicting information reported
+in the literature regarding the level alignment for this system.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref34">34</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> For small organic molecules,
+the position of the frontier orbitals can be extracted via differences
+of total energies of neutral and charges states.<sup><xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> DFT calculations of charged states of a complex system such as
+the entire azurin protein (almost 2000 atoms), however, are not straightforward
+and may easily lead to incorrect results. Therefore, we prefer to
+turn to analyzing these three clear-cut situations so as to cover
+all possibilities. Note that in any case they would also correspond
+to the different scenarios induced by applying different gate-voltage
+values.</p><p>A key ingredient in Marcus theory is given by the reorganization
+energy. Over the years, various values have been reported for the
+blue-copper azurin.<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref41">41</xref></sup> For the present
+work, we employed a value of 0.5 eV. Nevertheless, in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">SI</ext-link> we show examples of curves obtained with different
+reorganization-energy values.</p><p>Previous literature indicated
+the Cu ion as the main player in
+electron transport through azurin junctions.<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref>,<xref ref-type="bibr" rid="ref25">25</xref></sup> In the case of the HOMO-dominated and the
+symmetric case, this seems to be plausible given the presence of Cu
+orbitals among the highest occupied energy levels of the protein.<sup><xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> Thus, the Cu ion was chosen as the hopping site. For the LUMO-dominated
+case, however, the same choice does not appear as suitable, since
+the Cu unoccupied states lie well above the Fermi level. Indeed, our
+DFT calculations revealed that in these structures, the LUMO is not
+localized on the Cu ion but rather on the residue HIS35, which is
+positioned between the Cu ion and the surface. Consequently, for the
+LUMO-dominated case, this residue was chosen as the hopping site.
+For this, the same reorganization-energy value as that for Cu was
+chosen (curves obtained with different values are shown in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">SI</ext-link>). It should be noted that the HIS35 residue
+was already found to be particularly relevant within a fully coherent
+transport.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p><p><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> displays
+the <italic>I</italic>(<italic>V</italic>) curves obtained for the
+blinking (a) and side indentation (b). For each case, we show three
+sets of curves, corresponding to three representative time frames
+for the blinking and three different tip&#x02013;protein distance values
+for the lateral indentation. Such a distance was calculated between
+the Cu ion and the center of the lowest tip layer. The majority of
+the curves shown in this figure exhibits some degree of asymmetry,
+their values at positive voltage being either higher or lower than
+in the negative range depending on the coupling with the leads. It
+is well-known, indeed,<sup><xref ref-type="bibr" rid="ref26">26</xref></sup> that asymmetries
+in <italic>IV</italic> curves mostly originate from geometrical asymmetries
+in the junction. In fact, differences in the coupling at the molecule&#x02013;metal
+interface can affect the voltage profile by inducing an energy shift
+in a molecular orbital in the same direction as the chemical potential
+of the electrode with which it is more strongly coupled (as described,
+in our model, by <xref rid="eq5" ref-type="disp-formula">eq <xref rid="eq5" ref-type="disp-formula">5</xref></xref>). The curves in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, in particular, seem to reflect the differences in the tip&#x02013;protein
+contact between the two schemes. In the final steps of the lateral
+indentation, the tip becomes significantly close to the Cu complex,
+making the Cu&#x02013;lead coupling on that side larger than that on
+the opposite side. Conversely, in the blinking process, a separation
+between the &#x003b1; helix and &#x003b2; barrel is induced by formation
+of the metal&#x02013;protein contact,<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> making
+the Cu&#x02013;tip coupling weaker than on the surface side. In the
+symmetric scenario considered in our model, for instance, in the case
+for which the coupling between the Cu ion and the tip becomes more
+relevant than the Cu&#x02013;surface coupling, values at positive bias
+become higher than those at negative bias. The opposite applies to
+the reversed situation. This is particularly visible in the symmetric
+case for the lateral indentation, where the Cu&#x02013;tip coupling
+increases as the tip approaches the protein, reversing the asymmetry
+(blue curve vs red and green curves). This does not happen for the
+blinking case, since there the Cu&#x02013;tip coupling is much lower
+than in the side indentation. Interestingly, the same reasoning does
+not seem to apply to the HOMO- and LUMO-dominated cases, where this
+effect seems to be counteracted by the proximity of the orbital to
+the Fermi level. An in-depth discussion of this issue may be found
+in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">SI</ext-link>. It should be noted that such
+a detailed analysis of the asymmetries is possible thanks to having
+obtained the whole electronic structure of the entire metal&#x02013;protein&#x02013;metal
+junction at the DFT level and to having calculated the coupling elements
+by means of the perturbation-theory approach described above. It is
+also worth mentioning that asymmetries in the <italic>IV</italic> curves
+were indeed observed in some of the experimental measurements on this
+protein (see, for instance, Figure S3 of ref (<xref ref-type="bibr" rid="ref42">42</xref>)).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Hopping currents through
+one site in the blinking (a) and lateral
+(b) scheme for the HOMO-dominated, symmetric, and LUMO-dominated cases.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_0002" id="gr2" position="float"/></fig><p>Overall, the lateral indentation yields higher
+current values than
+the blinking. It should be noted that the same was observed for the
+fully coherent transport through the same system and is mainly due
+to the shorter tip&#x02013;surface distance in the side-indentation
+junctions.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> For the blinking method, we
+find that the highest current values are obtained within the HOMO-dominated
+scheme. For the lateral indentation, instead, the highest values are
+obtained for the LUMO dominated case. This is probably due to the
+strong coupling between the surface and residue HIS35, which is the
+hopping site in this case. As this residue is positioned between the
+Cu ion and the surface, however, this effect fades away in the blinking
+scenario, where the larger HIS35&#x02013;tip distance leads to a decrease
+in the current.</p><p>We now turn to analyzing the temperature dependence
+of the current,
+which has been the subject of several studies focused on the azurin.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> In <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a, we report, as an example, the current as a function of
+the inverse of the temperature for a range between 10 and 500 K for
+two selected cases (<italic>t</italic> = 466.6&#x02009;ns for the blinking
+and <italic>d</italic> = 2.54&#x02009;nm for the side indentation),
+fitted to the following exponential equation:<disp-formula id="eq15"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_m016" position="anchor"/><label>15</label></disp-formula></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Temperature
+dependence of the one-site hopping
+currents obtained
+for blinking (at <italic>t</italic> = 466.6&#x02009;ns) and for the
+lateral indentation (for <italic>d</italic> = 2.54&#x02009;nm). (b)
+Barplot with the values of the fitting parameter <italic>B</italic> of <xref rid="eq15" ref-type="disp-formula">eq <xref rid="eq15" ref-type="disp-formula">15</xref></xref> for all cases
+considered.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_0003" id="gr3" position="float"/></fig><p>This fit was performed on all
+of the MD simulation
+frames. In <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b we report a bar
+plot with the average slope values obtained for both sets. In particular,
+we observe a weak time dependence (<italic>B</italic> = 0.11&#x02013;0.16)
+for the LUMO-pinning case in the side indentation. It should be noted
+that the slope increases with the value of the reorganization energy
+assigned to HIS35 (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">SI</ext-link>).</p><p>We now
+turn to comparing the hopping <italic>I</italic>(<italic>V</italic>) curves with those obtained for a fully coherent transport
+(in the spirit of the Landauer formalism, <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). For each method of contact formation,
+we considered three different MD frames for the three level-alignment
+situations.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>One-site hopping and coherent-transport <italic>IV</italic> curves
+for three selected MD time frames of the blinking (a) and the lateral
+indentation (b) simulations in the HOMO-dominated, symmetric, and
+LUMO-dominated cases.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_0004" id="gr4" position="float"/></fig><p>In most cases, the current
+calculated for a hopping
+mechanism appears
+to be higher than the corresponding one obtained within a fully coherent
+transport. This is not the case, however, for the lateral indentation
+in the symmetric scheme, especially at a short tip&#x02013;protein
+distance. In particular, we observe that the coherent-transport currents
+for the HOMO-dominated case are similar to those from their symmetric
+counterparts. This is because the HOMO resonance is extremely sharp<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> (as compared, for instance, to the LUMO resonance<sup><xref ref-type="bibr" rid="ref21">21</xref></sup>). Overall, these results seem to suggest that
+within hopping through a single site, preference over one transport
+mechanism or the other may depend on both the specific gate-voltage
+applied and the geometrical position of the tip with respect to the
+protein.</p><p>Finally, we stress that one should not rule out the
+possibility
+of more hopping sites taking place in the transport process. Previous
+works of ours<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> highlighted the presence of several
+states lying below the HOMO and energetically very close to it. These
+states originate from moieties other than the Cu ion, and they are
+located all over the peripheral area of the protein structure. In
+order to obtain an approximate estimate of their possible contribution
+in electron transport, we built a model in which each hopping site
+comprises several of these residues. In <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>, we show the current curves for a time frame
+of the lateral-indentation simulation obtained for hopping through
+three sites in the symmetric scheme. More specifically, the first
+site includes the residues ASP11, HIS46, ASP93, GLU104, and GLU106,
+which are spatially located between the surface and Cu. The second
+hopping site is the Cu ion. The third site includes the residues ASP55,
+ASP69, ASP71, ASP76, CYS112, and HIS117, which are comprised between
+the Cu ion and the tip. These residues were chosen as they all contribute
+to states very close to the Fermi level (within a range of 0.2 eV).
+We have assigned two different reorganization energy &#x003bb;<sub><italic>L</italic></sub> and &#x003bb;<sub><italic>R</italic></sub> to the
+first and third site, respectively. It is possible to observe that
+regardless of the values of these two parameters, the current would
+be significantly higher than assuming hopping through the Cu ion only.
+We refer the reader to the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">SI</ext-link> for a more
+detailed analysis of the role of the number of hopping sites.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Comparison
+between the current obtained for one-site and three-site
+hopping for different values of the reorganization energies of the
+two sets of residues forming the first and third sites (&#x003bb;<sub><italic>L</italic></sub> and &#x003bb;<sub><italic>R</italic></sub>, respectively). These specific data were extracted from the lateral-indentation
+scheme for <italic>d</italic> = 2.54&#x02009;nm.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_0005" id="gr5" position="float"/></fig><p>A quantitative comparison to experimental results
+is not straightforward.
+It would require a systematic study of experimental <italic>I</italic>(<italic>V</italic>)s as a function of the tip-to-surface gap separation.
+While this is experimentally reachable, this study implies a large
+block of experimental work and is beyond the scope of the current
+study. However, we observe that the current values reported in the
+literature for single-azurin experiments (around 1/2 nA<sup><xref ref-type="bibr" rid="ref42">42</xref></sup>) would not be achieved in the symmetric scheme
+but rather in a situation in which one of the two frontier orbitals
+lies closer to the Fermi level.</p><p>In summary, we have studied
+electron transport through a metal&#x02013;protein&#x02013;metal
+junction based on a blue-copper azurin. By adopting a procedure based
+on fully quantum calculations, we have taken into account the whole
+atomic and electronic structure of the entire junction. We found that
+the asymmetry of the <italic>I</italic>(<italic>V</italic>) curves
+is strongly affected by the specific position of the tip in the junction.
+We also found that within a one-site hopping framework, hopping currents
+can be higher or lower than the coherent-transport currents depending
+on the energy alignment of the protein orbitals with respect to the
+Fermi level. Higher hopping currents can be obtained, however, by
+considering more than one stepping site. Finally, we addressed the
+very low temperature dependence of the conductance, which was previously
+observed in several experiments. We have shown that this hopping framework
+allows for such independence under certain conditions related to the
+energy alignment of the protein orbitals and to the reorganization
+energies of the hopping sites. To a certain extent, by showing that
+drastic changes can be induced in the transport mechanism by the various
+factors we have analyzed, our results provide an explanation for the
+presence of conflicting conclusions drawn in the previous literature.
+In view of the high complexity of these systems, we believe that our
+results provide guidance for the interpretation of the experimental
+results.</p></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02702?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02702</ext-link>.<list id="silist" list-type="simple"><list-item><p>Theoretical details for
+an N-site hopping model (S1);
+the role of the protein&#x02013;electrode coupling in the asymmetry
+of the <italic>IV</italic> curves; (S2) dependency of hopping rates
+on the bias voltage (S3); dependency of hopping currents on reorganization-energy
+values (S4); and temperature dependence for different reorganization-energy
+values (S5) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02702/suppl_file/jz3c02702_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02702_si_001.pdf"><caption><p>jz3c02702_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d14e1953-autogenerated"><p>The
+authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>L.A.Z. is grateful for
+the financial support from
+MCIN/AEI/10.13039/501100011033 (Grant PID2021-125604NB-I00). C.R.P.
+and L.A.Z. acknowledge financial support from the Universidad Aut&#x000f3;noma
+de Madrid/Comunidad de Madrid (Grant No. SI3/PJI/2021- 00191). J.C.C.
+acknowledges funding from the Spanish Ministry of Science and Innovation
+(PID2020-114880GB-I00). C.R.-M. acknowledges financial support by
+the Ram&#x000f3;n y Cajal program of the Spanish Ministry of Science
+and Innovation (ref. RYC2021-031176-I). I.D.-P. thanks support from
+the European Research Council (ERC) under the European Union Horizon
+2020 research and innovation program (Grant Agreement ERC Fields4CAT-772391)
+and from UKRI-BBSRC BB/X002810/1. J.G.V. acknowledges funding from
+the Spanish CM &#x0201c;Talento Program&#x0201d; (Project No. 2020-T1/ND-20306),
+and the Spanish Ministerio de Ciencia e Innovaci&#x000f3;n (Grant Nos.
+PID2020-113722RJ-I00 and TED2021-132219A-I00). R.P. acknowledges support
+from the Ministerio de Ciencia e Innovaci&#x000f3;n (MCIN) through
+the Project PID2020-115864RB-I00 and the &#x0201c;Mar&#x000ed;a de Maeztu&#x0201d;
+Programme for Units of Excellence in R<italic>&#x00026;</italic>D (Grant
+No. CEX2018-000805-M). We thank Francesca Marchetti for fruitful discussions
+and Spiros Skourtis for help with the effective coupling methods.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Jiang</surname><given-names>T.</given-names></name>; <name><surname>Zeng</surname><given-names>B.-F.</given-names></name>; <name><surname>Zhang</surname><given-names>B.</given-names></name>; <name><surname>Tang</surname><given-names>L.</given-names></name>
+<article-title>Single-molecular protein-based
+bioelectronics via electronic transport: fundamentals, devices and
+applications</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2023</year>, <volume>52</volume>, <fpage>5968</fpage>&#x02013;<lpage>6002</lpage>. <pub-id pub-id-type="doi">10.1039/D2CS00519K</pub-id>.<pub-id pub-id-type="pmid">37498342</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Ha</surname><given-names>T. Q.</given-names></name>; <name><surname>Planje</surname><given-names>I. J.</given-names></name>; <name><surname>White</surname><given-names>J. R. G.</given-names></name>; <name><surname>Aragon&#x000e8;s</surname><given-names>A. C.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>
+<article-title>Charge transport
+at the protein&#x02013;electrode
+interface in the emerging field of BioMolecular Electronics</article-title>. <source>Curr. Opin. Electrochem.</source>
+<year>2021</year>, <volume>28</volume>, <fpage>100734</fpage><pub-id pub-id-type="doi">10.1016/j.coelec.2021.100734</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Krishnan</surname><given-names>S.</given-names></name>; <name><surname>Aksimentiev</surname><given-names>A.</given-names></name>; <name><surname>Lindsay</surname><given-names>S.</given-names></name>; <name><surname>Matyushov</surname><given-names>D.</given-names></name>
+<article-title>Long-Range
+Conductivity in Proteins Mediated by Aromatic Residues</article-title>. <source>ACS Phys. Chem. Au</source>
+<year>2023</year>, <volume>3</volume>, <fpage>444</fpage><pub-id pub-id-type="doi">10.1021/acsphyschemau.3c00017</pub-id>.<pub-id pub-id-type="pmid">37780537</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Bostick</surname><given-names>C. D.</given-names></name>; <name><surname>Mukhopadhyay</surname><given-names>S.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>; <name><surname>Lederman</surname><given-names>D.</given-names></name>
+<article-title>Protein Bioelectronics: A review of what we do and
+do not know</article-title>. <source>Rep. Prog. Phys.</source>
+<year>2018</year>, <volume>81</volume>, <fpage>026601</fpage><pub-id pub-id-type="doi">10.1088/1361-6633/aa85f2</pub-id>.<pub-id pub-id-type="pmid">29303117</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Eleonora</surname><given-names>A.</given-names></name>; <name><surname>Reggiani</surname><given-names>L.</given-names></name>; <name><surname>Pousset</surname><given-names>J.</given-names></name>
+<article-title>Proteotronics:
+Electronic devices
+based on proteins</article-title>. <source>Sensors</source>
+<year>2015</year>, <volume>319</volume>, <fpage>3</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1007/978-3-319-09617-9_1</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Qiu</surname><given-names>X.</given-names></name>; <name><surname>Chiechi</surname><given-names>R. C.</given-names></name>
+<article-title>Printable logic
+circuits comprising self-assembled
+protein complexes</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>2312</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-30038-8</pub-id>.<pub-id pub-id-type="pmid">35484124</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Art&#x000e9;s</surname><given-names>J. M.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Sanz</surname><given-names>F.</given-names></name>; <name><surname>Gorostiza</surname><given-names>P.</given-names></name>
+<article-title>Direct measurement
+of electron transfer distance decay constants of single redox proteins
+by electrochemical tunneling spectroscopy</article-title>. <source>ACS
+Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>2060</fpage>&#x02013;<lpage>2066</lpage>. <pub-id pub-id-type="doi">10.1021/nn103236e</pub-id>.<pub-id pub-id-type="pmid">21539019</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Ing</surname><given-names>N. L.</given-names></name>; <name><surname>El-Naggar</surname><given-names>M. Y.</given-names></name>; <name><surname>Hochbaum</surname><given-names>A. I.</given-names></name>
+<article-title>Going the distance: Long-range conductivity
+in protein and peptide bioelectronic materials</article-title>. <source>J. Phys. Chem. B</source>
+<year>2018</year>, <volume>122</volume>, <fpage>10403</fpage>&#x02013;<lpage>10423</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcb.8b07431</pub-id>.<pub-id pub-id-type="pmid">30240221</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Romero-Mu&#x000f1;iz</surname><given-names>C.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>
+<article-title>Recent
+advances in understanding the electron transport through metal-azurin-metal
+junctions</article-title>. <source>Front. Phys.</source>
+<year>2022</year>, <pub-id pub-id-type="doi">10.3389/fphy.2022.950929</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Sang</surname><given-names>Y.</given-names></name>; <name><surname>Mishra</surname><given-names>S.</given-names></name>; <name><surname>Tassinari</surname><given-names>F.</given-names></name>; <name><surname>Karuppannan</surname><given-names>S. K.</given-names></name>; <name><surname>Carmieli</surname><given-names>R.</given-names></name>; <name><surname>Teo</surname><given-names>R. D.</given-names></name>; <name><surname>Migliore</surname><given-names>A.</given-names></name>; <name><surname>Beratan</surname><given-names>D. N.</given-names></name>; <name><surname>Gray</surname><given-names>H. B.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; et al. <article-title>Temperature
+dependence
+of charge and spin transfer in azurin</article-title>. <source>J. Phys.
+Chem. C</source>
+<year>2021</year>, <volume>125</volume>, <fpage>9875</fpage>&#x02013;<lpage>9883</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.1c01218</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Ortega</surname><given-names>M.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>
+<article-title>Tuning structure and dynamics of
+blue copper azurin junctions via single amino-acid mutations</article-title>. <source>Biomolecules</source>
+<year>2019</year>, <volume>9</volume>, <fpage>611</fpage><pub-id pub-id-type="doi">10.3390/biom9100611</pub-id>.<pub-id pub-id-type="pmid">31618974</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Kayser</surname><given-names>B.</given-names></name>; <name><surname>Fereiro</surname><given-names>J. A.</given-names></name>; <name><surname>Bhattacharyya</surname><given-names>R.</given-names></name>; <name><surname>Cohen</surname><given-names>S. R.</given-names></name>; <name><surname>Vilan</surname><given-names>A.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>
+<article-title>Solid-State Electron
+Transport via the Protein Azurin is Temperature-Independent Down to
+4 K</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>144</fpage>&#x02013;<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.9b03120</pub-id>.<pub-id pub-id-type="pmid">31821001</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Art&#x000e9;s</surname><given-names>J. M.</given-names></name>; <name><surname>L&#x000f3;pez-Mart&#x000ed;nez</surname><given-names>M.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Sanz</surname><given-names>F.</given-names></name>; <name><surname>Gorostiza</surname><given-names>P.</given-names></name>
+<article-title>Conductance
+switching in single wired
+redox proteins</article-title>. <source>Small</source>
+<year>2014</year>, <volume>10</volume>, <fpage>2537</fpage>&#x02013;<lpage>2541</lpage>. <pub-id pub-id-type="doi">10.1002/smll.201303753</pub-id>.<pub-id pub-id-type="pmid">24623582</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Ruiz</surname><given-names>M. P.</given-names></name>; <name><surname>Aragon&#x000e8;s</surname><given-names>A. C.</given-names></name>; <name><surname>Camarero</surname><given-names>N.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>Ortega</surname><given-names>M.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>Gorostiza</surname><given-names>P.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>
+<article-title>Bioengineering a single-protein junction</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2017</year>, <volume>139</volume>, <fpage>15337</fpage>&#x02013;<lpage>15346</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.7b06130</pub-id>.<pub-id pub-id-type="pmid">28981262</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Valianti</surname><given-names>S.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>Skourtis</surname><given-names>S. S.</given-names></name>
+<article-title>Charge-transport mechanisms in azurin-based
+monolayer junctions</article-title>. <source>J. Phys. Chem. C</source>
+<year>2019</year>, <volume>123</volume>, <fpage>5907</fpage>&#x02013;<lpage>5922</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.9b00135</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Amdursky</surname><given-names>N.</given-names></name>; <name><surname>Marchak</surname><given-names>D.</given-names></name>; <name><surname>Sepunaru</surname><given-names>L.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>
+<article-title>Electronic transport
+via proteins</article-title>. <source>Adv. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>7142</fpage>&#x02013;<lpage>7161</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201402304</pub-id>.<pub-id pub-id-type="pmid">25256438</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Art&#x000e9;s</surname><given-names>J. M.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Gorostiza</surname><given-names>P.</given-names></name>
+<article-title>Transistor-like
+behavior of single metalloprotein junctions</article-title>. <source>Nano Lett.</source>
+<year>2012</year>, <volume>12</volume>, <fpage>2679</fpage>&#x02013;<lpage>2684</lpage>. <pub-id pub-id-type="doi">10.1021/nl2028969</pub-id>.<pub-id pub-id-type="pmid">21973084</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Romero-Mu&#x000f1;iz</surname><given-names>C.</given-names></name>; <name><surname>Ortega</surname><given-names>M.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>
+<article-title>Can. electron transport
+through a blue-copper azurin be coherent? An ab initio study</article-title>. <source>J. Phys. Chem. C</source>
+<year>2021</year>, <volume>125</volume>, <fpage>1693</fpage>&#x02013;<lpage>1702</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.0c09364</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Lovrincic</surname><given-names>R.</given-names></name>; <name><surname>Sepunaru</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>W.</given-names></name>; <name><surname>Vilan</surname><given-names>A.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>
+<article-title>Insights into solid-state
+electron transport through proteins from inelastic tunneling spectroscopy:
+The case of azurin</article-title>. <source>ACS Nano</source>
+<year>2015</year>, <volume>9</volume>, <fpage>9955</fpage>&#x02013;<lpage>9963</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.5b03950</pub-id>.<pub-id pub-id-type="pmid">26381112</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Papp</surname><given-names>E.</given-names></name>; <name><surname>Vattay</surname><given-names>G.</given-names></name>; <name><surname>Romero-Mu&#x000f1;iz</surname><given-names>C.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>; <name><surname>Fereiro</surname><given-names>J. A.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>
+<article-title>Experimental
+data confirm carrier-cascade
+model for solid-state conductance across proteins</article-title>. <source>J. Phys. Chem. B</source>
+<year>2023</year>, <volume>127</volume>, <fpage>1728</fpage>&#x02013;<lpage>1734</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcb.2c07946</pub-id>.<pub-id pub-id-type="pmid">36790863</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Romero-Mu&#x000f1;iz</surname><given-names>C.</given-names></name>; <name><surname>Ortega</surname><given-names>M.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>
+<article-title>The role of metal ions in the electron
+transport through azurin-based junctions</article-title>. <source>Appl.
+Sci.</source>
+<year>2021</year>, <volume>11</volume>, <fpage>3732</fpage><pub-id pub-id-type="doi">10.3390/app11093732</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Romero-Mu&#x000f1;iz</surname><given-names>C.</given-names></name>; <name><surname>Ortega</surname><given-names>M.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>Di&#x000e9;z-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>
+<article-title>Mechanical deformation
+and electronic structure of a blue copper azurin in a solid-state
+junction</article-title>. <source>Biomolecules</source>
+<year>2019</year>, <volume>9</volume>, <fpage>506</fpage><pub-id pub-id-type="doi">10.3390/biom9090506</pub-id>.<pub-id pub-id-type="pmid">31546917</pub-id>
+</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Ozaki</surname><given-names>T.</given-names></name>
+<article-title>Variationally
+optimized atomic orbitals for large-scale electronic structures</article-title>. <source>Phys. Rev. B</source>
+<year>2003</year>, <volume>67</volume>, <fpage>155108</fpage><pub-id pub-id-type="doi">10.1103/PhysRevB.67.155108</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Ozaki</surname><given-names>T.</given-names></name>; <name><surname>Kino</surname><given-names>H.</given-names></name>
+<article-title>Numerical atomic basis orbitals from H to Kr</article-title>. <source>Phys. Rev. B</source>
+<year>2004</year>, <volume>69</volume>, <fpage>195113</fpage><pub-id pub-id-type="doi">10.1103/PhysRevB.69.195113</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Amdursky</surname><given-names>N.</given-names></name>; <name><surname>Sepunaru</surname><given-names>L.</given-names></name>; <name><surname>Raichlin</surname><given-names>S.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>
+<article-title>Electron transfer proteins
+as electronic conductors: Significance
+of the metal and its binding site in the blue Cu protein, azurin</article-title>. <source>Adv. Sci.</source>
+<year>2015</year>, <volume>2</volume>, <fpage>1400026</fpage><pub-id pub-id-type="doi">10.1002/advs.201400026</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="book" id="cit26"><person-group person-group-type="allauthors"><name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>Scheer</surname><given-names>E.</given-names></name></person-group><source>Molecular electronics:
+An introduction to theory and experiment</source>; <publisher-name>World Scientific</publisher-name>: <year>2017</year>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Valianti</surname><given-names>S.</given-names></name>; <name><surname>Skourtis</surname><given-names>S. S.</given-names></name>
+<article-title>Observing donor-to-acceptor electron-transfer rates
+and the Marcus inverted parabola in Molecular Junctions</article-title>. <source>J. Phys. Chem. B</source>
+<year>2019</year>, <volume>123</volume>, <fpage>9641</fpage>&#x02013;<lpage>9653</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcb.9b07371</pub-id>.<pub-id pub-id-type="pmid">31633357</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Migliore</surname><given-names>A.</given-names></name>; <name><surname>Nitzan</surname><given-names>A.</given-names></name>
+<article-title>Nonlinear charge transport in redox
+molecular junctions:
+A Marcus perspective</article-title>. <source>ACS Nano</source>
+<year>2011</year>, <volume>5</volume>, <fpage>6669</fpage>&#x02013;<lpage>6685</lpage>. <pub-id pub-id-type="doi">10.1021/nn202206e</pub-id>.<pub-id pub-id-type="pmid">21721583</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Markussen</surname><given-names>T.</given-names></name>; <name><surname>Jin</surname><given-names>C.</given-names></name>; <name><surname>Thygesen</surname><given-names>K. S.</given-names></name>
+<article-title>Quantitatively
+accurate calculations of conductance
+and thermopower of molecular junctions</article-title>. <source>Phys.
+Status Solidi (b)</source>
+<year>2013</year>, <volume>250</volume>, <fpage>2394</fpage>&#x02013;<lpage>2402</lpage>. <pub-id pub-id-type="doi">10.1002/pssb.201349217</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Haiss</surname><given-names>W.</given-names></name>; <name><surname>Nichols</surname><given-names>R. J.</given-names></name>; <name><surname>van Zalinge</surname><given-names>H.</given-names></name>; <name><surname>Higgins</surname><given-names>S. J.</given-names></name>; <name><surname>Bethell</surname><given-names>D.</given-names></name>; <name><surname>Schiffrin</surname><given-names>D. J.</given-names></name>
+<article-title>Measurement of single molecule conductivity using the
+spontaneous formation of molecular wires</article-title>. <source>Phys.
+Chem. Chem. Phys.</source>
+<year>2004</year>, <volume>6</volume>, <fpage>4330</fpage>&#x02013;<lpage>4337</lpage>. <pub-id pub-id-type="doi">10.1039/b404929b</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Haiss</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Grace</surname><given-names>I.</given-names></name>; <name><surname>Batsanov</surname><given-names>A. S.</given-names></name>; <name><surname>Schiffrin</surname><given-names>D. J.</given-names></name>; <name><surname>Higgins</surname><given-names>S. J.</given-names></name>; <name><surname>Bryce</surname><given-names>M. R.</given-names></name>; <name><surname>Lambert</surname><given-names>C. J.</given-names></name>; <name><surname>Nichols</surname><given-names>R. J.</given-names></name>
+<article-title>Precision
+control of single-molecule electrical junctions</article-title>. <source>Nat. Mater.</source>
+<year>2006</year>, <volume>5</volume>, <fpage>995</fpage>&#x02013;<lpage>1002</lpage>. <pub-id pub-id-type="doi">10.1038/nmat1781</pub-id>.<pub-id pub-id-type="pmid">17128259</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Hihath</surname><given-names>J.</given-names></name>; <name><surname>Lee</surname><given-names>Y.</given-names></name>; <name><surname>Yu</surname><given-names>L.</given-names></name>; <name><surname>Adamska</surname><given-names>L.</given-names></name>; <name><surname>Kozhushner</surname><given-names>M. A.</given-names></name>; <name><surname>Oleynik</surname><given-names>I. I.</given-names></name>; <name><surname>Tao</surname><given-names>N.</given-names></name>
+<article-title>Rectification and stability
+of a single molecular diode with controlled orientation</article-title>. <source>Nat. Chem.</source>
+<year>2009</year>, <volume>1</volume>, <fpage>635</fpage><pub-id pub-id-type="doi">10.1038/nchem.392</pub-id>.<pub-id pub-id-type="pmid">21378955</pub-id>
+</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Aragon&#x000e8;s</surname><given-names>A. C.</given-names></name>; <name><surname>Darwish</surname><given-names>N.</given-names></name>; <name><surname>Ciampi</surname><given-names>S.</given-names></name>; <name><surname>Sanz</surname><given-names>F.</given-names></name>; <name><surname>Gooding</surname><given-names>J. J.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>
+<article-title>Single-molecule
+electrical contacts
+on silicon electrodes under ambient conditions</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>15056</fpage><pub-id pub-id-type="doi">10.1038/ncomms15056</pub-id>.<pub-id pub-id-type="pmid">28406169</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Baldacchini</surname><given-names>C.</given-names></name>; <name><surname>Kumar</surname><given-names>V.</given-names></name>; <name><surname>Bizzarri</surname><given-names>A. R.</given-names></name>; <name><surname>Cannistraro</surname><given-names>S.</given-names></name>
+<article-title>Electron tunnelling
+through single azurin molecules can be on/off switched by voltage
+pulses</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2015</year>, <volume>106</volume>, <fpage>183701</fpage><pub-id pub-id-type="doi">10.1063/1.4919911</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Fereiro</surname><given-names>J. A.</given-names></name>; <name><surname>Bendikov</surname><given-names>T.</given-names></name>; <name><surname>Pecht</surname><given-names>I.</given-names></name>; <name><surname>Sheves</surname><given-names>M.</given-names></name>; <name><surname>Cahen</surname><given-names>D.</given-names></name>
+<article-title>Protein binding
+and orientation matter: Bias-induced conductance switching in a mutated
+azurin junction</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2020</year>, <volume>142</volume>, <fpage>19217</fpage>&#x02013;<lpage>19225</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.0c08836</pub-id>.<pub-id pub-id-type="pmid">33141577</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Alessandrini</surname><given-names>A.</given-names></name>; <name><surname>Facci</surname><given-names>P.</given-names></name>
+<article-title>Electron transfer in
+nanobiodevices</article-title>. <source>Eur. Polym.
+J.</source>
+<year>2016</year>, <volume>83</volume>, <fpage>450</fpage>&#x02013;<lpage>466</lpage>. <pub-id pub-id-type="doi">10.1016/j.eurpolymj.2016.03.028</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Romero-Mu&#x000f1;iz</surname><given-names>C.</given-names></name>; <name><surname>Ortega</surname><given-names>M.</given-names></name>; <name><surname>Vilhena</surname><given-names>J. G.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>; <name><surname>P&#x000e9;rez</surname><given-names>R.</given-names></name>; <name><surname>Zotti</surname><given-names>L. A.</given-names></name>
+<article-title>Ab initio electronic
+structure calculations of entire blue copper azurins</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2018</year>, <volume>20</volume>, <fpage>30392</fpage>&#x02013;<lpage>30402</lpage>. <pub-id pub-id-type="doi">10.1039/C8CP06862C</pub-id>.<pub-id pub-id-type="pmid">30489582</pub-id>
+</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Zotti</surname><given-names>L. A.</given-names></name>; <name><surname>B&#x000fc;rkle</surname><given-names>M.</given-names></name>; <name><surname>Pauly</surname><given-names>F.</given-names></name>; <name><surname>Lee</surname><given-names>W.</given-names></name>; <name><surname>Kim</surname><given-names>K.</given-names></name>; <name><surname>Jeong</surname><given-names>W.</given-names></name>; <name><surname>Asai</surname><given-names>Y.</given-names></name>; <name><surname>Reddy</surname><given-names>P.</given-names></name>; <name><surname>Cuevas</surname><given-names>J. C.</given-names></name>
+<article-title>Heat dissipation
+and its relation to thermopower in single-molecule junctions</article-title>. <source>New J. Phys.</source>
+<year>2014</year>, <volume>16</volume>, <fpage>015004</fpage><pub-id pub-id-type="doi">10.1088/1367-2630/16/1/015004</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Cascella</surname><given-names>M.</given-names></name>; <name><surname>Magistrato</surname><given-names>A.</given-names></name>; <name><surname>Tavernelli</surname><given-names>I.</given-names></name>; <name><surname>Carloni</surname><given-names>P.</given-names></name>; <name><surname>Rothlisberger</surname><given-names>U.</given-names></name>
+<article-title>Role of protein
+frame and solvent for the redox properties of azurin from Pseudomonas
+aeruginosa</article-title>. <source>Proc. Natl. Acad. Sci. U.S.A</source>
+<year>2006</year>, <volume>103</volume>, <fpage>19641</fpage>&#x02013;<lpage>19646</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0607890103</pub-id>.<pub-id pub-id-type="pmid">17179046</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Corni</surname><given-names>S.</given-names></name>
+<article-title>The reorganization
+energy of azurin in bulk solution and in the electrochemical scanning
+tunneling microscopy setup</article-title>. <source>J. Phys. Chem. B</source>
+<year>2005</year>, <volume>109</volume>, <fpage>3423</fpage>&#x02013;<lpage>3430</lpage>. <pub-id pub-id-type="doi">10.1021/jp0459920</pub-id>.<pub-id pub-id-type="pmid">16851374</pub-id>
+</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Kontkanen</surname><given-names>O. V.</given-names></name>; <name><surname>Biriukov</surname><given-names>D.</given-names></name>; <name><surname>Futera</surname><given-names>Z.</given-names></name>
+<article-title>Applicability
+of perturbed matrix
+method for charge transfer studies at bio/metallic interfaces: A case
+of azurin</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2023</year>, <volume>25</volume>, <fpage>12479</fpage>&#x02013;<lpage>12489</lpage>. <pub-id pub-id-type="doi">10.1039/D3CP00197K</pub-id>.<pub-id pub-id-type="pmid">37097130</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Art&#x000e9;s</surname><given-names>J. M.</given-names></name>; <name><surname>L&#x000f3;pez-Mart&#x000ed;nez</surname><given-names>M.</given-names></name>; <name><surname>Giraudet</surname><given-names>A.</given-names></name>; <name><surname>D&#x000ed;ez-P&#x000e9;rez</surname><given-names>I.</given-names></name>; <name><surname>Sanz</surname><given-names>F.</given-names></name>; <name><surname>Gorostiza</surname><given-names>P.</given-names></name>
+<article-title>Current-voltage characteristics and
+transition voltage spectroscopy of individual redox proteins</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2012</year>, <volume>134</volume>, <fpage>20218</fpage>&#x02013;<lpage>20221</lpage>. <pub-id pub-id-type="doi">10.1021/ja3080242</pub-id>.<pub-id pub-id-type="pmid">23190265</pub-id>
+</mixed-citation></ref></ref-list></back></article>

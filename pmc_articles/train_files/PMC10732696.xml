@@ -1,0 +1,927 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">APL Bioeng</journal-id><journal-id journal-id-type="iso-abbrev">APL Bioeng</journal-id><journal-id journal-id-type="coden">ABPID9</journal-id><journal-title-group><journal-title>APL Bioengineering</journal-title></journal-title-group><issn pub-type="epub">2473-2877</issn><publisher><publisher-name>AIP Publishing LLC</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38125699</article-id><article-id pub-id-type="pmc">PMC10732696</article-id><article-id pub-id-type="doi">10.1063/5.0170583</article-id><article-id pub-id-type="publisher-id">5.0170583</article-id><article-id pub-id-type="publisher-manuscript">APB23-AR-00179</article-id><article-categories><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Altered blood flow due to larger aortic diameters in patients with transcatheter heart valve thrombosis</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3931-5141</contrib-id><name><surname>Jahren</surname><given-names>Silje Ekroll</given-names></name><xref rid="a1" ref-type="aff">1</xref><xref rid="cor1" ref-type="corresp">a)</xref><email specific-use="metadata" xlink:href="mailto:esilje@gmail.com"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0009-0001-1966-0637</contrib-id><name><surname>Demirel</surname><given-names>Caglayan</given-names></name><xref rid="a2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7505-9283</contrib-id><name><surname>Bornemann</surname><given-names>Karoline-Marie</given-names></name><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7875-1080</contrib-id><name><surname>Corso</surname><given-names>Pascal</given-names></name><xref rid="a1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5076-0177</contrib-id><name><surname>Stortecky</surname><given-names>Stefan</given-names></name><xref rid="a2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-6062-9076</contrib-id><name><surname>Obrist</surname><given-names>Dominik</given-names></name><xref rid="a1" ref-type="aff">1</xref></contrib><aff id="a1">
+<label>1</label><institution>ARTORG Center for Biomedical Engineering Research, University of Bern</institution>, Bern, <country>Switzerland</country></aff><aff id="a2">
+<label>2</label><institution>Department of Cardiology, Inselspital, Bern University Hospital, University of Bern</institution>, Bern, <country>Switzerland</country></aff></contrib-group><author-notes><corresp id="cor1">
+<label>a)</label><bold>Author to whom correspondence should be addressed:</bold>
+<email>esilje@gmail.com</email></corresp></author-notes><pub-date pub-type="collection"><month>12</month><year>2023</year></pub-date><pub-date pub-type="epub"><day>19</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>19</day><month>12</month><year>2023</year></pub-date><volume>7</volume><issue>4</issue><elocation-id seq="1">046120</elocation-id><history>
+<date date-type="received"><day>03</day><month>8</month><year>2023</year></date>
+<date date-type="accepted"><day>04</day><month>12</month><year>2023</year></date>
+</history><permissions><copyright-statement>&#x000a9; 2023 Author(s).</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Author(s)</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The etiology of transcatheter heart valve thrombosis (THVT) and the relevance of the aortic root geometry on the occurrence of THVT are largely unknown. The first aim of this pilot study is to identify differences in aortic root geometry between THVT patients and patients without THVT after transcatheter aortic valve implantation (TAVI). Second, we aim to investigate how the observed difference in aortic diameters affects the aortic flow using idealized computational geometric models. Aortic dimension was assessed using pre-TAVI multi-detector computed tomography scans of eight patients with clinical apparent THVT and 16 unaffected patients (two for each THVT patient with same valve type and size) from the Bern-TAVI registry. Among patients with THVT the right coronary artery height was lower (&#x02212;40%), and sinotubular junction (STJ) and ascending aorta (AAo) diameters tended to be larger (9% and 14%, respectively) compared to the unaffected patients. Fluid&#x02013;structure interaction (FSI) in two idealized aortic models with the observed differences in STJ and AAo diameter showed higher backflow rate at the STJ (+16%), lower velocity magnitudes in the sinus (&#x02212;5%), and higher systolic turbulent dissipation rate in the AAo (+8%) in the model with larger STJ and AAo diameters. This pilot study suggests a direct effect of the aortic dimensions on clinically apparent THVT. The FSI study indicates that larger STJ and AAo diameters potentially favor thrombus formation by increased backflow rate and reduced wash-out efficiency of the sinus. The reported observations require clinical validation but could potentially help identifying patients at risk for THVT.</p></abstract><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><label>I.</label><title>INTRODUCTION</title><p>The incidence of clinically apparent transcatheter heart valve thrombosis (THVT) is low (&#x0003c;3%),<xref rid="c1" ref-type="bibr"><sup>1,2</sup></xref> but may affect prosthetic valve function (e.g., increased transvalvular pressure gradient) and cause systemic thromboembolism. Subclinical THVT, however, is frequently found (incidence 7%&#x02013;35%) using high resolution imaging of the prosthetic valve during routine clinical follow up.<xref rid="c2" ref-type="bibr"><sup>2,3</sup></xref> THVT is predominantly found on the transcatheter heart valve (THV) leaflet corresponding to the right coronary cusp (RCC) and non-coronary cusps (NCCs),<xref rid="c4" ref-type="bibr"><sup>4,5</sup></xref> and is associated with smaller prosthetic valve size (&#x0003c;23&#x02009;mm).<xref rid="c1" ref-type="bibr"><sup>1</sup></xref> THVT either presents as reduced leaflet mobility (HAM&#x02014;hypoattenuation affecting motion) or as hypoattenuated leaflet thickening (HALT) due to a thin layer of thrombus on the aortic side of the leaflets. The impact of subclinical THVT on clinical outcomes is largely unknown. Factors linked to subclinical THVT include female sex, older age, small aortic annulus, small height and diameter of the sinus of Valsalva, total valvular calcium volume, lower preprocedural mean aortic valve gradient and peak aortic blood flow velocity.<xref rid="c3" ref-type="bibr"><sup>3,6</sup></xref></p><p>Many factors might lead to THVT including pathophysiological mechanisms, device variables (e.g., valve design, valve size, valve materials, implantation techniques, valve-in-valve implantation), patient variables (e.g., transvalvular pressure gradient, valve calcification, aortic root dimensions and morphology, body-mass-index), and choice of antithrombotic therapy.<xref rid="c2" ref-type="bibr"><sup>2</sup></xref> Disturbed blood flow past the aortic valve has also been linked to thrombus formation.<xref rid="c7" ref-type="bibr"><sup>7</sup></xref> Regions of flow with high shear-stress levels promote platelet activation. In combination with flow recirculation zones and regions of low flow or blood stasis, this may lead to platelet adhesion and thrombosis. The configuration of such regions of high stress, recirculation, low flow and stasis depends on aortic root morphology and dimensions, as well as on valve types.<xref rid="c8" ref-type="bibr"><sup>8&#x02013;13</sup></xref> Also the positioning of the THV within the aortic root and the location of the coronary ostia influences these flow patterns and the wash-out efficiency of the sinus portions and neo-sinus of THVs.<xref rid="c14" ref-type="bibr"><sup>14&#x02013;23</sup></xref></p><p>The aortic root morphology and dimensions are patient-specific and sex dependent<xref rid="c24" ref-type="bibr"><sup>24&#x02013;28</sup></xref> and are critical for THV device development and proper device selection to avoid complications. Aortic dimensions including ascending aortic dimension, annulus size, sinus dimensions and coronary artery heights are evaluated pre-transcatheter aortic valve implantation (TAVI) for device selection during patient screening.<xref rid="c29" ref-type="bibr"><sup>29</sup></xref> Additionally, the implantation of a THV has been shown to modify the post-TAVI aortic dimensions.<xref rid="c30" ref-type="bibr"><sup>30</sup></xref> In our previous <italic>in vitro</italic> study,<xref rid="c11" ref-type="bibr"><sup>11</sup></xref> we found that the aortic root morphology affects the blood flow in the aortic root and that these effects were also present <italic>in vivo</italic> in patients with a THV. Disturbed blood flow in the aortic root might promote thrombus formation. However, the role of the aortic root morphology in THVT remains unknown, as well as the mechanisms by which differences in morphology affect the risk of THVT.<xref rid="c31" ref-type="bibr"><sup>31</sup></xref> In the current pilot study, we compared the aortic root morphology in a small sample of patients receiving TAVI with clinical THVT to unaffected TAVI patients. The first aim was to identify in a pilot study on patient data some morphological features which might be connected to the formation of thrombosis. This indicated that larger aortic diameters may play a role in THVT. Second, we aimed to investigate by a computational study the effect of different aortic diameters on the blood flow using two idealized (generic) aortic models. To focus on effects of morphology alone, other well-established confounding factors for THVT (e.g., neo-sinus, THV type and position) were excluded from the studied computational configurations. Based on our previous studies, we hypothesize that certain aortic root morphologies might promote THVT by affecting the high shear stress regions downstream of the THV as well as the wash-out efficiency of the sinus.</p></sec><sec id="s2"><label>II.</label><title>RESULTS</title><sec id="s2A"><label>A.</label><title>Aortic root dimensions&#x02014;registry data</title><p>The selected patients were implanted with five different THV types, and three different THV sizes (23, 26, and 27&#x02009;mm). The eight THVT patients had an age of 79.0&#x02009;&#x000b1;&#x02009;7.1&#x02009;years, and the 16 unaffected patients had an age of 84.3&#x02009;&#x000b1;&#x02009;5.6&#x02009;years. <xref rid="t1" ref-type="table">Table I</xref> gives an overview of all studied patients, as well as the implanted THV types and sizes.</p><table-wrap position="float" id="t1"><label>TABLE I.</label><caption><p>Overview of THVT patients and controls and the implanted THVs. THVT, transcatheter heart valve thrombosis; THV, transcatheter heart valve.</p></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="char" char="." span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1">THVT patient</th><th align="center" colspan="1" rowspan="1">Control patient</th><th align="center" colspan="1" rowspan="1">THV device</th><th align="center" colspan="1" rowspan="1">Valve size (mm)</th></tr></thead><tbody><tr><td colspan="1" rowspan="2">1</td><td colspan="1" rowspan="1">9</td><td colspan="1" rowspan="2">Medtronic CoreValve</td><td colspan="1" rowspan="2">23</td></tr><tr><td colspan="1" rowspan="1">10</td></tr><tr><td colspan="1" rowspan="2">2</td><td colspan="1" rowspan="1">11</td><td colspan="1" rowspan="4">Edwards Sapien XT</td><td colspan="1" rowspan="4">26</td></tr><tr><td colspan="1" rowspan="1">12</td></tr><tr><td colspan="1" rowspan="2">3</td><td colspan="1" rowspan="1">13</td></tr><tr><td colspan="1" rowspan="1">14</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">15</td><td colspan="1" rowspan="4">BSC Lotus</td><td colspan="1" rowspan="4">27</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">16</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">17</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">18</td></tr><tr><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">19</td><td colspan="1" rowspan="2">Symetis Accurate</td><td colspan="1" rowspan="2">23</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">20</td></tr><tr><td colspan="1" rowspan="1">7</td><td colspan="1" rowspan="1">21</td><td colspan="1" rowspan="4">Edwards Sapien 3</td><td colspan="1" rowspan="4">23</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">22</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">23</td></tr><tr><td colspan="1" rowspan="1"/><td colspan="1" rowspan="1">24</td></tr></tbody></table></table-wrap><p><xref rid="f1" ref-type="fig">Figure 1</xref> shows all the normalized aortic root dimensions of all THVT patients and all controls. The medians of the ascending aorta (AAo) and sinotubular junction (STJ) diameters [<xref rid="f1" ref-type="fig">Fig. 1(a)</xref>] in the THVT patients are larger than in the controls, but not statistically significant. The sinus diameters [<xref rid="f1" ref-type="fig">Fig. 1(b)</xref>] are not significantly different compared to control (p&#x02009;&#x0003e;&#x02009;0.05). The medians of the right coronary artery (RCA), left coronary artery (LCA), and sinus height [<xref rid="f1" ref-type="fig">Fig. 1(c)</xref>] in the THVT patients are lower than in the controls. The difference is statistically significant for the RCA height (p&#x02009;&#x0003c;&#x02009;0.05). <xref rid="t2" ref-type="table">Table II</xref> gives an overview of the average aortic root dimensions in all THVT patients and all patients in the non-THVT group, which indicates small differences between the two groups.</p><fig position="float" fig-type="figure" id="f1"><label>FIG. 1.</label><caption><p>Normalized aortic dimensions (normalized to the annulus diameter) seen in the THVT patients (blue) and the controls (red) pooled for all THVT patients and all control patients, respectively. The bottom and top edge of the boxes indicate the 25th and 75th percentiles, respectively. The median is marked with a black dot within a white circle. The red circle symbol indicates outliers. Normalized diameters of (a) the sinotubular junction (STJ) and the ascending aorta (AAo), and (b) the sinus portions corresponding to the right coronary cusp (RCC), non-coronary cusp (NCC) and the left coronary cusp (LCC). (c) Normalized heights (distance to annulus) of the right coronary artery (RCA) and the left coronary artery (LCA) and the normalized height of the sinus portion (distance between annulus and STJ).</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g001" position="float"/></fig><table-wrap position="float" id="t2"><label>TABLE II.</label><caption><p>Average aortic dimensions and standard deviations measured in the THVT patient and the control patients. STJ, sinotubular junction; AAo, ascending aorta; RCC, right coronary cusp; LCC, left coronary cusp; NCC, non-coronary cusp; RCA, right coronary artery; LCA, left coronary artery; THVT, transcatheter heart valve thrombosis.</p></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1">Dimension</th><th align="center" colspan="1" rowspan="1">THVT patient (mm)</th><th align="center" colspan="1" rowspan="1">Control patient (mm)</th><th align="center" colspan="1" rowspan="1">THVT patient normalized to annulus (&#x02212;)</th><th align="center" colspan="1" rowspan="1">Control patient normalized to annulus (&#x02212;)</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">Annulus</td><td colspan="1" rowspan="1">23.5&#x02009;&#x000b1;&#x02009;4.1</td><td colspan="1" rowspan="1">23.7&#x02009;&#x000b1;&#x02009;2.8</td><td colspan="1" rowspan="1">&#x022ef;</td><td colspan="1" rowspan="1">&#x022ef;</td></tr><tr><td colspan="1" rowspan="1">STJ</td><td colspan="1" rowspan="1">28.3&#x02009;&#x000b1;&#x02009;2.6</td><td colspan="1" rowspan="1">27.7&#x02009;&#x000b1;&#x02009;2.7</td><td colspan="1" rowspan="1">1.22&#x02009;&#x000b1;&#x02009;0.14</td><td colspan="1" rowspan="1">1.18&#x02009;&#x000b1;&#x02009;0.11</td></tr><tr><td colspan="1" rowspan="1">AAo</td><td colspan="1" rowspan="1">33.2&#x02009;&#x000b1;&#x02009;2.1</td><td colspan="1" rowspan="1">31.6&#x02009;&#x000b1;&#x02009;2.0</td><td colspan="1" rowspan="1">1.45&#x02009;&#x000b1;&#x02009;0.22</td><td colspan="1" rowspan="1">1.35&#x02009;&#x000b1;&#x02009;0.11</td></tr><tr><td colspan="1" rowspan="1">RCC sinus</td><td colspan="1" rowspan="1">28.3&#x02009;&#x000b1;&#x02009;3.7</td><td colspan="1" rowspan="1">28.0&#x02009;&#x000b1;&#x02009;3.5</td><td colspan="1" rowspan="1">1.21&#x02009;&#x000b1;&#x02009;0.10</td><td colspan="1" rowspan="1">1.19&#x02009;&#x000b1;&#x02009;0.09</td></tr><tr><td colspan="1" rowspan="1">LCC sinus</td><td colspan="1" rowspan="1">29.5&#x02009;&#x000b1;&#x02009;4.3</td><td colspan="1" rowspan="1">30.7&#x02009;&#x000b1;&#x02009;3.9</td><td colspan="1" rowspan="1">1.27&#x02009;&#x000b1;&#x02009;0.13</td><td colspan="1" rowspan="1">1.30&#x02009;&#x000b1;&#x02009;0.11</td></tr><tr><td colspan="1" rowspan="1">NCC sinus</td><td colspan="1" rowspan="1">30.0&#x02009;&#x000b1;&#x02009;3.7</td><td colspan="1" rowspan="1">30.4&#x02009;&#x000b1;&#x02009;3.6</td><td colspan="1" rowspan="1">1.29&#x02009;&#x000b1;&#x02009;0.09</td><td colspan="1" rowspan="1">1.31&#x02009;&#x000b1;&#x02009;0.10</td></tr><tr><td colspan="1" rowspan="1">Sinus height</td><td colspan="1" rowspan="1">19.0&#x02009;&#x000b1;&#x02009;3.2</td><td colspan="1" rowspan="1">20.9&#x02009;&#x000b1;&#x02009;2.3</td><td colspan="1" rowspan="1">0.81&#x02009;&#x000b1;&#x02009;0.06</td><td colspan="1" rowspan="1">0.89&#x02009;&#x000b1;&#x02009;0.11</td></tr><tr><td colspan="1" rowspan="1">RCA height</td><td colspan="1" rowspan="1">13.4&#x02009;&#x000b1;&#x02009;2.6</td><td colspan="1" rowspan="1">19.3&#x02009;&#x000b1;&#x02009;2.7</td><td colspan="1" rowspan="1">0.59&#x02009;&#x000b1;&#x02009;0.17</td><td colspan="1" rowspan="1">0.82&#x02009;&#x000b1;&#x02009;0.11</td></tr><tr><td colspan="1" rowspan="1">LCA height</td><td colspan="1" rowspan="1">12.9&#x02009;&#x000b1;&#x02009;3.2</td><td colspan="1" rowspan="1">15.2&#x02009;&#x000b1;&#x02009;3.0</td><td colspan="1" rowspan="1">0.55&#x02009;&#x000b1;&#x02009;0.13</td><td colspan="1" rowspan="1">0.65&#x02009;&#x000b1;&#x02009;0.14</td></tr></tbody></table></table-wrap><p><xref rid="f2" ref-type="fig">Figure 2</xref> show the relative differences between all normalized aortic root dimensions of the THVT patients and their specific controls for each valve type. The Aao and STJ diameters [<xref rid="f2" ref-type="fig">Fig. 2(a)</xref>] are larger in the THVT patients than in the specific controls, except for the patients with the Lotus 27&#x02009;mm valve which shows the opposite pattern. This trend is strongest for the AAo diameters which are approximately 10% larger in the THVT patients. For the sinus diameters [<xref rid="f2" ref-type="fig">Fig. 2(b)</xref>] no clear trend can be observed. The RCA and the LCA heights [<xref rid="f2" ref-type="fig">Fig. 2(c)</xref>] are clearly smaller in the THVT patients than in their specific controls (except for the LCA of the Edwards Sapien 3 23&#x02009;mm valve which was higher). This trend is strongest for the RCA heights which shows differences of approximately 40% for Edwards Sapien XT 26&#x02009;mm, Lotus 27&#x02009;mm, and Symetis Accurate 23&#x02009;mm. The sinus height is smaller in all THVT patients compared to control with 5%&#x02013;10%. For ellipticity [<xref rid="f2" ref-type="fig">Fig. 2(d)</xref>], no trend in the difference between THVT patients and their specific controls could be observed.</p><fig position="float" fig-type="figure" id="f2"><label>FIG. 2.</label><caption><p>Difference between the normalized dimensions of the THVT patients compared to their specific controls (0%) for each valve type and size for all aortic and sinus dimensions. Calculated as 100. (Patient value &#x02212; control value)/control value. Difference in (a) aortic diameters, (b) sinus diameters, (c) heights of the coronary arteries (distance from annulus) and the sinus portion (distance between annulus and STJ), and (d) ellipticity of the different aortic cross sections. STJ, sinotubular junction; AAo, ascending aorta; NCC, non-coronary cusp; RCC, right coronary cusp; LCC, left coronary cusp; RCA, right coronary artery; LCA, left coronary artery.</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g002" position="float"/></fig></sec><sec id="s2B"><label>B.</label><title>Impact of larger STJ and AAo diameter on systolic aortic root blood flow&#x02014;Computational study</title><p>Two idealized aortic root (generic) models were designed based on the observed differences in the STJ and AAo diameters [<xref rid="f1" ref-type="fig">Figs. 1(a)</xref> and <xref rid="f2" ref-type="fig">2(a)</xref>]. These models were then used in a computational study of the systolic blood flow. To this end, values close to the median values of the normalized diameters were used. The THVT model diameters were set to <inline-formula>
+<mml:math id="M1" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mtext>STJ</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>1.25</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">A</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math id="M2" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mtext>AAo</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>1.50</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">A</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>, and the control model to <inline-formula>
+<mml:math id="M3" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mtext>STJ</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>1.15</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">A</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> and <inline-formula>
+<mml:math id="M4" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mtext>AAo</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>1.30</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">A</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula> (with <inline-formula>
+<mml:math id="M5" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>d</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">A</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>22</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math></inline-formula>). The resulting total fluid volumes in the AAo and in the sinus portion of the THVT model [<xref rid="f7" ref-type="fig">Fig. 7(b)</xref>] were, therefore, larger than in the control model (AAo: <inline-formula>
+<mml:math id="M6" display="inline" overflow="scroll"><mml:mn>2.58</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> m<sup>3</sup> vs <inline-formula>
+<mml:math id="M7" display="inline" overflow="scroll"><mml:mn>1.99</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>&#x02009;m<sup>3</sup>, Sinus: <inline-formula>
+<mml:math id="M8" display="inline" overflow="scroll"><mml:mn>0.40</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>&#x02009;m<sup>3</sup> vs <inline-formula>
+<mml:math id="M9" display="inline" overflow="scroll"><mml:mn>0.37</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>5</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>&#x02009;m<sup>3</sup>).</p><p><xref rid="f3" ref-type="fig">Figure 3</xref> shows the peak systolic mean velocity fields in the two aortic root models. The peak systolic velocity of the central aortic jet was similar in both cases (<inline-formula>
+<mml:math id="M10" display="inline" overflow="scroll"><mml:mn>2.00</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>0.50</mml:mn></mml:math></inline-formula>&#x02009;m/s in THVT vs <inline-formula>
+<mml:math id="M11" display="inline" overflow="scroll"><mml:mn>2.05</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>0.43</mml:mn></mml:math></inline-formula>&#x02009;m/s in control), but the jet in the AAo of the THVT model was wider than in the control. <xref rid="f4" ref-type="fig">Figures 4(a)&#x02013;4(c)</xref> shows the velocity profiles at three positions in the AAo (same cross sections as in <xref rid="f3" ref-type="fig">Fig. 3</xref>) in both models. At the STJ [<xref rid="f4" ref-type="fig">Fig. 4(a)</xref>, cross section 1], the jets are comparable in width and velocity magnitude. At cross section 2 and 3 [<xref rid="f4" ref-type="fig">Figs. 4(b)</xref> and <xref rid="f4" ref-type="fig">4(c)</xref>], higher backflow velocities along the aortic wall can be observed for the control model. At cross section 3, the jet is wider and more central in the THVT model compared to the control model.</p><fig position="float" fig-type="figure" id="f3"><label>FIG. 3.</label><caption><p>The average velocity field from the computational analysis in the (a) control and (b) the THVT aortic models, seen from two different views normal to the main flow direction, and for three perpendicular cross sections at (1) the sinotubular junction, (2) in the ascending aorta and (3) in the bend toward the aortic arch.</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g003" position="float"/></fig><fig position="float" fig-type="figure" id="f4"><label>FIG. 4.</label><caption><p>Velocity profiles at three different cross sections in the ascending aorta: (a) plane 1 at the sinotubular junction, (b) plane 2 in the ascending aorta, and (c) plane 3 in the bend toward the aortic arch (see <xref rid="f3" ref-type="fig">Fig. 3</xref>). The flow velocity is taken perpendicular (<inline-formula>
+<mml:math id="M12" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi><mml:mo>,</mml:mo><mml:mo>&#x022a5;</mml:mo></mml:mrow></mml:msub></mml:mrow></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:mrow></mml:math></inline-formula>) to the cross-sectional plane. (d) Histogram for distribution of the velocity magnitudes within the sinus portions for the control model and the THVT model. The vertical lines indicate the mean velocity magnitude in the control (red) and THVT (blue) model.</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g004" position="float"/></fig><p><xref rid="t3" ref-type="table">Table III</xref> shows the mean velocities and flow rates at the STJ cross section for the two aortic models. Both models exhibit retrograde flow along the walls of the proximal AAo. The associated backflow velocities in the THVT model are lower than in the control model (<inline-formula>
+<mml:math id="M13" display="inline" overflow="scroll"><mml:mo>&#x02212;</mml:mo><mml:mn>0.34</mml:mn></mml:math></inline-formula>&#x02009;m/s vs <inline-formula>
+<mml:math id="M14" display="inline" overflow="scroll"><mml:mo>&#x02212;</mml:mo><mml:mn>0.38</mml:mn></mml:math></inline-formula>&#x02009;m/s), while the area occupied by backflow (blue areas in the cross sections in <xref rid="f4" ref-type="fig">Fig. 4</xref>) is larger (<inline-formula>
+<mml:math id="M15" display="inline" overflow="scroll"><mml:mn>42.1</mml:mn><mml:mi>%</mml:mi></mml:math></inline-formula> vs <inline-formula>
+<mml:math id="M16" display="inline" overflow="scroll"><mml:mn>37.9</mml:mn><mml:mi>%</mml:mi></mml:math></inline-formula>). The resulting backflow rate is larger in the THVT model (6.0&#x02009;l/min vs 5.2&#x02009;l/min). The results are in line with our previous <italic>in vitro</italic> findings using tomographic particle velocimetry in different sized aortic roots:<xref rid="c10" ref-type="bibr"><sup>10</sup></xref> we measured similar peak systolic velocities, and it was found that backflow rate increased with larger aortic roots.</p><table-wrap position="float" id="t3"><label>TABLE III.</label><caption><p>Temporal-averaged values and standard deviations of the mean velocities and flow rates at the STJ cross section in the control and THVT model in the computational study. THVT, transcatheter heart valve thrombosis; STJ, sinotubular junction.</p></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="char" char="\plusmn" span="1"/><col align="char" char="\plusmn" span="1"/></colgroup><thead><tr><th align="left" colspan="1" rowspan="1"/><th align="center" colspan="1" rowspan="1">Control</th><th align="center" colspan="1" rowspan="1">THVT</th></tr></thead><tbody><tr><td colspan="1" rowspan="1">Backflow area per total STJ area (%)</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M17" display="inline" overflow="scroll"><mml:mn>37.9</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>3.9</mml:mn></mml:math></inline-formula>
+</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M18" display="inline" overflow="scroll"><mml:mn>42.1</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>4.6</mml:mn></mml:math></inline-formula>
+</td></tr><tr><td colspan="1" rowspan="1">Mean jet velocity averaged over jet area (m/s)</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M19" display="inline" overflow="scroll"><mml:mn>0.95</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>0.13</mml:mn></mml:math></inline-formula>
+</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M20" display="inline" overflow="scroll"><mml:mn>0.93</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>0.15</mml:mn></mml:math></inline-formula>
+</td></tr><tr><td colspan="1" rowspan="1">Mean backflow velocity averaged over backflow area (m/s)</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M21" display="inline" overflow="scroll"><mml:mo>&#x02212;</mml:mo><mml:mn>0.38</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>0.05</mml:mn></mml:math></inline-formula>
+</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M22" display="inline" overflow="scroll"><mml:mo>&#x02212;</mml:mo><mml:mn>0.34</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>0.03</mml:mn></mml:math></inline-formula>
+</td></tr><tr><td colspan="1" rowspan="1">Backflow flow rate (l/min)</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M23" display="inline" overflow="scroll"><mml:mo>&#x02212;</mml:mo><mml:mn>5.2</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>1.2</mml:mn></mml:math></inline-formula>
+</td><td colspan="1" rowspan="1">
+<inline-formula>
+<mml:math id="M24" display="inline" overflow="scroll"><mml:mo>&#x02212;</mml:mo><mml:mn>6.0</mml:mn><mml:mo>&#x02009;&#x000b1;&#x02009;</mml:mo><mml:mn>1.1</mml:mn></mml:math></inline-formula>
+</td></tr></tbody></table></table-wrap><p>In the AAo, the total systolic turbulent dissipation rate (<inline-formula>
+<mml:math id="M25" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mtext>turb</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>) is higher in the THVT model than in the control model (0.022&#x02009;W vs 0.020&#x02009;W), whereas it is lower in the sinus portion (0.00086&#x02009;W vs 0.00090&#x02009;W). This difference in the turbulent dissipation rate in the sinus is also reflected in <xref rid="f4" ref-type="fig">Fig. 4(d)</xref> which shows normalized histograms of the systolic velocity magnitude distribution in the sinus portions of both models. The distribution of velocity magnitudes in the control model tends toward higher velocities, while the peak of the THVT model is located at lower velocities. Likewise, the mean velocity magnitude is lower for the THVT model (0.36&#x02009;m/s for THVT vs 0.38&#x02009;m/s for control). <xref rid="f5" ref-type="fig">Figure 5</xref> shows that the systolic instantaneous wall shear stress (WSS) magnitudes on the valve leaflets during systole were similar for both the control and the THVT model.</p><fig position="float" fig-type="figure" id="f5"><label>FIG. 5.</label><caption><p>Instantaneous wall shear stress (&#x003c4;) magnitude on the valve leaflets at three different leaflet positions during systole for the control (a) and THVT model (b).</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g005" position="float"/></fig></sec></sec><sec id="s3"><label>III.</label><title>DISCUSSION</title><p>The primary objective of this pilot study was to investigate differences in aortic morphology between a small sample of TAVI patients with clinical THVT and patients who did not develop THVT. Morphological differences if evident may potentially be used to identify patients at risk to develop THVT. The aortic dimensions of eight TAVI patients with THVT were evaluated and compared to 16 unaffected TAVI patients (two per THVT patient with the same specific valve type and size).</p><p>Patients with THVT were found to have significantly lower right coronary artery height (up to 43%). Compared to their specific controls (<xref rid="f2" ref-type="fig">Fig. 2</xref>), the sinus height and the annulus diameter tended to be lower (up to 30% and 8%, respectively), and the sinotubular junction (STJ) diameter and ascending aorta diameter tended to be larger (up to 9% and 14%, respectively) in the THVT patients. A small aortic annulus and small sinus height have been linked to subclinical THVT,<xref rid="c6" ref-type="bibr"><sup>6</sup></xref> similarly a small THV size has been linked to clinical and subclinical THVT.<xref rid="c1" ref-type="bibr"><sup>1,6</sup></xref> However, the diameters of the STJ and the ascending aorta and the height of the coronary arteries have so far not been associated with THVT. Our idealized computational study showed that a larger STJ and AAo led to a different flow field in the aortic root (<xref rid="f3" ref-type="fig">Fig. 3</xref>). It was associated with lower backflow velocities at the STJ (<xref rid="t3" ref-type="table">Table III</xref>) and lower velocity magnitudes in the sinus [<xref rid="f4" ref-type="fig">Fig. 4(d)</xref>] as well as a higher systolic turbulent dissipation rate in the AAo and a lower one in the sinus.</p><p>The coronary arteries are known to influence the flow field in the sinus portions.<xref rid="c19" ref-type="bibr"><sup>19,20,22</sup></xref> Moore <italic>et al.</italic><xref rid="c19" ref-type="bibr"><sup>19</sup></xref> found that there was more flow in the coronary sinuses along the base of the sinus compared to the non-coronary sinus. This higher flow might influence the wash-out efficiency of the sinus portion and reduce flow stasis. Additionally, coronary flow affected the flow pattern in the sinus by preventing full recirculation and diverting the flow toward the ostia. Hatoum <italic>et al.</italic><xref rid="c22" ref-type="bibr"><sup>22</sup></xref> found that the particle residence time in the coronary sinuses was shorter than in the non-coronary sinus. Querzoli <italic>et al.</italic><xref rid="c20" ref-type="bibr"><sup>20</sup></xref> observed that the lifetime of the sinus vortex was reduced in the non-coronary sinus. In the present study, the right coronary artery height was found to be significantly lower in patients with THVT compared to the control patients [<xref rid="f1" ref-type="fig">Fig. 1(c)</xref>]. The right coronary artery height is also lower compared to the general TAVI population.<xref rid="c1" ref-type="bibr"><sup>1,24</sup></xref> The left coronary artery height was also found to be lower when comparing the THVT patients with their specific controls with the same valve type and size [<xref rid="f2" ref-type="fig">Fig. 2(c)</xref>]. These differences in the positions of the ostia are expected to affect the flow field in the sinus portion and possibly also in the neo-sinus after TAVI. The THV leaflet corresponding to the right coronary sinus has been shown to be more affected by thrombus formation<xref rid="c4" ref-type="bibr"><sup>4,5</sup></xref> together with the leaflet corresponding to the non-coronary sinus. Altered flow fields due to lower ostia might promote thrombus formation if regions of blood stasis are enlarged.</p><p>In aortic stenosis treated with TAVI, a dilation of the aortic root is a common finding<xref rid="c26" ref-type="bibr"><sup>26,37</sup></xref> and has been associated with adverse outcomes after TAVI (higher mortality risk, higher incidence of paravalvular regurgitation, and higher risk of major or life-threatening bleeding). However, the possible link to THVT has not yet been established. In this pilot study, the AAo and STJ diameters were comparable to the general TAVI population,<xref rid="c1" ref-type="bibr"><sup>1,24</sup></xref> but a clear trend toward larger AAo and STJ diameters could be observed in the THVT patients when they were compared to their specific control patients [<xref rid="f2" ref-type="fig">Fig. 2(a)</xref>]. This might indicate that a larger aortic root promotes the formation of thrombus on the THV. However, statistical significance of this trend could not be tested due to the small sample size. Therefore, these observations should be seen as hypothesis-generating results, and a larger clinical study is necessary to validate the findings.</p><p>A secondary objective of the current study was to investigate the relevance of larger AAo and STJ diameters to THVT performing an idealized computational fluid&#x02013;structure interaction (FSI) study. The flow fields observed in the two idealized models (a THVT and a control model) with the observed differences in STJ and AAo diameter were found to be different (<xref rid="f3" ref-type="fig">Fig. 3</xref>). In the larger AAo (THVT model), the total systolic turbulent dissipation rate was higher (10%) than in the smaller AAo (control model). This difference could be attributed to the larger volume in the THVT model giving more room to turbulent flow. Alternatively, this result could also indicate regions of elevated turbulent dissipation in the THVT model. Either way, the higher total systolic turbulent dissipation rate may promote platelet activation in the turbulent jet distal to the valve in the THVT model. In both aortic models, a backflow along the aortic wall was observed (<xref rid="t3" ref-type="table">Table III</xref>), which has been linked to the flow and recirculation in the sinus portions.<xref rid="c10" ref-type="bibr"><sup>10,11,20</sup></xref> This backflow may play two opposing roles in THVT: one role in promoting thrombosis by transporting activated platelets from the turbulent aortic jet to the sinus portions, and another role in attenuating thrombosis by driving the wash-out of the sinus portions. Which role prevails in an actual setting, may be the result of a subtle balance between the two effects which could tip either way. In the THVT model, the flow rate of this backflow was found to be higher (16%) while the backflow velocities were lower (&#x02212;11%) than in the control model. In addition, the turbulent dissipation rate in the sinus portion of the THVT model was found to be smaller (&#x02212;4.5%). These observations could indicate that more potentially activated platelets are transported to the sinus due to the higher backflow rate, and that there is less fluid motion in the sinus (due to lower backflow velocities, lower sinus velocities and lower sinus turbulent dissipation rate) in the THVT model resulting in a less efficient washout of the sinus. Accordingly, the wider distribution of velocity magnitudes and the higher mean velocity magnitude within the sinus portion in the control model [<xref rid="f4" ref-type="fig">Fig. 4(d)</xref>] could indicate more intense flow at higher Reynolds numbers in the sinus and, therefore, more efficient wash-out. In summary, the combination of higher turbulent dissipation rate in the AAo, higher backflow rate and less fluid motion in the sinus might explain why patients with larger Aao seems to be more prone to develop THVT.</p><p>Limitations: This pilot study is limited by the low number of THVT patients, due to the low incidence rate of THVT detected at routine clinical follow-up, and the limited number of specific controls (two per THVT patient). Therefore, the clinically observed results should be seen as indications and hypothesis-generating observations. This limitation, however, could partially be mitigated by the computational study which indicated that the observed anatomical differences affected the flow fields in a way that could promote thrombus formation. Another limitation is the lack of information on thrombus location and topology in the registry which could have added more information to the study. Further, the AAo diameter was measured at a fixed distance of 40&#x02009;mm from the annulus which might introduce a bias for this dimension (e.g., due to different sinus heights). This method was used, because it is a clinically accepted measure for the AAo diameter.<xref rid="c24" ref-type="bibr"><sup>24</sup></xref> Additionally, the post-TAVI aortic morphologies were not available. The implantation of THV is expected to modify the pre-TAVI aortic root dimensions (e.g., dilate). However, the impact of Aao increase on the flow pattern was investigated independently of whether the AAo was increased before or after TAVI. The computational study was limited by the idealized morphology of the aortic models and the lack of coronary arteries. In patients, large variations in morphology are observed. However, using idealized models it is possible to investigate the effects of isolated parameters (in this case a larger aorta) on the systolic flow field parameters. The lack of coronaries and coronary flow in the FSI simulations, is expected to influence the flow pattern in the sinus portion, but it is not expected to fundamentally change the main effects of the larger aorta on the flow field (e.g., increased backflow rate and increased AAo turbulent dissipation rate). Another limitation to the computational study was that a surgical prosthetic valve was used as valve model and that native leaflets and neo-sinuses were lacking. Several studies<xref rid="c8" ref-type="bibr"><sup>8&#x02013;13</sup></xref> have shown that valve type influence regions of high stress, recirculation, low flow, and stasis. Therefore, valve type is expected to influence the flow pattern in the sinus portion but is not expected to change the main effects of the larger aorta on the flow field. Therefore, we focused the computational study on the effects of a larger aorta observed in THVT patients. THV-specific aspects (e.g., stent frame, neo-sinus, valve design) were not included to avoid obscuring the results by THV-design related aspects. A simple valve model was used to enable insights on basic mechanisms caused only by the larger aorta, which makes the results more generalizable. For a potential clinical application, however, a patient-specific and valve-specific analysis would be necessary to tailor the treatment.</p></sec><sec id="s4"><label>IV.</label><title>CONCLUSION</title><p>The increased AAo and STJ diameters and the lower coronary artery heights observed in the small sample of THVT patients suggest that patient-specific aortic root dimensions might play a role in THVT. Both the heights of the coronary as well as the larger aortic diameters are known to influence the flow field in the aortic root, and modified blood flow caused by these aortic dimensions might therefore be an important factor in THVT development. The observed increase in turbulent dissipation rates in the AAo and decrease in velocities in the sinus portions in the idealized computational model with larger STJ and AAo could provide an explanation why a larger aortic diameter might promote thrombus formation. If clinically validated, it might be possible to use these dimensions as markers during preprocedural planning of TAVI and subsequent patient monitoring to identify patients at higher risk for THVT. The aortic root dimensions are routinely assessed during the preprocedural planning using multi-detector computed tomography (MDCT), and an analysis of the coronary heights and ascending aortic diameter of patients to support the selection of the best patient-specific anticoagulation scheme could be feasible. However, a larger clinical study is necessary to validate the morphological findings of this pilot study.</p></sec><sec id="s5"><label>V.</label><title>METHODS</title><sec id="s5A"><label>A.</label><title>Aortic root morphology&#x02014;Registry data</title><p>In this pilot study, morphological data from eight TAVI patients who experienced clinical THVT were compared to data from 16 unaffected TAVI patients (free from THVT) with two patients with the same THV type and size for each THVT patient. The THVT patients were identified in the Bern TAVI registry between May 2013 and May 2015 (ten patients experienced THVT in this period, two were excluded due to lack of sufficient information in the registry for the present investigation) and have been described previously.<xref rid="c1" ref-type="bibr"><sup>1</sup></xref> The unaffected patients were entered in the Bern-TAVI registry between January 2013 and March 2021. The Bern TAVI registry was approved by the local ethics committee and all participants provided written informed consent prior to inclusion (clinicalTrials.gov Identifier: NCT01368250).</p><p>In each patient, the following dimensions were measured from the pre-TAVI multi-detector computed tomography (MDCT) images: annulus diameter (maximum and minimum), the diameter of each sinus portion corresponding to the non-coronary (NCC), right coronary (RCC) and left coronary cusps (LCC) measured as the largest diameter from the opposing commissure, the height of the right (RCA) and left coronary artery (LCA), the height of the sinus portion [from annulus to sinotubular junction (STJ)], the diameter of the STJ (maximum and minimum), and the diameter of the ascending aorta (AAo) at 40&#x02009;mm distance from the annulus (maximum and minimum). <xref rid="f6" ref-type="fig">Figure 6</xref> shows an example of the measured diameters in one of the unaffected patients. Minimum diameter is the smallest diameter, and the maximum diameter is the largest diameter, of the elliptical/circular cross section.</p><fig position="float" fig-type="figure" id="f6"><label>FIG. 6.</label><caption><p>Pre-operative MDCT images of a control patient indicating the measures of maximum and minimum diameter of the different aortic and sinus dimensions. (a) Measures of the annulus diameter (at 0&#x02009;mm distance from the annulus). (b) Measures of the three sinus portions (at 8&#x02009;mm distance from the annulus at maximum diameter). (c) Measures of the ascending aorta diameter (at 40&#x02009;mm distance from the annulus). (d) Schematic of the different measured aortic dimensions. RC, right coronary; NC, non-coronary; LC, left coronary; STJ, sinotubular junction; AAo, ascending aorta.</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g006" position="float"/></fig><sec id="s5A1"><label>1.</label><title>Data analysis</title><p>The data were analyzed using MATLAB (Mathworks, Natick, MA, USA). In addition to the measured dimensions, the average diameter and the ellipticity (calculated as the ratio of maximum to minimum diameter) of the annulus, the STJ and the AAo were calculated. All dimensions were normalized by the annulus diameter. The average values and standard deviation of the whole THVT patient group and the whole unaffected group (control) were calculated, and the Wilcoxon rank sum test was used to test if the dimensions of the two groups were statistically different (p&#x02009;&#x0003c;&#x02009;0.05 was considered significant). Additionally, the THVT patients were compared directly to the corresponding cases without THVT (same valve and valve size). Statistical significance was not tested in this case due to limited statistical power of the small sample.</p></sec></sec><sec id="s5B"><label>B.</label><title>Computational model</title><p>A computational study was performed to investigate the effects of the identified morphological differences between the THVT patients and the specific unaffected patients (controls) on the peak systolic blood flow patterns in the aortic root. An idealized geometric model of the aortic root was used to generate two different geometrical configurations with different STJ and AAo diameter, selected according to the results from the analysis of the registry data. One geometrical configuration (control case) modeled typical aortic dimensions of the unaffected group and the other configuration (THVT case) modeled the aortic dimensions found in the THVT patient group [<xref rid="f7" ref-type="fig">Fig. 7(a)</xref>]. We chose to study an idealized aortic model to focus on the effect of main geometrical features on the flow field. The average transvalvular pressure gradients seen in the THVT patients (9.4&#x02009;mm Hg) and general TAVI (7.7&#x02009;mm Hg) population published in Ref. <xref rid="c1" ref-type="bibr">1</xref> were imposed in the THVT and control case, respectively.</p><fig position="float" fig-type="figure" id="f7"><label>FIG. 7.</label><caption><p>(a) Schematic representation of the parameterized idealized aortic geometry with bioprosthetic valve. The geometry was parameterized relative to the annulus diameter (<inline-formula>
+<mml:math id="M26" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">d</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">A</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>22</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math></inline-formula>), and the two aortic dimensions sinotubular junction (STJ) diameter (<inline-formula>
+<mml:math id="M27" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">d</mml:mi></mml:mrow><mml:mrow><mml:mtext>STJ</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> and ascending aorta (AAo) diameter (<inline-formula>
+<mml:math id="M28" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="normal">d</mml:mi></mml:mrow><mml:mrow><mml:mtext>AAo</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> were used to create a THVT model and a control model. (b) Inner fluid volumes of the AAo and sinus used to calculate total systolic turbulent dissipation rate.</p></caption><graphic xlink:href="ABPID9-000007-046120_1-g007" position="float"/></fig><p>The unsteady interaction between valve and blood flow was simulated with a high-fidelity solver for cardiovascular fluid&#x02013;structure interaction (FSI). In this FSI solver, the Navier&#x02013;Stokes equation governing the flow field were solved by a direct numerical simulation (DNS) approach and discretized with high-order finite differences on a staggered, structured grid with <inline-formula>
+<mml:math id="M29" display="inline" overflow="scroll"><mml:mn>121</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mn>257</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mn>513</mml:mn></mml:math></inline-formula> points. A finite element method for soft tissue was used to solve the full elastodynamics equations for the structure (valve and aorta) on an unstructured mesh with approximately <inline-formula>
+<mml:math id="M30" display="inline" overflow="scroll"><mml:mn>515</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mn>000</mml:mn></mml:math></inline-formula> tetrahedral elements. The fluid and structural solvers were coupled with a modified immersed boundary method based on variational transfer. The time step is set to <inline-formula>
+<mml:math id="M31" display="inline" overflow="scroll"><mml:mi>&#x00394;</mml:mi><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>5</mml:mn><mml:mo>&#x000b7;</mml:mo><mml:mrow><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>6</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>&#x02009;s. Further details on numerical implementation and validation can be found in Ref. <xref rid="c32" ref-type="bibr">32</xref>. Pressure boundary conditions are imposed by the fringe region technique. By adding a pressure forcing term to the right-hand side of the Navier&#x02013;Stokes equations within a fringe region placed at the in- and outflow, a desired transvalvular pressure gradient is achieved.</p><p>The fluid was considered Newtonian and incompressible with properties similar to blood (fluid density <inline-formula>
+<mml:math id="M32" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>1050</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>kg</mml:mtext><mml:mo>/</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">m</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>, dynamic viscosity <inline-formula>
+<mml:math id="M33" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mi>&#x003bc;</mml:mi><mml:mi>f</mml:mi></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>0.004</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>Pa&#x000b7;</mml:mtext><mml:mi mathvariant="normal">s</mml:mi></mml:math></inline-formula>). The aortic wall and valve stent were modeled linearly elastic, valve leaflets were modeled by a fiber-reinforced Holzapfel&#x02013;Gasser&#x02013;Ogden (HGO) model.<xref rid="c33" ref-type="bibr"><sup>33</sup></xref> Parameters in the HGO constitutive equations were chosen according to Ref. <xref rid="c34" ref-type="bibr">34</xref> and the relative orientation of two sets of fibers was set to <inline-formula>
+<mml:math id="M34" display="inline" overflow="scroll"><mml:mn>60</mml:mn><mml:mo>&#x000b0;</mml:mo></mml:math></inline-formula>. Further technical details can be found in Becsek <italic>et al.</italic><xref rid="c35" ref-type="bibr"><sup>35</sup></xref> The geometric model of the inserted bioprosthetic aortic valve is based on the Edwards Intuity Elite 21 valve (Edwards Lifesciences, Irvine, California, USA).</p><p>The computational model has previously been validated against <italic>in vitro</italic> experimental data<xref rid="c35" ref-type="bibr"><sup>35</sup></xref> using tomographic particle image velocimetry of the same valve (Edwards Intuity Elite) and a straight idealized aortic root model with the same dimensions.<xref rid="c10" ref-type="bibr"><sup>10</sup></xref> The flow pattern of the mean flow and the velocities of the central aortic jet and the backflow were found to agree very well with,<xref rid="c10" ref-type="bibr"><sup>10</sup></xref> and the results were also consistent with the instantaneous flow field at peak systole in Ref. <xref rid="c36" ref-type="bibr">36</xref>.</p><p>For the analysis of the computational results, the temporal mean velocities <inline-formula>
+<mml:math id="M35" display="inline" overflow="scroll"><mml:mrow><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mfenced close=")" open="(" separators="|"><mml:mrow><mml:mi mathvariant="bold-italic">x</mml:mi></mml:mrow></mml:mfenced></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mo>&#x02009;</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="normal">m</mml:mi><mml:mo>/</mml:mo><mml:mi mathvariant="normal">s</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> of the three-dimensional velocity fields <inline-formula>
+<mml:math id="M36" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mfenced close="]" open="[" separators="|"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi><mml:mo>,</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>&#x02009;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>&#x02009;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi><mml:mo>,</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:mfenced></mml:math></inline-formula> in the fluid domain <inline-formula>
+<mml:math id="M37" display="inline" overflow="scroll"><mml:mi mathvariant="bold-italic">x</mml:mi><mml:mo>=</mml:mo><mml:mfenced close="]" open="[" separators="|"><mml:mrow><mml:mi>x</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi>y</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mi>z</mml:mi></mml:mrow></mml:mfenced></mml:math></inline-formula> were calculated by
+<disp-formula id="d1">
+<mml:math id="M38" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mfenced close=")" open="(" separators="|"><mml:mrow><mml:mi mathvariant="bold-italic">x</mml:mi></mml:mrow></mml:mfenced></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">U</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:mi mathvariant="bold-italic">x</mml:mi><mml:mo stretchy="true">)</mml:mo><mml:mo>=</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mrow><mml:mrow><mml:msubsup><mml:mo stretchy="false">&#x0222b;</mml:mo><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mfenced close=")" open="(" separators="|"><mml:mrow><mml:mi mathvariant="bold-italic">x</mml:mi><mml:mo>,</mml:mo><mml:mi>T</mml:mi></mml:mrow></mml:mfenced><mml:mi>d</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:mrow></mml:math>
+<label>(1)</label></disp-formula>with a temporal averaging interval reaching from <inline-formula>
+<mml:math id="M39" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>0.2</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">s</mml:mi></mml:math></inline-formula> to <inline-formula>
+<mml:math id="M40" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mn>0.3</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mi mathvariant="normal">s</mml:mi></mml:math></inline-formula> (peak systolic phase).</p><p>The strain rate tensor <inline-formula>
+<mml:math id="M41" display="inline" overflow="scroll"><mml:mi mathvariant="bold-italic">S</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">s</mml:mi></mml:mrow><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> of the flow field,
+<disp-formula id="d2">
+<mml:math id="M42" display="block" overflow="scroll"><mml:mi mathvariant="bold-italic">S</mml:mi><mml:mo>=</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:mfrac></mml:mrow><mml:mfenced close="]" open="[" separators="|"><mml:mrow><mml:mo>&#x02207;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>+</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mfenced close=")" open="(" separators="|"><mml:mrow><mml:mo>&#x02207;</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant="bold-italic">u</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow></mml:msup></mml:mrow></mml:mrow></mml:mfenced><mml:mo>,</mml:mo></mml:math>
+<label>(2)</label></disp-formula>was used for calculating the turbulent dissipation rate <inline-formula>
+<mml:math id="M43" display="inline" overflow="scroll"><mml:mi>&#x003b5;</mml:mi><mml:mo>&#x02009;</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">m</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo>/</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">s</mml:mi></mml:mrow><mml:mrow><mml:mn>3</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> of the flow field,
+<disp-formula id="d3">
+<mml:math id="M44" display="block" overflow="scroll"><mml:mi>&#x003b5;</mml:mi><mml:mo>=</mml:mo><mml:mn>2</mml:mn><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bd;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:mover accent="true"><mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="bold-italic">S</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mrow><mml:mo>&#x000af;</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mo>,</mml:mo></mml:math>
+<label>(3)</label></disp-formula>with the kinematic viscosity <inline-formula>
+<mml:math id="M45" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bd;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003bc;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">f</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mo>&#x02009;</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mi mathvariant="normal">m</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo>/</mml:mo><mml:mi mathvariant="normal">s</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula>. The total systolic turbulent dissipation rate <inline-formula>
+<mml:math id="M46" display="inline" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mtext>turb</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>&#x02009;</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi mathvariant="normal">W</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:math></inline-formula> was calculated by integrating <inline-formula>
+<mml:math id="M47" display="inline" overflow="scroll"><mml:mi>&#x003b5;</mml:mi></mml:math></inline-formula> over an inner fluid volume <inline-formula>
+<mml:math id="M48" display="inline" overflow="scroll"><mml:mi>V</mml:mi></mml:math></inline-formula> of either the AAo or the sinus portion as [<xref rid="f7" ref-type="fig">Fig. 7(b)</xref>]:
+<disp-formula id="d4">
+<mml:math id="M49" display="block" overflow="scroll"><mml:mrow><mml:msub><mml:mrow><mml:mi>P</mml:mi></mml:mrow><mml:mrow><mml:mtext>turb</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>&#x003c1;</mml:mi></mml:mrow><mml:mrow><mml:mi>f</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:munderover><mml:mo stretchy="false">&#x0222b;</mml:mo><mml:mrow><mml:mi>V</mml:mi></mml:mrow><mml:mrow/></mml:munderover></mml:mrow><mml:mrow><mml:mi>&#x003b5;</mml:mi><mml:mi>d</mml:mi><mml:mi>V</mml:mi></mml:mrow></mml:mrow><mml:mo>.</mml:mo></mml:math>
+<label>(4)</label></disp-formula></p></sec></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>This study was in part financed by the &#x0201c;Medtronic Young Investigators Award&#x0201d; of the Swiss Society of Cardiac and Vascular Surgery received by S.E. Jahren in 2018.</p></ack><sec sec-type="author-declarations"><title>AUTHOR DECLARATIONS</title><sec sec-type="COI-statement"><title>Conflict of Interest</title><p>The authors have no conflicts to disclose.</p></sec><sec sec-type="ethics-approval"><title>Ethics Approval</title><p>Ethics approval for experiments reported in the submitted manuscript on animal or human subjects was granted. The study was conducted in accordance with the Declaration of Helsinki, the Bern TAVI registry was approved by the local ethics committee and all participants provided written informed consent prior to inclusion (clinicalTrials.gov Identifier: NCT01368250).</p></sec><sec sec-type="author-contributions"><title>Author Contributions</title><p><bold>Silje Ekroll Jahren:</bold> Conceptualization (equal); Data curation (supporting); Formal analysis (equal); Funding acquisition (supporting); Investigation (equal); Methodology (equal); Visualization (equal); Writing &#x02013; original draft (equal); Writing &#x02013; review &#x00026; editing (equal). <bold>Caglayan Demirel:</bold> Data curation (equal); Methodology (supporting); Writing &#x02013; review &#x00026; editing (equal). <bold>Karoline-Marie Bornemann:</bold> Data curation (equal); Formal analysis (equal); Methodology (equal); Writing &#x02013; review &#x00026; editing (equal). <bold>Pascal Corso:</bold> Methodology (supporting); Writing &#x02013; review &#x00026; editing (equal). <bold>Stefan Stortecky:</bold> Conceptualization (supporting); Methodology (supporting); Supervision (supporting); Writing &#x02013; review &#x00026; editing (equal). <bold>Dominik Obrist:</bold> Conceptualization (equal); Funding acquisition (equal); Methodology (equal); Supervision (equal); Writing &#x02013; review &#x00026; editing (equal).</p></sec></sec><sec sec-type="data-availability"><title>DATA AVAILABILITY</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="numbered"><ref id="c1"><label>1.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Franzone</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Pilgrim</surname>
+</string-name>, 
+<string-name>
+<given-names>A. G.</given-names>
+<surname>Haynes</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Lanz</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Asami</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Praz</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Transcatheter aortic valve thrombosis: Incidence, clinical presentation and long-term outcomes</article-title>,&#x0201d; <source>Eur. Heart J.</source>
+<volume>19</volume>(<issue>4</issue>), <fpage>398</fpage>&#x02013;<lpage>404</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1093/ehjci/jex181</pub-id></mixed-citation></ref><ref id="c2"><label>2.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names>
+<surname>Rosseel</surname>
+</string-name>, 
+<string-name>
+<given-names>O.</given-names>
+<surname>De Backer</surname>
+</string-name>, and 
+<string-name>
+<given-names>L.</given-names>
+<surname>S&#x000f8;ndergaard</surname>
+</string-name>, &#x0201c;
+<article-title>Clinical valve thrombosis and subclinical leaflet thrombosis following transcatheter aortic valve replacement: Is there a need for a patient-tailored antithrombotic therapy?</article-title>,&#x0201d; <source>Front. Cardiovasc. Med.</source>
+<volume>6</volume>, <fpage>44</fpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.3389/fcvm.2019.00044</pub-id><pub-id pub-id-type="pmid">31058168</pub-id>
+</mixed-citation></ref><ref id="c3"><label>3.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Garcia</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Fukui</surname>
+</string-name>, 
+<string-name>
+<given-names>M. W.</given-names>
+<surname>Dworak</surname>
+</string-name>, 
+<string-name>
+<given-names>B. K.</given-names>
+<surname>Okeson</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Garberich</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Hashimoto</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Clinical impact of hypoattenuating leaflet thickening after transcatheter aortic valve replacement</article-title>,&#x0201d; <source>Circ. Cardiovasc. Interventions</source>
+<volume>15</volume>(<issue>3</issue>), <fpage>e011480</fpage> (<year>2022</year>).<pub-id pub-id-type="doi">10.1161/CIRCINTERVENTIONS.121.011480</pub-id></mixed-citation></ref><ref id="c4"><label>4.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. C. T.</given-names>
+<surname>Ng</surname>
+</string-name>, 
+<string-name>
+<given-names>D. R.</given-names>
+<surname>Holmes</surname>
+</string-name>, 
+<string-name>
+<given-names>M. J.</given-names>
+<surname>Mack</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Delgado</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Makkar</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Blanke</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Leaflet immobility and thrombosis in transcatheter aortic valve replacement</article-title>,&#x0201d; <source>Eur. Heart J.</source>
+<volume>41</volume>(<issue>33</issue>), <fpage>3184</fpage>&#x02013;<lpage>3197</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1093/eurheartj/ehaa542</pub-id><pub-id pub-id-type="pmid">32930773</pub-id>
+</mixed-citation></ref><ref id="c5"><label>5.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names>
+<surname>Yanagisawa</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names>
+<surname>Hayashida</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names>
+<surname>Yamada</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Tanaka</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Yashima</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Inohara</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Incidence, predictors, and mid-term outcomes of possible leaflet thrombosis after TAVR</article-title>,&#x0201d; <source>JACC Cardiovasc. Imaging</source>
+<volume>10</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>11</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1016/j.jcmg.2016.11.005</pub-id></mixed-citation></ref><ref id="c6"><label>6.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names>
+<surname>Blanke</surname>
+</string-name>, 
+<string-name>
+<given-names>J. A.</given-names>
+<surname>Leipsic</surname>
+</string-name>, 
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Popma</surname>
+</string-name>, 
+<string-name>
+<given-names>S. J.</given-names>
+<surname>Yakubov</surname>
+</string-name>, 
+<string-name>
+<given-names>G. M.</given-names>
+<surname>Deeb</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Gada</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Bioprosthetic aortic valve leaflet thickening in the Evolut low risk sub-study</article-title>,&#x0201d; <source>J. Am. Coll. Cardiol.</source>
+<volume>75</volume>(<issue>19</issue>), <fpage>2430</fpage>&#x02013;<lpage>2442</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1016/j.jacc.2020.03.022</pub-id><pub-id pub-id-type="pmid">32234463</pub-id>
+</mixed-citation></ref><ref id="c7"><label>7.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names>
+<surname>Puri</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Auffret</surname>
+</string-name>, and 
+<string-name>
+<given-names>J.</given-names>
+<surname>Rod&#x000e9;s-Cabau</surname>
+</string-name>, &#x0201c;
+<article-title>Bioprosthetic valve thrombosis</article-title>,&#x0201d; <source>J. Am. Coll. Cardiol.</source>
+<volume>69</volume>(<issue>17</issue>), <fpage>2193</fpage>&#x02013;<lpage>2211</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1016/j.jacc.2017.02.051</pub-id><pub-id pub-id-type="pmid">28449781</pub-id>
+</mixed-citation></ref><ref id="c8"><label>8.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names>
+<surname>Moore</surname>
+</string-name> and 
+<string-name>
+<given-names>L. P.</given-names>
+<surname>Dasi</surname>
+</string-name>, &#x0201c;
+<article-title>Spatiotemporal complexity of the aortic sinus vortex</article-title>,&#x0201d; <source>Exp. Fluids</source>
+<volume>55</volume>(<issue>7</issue>), <fpage>1770</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1007/s00348-014-1770-0</pub-id><pub-id pub-id-type="pmid">25067881</pub-id>
+</mixed-citation></ref><ref id="c9"><label>9.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names>
+<surname>Toninato</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Salmon</surname>
+</string-name>, 
+<string-name>
+<given-names>F. M.</given-names>
+<surname>Susin</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Ducci</surname>
+</string-name>, and 
+<string-name>
+<given-names>G.</given-names>
+<surname>Burriesci</surname>
+</string-name>, &#x0201c;
+<article-title>Physiological vortices in the sinuses of Valsalva: An <italic>in vitro</italic> approach for bio-prosthetic valves</article-title>,&#x0201d; <source>J. Biomech.</source>
+<volume>49</volume>(<issue>13</issue>), <fpage>2635</fpage>&#x02013;<lpage>2643</lpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1016/j.jbiomech.2016.05.027</pub-id><pub-id pub-id-type="pmid">27282961</pub-id>
+</mixed-citation></ref><ref id="c10"><label>10.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names>
+<surname>Hasler</surname>
+</string-name> and 
+<string-name>
+<given-names>D.</given-names>
+<surname>Obrist</surname>
+</string-name>, &#x0201c;
+<article-title>Three-dimensional flow structures past a bio-prosthetic valve in an <italic>in-vitro</italic> model of the aortic root</article-title>,&#x0201d; <source>PLoS One</source>
+<volume>13</volume>(<issue>3</issue>), <fpage>e0194384</fpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1371/journal.pone.0194384</pub-id><pub-id pub-id-type="pmid">29547668</pub-id>
+</mixed-citation></ref><ref id="c11"><label>11.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. E.</given-names>
+<surname>Jahren</surname>
+</string-name>, 
+<string-name>
+<given-names>P. P.</given-names>
+<surname>Heinisch</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Hasler</surname>
+</string-name>, 
+<string-name>
+<given-names>B. M.</given-names>
+<surname>Winkler</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Stortecky</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Pilgrim</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Can bioprosthetic valve thrombosis be promoted by aortic root morphology? An <italic>in vitro</italic> study</article-title>,&#x0201d; <source>Interdisp. Cardiovasc. Thorac. Surg.</source>
+<volume>27</volume>(<issue>1</issue>), <fpage>108</fpage>&#x02013;<lpage>115</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1093/icvts/ivy039</pub-id></mixed-citation></ref><ref id="c12"><label>12.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Singh-Gryzbon</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>Ncho</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Sadri</surname>
+</string-name>, 
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Bhat</surname>
+</string-name>, 
+<string-name>
+<given-names>S. S.</given-names>
+<surname>Kollapaneni</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Balakumar</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Influence of patient-specific characteristics on transcatheter heart valve neo-sinus flow: An in silico study</article-title>,&#x0201d; <source>Ann. Biomed. Eng.</source>
+<volume>48</volume>(<issue>10</issue>), <fpage>2400</fpage>&#x02013;<lpage>2411</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1007/s10439-020-02532-x</pub-id><pub-id pub-id-type="pmid">32415483</pub-id>
+</mixed-citation></ref><ref id="c13"><label>13.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names>
+<surname>Hatoum</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Dollery</surname>
+</string-name>, 
+<string-name>
+<given-names>S. M.</given-names>
+<surname>Lilly</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Crestanello</surname>
+</string-name>, and 
+<string-name>
+<given-names>L. P.</given-names>
+<surname>Dasi</surname>
+</string-name>, &#x0201c;
+<article-title>Impact of patient-specific morphologies on sinus flow stasis in transcatheter aortic valve replacement: An in vitro study</article-title>,&#x0201d; <source>J. Thorac. Cardiovasc. Surg.</source>
+<volume>157</volume>(<issue>2</issue>), <fpage>540</fpage>&#x02013;<lpage>549</lpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1016/j.jtcvs.2018.05.086</pub-id><pub-id pub-id-type="pmid">29980299</pub-id>
+</mixed-citation></ref><ref id="c14"><label>14.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. A.</given-names>
+<surname>Midha</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Raghav</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Sharma</surname>
+</string-name>, 
+<string-name>
+<given-names>J. F.</given-names>
+<surname>Condado</surname>
+</string-name>, 
+<string-name>
+<given-names>I. U.</given-names>
+<surname>Okafor</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Rami</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>The fluid mechanics of transcatheter heart valve leaflet thrombosis in the neosinus</article-title>,&#x0201d; <source>Circulation</source>
+<volume>136</volume>(<issue>17</issue>), <fpage>1598</fpage>&#x02013;<lpage>1609</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.117.029479</pub-id><pub-id pub-id-type="pmid">28724752</pub-id>
+</mixed-citation></ref><ref id="c15"><label>15.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names>
+<surname>Vahidkhah</surname>
+</string-name> and 
+<string-name>
+<given-names>A. N.</given-names>
+<surname>Azadani</surname>
+</string-name>, &#x0201c;
+<article-title>Supra-annular valve-in-valve implantation reduces blood stasis on the transcatheter aortic valve leaflets</article-title>,&#x0201d; <source>J. Biomech.</source>
+<volume>58</volume>, <fpage>114</fpage>&#x02013;<lpage>122</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1016/j.jbiomech.2017.04.020</pub-id><pub-id pub-id-type="pmid">28511838</pub-id>
+</mixed-citation></ref><ref id="c16"><label>16.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. N.</given-names>
+<surname>Azadani</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Reardon</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Simonato</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Aldea</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Nickenig</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Kornowski</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Effect of transcatheter aortic valve size and position on valve-in-valve hemodynamics: An in vitro study</article-title>,&#x0201d; <source>J. Thorac. Cardiovasc. Surg.</source>
+<volume>153</volume>(<issue>6</issue>), <fpage>1303</fpage>&#x02013;<lpage>1315.E1</lpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1016/j.jtcvs.2016.12.057</pub-id></mixed-citation></ref><ref id="c17"><label>17.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Ducci</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Pirisi</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Tzamtzis</surname>
+</string-name>, and 
+<string-name>
+<given-names>G.</given-names>
+<surname>Burriesci</surname>
+</string-name>, &#x0201c;
+<article-title>Transcatheter aortic valves produce unphysiological flows which may contribute to thromboembolic events: An in-vitro study</article-title>,&#x0201d; <source>J. Biomech.</source>
+<volume>49</volume>(<issue>16</issue>), <fpage>4080</fpage>&#x02013;<lpage>4089</lpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1016/j.jbiomech.2016.10.050</pub-id><pub-id pub-id-type="pmid">27836502</pub-id>
+</mixed-citation></ref><ref id="c18"><label>18.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. A.</given-names>
+<surname>Midha</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Raghav</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names>
+<surname>Okafor</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. P.</given-names>
+<surname>Yoganathan</surname>
+</string-name>, &#x0201c;
+<article-title>The effect of valve-in-valve implantation height on sinus flow</article-title>,&#x0201d; <source>Ann. Biomed. Eng.</source>
+<volume>45</volume>(<issue>2</issue>), <fpage>405</fpage>&#x02013;<lpage>412</lpage> (<year>2017</year>).<pub-id pub-id-type="doi">10.1007/s10439-016-1642-2</pub-id><pub-id pub-id-type="pmid">27164838</pub-id>
+</mixed-citation></ref><ref id="c19"><label>19.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>B. L.</given-names>
+<surname>Moore</surname>
+</string-name> and 
+<string-name>
+<given-names>L. P.</given-names>
+<surname>Dasi</surname>
+</string-name>, &#x0201c;
+<article-title>Coronary flow impacts aortic leaflet mechanics and aortic sinus hemodynamics</article-title>,&#x0201d; <source>Ann. Biomed. Eng.</source>
+<volume>43</volume>(<issue>9</issue>), <fpage>2231</fpage>&#x02013;<lpage>2241</lpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1007/s10439-015-1260-4</pub-id><pub-id pub-id-type="pmid">25636598</pub-id>
+</mixed-citation></ref><ref id="c20"><label>20.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Querzoli</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Fortini</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Espa</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Melchionna</surname>
+</string-name>, &#x0201c;
+<article-title>A laboratory model of the aortic root flow including the coronary arteries</article-title>,&#x0201d; <source>Exp. Fluids</source>
+<volume>57</volume>(<issue>8</issue>), <fpage>134</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1007/s00348-016-2221-x</pub-id></mixed-citation></ref><ref id="c21"><label>21.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names>
+<surname>Pietrasanta</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Zheng</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>De Marinis</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Hasler</surname>
+</string-name>, and 
+<string-name>
+<given-names>D.</given-names>
+<surname>Obrist</surname>
+</string-name>, &#x0201c;
+<article-title>Characterization of turbulent flow behind a transcatheter aortic valve in different implantation positions</article-title>,&#x0201d; <source>Front. Cardiovasc. Med.</source>
+<volume>8</volume>, <fpage>804565</fpage> (<year>2022</year>).<pub-id pub-id-type="doi">10.3389/fcvm.2021.804565</pub-id><pub-id pub-id-type="pmid">35097022</pub-id>
+</mixed-citation></ref><ref id="c22"><label>22.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names>
+<surname>Hatoum</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Maureira</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Lilly</surname>
+</string-name>, and 
+<string-name>
+<given-names>L. P.</given-names>
+<surname>Dasi</surname>
+</string-name>, &#x0201c;
+<article-title>Impact of BASILICA on sinus and neo-sinus hemodynamics after valve-in-valve with and without coronary flow</article-title>,&#x0201d; <source>Cardiovasc. Revasc. Med.</source>
+<volume>21</volume>(<issue>3</issue>), <fpage>271</fpage>&#x02013;<lpage>276</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1016/j.carrev.2019.06.015</pub-id><pub-id pub-id-type="pmid">31281093</pub-id>
+</mixed-citation></ref><ref id="c23"><label>23.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. S.</given-names>
+<surname>Kandail</surname>
+</string-name>, 
+<string-name>
+<given-names>S. D.</given-names>
+<surname>Trivedi</surname>
+</string-name>, 
+<string-name>
+<given-names>A. C.</given-names>
+<surname>Shaikh</surname>
+</string-name>, 
+<string-name>
+<given-names>T. K.</given-names>
+<surname>Bajwa</surname>
+</string-name>, 
+<string-name>
+<given-names>D. P.</given-names>
+<surname>O'Hair</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Jahangir</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Impact of annular and supra-annular CoreValve deployment locations on aortic and coronary artery hemodynamics</article-title>,&#x0201d; <source>J. Mech. Behav. Biomed. Mater.</source>
+<volume>86</volume>, <fpage>131</fpage>&#x02013;<lpage>142</lpage> (<year>2018</year>).<pub-id pub-id-type="doi">10.1016/j.jmbbm.2018.06.032</pub-id><pub-id pub-id-type="pmid">29986288</pub-id>
+</mixed-citation></ref><ref id="c24"><label>24.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names>
+<surname>Buellesfeld</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Stortecky</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>Kalesan</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Gloekler</surname>
+</string-name>, 
+<string-name>
+<given-names>A. A.</given-names>
+<surname>Khattab</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Nietlispach</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Aortic root dimensions among patients with severe aortic stenosis undergoing transcatheter aortic valve replacement</article-title>,&#x0201d; <source>JACC Cardiovasc. Interventions</source>
+<volume>6</volume>(<issue>1</issue>), <fpage>72</fpage>&#x02013;<lpage>83</lpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1016/j.jcin.2012.09.007</pub-id></mixed-citation></ref><ref id="c25"><label>25.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>Q.</given-names>
+<surname>Wang</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Book</surname>
+</string-name>, 
+<string-name>
+<given-names>S. H. C.</given-names>
+<surname>Ortiz</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names>
+<surname>Primiano</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>McKay</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Kodali</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Dimensional analysis of aortic root geometry during diastole using 3D models reconstructed from clinical 64-slice computed tomography images</article-title>,&#x0201d; <source>Cardiovasc. Eng. Technol.</source>
+<volume>2</volume>(<issue>4</issue>), <fpage>324</fpage>&#x02013;<lpage>333</lpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1007/s13239-011-0052-8</pub-id></mixed-citation></ref><ref id="c26"><label>26.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names>
+<surname>Tomii</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Okuno</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Heg</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names>
+<surname>Gr&#x000e4;ni</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Lanz</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Praz</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Sinus of Valsalva dimension and clinical outcomes in patients undergoing transcatheter aortic valve implantation</article-title>,&#x0201d; <source>Am. Heart J.</source>
+<volume>244</volume>, <fpage>94</fpage>&#x02013;<lpage>106</lpage> (<year>2022</year>).<pub-id pub-id-type="doi">10.1016/j.ahj.2021.11.004</pub-id><pub-id pub-id-type="pmid">34788603</pub-id>
+</mixed-citation></ref><ref id="c27"><label>27.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Jarena</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Turek</surname>
+</string-name>, 
+<string-name>
+<given-names>B. L. J. H.</given-names>
+<surname>Kietselaer</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names>
+<surname>Mihl</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Kok</surname>
+</string-name>, 
+<string-name>
+<given-names>V. G. V. A.</given-names>
+<surname>van Ommen</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>MDCT evaluation of aortic root and aortic valve prior to TAVI. What is the optimal imaging time point in the cardiac cycle?</article-title>,&#x0201d; <source>Eur. Radiol.</source>
+<volume>25</volume>(<issue>7</issue>), <fpage>1975</fpage>&#x02013;<lpage>1983</lpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1007/s00330-015-3607-5</pub-id><pub-id pub-id-type="pmid">25708961</pub-id>
+</mixed-citation></ref><ref id="c28"><label>28.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>O.</given-names>
+<surname>Vriz</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Aboyans</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>D'Andrea</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Ferrara</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names>
+<surname>Acri</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Limongelli</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Normal values of aortic root dimensions in healthy adults</article-title>,&#x0201d; <source>Am. J. Cardiol.</source>
+<volume>114</volume>(<issue>6</issue>), <fpage>921</fpage>&#x02013;<lpage>927</lpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1016/j.amjcard.2014.06.028</pub-id><pub-id pub-id-type="pmid">25108304</pub-id>
+</mixed-citation></ref><ref id="c29"><label>29.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>O'Sullivan</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Stortecky</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Buellesfeld</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Wenaweser</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Windecker</surname>
+</string-name>, &#x0201c;
+<article-title>Preinterventional screening of the TAVI patient: How to choose the suitable patient and the best procedure</article-title>,&#x0201d; <source>Clin. Res. Cardiol.</source>
+<volume>103</volume>(<issue>4</issue>), <fpage>259</fpage>&#x02013;<lpage>274</lpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1007/s00392-014-0676-4</pub-id><pub-id pub-id-type="pmid">24515650</pub-id>
+</mixed-citation></ref><ref id="c30"><label>30.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. C. T.</given-names>
+<surname>Ng</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Delgado</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Van Der Kley</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Shanks</surname>
+</string-name>, 
+<string-name>
+<given-names>N. R. L.</given-names>
+<surname>Van De Veire</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Bertini</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Comparison of aortic root dimensions and geometries before and after transcatheter aortic valve implantation by 2-and 3-dimensional transesophageal echocardiography and multislice computed tomography</article-title>,&#x0201d; <source>Circ. Cardiovasc. Imaging</source>
+<volume>3</volume>(<issue>1</issue>), <fpage>94</fpage>&#x02013;<lpage>102</lpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1161/CIRCIMAGING.109.885152</pub-id><pub-id pub-id-type="pmid">19920027</pub-id>
+</mixed-citation></ref><ref id="c31"><label>31.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Dangas</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chiarito</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>O'Gara</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Makkar</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Gurbel</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Leipsic</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Bioprosthetic valve thrombosis: Insights from transcatheter and surgical implants</article-title>,&#x0201d; <source>Struct. Heart.</source>
+<volume>4</volume>(<issue>5</issue>), <fpage>382</fpage>&#x02013;<lpage>388</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1080/24748706.2020.1812779</pub-id></mixed-citation></ref><ref id="c32"><label>32.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. G. C.</given-names>
+<surname>Nestola</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>Becsek</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Zolfaghari</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Zulian</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>De Marinis</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Krause</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>An immersed boundary method for fluid-structure interaction based on variational transfer</article-title>,&#x0201d; <source>J. Comput. Phys.</source>
+<volume>398</volume>, <fpage>108884</fpage> (<year>2019</year>).<pub-id pub-id-type="doi">10.1016/j.jcp.2019.108884</pub-id></mixed-citation></ref><ref id="c33"><label>33.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G. A.</given-names>
+<surname>Holzapfel</surname>
+</string-name>, 
+<string-name>
+<given-names>T. C.</given-names>
+<surname>Gasser</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. A. Y. W.</given-names>
+<surname>Ogden</surname>
+</string-name>, &#x0201c;
+<article-title>A new constitutive framework for arterial wall mechanics and a comparative study of material models</article-title>,&#x0201d; <source>J. Elast.</source>
+<volume>61</volume>, <fpage>1</fpage>&#x02013;<lpage>48</lpage> (<year>2000</year>).<pub-id pub-id-type="doi">10.1023/A:1010835316564</pub-id></mixed-citation></ref><ref id="c34"><label>34.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names>
+<surname>Auricchio</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Conti</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Ferrara</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Morganti</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names>
+<surname>Reali</surname>
+</string-name>, &#x0201c;
+<article-title>Patient-specific simulation of a stentless aortic valve implant: The impact of fibres on leaflet performance</article-title>,&#x0201d; <source>Comput. Methods Biomech. Biomed. Eng.</source>
+<volume>17</volume>(<issue>3</issue>), <fpage>277</fpage>&#x02013;<lpage>285</lpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1080/10255842.2012.681645</pub-id></mixed-citation></ref><ref id="c35"><label>35.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names>
+<surname>Becsek</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Pietrasanta</surname>
+</string-name>, and 
+<string-name>
+<given-names>D.</given-names>
+<surname>Obrist</surname>
+</string-name>, &#x0201c;
+<article-title>Turbulent systolic flow downstream of a bioprosthetic aortic valve: Velocity spectra, wall shear stresses, and turbulent dissipation rates</article-title>,&#x0201d; <source>Front. Physiol.</source>
+<volume>11</volume>, <fpage>577188</fpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.3389/fphys.2020.577188</pub-id><pub-id pub-id-type="pmid">33117194</pub-id>
+</mixed-citation></ref><ref id="c36"><label>36.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. H.</given-names>
+<surname>Lee</surname>
+</string-name>, 
+<string-name>
+<given-names>A. D.</given-names>
+<surname>Rygg</surname>
+</string-name>, 
+<string-name>
+<given-names>E. M.</given-names>
+<surname>Kolahdouz</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Rossi</surname>
+</string-name>, 
+<string-name>
+<given-names>S. M.</given-names>
+<surname>Retta</surname>
+</string-name>, 
+<string-name>
+<given-names>N.</given-names>
+<surname>Duraiswamy</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Fluid&#x02013;structure interaction models of bioprosthetic heart valve dynamics in an experimental pulse duplicator</article-title>,&#x0201d; <source>Ann. Biomed. Eng.</source>
+<volume>48</volume>(<issue>5</issue>), <fpage>1475</fpage>&#x02013;<lpage>1490</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1007/s10439-020-02466-4</pub-id><pub-id pub-id-type="pmid">32034607</pub-id>
+</mixed-citation></ref><ref id="c37"><label>37.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Ochiai</surname>
+</string-name>, 
+<string-name>
+<given-names>S. H.</given-names>
+<surname>Yoon</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Sharma</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Miyasaka</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names>
+<surname>Maeno</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Raschpichler</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, &#x0201c;
+<article-title>Prevalence and prognostic impact of ascending aortic dilatation in patients undergoing TAVR</article-title>,&#x0201d; <source>JACC Cardiovasc. Imaging</source>
+<volume>13</volume>(<issue>1</issue>), <fpage>175</fpage>&#x02013;<lpage>177</lpage> (<year>2020</year>).<pub-id pub-id-type="doi">10.1016/j.jcmg.2019.07.025</pub-id><pub-id pub-id-type="pmid">31542536</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,539 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38052008</article-id><article-id pub-id-type="pmc">PMC10726385</article-id>
+<article-id pub-id-type="doi">10.1021/acs.jpclett.3c02864</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>High Voltages in Sliding Water Drops</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Bista</surname><given-names>Pravash</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes1" ref-type="notes">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6614-5008</contrib-id><name><surname>Ratschow</surname><given-names>Aaron D.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="notes1" ref-type="notes">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5391-2618</contrib-id><name><surname>Butt</surname><given-names>Hans-J&#x000fc;rgen</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3052-326X</contrib-id><name><surname>Weber</surname><given-names>Stefan A. L.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">&#x000b6;</xref><xref rid="notes5" ref-type="notes">&#x025b3;</xref></contrib><aff id="aff1"><label>&#x02020;</label><institution>Max
+Planck Institute for Polymer Research</institution>, Ackermannweg 10, Mainz 55128, <country>Germany</country></aff><aff id="aff2"><label>&#x02021;</label>Institute
+for Nano- and Microfluidics, <institution>TU Darmstadt</institution>, Peter-Gr&#x000fc;nberg-Strasse 10, Darmstadt 64289, <country>Germany</country></aff><aff id="aff3"><label>&#x000b6;</label>Department
+of Physics, <institution>Johannes Gutenberg University</institution>, Staudingerweg 10, Mainz 55128, <country>Germany</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>Stefan.Weber@ipv.uni-stuttgart.de</email>.</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><volume>14</volume><issue>49</issue><fpage>11110</fpage><lpage>11116</lpage><history><date date-type="received"><day>13</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>28</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>22</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_0005" id="ab-tgr1"/></p><p>Water drops on insulating
+hydrophobic substrates can generate electric
+potentials of kilovolts upon sliding for a few centimeters. We show
+that the drop saturation voltage corresponds to an amplified value
+of the solid&#x02013;liquid surface potential at the substrate. The
+amplification is given by the substrate geometry, the drop and substrate
+dielectric properties, and the Debye length within the liquid. Next
+to enabling an easy and low-cost way to measure surface- and zeta-
+potentials, the high drop voltages have implications for energy harvesting,
+droplet microfluidics, and electrostatic discharge protection.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>H2020 European Research Council</institution><institution-id institution-id-type="doi">10.13039/100010663</institution-id></institution-wrap></funding-source><award-id>883631</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>CRC 1194 - 265191195 / C07</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution><institution-id institution-id-type="doi">10.13039/501100001659</institution-id></institution-wrap></funding-source><award-id>CRC 1194 - 265191195 / A02b</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz3c02864</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz3c02864</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Spontaneous
+charging in moving
+drops is commonly observed in micropipetting,<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> aerosolizing,<sup><xref ref-type="bibr" rid="ref3">3</xref></sup> bouncing,<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref9">9</xref></sup> squeezing,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> and sliding of drops (slide
+electrification).<sup><xref ref-type="bibr" rid="ref11">11</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> Many studies have highlighted the potential of this charge separation
+process in energy harvesting<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup> or sensing.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Although this phenomenon
+has been observed qualitatively for decades,<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> a quantitative understanding of the physical process would vastly
+expand applicability.</p><p>One simple way to study slide electrification
+is to measure the
+discharge current of a drop after sliding down a tilted hydrophobic
+plate.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> Using this method, we observed that the drop charge
+saturates after a few cm. We furthermore found a dependence of the
+drop charge on the surface chemistry<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> and
+a drop number dependence during a sequence of drops.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>The exact mechanism of the charge transfer is still
+under investigation.
+Next to electron transfer,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> the phenomenon is commonly attributed to ionic charges.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref32">32</xref>&#x02212;<xref ref-type="bibr" rid="ref36">36</xref></sup> In water or high-dielectric liquids, most solid surfaces are charged.
+These surface charges form spontaneously, e.g., by the adsorption
+of ions from solution, by protonation or deprotonation of surface
+groups, or by the preferential dissolution of ions, leading to the
+formation of an electrostatic double layer (EDL).<sup><xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> Sosa et al. have shown that contact electrification is correlated
+to the zeta potential, pH, and salt concatenation of the liquid.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup> Thus, previous models were based on the assumption
+that some of the charge from an EDL is left behind on the solid surface
+as the contact line moves.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Recently,
+this charge transfer mechanism at receding contact lines and its parametric
+dependencies were described theoretically.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup></p><p>The solid&#x02013;liquid surface charging is commonly described
+by means of the surface potential, &#x003a6;, which is the electrostatic
+potential at the transition between immobilized countercharges in
+the so-called Stern layer and the diffuse Debye layer. Because of
+the high capacitance of the Stern layer,<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> the often cited zeta potential at the shear plane and the surface
+potential are almost indistinguishable for Debye lengths above &#x0223c;1
+nm. This surface potential is one of the fundamental properties in
+colloid and interface science. It determines the stability of dispersions
+and emulsions, causes electrokinetic phenomena and corrosion, and
+influences catalytic activity, contact angles, and the thickness of
+thin liquid films.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> Moreover, the surface
+potential is a fundamental property of biological and technical membranes.
+Still, it is difficult to measure the electric properties of solid&#x02013;liquid
+interfaces. For dispersed particles, zeta potentials can be measured
+by electrophoresis or electroacoustics, and for certain charging mechanisms,
+surface charge densities can be determined by titration. For planar
+surfaces, streaming potentials can be measured or the surface potential
+can indirectly be determined from AFM force measurements. However,
+these methods are often unprecise and notoriously unreliable and have
+to rely on many assumptions.</p><p>Here, we investigate the connection
+between the saturation voltage
+or charge acquired by sliding drops and the physicochemical surface
+properties, such as the surface potential. To this end, we developed
+a method to measure the capacitance and potential of drops on hydrophobized
+glass substrates. These measurements revealed drop voltages exceeding
+1&#x02013;3 kV, with a drop capacitance of <italic>C</italic><sub>D</sub> = 1.2 &#x000b1; 0.1 pF, which is the equivalent capacitance of the
+drop&#x02013;substrate system. We rationalize the high saturation voltages
+by considering the electrostatic fields at the solid&#x02013;liquid
+interface, revealing the connection between the drop charge and the
+surface potential. Thus, by measuring the saturated drop potential,
+we can determine the surface potential at the solid&#x02013;water interface.</p><p>Charge and voltage measurements were performed for drops sliding
+down an inclined glass substrate (soda lime glass with 35 nm Au sputtered
+on the backside) with a tilt angle of 50&#x000b0; and thickness of <italic>d</italic> = 1 mm on a grounded metal plate (<xref rid="fig1" ref-type="fig">Figure.<xref rid="fig1" ref-type="fig">1</xref></xref>). The substrates were hydrophobized with
+(trichloro(1H,1H,2H,2H-perfluorooctyl)silane, PFOTS, via chemical
+vapor deposition. Prior to the experiments, the substrate was neutralized
+using an ionizing air blower for 2 min. The experiments were done
+under ambient conditions (temperature: 21 &#x000b1; 1 &#x000b0;C; humidity:
+35&#x02013;55%). The charge accumulated by a neutral, deionized water
+drop (<italic>V</italic> = 45 &#x003bc;L, Sartorius Arium Pro VF, 18.2
+M&#x003a9; resistivity, in equilibrium with atmospheric CO<sub>2</sub>, pH &#x02248; 6) sliding on an initially neutral hydrophobic substrate
+was measured using a gold-plated metal electrode connected to a subfemtoampere
+current amplifier (rise time: 0.7&#x02013;1.8 &#x003bc;s, FEMTO DLPCA-200,
+Berlin, Germany; details in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">Supporting Information S1</ext-link>).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Illustration of the experimental setup (detail in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S1</ext-link>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_0001" id="gr1" position="float"/></fig><p>We measured the drop
+charge and voltage at different slide lengths.
+The drop charge and voltage values as a function of slide length for
+different drops are shown in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, which we call drop charge traces. The first drop
+sliding on a neutralized surface accumulated a maximum charge of 1.35
+&#x000b1; 0.03 nC over a distance of <italic>L</italic><sub>sat</sub> = 7.0 &#x000b1; 0.3 mm. In contrast to the drop charge, a reliable
+direct measurement of the drop voltage at such low charge values is
+more difficult. It requires a voltmeter with a high input impedance
+and low stray capacitance. We addressed this challenge from two sides:
+In a first approach, we measured the electrostatic drop&#x02013;substrate
+capacitance using a static drop with a bottom electrode underneath
+the substrate (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">Figure S3a</ext-link>). Here, we
+applied an external voltage (<italic>V</italic>) to the drop and measured
+the image charge on the bottom electrode (<italic>Q</italic>) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S1.4</ext-link>,<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup>). This way,
+we measured a drop capacitance of <italic>C</italic><sub>D</sub> = <italic>Q</italic>/<italic>V</italic> = 1.22 &#x000b1; 0.02 pF, which is in
+good agreement with the theoretically estimated value (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S 1.4</ext-link>). From here, we calculated the
+drop voltage via <italic>U</italic><sub arrange="stack">D</sub><sup arrange="stack">1</sup> = <italic>Q</italic><sub arrange="stack">D</sub><sup arrange="stack">1</sup>/<italic>C</italic><sub>D</sub> = 1.1
+kV.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Drop charge versus slide distance of the 1st, 2nd, and 100th
+drop plotted with an exponential fit to obtain characteristic saturation
+length <italic>L</italic><sub>sat</sub> = 7.0 &#x000b1; 0.3 mm. (b) Setup
+to measure the drop voltage with an input capacitance of <italic>C</italic><sub>in</sub> = 1.35 nF (cables, capacitor, and DAQ input capacitance)
+and 400 M&#x003a9; resistor. (c) Voltage measured at <italic>C</italic><sub>in</sub>. The first jump to 0.98 V is due to the drop discharge;
+the subsequent linear increase comes from the ongoing charge separation
+during drop sliding. We can calculate the initial drop voltage using
+the scaling factor <italic>C</italic><sub>in</sub><italic>/</italic><italic>C</italic><sub>D</sub> = 1125 to be 1.1 kV.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_0002" id="gr2" position="float"/></fig><p>In a second approach, we measured the drop voltage using
+a capacitive
+voltage divider. Here, we used a gold-plated metal electrode connected
+to an input capacitance of <italic>C</italic><sub>in</sub> = 1.35
+nF to measure the drop potential, <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b (details are provided in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S1.3</ext-link>). Once in contact with the metal electrode, the
+drop discharged into the input capacitance <italic>C</italic><sub>in</sub> until the voltages were equalized. The measured voltage
+depends on the capacitance ratio between <italic>C</italic><sub>in</sub> and <italic>C</italic><sub>D</sub>. The voltage vs time for the
+first drop (brown curve in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>c) shows a voltage jump within the first millisecond
+due to the redistribution of the drop charge across the total capacitance.
+It is followed by a linear voltage increase due to the ongoing charge
+separation at the moving contact line. The current resulting from
+ongoing charge separation at the receding contact line can be estimated
+as <inline-formula id="d33e375"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m001.gif"/></inline-formula>, which yields
+a value of 70&#x02013;80 nA.
+This estimation closely matches the values measured in a previous
+study<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> and can also be seen in the drop
+discharge current in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">Figure S1c</ext-link>. After
+the drop has passed the electrode, the voltage signal showed a slow
+decrease. To enable measurements on a sequence of drops, we allowed
+the system to discharge over an additional 400 M&#x003a9; resistor.
+By using the capacitance ratio of (<italic>C</italic><sub>in</sub> + <italic>C</italic><sub>D</sub>)/<italic>C</italic><sub>D</sub> &#x02248; <italic>C</italic><sub>in</sub>/<italic>C</italic><sub>D</sub> for <italic>C</italic><sub>in</sub> &#x0226b; <italic>C</italic><sub>D</sub>, we estimated the initial voltage within <italic>C</italic><sub>D</sub> prior to its contact with <italic>C</italic><sub>in</sub>. These measurements yielded a drop voltage of 1.10 &#x000b1; 0.02 kV,
+consistent with the previous capacitance measurement.</p><p>By comparing
+the voltage-to-drop charge data collected with the
+current amplifier on the same substrate at different slide distances,
+we can estimate the average drop capacitance by using the drop charge
+and voltage. This estimation yields <italic>C</italic><sub>D</sub> = 1.2 &#x000b1; 0.1 pF, which is consistent with the value measured
+for a static drop (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S1.4</ext-link>). Both
+methods show that the sliding drops spontaneously charge up to a significant
+voltage on the order of kV. At saturation, the drops carry an electrostatic
+energy of <italic>W</italic><sub>D</sub> = 0.8 &#x003bc;J per drop.</p><p>The charge separation process seems to happen spontaneously with
+a strong electrostatic potential. To understand the process, we consider
+a single drop sliding on a neutral substrate. Because of charge conservation
+and the insulating nature of both the substrate and the surrounding
+air, any change in total drop charge, d<italic>Q</italic>, is the
+result of surface charges, &#x003c3;<sub>out</sub>, leaving the drop
+at the receding contact line. Thus, the change in drop charge of a
+drop with width <italic>w</italic>, sliding a distance of <italic>dx</italic>, at location <italic>x</italic> can be expressed as<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m002" position="anchor"/><label>1</label></disp-formula></p><p>It is well-known that solid surfaces in contact with liquid
+water
+acquire a net charge &#x003c3;<sub>SL</sub> and form an EDL by attracting
+a diffuse layer of counterions. The characteristic thickness of this
+diffuse layer is called the Debye length &#x003bb;<sub>D</sub>. The
+surface charge can be caused by surface chemistry processes and/or
+specific ion adsorption.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> The fundamental
+mechanism of charge separation at receding contact lines is the dewetting
+of bound surface charges from the EDL.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> It is thus reasonable to assume that a fraction 0 &#x02264; &#x003b1;
+&#x02264; 1 of the surface charge is deposited by the drop.<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> Assuming &#x003b1; to be constant, as valid for
+the drop velocity range during the experiments,<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> we can write<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m003" position="anchor"/><label>2</label></disp-formula>To quantify &#x003c3;<sub>SL</sub>, we consider
+Gauss&#x02019;s law at the solid&#x02013;liquid interface<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m004" position="anchor"/><label>3</label></disp-formula>with the normal vector of
+the interface, <bold>n</bold>, permittivity &#x003b5;, and electric
+field <bold>E</bold> in the liquid (l) and solid (s). The electric
+field in the liquid, <bold>E</bold><sub>l</sub>, is governed by the
+EDL. For moderate surface potentials, &#x003a6; &#x0003c; <italic>kT</italic>/<italic>e</italic>, the electric field in the liquid scales like <bold>n</bold><bold>E</bold><sub>l</sub> = &#x003a6;/&#x003bb;<sub>D</sub>.
+Here, <italic>k</italic> is the Boltzmann constant, <italic>T</italic> is the temperature, <italic>e</italic> is the unit charge, and &#x003bb;<sub>D</sub> is the Debye length. For water with a monovalent salt at
+concentration <italic>c</italic><sub>0</sub>, the latter is given
+by <inline-formula id="d33e500"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m005.gif"/></inline-formula>. The electric field in the substrate, <bold>E</bold><sub>s</sub>, is determined by the potential difference between
+the drop with charge <italic>Q</italic> and the grounded plate under
+the substrate with thickness <italic>d</italic> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a) via <bold>n</bold><bold>E</bold><sub>s</sub> = &#x02212;<italic>U</italic><sub>D</sub>/<italic>d</italic>.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Electrostatic potential &#x003a8;(<italic>z</italic>) between
+the drop and metal electrode. For an uncharged drop, the potential
+is flat throughout the substrate (dashed line). The surface charge
+density at the solid&#x02013;liquid interface, &#x003c3;<sub>SL</sub>, results from a discontinuity in the dielectric displacement. For
+a charged drop (solid line), there is an electric field present in
+the substrate, reducing the jump in the dielectric displacement and
+thereby the effective surface charge density. (b) Voltage, <italic>U</italic><sub arrange="stack">D</sub><sup arrange="stack">max</sup>, with increasing KNO<sub>3</sub> concentration. The blue data point
+shows a measurement using a deionized (DI) water drop after a series
+of measurements with salty drops, indicating potential irreversible
+changes at the solid-liquid interface.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_0003" id="gr3" position="float"/></fig><p>Overall, the interfacial Gauss&#x02019;s law yields<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m006" position="anchor"/><label>4</label></disp-formula>This relationship is general
+as it only contains the assumption of a moderate surface potential.
+However, <xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref> has two
+free variables: solid&#x02013;liquid surface charge &#x003c3;<sub>SL</sub> and surface potential &#x003a6;.</p><p>Generally, a change in the
+drop potential could also shift the
+chemical equilibrium at the solid&#x02013;liquid interface, thus generating
+a nonlinear response of both &#x003c3;<sub>SL</sub> and &#x003a6; to the
+drop voltage <italic>U</italic><sub>D</sub>.<sup><xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref46">46</xref></sup> This potentially complex process can be linearized for an approximately
+constant voltage across the diffuse layer and, thus, an approximately
+constant surface potential. In this linearized case, the drop charge
+would saturate as a function of distance, in agreement with our observations
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). Therefore,
+the linearization adequately captures the observed effects.</p><p>We assume that the voltage across the EDL is always identical to
+the surface potential &#x003a6; of a neutral drop. Using the surface
+charge within the drop (<xref rid="eq4" ref-type="disp-formula">eq <xref rid="eq4" ref-type="disp-formula">4</xref></xref>), we get<disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m007" position="anchor"/><label>5</label></disp-formula>Inserting into <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>, we arrive at the model equation
+for the drop charge<disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m008" position="anchor"/><label>6</label></disp-formula>Here, <italic>c</italic><sub>s</sub> = <italic>&#x003b5;</italic><sub>s</sub>/<italic>d</italic> is the specific substrate
+capacitance. We can immediately see that
+the drop charge will be stationary (d<italic>Q</italic> = 0) at a
+maximum drop voltage of<disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m009" position="anchor"/><label>7</label></disp-formula><disp-formula id="eq8"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m010" position="anchor"/><label>8</label></disp-formula>Thus, the saturation voltage, <italic>U</italic><sub arrange="stack">D</sub><sup arrange="stack">max</sup>, is an
+electrostatically amplified value of the surface potential
+&#x003a6;. Here, we defined the amplification factor &#x003c7; that is
+proportional to the ratio of the dielectric permittivities of the
+liquid and substrate and the ratio of substrate thickness <italic>d</italic> and Debye length &#x003bb;<sub>D</sub>. Using values from
+the experiments (&#x003b5;<sub>s</sub> = 7&#x003b5;<sub>0</sub>, &#x003b5;<sub>l</sub> = 80&#x003b5;<sub>0</sub>, <italic>d</italic> = 1 mm, and &#x003bb;<sub>D</sub> &#x02248; 400 nm), we get a value of &#x003c7; = 28571. With
+the measured saturation value of <italic>U</italic><sub arrange="stack">D</sub><sup arrange="stack">max</sup> = 1.1 kV, we can calculate
+&#x003a6; &#x02248; &#x02212;38.0 mV, which is close to the zeta potential
+reported in literature.<sup><xref ref-type="bibr" rid="ref47">47</xref></sup> No significant
+difference in measured voltage was observed between 5% and 88% humidity.
+By rearranging <xref rid="eq7" ref-type="disp-formula">eq <xref rid="eq7" ref-type="disp-formula">7</xref></xref> and
+using the drop&#x02013;substrate capacitance <italic>C</italic><sub>D</sub> = &#x003b5;<sub>s</sub><italic>A</italic>/<italic>d</italic>, we can find a similar relationship for the drop charge<disp-formula id="eq9"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m011" position="anchor"/><label>9</label></disp-formula>where <italic>C</italic><sub>EDL</sub> is
+the EDL capacitance within the drop.</p><p>Thus, by measuring the
+saturated drop charge or voltage after a
+sufficiently long slide distance, the surface potential of the solid&#x02013;liquid
+surface can be determined. The proposed method is independent of the
+specific transfer coefficient &#x003b1;. Once the drop has reached its
+steady-state potential, no charge is transferred to the substrate.
+The transfer coefficient only determines the required characteristic
+slide distance required to reach the stated state.</p><p>To understand
+the role of the charge transfer coefficient &#x003b1;,
+we can rearrange <xref rid="eq6" ref-type="disp-formula">eq <xref rid="eq6" ref-type="disp-formula">6</xref></xref> by using the drop capacitance <italic>C</italic><sub>D</sub> = &#x003b5;<sub>s</sub>&#x003c0;<italic>w</italic><sup>2</sup>/(4<italic>d</italic>) = &#x003b5;<sub>s</sub><italic>A</italic>/<italic>d</italic> and
+the maximum drop charge <italic>Q</italic><sub arrange="stack">D</sub><sup arrange="stack">max</sup> = &#x02212;&#x003c7;&#x003a6;<italic>C</italic><sub>D</sub><disp-formula id="eq10"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m012" position="anchor"/><label>10</label></disp-formula>Here, <inline-formula id="d33e702"><inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m013.gif"/></inline-formula> is the characteristic saturation length
+of the drop charge. With the measured saturation length of <italic>L</italic><sub>sat</sub> = 7.0 &#x000b1; 0.3 mm and a drop width of <italic>w</italic> = 5 mm, we can estimate the charge transfer coefficient
+to be &#x003b1; &#x02248; 0.5.</p><p><xref rid="eq7" ref-type="disp-formula">Equations <xref rid="eq7" ref-type="disp-formula">7</xref></xref> and <xref rid="eq8" ref-type="disp-formula">8</xref> predict that
+the saturation drop voltage is proportional
+to the substrate thickness, <italic>d</italic>. We repeated our measurements
+on a 3 mm thick glass substrate and observed a roughly 3-fold increase
+in the drop voltage to 3.8 &#x000b1; 0.1 kV (&#x003a6; &#x02248; &#x02212;44
+mV). Interestingly, the measured drop charge remained almost constant.
+The voltage increase is the result of the lower capacitance on the
+thicker substrate. Note that for substrate thicknesses exceeding the
+drop size, <italic>d</italic> &#x0226b; <italic>w</italic>, the drop
+capacitance takes the form of a charged sphere between two dielectrics
+and the model assumptions no longer apply.</p><p>Similarly, the theory
+predicts a dependence of the saturation voltage
+on the Debye length, at least for moderate salt concentrations within
+the Debye&#x02013;H&#x000fc;ckel approximation. To test this dependence,
+we performed experiments on the initial 1 mm thick substrate using
+drops with different concentrations of KNO<sub>3</sub>. The voltage
+measurements revealed a decreasing voltage with increasing ion concentration
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b), which
+is consistent with literature.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> In <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b, the red dots represent
+the maximum value of <italic>U</italic><sub>D</sub> on the pristine
+surface without salt. We measured the voltage generated by the droplets
+while increasing the salt concentration and washed the surface between
+each measurement. We observed that the voltage decreased with increasing
+concentration, <italic>c</italic>. Upon repeating the measurement
+with DI water (blue dot), we found that there has been a permanent
+change to the surface.</p><p>So far, we have assumed that the &#x003a6;
+potential is independent
+of the salt concentration, <italic>c</italic>. It is well-known that
+at low potentials or high ion concentration &#x003a6; and &#x003bb;<sub>D</sub> are approximately proportional to <italic>c</italic><sup>&#x02013;1/2</sup>,<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> making the product
+&#x003a6;/&#x003bb;<sub>D</sub> independent of <italic>c</italic>. At
+higher surface potentials (&#x003a6; &#x0226b; <italic>k</italic><sub>B</sub><italic>T</italic>/<italic>e</italic>), a more general approximation
+is given by &#x003a6; &#x0223c; log(&#x003bb;<sub>D</sub>).<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> The saturation voltage would thus be proportional
+to log(<italic>c</italic>) (<italic>U</italic><sub arrange="stack">D</sub><sup arrange="stack">max</sup> &#x0223c; &#x003a6; &#x0223c; log(<italic>c</italic>)), which could explain the observed concentration dependence.</p><p>Our findings have immediate implications for energy harvesting
+from sliding drops. Previous studies reported rather low efficiencies
+of around 1%.<sup><xref ref-type="bibr" rid="ref23">23</xref>,<xref ref-type="bibr" rid="ref50">50</xref></sup> Our theoretical analysis reveals
+that the saturation voltage <italic>U</italic><sub arrange="stack">D</sub><sup arrange="stack">max</sup> increases proportionally to
+the substrate thickness (<xref rid="eq7" ref-type="disp-formula">eq <xref rid="eq7" ref-type="disp-formula">7</xref></xref>), while the saturation charge <italic>Q</italic> only depends
+on the wetted area and the EDL properties (<xref rid="eq9" ref-type="disp-formula">eq <xref rid="eq9" ref-type="disp-formula">9</xref></xref>). Thus, the total drop energy <italic>W</italic><sub>D</sub> = (1/2)<italic>QU</italic><sub>D</sub> increases linearly
+with increasing substrate thickness. In the present case, the drop
+charge saturates after sliding a height difference of &#x00394;<italic>z</italic> = 3 cm, losing a potential energy of <italic>W</italic><sub>G</sub> = <italic>mg</italic>&#x00394;<italic>z</italic> = 13
+&#x003bc;J. The electrical energy on a 1 mm thick substrate is <italic>W</italic><sub>D</sub> = 0.8 &#x003bc;J, yielding an energy harvesting
+efficiency of 6%. By increasing the substrate thickness to 3 mm, the
+efficiency increases to 18%. Here, the upper limit is that the drops
+get stuck in their own electrostatic field. Thus, to optimize this
+process, a balance between droplet motion and energy harvesting has
+to be found.</p><p>To harvest the energy stored in the drops, it might
+be useful to
+have a continuous sequence of drops. When we let multiple drops run
+down the surface at a drop interval &#x00394;<italic>t</italic> = 1.8
+&#x000b1; 0.2 s, the drop voltage vs drop number measured at a slide
+length of 5 cm showed a rapid decrease from 1100 to 850 V (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> dots) within the
+first ten drops. We repeated these measurements at different slide
+lengths and plotted the drop charge traces as a function of slide
+length for the 1st, 2nd, and 100th drop (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a). Subsequent drops saturated at lower voltages
+until reaching a stable value around 850 V. For subsequent drops,
+the saturation length increased because the surface was already partially
+charged from previous drops, reducing the charge transfer.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Measured drop
+charge on PFOTS (dots) and numerical simulation (line)
+using the model. Parameters used for the simulation are &#x00394;<italic>t</italic> = 1.8 s, <italic>C</italic><sub>D</sub> = 1.2 pF, &#x003a6;
+= &#x02212;40 mV, and &#x003c4; = 2.3 s.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_0004" id="gr4" position="float"/></fig><p>Our measurements and previous works suggest that the surface charge
+on the dry substrate decays with a characteristic time scale &#x003c4;
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S2.2</ext-link>) on the order of 1&#x02013;100
+s<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> through nonzero substrate or surface
+conductivity<sup><xref ref-type="bibr" rid="ref51">51</xref>&#x02212;<xref ref-type="bibr" rid="ref53">53</xref></sup> or by neutralization through ionic species in the
+ambient air.<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> To account for these surface
+charges in the charge balance, we can modify <xref rid="eq6" ref-type="disp-formula">eq <xref rid="eq6" ref-type="disp-formula">6</xref></xref> for the <italic>n</italic>th drop at position <italic>x</italic><disp-formula id="eq11"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_m014" position="anchor"/><label>11</label></disp-formula>where &#x00394;<italic>t</italic> is the time in between two drops and &#x003c3;<sub arrange="stack">out</sub><sup arrange="stack">0</sup> = 0 for initially
+uncharged
+substrates. Using this model in a numerical simulation that also takes
+into account the additional surface charge deposited during the electrode
+discharge (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">section S2.1</ext-link>), we find good
+agreement between simulation and experiment (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>). Deviations from the model might be explained
+by a change in velocity, caused by electrostatic forces between the
+drop and surface charges.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> Furthermore,
+the observed behavior might be caused by the substrate polarization.
+To increase the energy harvesting efficiency in sequences of drops,
+substrates with a fast decay of surface charge are advantageous.</p><p>To conclude, drops sliding over hydrophobic insulating surfaces
+acquire voltages higher than 1 kV over a distance of a couple of centimeters.
+The measured saturation drop voltage represents an amplified value
+of the surface potential at the solid&#x02013;liquid interface. The
+amplification originates from the electrostatic potential landscape
+at this interface. The simple electrostatic model derived in this
+Letter quantitatively captures the experimentally observed physics.</p><p>The evidence of kV potentials in sliding drops together with our
+model description has major implications for energy applications as
+it enables optimization of the energy harvesting efficiency. The high
+voltages in moving drops could destroy delicate structures, for example,
+in microelectronics. Furthermore, the discovery and theoretical description
+of the relationship between the measured saturation voltage <italic>U</italic><sub>D</sub> and the surface potential could spark a new
+research field by enabling low-cost surface and zeta potential measurements
+on flat surfaces.</p></body><back><notes id="notes3" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02864?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02864</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental procedure
+with sample preparation, drop
+charge measurement, voltage measurement setup and results, capacitance
+measurement of a static drop, slide electrification theory with numerical
+simulation, simulation results, estimation of surface discharge time,
+and surface potential at different humidity (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_001.pdf">PDF</ext-link>)</p></list-item><list-item><p>Transparent Peer Review report available
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c02864/suppl_file/jz3c02864_si_002.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_si_001.pdf"><caption><p>jz3c02864_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02864_si_002.pdf"><caption><p>jz3c02864_si_002.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes5"><title>Author Present Address</title><p><sup>&#x025b3;</sup> Institute
+for Photovoltaics, University of Stuttgart, Pfaffenwaldring
+47, 70569 Stuttgart, Germany</p></notes><notes notes-type="" id="notes1"><title>Author Contributions</title><p><sup>&#x022a5;</sup> P.B. and
+A.D.R. contributed equally to this work.</p></notes><notes notes-type="funding-statement" id="notes-33"><p>Open
+access
+funded by Max Planck Society.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1433-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This project has received funding from the European
+Research Council (ERC) under the European Union&#x02019;s Horizon 2020
+research and innovation programme (Grant Agreement No. 883631) (P.B.,
+and H.-J.B.) and was supported by the German Research Foundation (DFG)
+within the Collaborative Research Centre 1194 &#x0201c;Interaction
+of Transport and Wetting Processes&#x0201d;, Project ID 265191195,
+subprojects A02b (A.D.R.) and C07 (H.-J.B.). We thank Amy Z. Stetten,
+Xiaomei Li, Diego Diaz, Benjamin Leibauer, Lisa S. Bauer, Maximilian
+T. Sch&#x000fc;r, Steffen Hardt, and Alfons Becker for helpful discussions.
+S.A.L.W., A.D.R., and H.-J.B. proposed the work, A.D.R., P.B., and
+S.A.L.W. proposed the measurement methods, P.B. prepared the substrates,
+conducted the experiments, and analyzed the data, A.D.R. derived the
+theoretical framework, S.A.L.W. and A.D.R developed the model, P.B.
+and S.A.L.W. carried out the simulations, A.D.R., P.B., and S.A.L.W.
+prepared the manuscript, and S.A.L.W. and H.-J.B. supervised the work.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Choi</surname><given-names>D.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Kang</surname><given-names>I. S.</given-names></name>; <name><surname>Lim</surname><given-names>G.</given-names></name>; <name><surname>Kim</surname><given-names>D. S.</given-names></name>; <name><surname>Kang</surname><given-names>K. H.</given-names></name>; <name><surname>Im</surname><given-names>D. J.</given-names></name>; et al. <article-title>Spontaneous
+electrical charging of droplets by conventional
+pipetting</article-title>. <source>Sci. Rep.</source>
+<year>2013</year>, <volume>3</volume>, <fpage>2037</fpage><pub-id pub-id-type="doi">10.1038/srep02037</pub-id>.<pub-id pub-id-type="pmid">23784001</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Artemov</surname><given-names>V.</given-names></name>; <name><surname>Frank</surname><given-names>L.</given-names></name>; <name><surname>Doronin</surname><given-names>R.</given-names></name>; <name><surname>St&#x000e4;rk</surname><given-names>P.</given-names></name>; <name><surname>Schlaich</surname><given-names>A.</given-names></name>; <name><surname>Andreev</surname><given-names>A.</given-names></name>; <name><surname>Leisner</surname><given-names>T.</given-names></name>; <name><surname>Radenovic</surname><given-names>A.</given-names></name>; <name><surname>Kiselev</surname><given-names>A.</given-names></name>
+<article-title>The Three-Phase Contact Potential Difference Modulates
+the Water Surface Charge</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2023</year>, <volume>14</volume>, <fpage>4796</fpage><pub-id pub-id-type="doi">10.1021/acs.jpclett.3c00479</pub-id>.<pub-id pub-id-type="pmid">37191100</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Kwok</surname><given-names>P. C. L.</given-names></name>; <name><surname>Trietsch</surname><given-names>S. J.</given-names></name>; <name><surname>Kumon</surname><given-names>M.</given-names></name>; <name><surname>Chan</surname><given-names>H.-K.</given-names></name>
+<article-title>Electrostatic charge
+characteristics of jet nebulized aerosols</article-title>. <source>Journal
+of aerosol medicine and pulmonary drug delivery</source>
+<year>2010</year>, <volume>23</volume>, <fpage>149</fpage>&#x02013;<lpage>159</lpage>. <pub-id pub-id-type="doi">10.1089/jamp.2009.0795</pub-id>.<pub-id pub-id-type="pmid">20500092</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Chate</surname><given-names>D.</given-names></name>; <name><surname>Kamra</surname><given-names>A.</given-names></name>
+<article-title>Charge separation associated
+with splashing of water drops on solid
+surfaces</article-title>. <source>Atmospheric research</source>
+<year>1993</year>, <volume>29</volume>, <fpage>115</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1016/0169-8095(93)90040-U</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Lenard</surname><given-names>P.</given-names></name>
+<article-title>&#x000dc;ber
+die Electricit&#x000e4;t der Wasserf&#x000e4;lle</article-title>. <source>Ann. Phys</source>
+<year>1892</year>, <volume>282</volume>, <fpage>584</fpage>&#x02013;<lpage>636</lpage>. <pub-id pub-id-type="doi">10.1002/andp.18922820805</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Levin</surname><given-names>Z.</given-names></name>; <name><surname>Hobbs</surname><given-names>P. V.</given-names></name>
+<article-title>Splashing of water drops on solid and wetted surfaces:
+hydrodynamics and charge separation</article-title>. <source>Philosophical
+Transactions of the Royal Society of London. Series A, Mathematical
+and Physical Sciences</source>
+<year>1971</year>, <volume>269</volume>, <fpage>555</fpage>&#x02013;<lpage>585</lpage>. <pub-id pub-id-type="doi">10.1098/rsta.1971.0052</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Miljkovic</surname><given-names>N.</given-names></name>; <name><surname>Preston</surname><given-names>D. J.</given-names></name>; <name><surname>Enright</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>E. N.</given-names></name>
+<article-title>Electrostatic charging
+of jumping droplets</article-title>. <source>Nat. Commun.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1038/ncomms3517</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Nauruzbayeva</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Gallo</surname><given-names>A.</given-names></name>; <name><surname>Ibrahim</surname><given-names>M.</given-names></name>; <name><surname>Santamarina</surname><given-names>J. C.</given-names></name>; <name><surname>Mishra</surname><given-names>H.</given-names></name>
+<article-title>Electrification at
+water-hydrophobe interfaces</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>5285</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-19054-8</pub-id>.<pub-id pub-id-type="pmid">33082321</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Diaz</surname><given-names>D. I.</given-names></name>; <name><surname>Garcia-Gonz&#x000e1;lez</surname><given-names>D.</given-names></name>; <name><surname>Bista</surname><given-names>P.</given-names></name>; <name><surname>Weber</surname><given-names>S.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>; <name><surname>Stetten</surname><given-names>A. Z.</given-names></name>; <name><surname>Kappl</surname><given-names>M.</given-names></name>
+<article-title>Charging of Impacting
+Drops onto Superhydrophobic Surfaces</article-title>. <source>Soft Matter</source>
+<year>2022</year>, <volume>18</volume>, <fpage>1628</fpage><pub-id pub-id-type="doi">10.1039/D1SM01725J</pub-id>.<pub-id pub-id-type="pmid">35113106</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Nie</surname><given-names>J.</given-names></name>; <name><surname>Ren</surname><given-names>Z.</given-names></name>; <name><surname>Xu</surname><given-names>L.</given-names></name>; <name><surname>Lin</surname><given-names>S.</given-names></name>; <name><surname>Zhan</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Z. L.</given-names></name>
+<article-title>Probing contact-electrification-induced
+electron and
+ion transfers at a liquid&#x02013;solid interface</article-title>. <source>Adv. Mater.</source>
+<year>2020</year>, <volume>32</volume>, <fpage>1905696</fpage><pub-id pub-id-type="doi">10.1002/adma.201905696</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Yatsuzuka</surname><given-names>K.</given-names></name>; <name><surname>Mizuno</surname><given-names>Y.</given-names></name>; <name><surname>Asano</surname><given-names>K.</given-names></name>
+<article-title>Electrification
+phenomena of pure
+water droplets dripping and sliding on a polymer surface</article-title>. <source>Journal of electrostatics</source>
+<year>1994</year>, <volume>32</volume>, <fpage>157</fpage>&#x02013;<lpage>171</lpage>. <pub-id pub-id-type="doi">10.1016/0304-3886(94)90005-1</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Yatsuzuka</surname><given-names>K.</given-names></name>; <name><surname>Higashiyama</surname><given-names>Y.</given-names></name>; <name><surname>Asano</surname><given-names>K.</given-names></name>
+<article-title>Electrification of polymer surface
+caused by sliding ultrapure water</article-title>. <source>IEEE Transactions
+on Industry Applications</source>
+<year>1996</year>, <volume>32</volume>, <fpage>825</fpage>&#x02013;<lpage>831</lpage>. <pub-id pub-id-type="doi">10.1109/28.511638</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Stetten</surname><given-names>A. Z.</given-names></name>; <name><surname>Golovko</surname><given-names>D. S.</given-names></name>; <name><surname>Weber</surname><given-names>S. A.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>
+<article-title>Slide electrification:
+charging of surfaces by moving water drops</article-title>. <source>Soft matter</source>
+<year>2019</year>, <volume>15</volume>, <fpage>8667</fpage>&#x02013;<lpage>8679</lpage>. <pub-id pub-id-type="doi">10.1039/C9SM01348B</pub-id>.<pub-id pub-id-type="pmid">31528956</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Lin</surname><given-names>S.</given-names></name>; <name><surname>Xu</surname><given-names>L.</given-names></name>; <name><surname>Chi Wang</surname><given-names>A.</given-names></name>; <name><surname>Wang</surname><given-names>Z. L.</given-names></name>
+<article-title>Quantifying electron-transfer in
+liquid-solid contact electrification and the formation of electric
+double-layer</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1038/s41467-019-14278-9</pub-id>.<pub-id pub-id-type="pmid">31911652</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Bista</surname><given-names>P.</given-names></name>; <name><surname>Stetten</surname><given-names>A. Z.</given-names></name>; <name><surname>Bonart</surname><given-names>H.</given-names></name>; <name><surname>Sch&#x000fc;r</surname><given-names>M. T.</given-names></name>; <name><surname>Hardt</surname><given-names>S.</given-names></name>; <name><surname>Bodziony</surname><given-names>F.</given-names></name>; <name><surname>Marschall</surname><given-names>H.</given-names></name>; <name><surname>Saal</surname><given-names>A.</given-names></name>; <name><surname>Deng</surname><given-names>X.</given-names></name>; et al. <article-title>Spontaneous
+charging
+affects the motion of sliding drops</article-title>. <source>Nat. Phys.</source>
+<year>2022</year>, <volume>18</volume>, <fpage>713</fpage>&#x02013;<lpage>719</lpage>. <pub-id pub-id-type="doi">10.1038/s41567-022-01563-6</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Shahzad</surname><given-names>A.</given-names></name>; <name><surname>Wijewardhana</surname><given-names>K. R.</given-names></name>; <name><surname>Song</surname><given-names>J.-K.</given-names></name>
+<article-title>Contact electrification efficiency
+dependence on surface energy at the water-solid interface</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2018</year>, <volume>113</volume>, <elocation-id>023901</elocation-id><pub-id pub-id-type="doi">10.1063/1.5038605</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Helseth</surname><given-names>L. E.</given-names></name>; <name><surname>Guo</surname><given-names>X. D.</given-names></name>
+<article-title>Contact Electrification and Energy Harvesting Using
+Periodically Contacted and Squeezed Water Droplets</article-title>. <source>Langmuir</source>
+<year>2015</year>, <volume>31</volume>, <fpage>3269</fpage>&#x02013;<lpage>3276</lpage>. <pub-id pub-id-type="doi">10.1021/la503494c</pub-id>.<pub-id pub-id-type="pmid">25730607</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Helseth</surname><given-names>L. E.</given-names></name>
+<article-title>Electrical
+energy harvesting from water droplets passing a hydrophobic polymer
+with a metal film on its back side</article-title>. <source>Journal
+of Electrostatics</source>
+<year>2016</year>, <volume>81</volume>, <fpage>64</fpage>&#x02013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1016/j.elstat.2016.03.006</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Soh</surname><given-names>S.</given-names></name>
+<article-title>Using the gravitational energy of
+water to generate power by separation of charge at interfaces</article-title>. <source>Chemical science</source>
+<year>2015</year>, <volume>6</volume>, <fpage>3347</fpage>&#x02013;<lpage>3353</lpage>. <pub-id pub-id-type="doi">10.1039/C5SC00473J</pub-id>.<pub-id pub-id-type="pmid">28706699</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Helseth</surname><given-names>L. E.</given-names></name>
+<article-title>A water
+droplet-powered sensor based on charge transfer to a flow-through
+front surface electrode</article-title>. <source>Nano Energy</source>
+<year>2020</year>, <volume>73</volume>, <fpage>104809</fpage><pub-id pub-id-type="doi">10.1016/j.nanoen.2020.104809</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Gao</surname><given-names>S.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>
+<article-title>Nanogenerators with superwetting
+surfaces for harvesting water/liquid energy</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <fpage>1908252</fpage><pub-id pub-id-type="doi">10.1002/adfm.201908252</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>L.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Hong</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Tang</surname><given-names>Q.</given-names></name>
+<article-title>Cumulative charging behavior of water droplet driven freestanding
+triboelectric nanogenerators toward hydrodynamic energy harvesting</article-title>. <source>Journal of Materials Chemistry A</source>
+<year>2020</year>, <volume>8</volume>, <fpage>7880</fpage>&#x02013;<lpage>7888</lpage>. <pub-id pub-id-type="doi">10.1039/D0TA01698E</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Zheng</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Song</surname><given-names>Y.</given-names></name>; <name><surname>Deng</surname><given-names>X.</given-names></name>; <name><surname>Leung</surname><given-names>M.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Xu</surname><given-names>R. X.</given-names></name>; et al. <article-title>A droplet-based
+electricity generator with high instantaneous
+power density</article-title>. <source>Nature</source>
+<year>2020</year>, <volume>578</volume>, <fpage>392</fpage>&#x02013;<lpage>396</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-020-1985-6</pub-id>.<pub-id pub-id-type="pmid">32025037</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Miljkovic</surname><given-names>N.</given-names></name>; <name><surname>Preston</surname><given-names>D. J.</given-names></name>; <name><surname>Enright</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>E. N.</given-names></name>
+<article-title>Jumping-droplet
+electrostatic energy harvesting</article-title>. <source>Appl. Phys.
+Lett.</source>
+<year>2014</year>, <volume>105</volume>, <fpage>013111</fpage><pub-id pub-id-type="doi">10.1063/1.4886798</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Niu</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Tian</surname><given-names>K.</given-names></name>; <name><surname>He</surname><given-names>G.</given-names></name>; <name><surname>Huang</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>
+<article-title>Triboelectric
+Energy Harvesting of the Superhydrophobic Coating from Dropping Water</article-title>. <source>Polymers</source>
+<year>2020</year>, <volume>12</volume>, <fpage>1936</fpage><pub-id pub-id-type="doi">10.3390/polym12091936</pub-id>.<pub-id pub-id-type="pmid">32867084</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Yang</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Guo</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Zhao</surname><given-names>Z.</given-names></name>
+<article-title>Robust Working
+Mechanism of Water Droplet-Driven Triboelectric Nanogenerator: Triboelectric
+Output versus Dynamic Motion of Water Droplet</article-title>. <source>Adv. Mater. Inter.</source>
+<year>2019</year>, <volume>6</volume>, <fpage>1901547</fpage><pub-id pub-id-type="doi">10.1002/admi.201901547</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Jin</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>C.</given-names></name>; <name><surname>Sun</surname><given-names>P.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Cui</surname><given-names>M.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>
+<article-title>Electrification
+of water: From basics to applications</article-title>. <source>Droplet</source>
+<year>2022</year>, <volume>1</volume>, <fpage>92</fpage>&#x02013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1002/dro2.22</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Helseth</surname><given-names>L.</given-names></name>
+<article-title>Interdigitated
+electrodes based on liquid metal encapsulated in elastomer as capacitive
+sensors and triboelectric nanogenerators</article-title>. <source>Nano
+Energy</source>
+<year>2018</year>, <volume>50</volume>, <fpage>266</fpage>&#x02013;<lpage>272</lpage>. <pub-id pub-id-type="doi">10.1016/j.nanoen.2018.05.047</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Lin</surname><given-names>S.</given-names></name>; <name><surname>Zheng</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>Z. L.</given-names></name>
+<article-title>Triboelectric Nanogenerator as a
+Probe for Measuring the Charge Transfer between Liquid and Solid Surfaces</article-title>. <source>ACS nano</source>
+<year>2021</year>, <volume>15</volume>, <fpage>14830</fpage>&#x02013;<lpage>14837</lpage>. <pub-id pub-id-type="doi">10.1021/acsnano.1c04903</pub-id>.<pub-id pub-id-type="pmid">34415141</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Helseth</surname><given-names>L. E.</given-names></name>
+<article-title>The influence
+of microscale surface roughness on water-droplet contact electrification</article-title>. <source>Langmuir</source>
+<year>2019</year>, <volume>35</volume>, <fpage>8268</fpage>&#x02013;<lpage>8275</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.9b00988</pub-id>.<pub-id pub-id-type="pmid">31142118</pub-id>
+</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Wong</surname><given-names>W. S.</given-names></name>; <name><surname>Hauer</surname><given-names>L.</given-names></name>; <name><surname>Naga</surname><given-names>A.</given-names></name>; <name><surname>Kaltbeitzel</surname><given-names>A.</given-names></name>; <name><surname>Baumli</surname><given-names>P.</given-names></name>; <name><surname>Berger</surname><given-names>R.</given-names></name>; <name><surname>D &#x02019;Acunzi</surname><given-names>M.</given-names></name>; <name><surname>Vollmer</surname><given-names>D.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>
+<article-title>Adaptive wetting of polydimethylsiloxane</article-title>. <source>Langmuir</source>
+<year>2020</year>, <volume>36</volume>, <fpage>7236</fpage>&#x02013;<lpage>7245</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.0c00538</pub-id>.<pub-id pub-id-type="pmid">32496071</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Zimmermann</surname><given-names>R.</given-names></name>; <name><surname>Rein</surname><given-names>N.</given-names></name>; <name><surname>Werner</surname><given-names>C.</given-names></name>
+<article-title>Water ion adsorption
+dominates charging
+at nonpolar polymer surfaces in multivalent electrolytes</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2009</year>, <volume>11</volume>, <fpage>4360</fpage>&#x02013;<lpage>4364</lpage>. <pub-id pub-id-type="doi">10.1039/b900755e</pub-id>.<pub-id pub-id-type="pmid">19458839</pub-id>
+</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Kudin</surname><given-names>K. N.</given-names></name>; <name><surname>Car</surname><given-names>R.</given-names></name>
+<article-title>Why are water- hydrophobic interfaces charged?</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2008</year>, <volume>130</volume>, <fpage>3915</fpage>&#x02013;<lpage>3919</lpage>. <pub-id pub-id-type="doi">10.1021/ja077205t</pub-id>.<pub-id pub-id-type="pmid">18311970</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>McCarty</surname><given-names>L. S.</given-names></name>; <name><surname>Whitesides</surname><given-names>G. M.</given-names></name>
+<article-title>Electrostatic charging due to separation of ions at
+interfaces: contact electrification of ionic electrets</article-title>. <source>Angewandte Chemie International Edition</source>
+<year>2008</year>, <volume>47</volume>, <fpage>2188</fpage>&#x02013;<lpage>2207</lpage>. <pub-id pub-id-type="doi">10.1002/anie.200701812</pub-id>.<pub-id pub-id-type="pmid">18270989</pub-id>
+</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Sosa</surname><given-names>M. D.</given-names></name>; <name><surname>Martinez Ricci</surname><given-names>M. L.</given-names></name>; <name><surname>Missoni</surname><given-names>L. L.</given-names></name>; <name><surname>Murgida</surname><given-names>D. H.</given-names></name>; <name><surname>C&#x000e1;nneva</surname><given-names>A.</given-names></name>; <name><surname>D&#x02019;Accorso</surname><given-names>N. B.</given-names></name>; <name><surname>Negri</surname><given-names>R. M.</given-names></name>
+<article-title>Liquid&#x02013;polymer triboelectricity:
+chemical mechanisms in the contact electrification process</article-title>. <source>Soft Matter</source>
+<year>2020</year>, <volume>16</volume>, <fpage>7040</fpage>&#x02013;<lpage>7051</lpage>. <pub-id pub-id-type="doi">10.1039/D0SM00738B</pub-id>.<pub-id pub-id-type="pmid">32667028</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Kowacz</surname><given-names>M.</given-names></name>; <name><surname>Pollack</surname><given-names>G. H.</given-names></name>
+<article-title>Moving Water Droplets: The Role of Atmospheric CO2
+and Incident Radiant Energy in Charge Separation at the Air&#x02013;Water
+Interface</article-title>. <source>The Journal of Physical Chemistry
+B</source>
+<year>2019</year>, <volume>123</volume>, <fpage>11003</fpage>&#x02013;<lpage>11013</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcb.9b09161</pub-id>.<pub-id pub-id-type="pmid">31808695</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="book" id="cit37"><person-group person-group-type="allauthors"><name><surname>Hunter</surname><given-names>R. J.</given-names></name></person-group><source>Foundations of Colloid
+Science</source>; <publisher-name>Clarendon</publisher-name>: <publisher-loc>Weinheim, Germany</publisher-loc>, <year>1987</year>; Vol. <volume>1</volume>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="book" id="cit38"><person-group person-group-type="allauthors"><name><surname>Butt</surname><given-names>H.-J.</given-names></name>; <name><surname>Graf</surname><given-names>K.</given-names></name>; <name><surname>Kappl</surname><given-names>M.</given-names></name></person-group><source>Physics and Chemistry of Interfaces</source>, <edition>1</edition>st ed.; <publisher-name>Wiley-VCH</publisher-name>: <publisher-loc>Weinheim, Germany</publisher-loc>, <year>2006</year>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Sosa</surname><given-names>M. D.</given-names></name>; <name><surname>D&#x02019;Accorso</surname><given-names>N. B.</given-names></name>; <name><surname>Mart&#x000ed;nez Ricci</surname><given-names>M. L.</given-names></name>; <name><surname>Negri</surname><given-names>R. M.</given-names></name>
+<article-title>Liquid&#x02013;Polymer
+Contact Electrification: Modeling the Dependence of Surface Charges
+and <italic>&#x003be;</italic>-Potential on pH and Added-Salt Concentration</article-title>. <source>Langmuir</source>
+<year>2022</year>, <volume>38</volume>, <fpage>8817</fpage>&#x02013;<lpage>8828</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.2c00813</pub-id>.<pub-id pub-id-type="pmid">35834348</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="undeclared" id="cit40"><person-group person-group-type="allauthors"><name><surname>Ratschow</surname><given-names>A. D.</given-names></name>; <name><surname>Bauer</surname><given-names>L. S.</given-names></name>; <name><surname>Bista</surname><given-names>P.</given-names></name>; <name><surname>Weber</surname><given-names>S.
+A. L.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>; <name><surname>Hardt</surname><given-names>S.</given-names></name></person-group><article-title>How charges separate
+when surfaces are dewetted</article-title>. <source>arXiv:2305.02172</source>; <year>2023</year>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Hiemstra</surname><given-names>T.</given-names></name>; <name><surname>de Wit</surname><given-names>J.</given-names></name>; <name><surname>van Riemsdijk</surname><given-names>W.</given-names></name>
+<article-title>Multisite
+proton adsorption modeling
+at the solid/solution interface of (hydr)oxides: A new approach</article-title>. <source>Journal of colloid and interface science</source>
+<year>1989</year>, <volume>133</volume>, <fpage>105</fpage>&#x02013;<lpage>117</lpage>. <pub-id pub-id-type="doi">10.1016/0021-9797(89)90285-3</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Dong</surname><given-names>H.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>
+<article-title>Surface potential/charge
+sensing
+techniques and applications</article-title>. <source>Sensors</source>
+<year>2020</year>, <volume>20</volume>, <fpage>1690</fpage><pub-id pub-id-type="doi">10.3390/s20061690</pub-id>.<pub-id pub-id-type="pmid">32197397</pub-id>
+</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Bodziony</surname><given-names>F.</given-names></name>; <name><surname>Yin</surname><given-names>M.</given-names></name>; <name><surname>Marschall</surname><given-names>H.</given-names></name>; <name><surname>Berger</surname><given-names>R.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>
+<article-title>Kinetic drop friction</article-title>. <source>Nat. Commun.</source>
+<year>2023</year>, <volume>14</volume>, <fpage>4571</fpage><pub-id pub-id-type="doi">10.1038/s41467-023-40289-8</pub-id>.<pub-id pub-id-type="pmid">37516769</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Ratschow</surname><given-names>A. D.</given-names></name>; <name><surname>Hardt</surname><given-names>S.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>
+<article-title>Surface charge deposition
+by moving drops reduces contact angles</article-title>. <source>Phys.
+Rev. Lett.</source>
+<year>2023</year>, <volume>131</volume>, <fpage>228201</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.131.228201</pub-id>.<pub-id pub-id-type="pmid">38101382</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Behrens</surname><given-names>S. H.</given-names></name>; <name><surname>Grier</surname><given-names>D. G.</given-names></name>
+<article-title>The charge of glass
+and silica surfaces</article-title>. <source>The Journal of chemical
+physics</source>
+<year>2001</year>, <volume>115</volume>, <fpage>6716</fpage>&#x02013;<lpage>6721</lpage>. <pub-id pub-id-type="doi">10.1063/1.1404988</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>van
+der Wouden</surname><given-names>E. J.</given-names></name>; <name><surname>Hermes</surname><given-names>D. C.</given-names></name>; <name><surname>Gardeniers</surname><given-names>J. G. E.</given-names></name>; <name><surname>van den Berg</surname><given-names>A.</given-names></name>
+<article-title>Directional flow induced by synchronized longitudinal
+and zeta-potential controlling AC-electrical fields</article-title>. <source>Lab on a chip</source>
+<year>2006</year>, <volume>6</volume>, <fpage>1300</fpage>&#x02013;<lpage>1305</lpage>. <pub-id pub-id-type="doi">10.1039/b607403k</pub-id>.<pub-id pub-id-type="pmid">17102843</pub-id>
+</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Vogel</surname><given-names>P.</given-names></name>; <name><surname>M&#x000f6;ller</surname><given-names>N.</given-names></name>; <name><surname>Qaisrani</surname><given-names>M. N.</given-names></name>; <name><surname>Bista</surname><given-names>P.</given-names></name>; <name><surname>Weber</surname><given-names>S. A.</given-names></name>; <name><surname>Butt</surname><given-names>H.-J.</given-names></name>; <name><surname>Liebchen</surname><given-names>B.</given-names></name>; <name><surname>Sulpizi</surname><given-names>M.</given-names></name>; <name><surname>Palberg</surname><given-names>T.</given-names></name>
+<article-title>Charging of
+Dielectric Surfaces in Contact with Aqueous Electrolytes- the Influence
+of CO<sub>2</sub></article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2022</year>, <volume>144</volume>, <fpage>21080</fpage>&#x02013;<lpage>21087</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.2c06793</pub-id>.<pub-id pub-id-type="pmid">36354176</pub-id>
+</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Helseth</surname><given-names>L. E.</given-names></name>
+<article-title>Ion Concentration
+Influences the Charge Transfer Due to a Water&#x02013;Air Contact Line
+Moving over a Hydrophobic Surface: Charge Measurements and Theoretical
+Models</article-title>. <source>Langmuir</source>
+<year>2023</year>, <volume>39</volume>, <fpage>1826</fpage>&#x02013;<lpage>1837</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.2c02716</pub-id>.<pub-id pub-id-type="pmid">36696661</pub-id>
+</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Kirby</surname><given-names>B. J.</given-names></name>; <name><surname>Hasselbrink</surname><given-names>E. F.</given-names><suffix>Jr</suffix></name>
+<article-title>Zeta potential of microfluidic substrates:
+1. Theory, experimental techniques, and effects on separations</article-title>. <source>Electrophoresis</source>
+<year>2004</year>, <volume>25</volume>, <fpage>187</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.1002/elps.200305754</pub-id>.<pub-id pub-id-type="pmid">14743473</pub-id>
+</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Helseth</surname><given-names>L.</given-names></name>
+<article-title>Harvesting
+energy from light and water droplets by covering photovoltaic cells
+with transparent polymers</article-title>. <source>Applied Energy</source>
+<year>2021</year>, <volume>300</volume>, <fpage>117394</fpage><pub-id pub-id-type="doi">10.1016/j.apenergy.2021.117394</pub-id>.</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Paiva</surname><given-names>V. T.</given-names></name>; <name><surname>Santos</surname><given-names>L. P.</given-names></name>; <name><surname>da Silva</surname><given-names>D. S.</given-names></name>; <name><surname>Burgo</surname><given-names>T. A.</given-names></name>; <name><surname>Galembeck</surname><given-names>F.</given-names></name>
+<article-title>Conduction
+and excess charge in silicate glass/air interfaces</article-title>. <source>Langmuir</source>
+<year>2019</year>, <volume>35</volume>, <fpage>7703</fpage>&#x02013;<lpage>7712</lpage>. <pub-id pub-id-type="doi">10.1021/acs.langmuir.9b00606</pub-id>.<pub-id pub-id-type="pmid">31125236</pub-id>
+</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Soffer</surname><given-names>A.</given-names></name>; <name><surname>Folman</surname><given-names>M.</given-names></name>
+<article-title>Surface conductivity and conduction
+mechanisms on adsorption
+of vapours on silica</article-title>. <source>Transactions of the Faraday
+Society</source>
+<year>1966</year>, <volume>62</volume>, <fpage>3559</fpage>&#x02013;<lpage>3569</lpage>. <pub-id pub-id-type="doi">10.1039/tf9666203559</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Umezawa</surname><given-names>R.</given-names></name>; <name><surname>Katsura</surname><given-names>M.</given-names></name>; <name><surname>Nakashima</surname><given-names>S.</given-names></name>
+<article-title>Electrical conductivity at surfaces
+of silica nanoparticles with adsorbed water at various relative humidities</article-title>. <source>e-Journal of Surface Science and Nanotechnology</source>
+<year>2018</year>, <volume>16</volume>, <fpage>376</fpage>&#x02013;<lpage>381</lpage>. <pub-id pub-id-type="doi">10.1380/ejssnt.2018.376</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Burch</surname><given-names>P R J</given-names></name>
+<source>Cosmic Radiation:
+Ionization Intensity and Specific Ionization in Air at Sea Level</source>
+<year>1954</year>, <volume>67</volume>, <fpage>421</fpage><pub-id pub-id-type="doi">10.1088/0370-1298/67/5/303</pub-id>.</mixed-citation></ref></ref-list></back></article>

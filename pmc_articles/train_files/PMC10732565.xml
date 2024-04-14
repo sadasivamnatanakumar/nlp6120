@@ -1,0 +1,750 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Infect Dis</journal-id><journal-id journal-id-type="iso-abbrev">Clin Infect Dis</journal-id><journal-id journal-id-type="publisher-id">cid</journal-id><journal-title-group><journal-title>Clinical Infectious Diseases: An Official Publication of the Infectious Diseases Society of America</journal-title></journal-title-group><issn pub-type="ppub">1058-4838</issn><issn pub-type="epub">1537-6591</issn><publisher><publisher-name>Oxford University Press</publisher-name><publisher-loc>US</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">PMC10732565</article-id><article-id pub-id-type="doi">10.1093/cid/ciad562</article-id><article-id pub-id-type="publisher-id">ciad562</article-id><article-categories><subj-group subj-group-type="heading"><subject>Supplement Article</subject></subj-group><subj-group subj-group-type="category-taxonomy-collection"><subject>AcademicSubjects/MED00290</subject></subj-group></article-categories><title-group><article-title>Vaccination to Reduce Antimicrobial Resistance Burden&#x02014;Data Gaps and Future Research</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4005-8605</contrib-id><name><surname>Tadesse</surname><given-names>Birkneh Tilahun</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff><aff>
+<institution>Division of Clinical Pharmacology, Department of Laboratory Medicine, Karolinska Institutet, Karolinska University Hospital Huddinge, Stockholm</institution>, <country country="SE">Sweden</country></aff><aff>
+<institution>Center for Innovative Drug Development and Therapeutic Trials for Africa, College of Health Sciences, Addis Ababa University</institution>, <addr-line>Addis Ababa</addr-line>, <country country="ET">Ethiopia</country></aff><xref rid="FM1" ref-type="author-notes"/><xref rid="FM1" ref-type="author-notes"/><xref rid="ciad562-FM9" ref-type="author-notes"/><xref rid="ciad562-cor1" ref-type="corresp"/><xref rid="ciad562-FM9" ref-type="author-notes"/><!--birkneh.tadesse@ivi.int--></contrib><contrib contrib-type="author"><name><surname>Keddy</surname><given-names>Karen H</given-names></name><aff>
+<institution>Independent Consultant</institution>, <addr-line>Johannesburg</addr-line>, <country country="ZA">South Africa</country></aff><xref rid="FM1" ref-type="author-notes"/></contrib><contrib contrib-type="author"><name><surname>Rickett</surname><given-names>Natasha Y</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff></contrib><contrib contrib-type="author"><name><surname>Zhusupbekova</surname><given-names>Aidai</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff></contrib><contrib contrib-type="author"><name><surname>Poudyal</surname><given-names>Nimesh</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff></contrib><contrib contrib-type="author"><name><surname>Lawley</surname><given-names>Trevor</given-names></name><aff>
+<institution>Wellcome Sanger Institute and Microbiotica</institution>, <addr-line>Cambridge</addr-line>, <country country="GB">United Kingdom</country></aff></contrib><contrib contrib-type="author"><name><surname>Osman</surname><given-names>Majdi</given-names></name><aff>
+<institution>Cambridge Institute of Therapeutic Immunology and Infectious Disease, University of Cambridge School of Clinical Medicine</institution>, <addr-line>Cambridge</addr-line>, <country country="GB">United Kingdom</country></aff></contrib><contrib contrib-type="author"><name><surname>Dougan</surname><given-names>Gordon</given-names></name><aff>
+<institution>Cambridge Institute of Therapeutic Immunology and Infectious Disease, University of Cambridge School of Clinical Medicine</institution>, <addr-line>Cambridge</addr-line>, <country country="GB">United Kingdom</country></aff></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Jerome H</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff><aff>
+<institution>Seoul National University</institution>, <addr-line>College of Natural Sciences, Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff></contrib><contrib contrib-type="author"><name><surname>Lee</surname><given-names>Jung-Seok</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff></contrib><contrib contrib-type="author"><name><surname>Jeon</surname><given-names>Hyon Jin</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff><aff>
+<institution>Cambridge Institute of Therapeutic Immunology and Infectious Disease, University of Cambridge School of Clinical Medicine</institution>, <addr-line>Cambridge</addr-line>, <country country="GB">United Kingdom</country></aff><aff>
+<institution>Madagascar Institute for Vaccine Research, University of Antananarivo</institution>, <addr-line>Antananarivo</addr-line>, <country country="MG">Madagascar</country></aff></contrib><contrib contrib-type="author"><name><surname>Marks</surname><given-names>Florian</given-names></name><aff>
+<institution>International Vaccine Institute</institution>, <addr-line>Seoul</addr-line>, <country country="KR">Republic of Korea</country></aff><aff>
+<institution>Cambridge Institute of Therapeutic Immunology and Infectious Disease, University of Cambridge School of Clinical Medicine</institution>, <addr-line>Cambridge</addr-line>, <country country="GB">United Kingdom</country></aff><aff>
+<institution>Madagascar Institute for Vaccine Research, University of Antananarivo</institution>, <addr-line>Antananarivo</addr-line>, <country country="MG">Madagascar</country></aff><aff>
+<institution>Heidelberg Institute of Global Health, University of Heidelberg</institution>, <addr-line>Heidelberg</addr-line>, <country country="DE">Germany</country></aff></contrib></contrib-group><author-notes><fn id="FM1"><p>B. T. T. and K. H. K. contributed equally to this work.</p></fn><corresp id="ciad562-cor1">Correspondence: B. T. Tadesse, International Vaccine Institute, SNU Research Park, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea (<email>birkneh.tadesse@ivi.int</email>).</corresp><fn id="ciad562-FM9" fn-type="COI-statement"><p>
+<bold>
+<italic toggle="yes">Potential conflicts of interest</italic>.</bold> The authors: No reported conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest.</p></fn></author-notes><pub-date pub-type="collection"><day>15</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="epub" iso-8601-date="2023-12-20"><day>20</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>20</day><month>12</month><year>2023</year></pub-date><volume>77</volume><issue>Suppl 7</issue><issue-title>Capturing Data on Antimicrobial Resistance Patterns and Trends in Use in Regions of Asia (CAPTURA)</issue-title><fpage>S597</fpage><lpage>S607</lpage><permissions><copyright-statement>&#x000a9; The Author(s) 2023. Published by Oxford University Press on behalf of Infectious Diseases Society of America.</copyright-statement><copyright-year>2023</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="ciad562.pdf"/><abstract><title>Abstract</title><p>Antimicrobial resistance (AMR) poses an immediate danger to global health. If unaddressed, the current upsurge in AMR threatens to reverse the achievements in reducing the infectious disease&#x02013;associated mortality and morbidity associated with antimicrobial treatment. Consequently, there is an urgent need for strategies to prevent or slow the progress of AMR. Vaccines potentially contribute both directly and indirectly to combating AMR. Modeling studies have indicated significant gains from vaccination in reducing AMR burdens for specific pathogens, reducing mortality/morbidity, and economic loss. However, quantifying the real impact of vaccines in these reductions is challenging because many of the study designs used to evaluate the contribution of vaccination programs are affected by significant background confounding, and potential selection and information bias. Here, we discuss challenges in assessing vaccine impact to reduce AMR burdens and suggest potential approaches for vaccine impact evaluation nested in vaccine trials.</p></abstract><abstract abstract-type="teaser"><p>Antimicrobial resistance (AMR) represents a significant global health threat. Vaccination can decrease AMR through reduction of antimicrobial use and prevention of secondary infections caused by antimicrobial-resistant pathogens. Better studies are needed to quantify vaccine impacts on AMR.</p></abstract><kwd-group><kwd>antimicrobial resistance (AMR)</kwd><kwd>data gaps</kwd><kwd>vaccination</kwd><kwd>indirect effect</kwd><kwd>study design</kwd></kwd-group><counts><page-count count="11"/></counts></article-meta></front><body><p>In 2015, the 68th World Health Assembly stated that the impact of antimicrobial resistance (AMR) on global health and economies was &#x0201c;&#x02026; a heavy and growing burden on high-, middle- and low-income countries, requiring urgent action at national, regional and global levels, particularly in view of the limited development of new antimicrobial agents&#x0201d; [<xref rid="ciad562-B1" ref-type="bibr">1</xref>]. That year, the World Health Organization (WHO) initiated the Global Antimicrobial Resistance and Use Surveillance System, a reporting system that collates information on AMR and antimicrobial consumption (AMC) in humans for selected pathogens [<xref rid="ciad562-B2" ref-type="bibr">2</xref>]. By 2021, 111 of 216 countries, territories, and areas were enrolled, including much of sub-Saharan Africa (sSA) and South Asia. However, limited antimicrobial susceptibility testing (AST) and data collection coverage in low- and middle-income countries (LMICs) has hindered accurate calculation of AMR burden [<xref rid="ciad562-B2" ref-type="bibr">2</xref>].</p><p>Despite active programs to combat AMR, its rates between 2017 and 2020 increased by more than 15% for bacteremias, meropenem, and third-generation cephalosporin resistance in <italic toggle="yes">Escherichia coli</italic>, ciprofloxacin resistance in <italic toggle="yes">Salmonella</italic> spp., and azithromycin resistance in <italic toggle="yes">Neisseria gonorrhoeae</italic> [<xref rid="ciad562-B2" ref-type="bibr">2</xref>]. An estimated 3.6 million deaths in 2019 were associated with AMR infections caused by six pathogens: <italic toggle="yes">Staphylococcus aureus, E. coli, Streptococcus pneumoniae, Klebsiella pneumoniae, Acinetobacter baumannii, and Pseudomonas aeruginosa</italic> [<xref rid="ciad562-B3" ref-type="bibr">3</xref>]. LMICs bore a disproportionate burden of this mortality because of limited AST for targeted antimicrobial treatment [<xref rid="ciad562-B2" ref-type="bibr">2</xref>]. In sSA and South Asia, respectively, the disability adjusted life-years (DALYs) were 6,144, and 3,318 [<xref rid="ciad562-B3" ref-type="bibr">3</xref>]. There were 1.6 million deaths from tuberculosis in 2021, of those 191,000 were caused by drug-resistant M. tuberculosis during the COVID-19 pandemic, an increase compared with previous years that particularly affected Southeast Asia and sSA [<xref rid="ciad562-B4" ref-type="bibr">4</xref>]. Nine of the 10 countries with the highest multidrug-resistant (MDR)-TB/rifampicin-resistant TB burden are in sSA or Southeast Asia (China, the Democratic Republic of the Congo, India, Indonesia, Nigeria, Pakistan, the Philippines, South Africa, and Viet Nam) [<xref rid="ciad562-B4" ref-type="bibr">4</xref>]. In 2019, <italic toggle="yes">S. pneumoniae</italic> contributed to 16% of AMR-attributable deaths in sSA, compared with 7% in high-income countries [<xref rid="ciad562-B3" ref-type="bibr">3</xref>].</p><p>A significant knowledge gap exists regarding the economic burdens of AMR. A rapid methodological review on the economic cost of antibiotic resistance reported that most studies (91 of 110) were carried out in high-income countries, with 48 of 91 studies being conducted in the United States [<xref rid="ciad562-B5" ref-type="bibr">5</xref>]. Thus, LMICs are disproportionately underrepresented in existing studies on the economic burden of AMR. Here, we review how vaccines might directly and indirectly reduce the burden of AMR and discuss methods by which this impact can be quantified and standardized in future and ongoing clinical trials (<xref rid="ciad562-F1" ref-type="fig">Figure 1</xref>).</p><fig position="float" id="ciad562-F1" fig-type="figure"><label>Figure 1.</label><caption><p>Understanding how vaccines can mitigate antimicrobial resistance (AMR) at the individual and population level. Abbreviations: AMU, antimicrobial use; ARG, antimicrobial resistance gene; MDR, multidrug resistance; qTR-PCR, quantitatiove real-time polymerase chain reaction.</p></caption><graphic xlink:href="ciad562f1" position="float"/></fig><sec id="ciad562-s0"><title>EVIDENCE ON THE IMPACT OF BACTERIAL AND VIRAL VACCINES IN REDUCING AMR</title><p>Effective vaccines for common community-acquired and hospital-associated infections (HAIs) (<italic toggle="yes">E. coli</italic>, <italic toggle="yes">Haemophilus influenzae</italic>, <italic toggle="yes">Mycobacterium tuberculosis</italic>, <italic toggle="yes">N. gonorrhoeae</italic>, <italic toggle="yes">Salmonella enterica</italic> serovar Typhi, <italic toggle="yes">Salmonella enterica</italic> serovar Paratyphi, invasive nontyphoidal <italic toggle="yes">Salmonella</italic>, <italic toggle="yes">Shigella</italic> spp., <italic toggle="yes">S. pneumoniae</italic>, <italic toggle="yes">Streptococcus pyogenes</italic> (Group A Streptococcus, <italic toggle="yes">S. aureus</italic>, <italic toggle="yes">K. pneumoniae</italic>, <italic toggle="yes">P. aeruginosa</italic>, <italic toggle="yes">A. baumannii</italic>, <italic toggle="yes">Enterococcus faecium</italic>) would avert 490 000 deaths and 28 million DALYs associated with AMR globally. The greatest impacts would be in Africa (164 000 deaths and 12 million DALYs) and Southeast Asia (53 000 deaths and 2 million DALYs) [<xref rid="ciad562-B6" ref-type="bibr">6</xref>].</p><p>Decreasing the burden of disease due to susceptible and resistant pathogens should decrease antimicrobial use (AMU), potentially increasing the proportion of susceptible organisms isolated. Postintroduction evaluation studies demonstrated nonsusceptibility in <italic toggle="yes">S. pneumoniae</italic> isolates to first-line antimicrobials decreased globally following the introduction of pneumococcal conjugate vaccine (PCV), with a 12% decrease in non-susceptibility to penicillin [<xref rid="ciad562-B7" ref-type="bibr">7</xref>]. For example, following the introduction of PCV7 then PCV13 (7- and 13-valent PCV) in a cohort of patients aged 6 months to 3 years from 2006 to 2016, penicillin resistance in all pneumococcal serotypes decreased. Resistance increased thereafter as novel <italic toggle="yes">S. pneumoniae</italic> serotypes replaced vaccine strains [<xref rid="ciad562-B8" ref-type="bibr">8</xref>]. A more effective pneumococcal vaccine would have more impact on mortality, averting 120 000 deaths [<xref rid="ciad562-B6" ref-type="bibr">6</xref>].</p><p>Comparable data for <italic toggle="yes">H. influenzae</italic> type B (Hib) conjugate vaccine (Hib-CV) are scarce, particularly for LMICs. The global estimate for Hib disease in children younger than age 5 years was &#x0223c;340 000 severe episodes in 2015, with 30 000 deaths and excessive burdens in Africa and Southeast Asia, but these estimates excluded AMR Hib data [<xref rid="ciad562-B9" ref-type="bibr">9</xref>]. A Portuguese study reported a decrease in <italic toggle="yes">&#x003b2;</italic>-lactamase-mediated ampicillin-resistant Hib from 27% to 10% between 2001 and 2010 following Hib-CV rollout [<xref rid="ciad562-B10" ref-type="bibr">10</xref>]. A South African study, however, showed a 71% decrease in reported invasive Hib disease, but increased MDR, including to ampicillin, from 2% to 19% between 2000 and 2004 [<xref rid="ciad562-B11" ref-type="bibr">11</xref>]. Similarly, in Japan, ampicillin resistance associated with Hib meningitis increased from 6% in 2,000% to 35% in 2004 [<xref rid="ciad562-B12" ref-type="bibr">12</xref>] and to 70% in 2011 [<xref rid="ciad562-B13" ref-type="bibr">13</xref>], following Hib-CV introduction in 2008, despite a 93% reduction in invasive Hib disease [<xref rid="ciad562-B14" ref-type="bibr">14</xref>]. Increased burdens of invasive nontypeable <italic toggle="yes">H. influenzae</italic> strains or non-Hib capsular serotypes have been described in children, reversing the initial reduction in <italic toggle="yes">H. influenzae</italic> disease burdens [<xref rid="ciad562-B10" ref-type="bibr">10</xref>, <xref rid="ciad562-B15" ref-type="bibr">15</xref>]. AMR was associated with these replacement strains [<xref rid="ciad562-B10" ref-type="bibr">10</xref>], which may also drive increased MDR in Hib disease.</p><p>Extremely drug-resistant (XDR) <italic toggle="yes">S.</italic> Typhi caused a large outbreak of typhoid fever in Pakistan in 2017&#x02013;2018, with more than 5,000 documented cases [<xref rid="ciad562-B16" ref-type="bibr">16</xref>]. The resultant rapid rollout of typhoid conjugate vaccine (TCV) enrolled 207 000 children aged 6 months to 10 years [<xref rid="ciad562-B17" ref-type="bibr">17</xref>]. In a cohort of 23 407 children, vaccine effectiveness was 97% against XDR <italic toggle="yes">S</italic>. Typhi and 95% against all culture-confirmed <italic toggle="yes">S.</italic> Typhi [<xref rid="ciad562-B17" ref-type="bibr">17</xref>]. A cholera vaccine trial during an MDR cholera outbreak in Guinea in 2012 [<xref rid="ciad562-B18" ref-type="bibr">18</xref>] was 87% effective in protection against <italic toggle="yes">Vibrio cholerae</italic> O1 [<xref rid="ciad562-B19" ref-type="bibr">19</xref>]. Notably, no fully antimicrobial susceptible isolates of <italic toggle="yes">V. cholerae</italic> O1 from Africa have been isolated since 2000 [<xref rid="ciad562-B20" ref-type="bibr">20</xref>].</p><p>The COVID-19 pandemic had a well-documented potentiating effect on AMR. Besides increased MDR bacterial co-infections [<xref rid="ciad562-B21" ref-type="bibr">21</xref>, <xref rid="ciad562-B22" ref-type="bibr">22</xref>], AMU increased significantly in the early stages of the pandemic, despite limited evidence of bacterial or fungal co-infection in most patients [<xref rid="ciad562-B23" ref-type="bibr">23</xref>, <xref rid="ciad562-B24" ref-type="bibr">24</xref>]. This became a global phenomenon as the pandemic spread [<xref rid="ciad562-B25" ref-type="bibr">25&#x02013;28</xref>]. Nonetheless, the pandemic also demonstrated the substantial versatility of the global medical research community and its ability to develop safe and effective vaccines within short timeframes [<xref rid="ciad562-B29" ref-type="bibr">29</xref>, <xref rid="ciad562-B30" ref-type="bibr">30</xref>]. This underscores the impact of vaccines on averting diseases and showcases that vaccination now represents a viable and cogent tool in reducing the burden of AMR.</p><p>The direct and indirect impact of vaccines on AMR has been incompletely explored. Furthermore, accounting for the effects of other public health interventions on AMR requires properly designed and controlled studies. Clinical trials for vaccines at different stages of clinical development provide a unique opportunity to incorporate AMR/AMU-related secondary and exploratory endpoints.</p></sec><sec id="ciad562-s1"><title>MECHANISMS BY WHICH VACCINES COULD CONTRIBUTE TO REDUCTIONS IN AMR</title><sec id="ciad562-s1.1"><title>Vaccination to Reduce AMU/AMC</title><p>AMU may increase resistance, selecting for it in the target pathogen and other pathogenic and nonpathogenic organisms, providing a proxy for the risk of AMR development. Horizontal gene transfer of antimicrobial resistance genes (ARGs) occurs via mobile genetic elements, including plasmids, between bacteria [<xref rid="ciad562-B31" ref-type="bibr">31</xref>]. Development of AMR may be driven by the use of antimicrobials in animals and environmental exposures, as much as individual and large-scale use in humans. Although unequivocal evidence is scant [<xref rid="ciad562-B32" ref-type="bibr">32</xref>], there are data suggesting that AMR may be transmitted to humans from food animals treated with antimicrobials for growth promotion [<xref rid="ciad562-B33" ref-type="bibr">33</xref>]. The gut microbiome may harbor ARGs that can be transmitted to pathogens [<xref rid="ciad562-B34" ref-type="bibr">34</xref>] and between animals and humans [<xref rid="ciad562-B35" ref-type="bibr">35</xref>]. Analysis of the gut microbiome of food animals in China revealed that mobile genetic elements harboring ARGs were shared between human and gut microbiomes, and additionally by human pathogens, including <italic toggle="yes">E. coli</italic>, <italic toggle="yes">Streptococcus agalactiae</italic> (Group B <italic toggle="yes">Streptococcus</italic>), and <italic toggle="yes">E. faecium</italic> [<xref rid="ciad562-B35" ref-type="bibr">35</xref>]. ARGs encoding MDR in <italic toggle="yes">Campylobacter</italic>, a common foodborne pathogen, have been shown to be transmitted between livestock, sewage, and humans [<xref rid="ciad562-B36" ref-type="bibr">36</xref>]. An extensive epidemiological analysis of human cases of <italic toggle="yes">Campylobacter</italic> in the Netherlands complemented by whole-genome sequencing of <italic toggle="yes">Campylobacter</italic> isolates from humans, companion animals, food animals, and water (environmental samples) indicated acquisition of human campylobacteriosis from multiple sources [<xref rid="ciad562-B37" ref-type="bibr">37</xref>]. Sewage contamination of coastal waters has resulted in the transmission of AMR in <italic toggle="yes">Campylobacter</italic> and nontyphoidal <italic toggle="yes">Salmonella</italic> to seabirds [<xref rid="ciad562-B38" ref-type="bibr">38</xref>], which may contaminate other water sources [<xref rid="ciad562-B37" ref-type="bibr">37</xref>]. Trials with azithromycin in Africa to improve childhood mortality (a single dose of azithromycin given twice yearly to children from aged 1 to 59 months) [<xref rid="ciad562-B39" ref-type="bibr">39</xref>], were associated with increased resistance to macrolides in nasopharyngeal <italic toggle="yes">S. pneumoniae</italic> after 2 years [<xref rid="ciad562-B40" ref-type="bibr">40</xref>]. Characterization of ARGs from rectal swabs showed a 7-fold increase in resistance determinants to macrolides and a 2-fold increase to other antimicrobials, including <italic toggle="yes">&#x003b2;</italic>-lactams, in a subset of study subjects within 3 years [<xref rid="ciad562-B41" ref-type="bibr">41</xref>]. Vaccination may decrease the occurrence of co-infections or secondary infections, impacting AMU [<xref rid="ciad562-B42" ref-type="bibr">42</xref>], and thereby further decreasing other AMR pathogen-associated disease burdens, besides the burden attributable to the pathogen targeted by the vaccine (<xref rid="ciad562-T1" ref-type="table">Table 1</xref>).</p><table-wrap position="float" id="ciad562-T1"><label>Table 1.</label><caption><p>Selected Examples of Direct and Indirect Impacts of Existing or Soon-to-be-Developed Vaccines on Antimicrobial Resistance (AMR) and Antimicrobial Use (AMU)</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Target Organism(s) and Vaccine</th><th align="center" rowspan="1" colspan="1">Major Clinical Syndromes</th><th align="center" rowspan="1" colspan="1">Potential Impact on AMR and AMU in Associated Primary Infections, Co-infections, and Secondary Infections</th></tr></thead><tbody><tr><td colspan="3" rowspan="1">Bacterial vaccines</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Streptococcus pneumoniae</italic> Pneumococcal conjugate vaccine (PCV)&#x02014;various formulations</td><td rowspan="1" colspan="1">Pneumonia, acute <italic toggle="yes">otitis media</italic>, bacterial meningitis</td><td rowspan="1" colspan="1">A 2-year randomized double-blind clinical trial evaluating PCV7 against PCV13 in &#x0003e;1,800 Israeli infants established PCV13 was significantly more effective in reducing the prevalence of nasopharyngeal carriage from all MDR <italic toggle="yes">S. pneumoniae</italic> serotypes (&#x02265;3 antimicrobials), including nonvaccine serotypes (odds ratio, 0.83; 95% confidence interval, .68&#x02013;1.01) [<xref rid="ciad562-B43" ref-type="bibr">43</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Haemophilus influenzae</italic> type b (Hib) and nontypeable <italic toggle="yes">Haemophilus influenzae</italic><break/>Hib conjugate vaccine (Hib-CV)<break/><italic toggle="yes">Haemophilus influenzae</italic> protein D conjugate vaccine (PHiD-CV10)</td><td rowspan="1" colspan="1">Pneumonia, acute <italic toggle="yes">otitis media</italic>, meningitis</td><td rowspan="1" colspan="1">A significant decrease in Hib in Portuguese children, from 81% to 13%, (<italic toggle="yes">P</italic> &#x0003c; .001), was associated with a decrease in &#x003b2;-lactamase&#x02013;producing strains [<xref rid="ciad562-B10" ref-type="bibr">10</xref>]<break/>A Finnish vaccine trial examined AMU in &#x0003e;45,000 children randomized to receive a 10-valent pneumococcal nontypeable <italic toggle="yes">Haemophilus influenzae</italic> protein D conjugate vaccine (PHiD-CV10). AMU decreased among PHiD-CV10 recipients compared with controls [<xref rid="ciad562-B44" ref-type="bibr">44</xref>, <xref rid="ciad562-B45" ref-type="bibr">45</xref>]. A calculated decrease of 12,000 antimicrobial purchases per year in children younger than age 2 y in Finland was observed in a birth cohort of 60,000 children when PHiD-CV10 was administered [<xref rid="ciad562-B46" ref-type="bibr">46</xref>], whereas multidrug resistance (MDR) decreased from 22% to 6% (<italic toggle="yes">P</italic> &#x0003c; .001) [<xref rid="ciad562-B47" ref-type="bibr">47</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Salmonella enterica</italic> serotype Typhi<break/>Typhoid conjugate vaccine (TCV)</td><td rowspan="1" colspan="1">Enteric fever</td><td rowspan="1" colspan="1">A decrease in MDR <italic toggle="yes">S.</italic> Typhi infections was calculated at a global level, although the proportion of MDR <italic toggle="yes">S.</italic> Typhi would remain constant [<xref rid="ciad562-B48" ref-type="bibr">48</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Mycobacterium tuberculosis</italic><break/>Bacillus Calmette-Gu&#x000e9;rin (BCG)<break/>Improved vaccine for tuberculosis</td><td rowspan="1" colspan="1">Pulmonary and extrapulmonary tuberculosis (TB)</td><td rowspan="1" colspan="1">An effective postexposure vaccine would avert 10% of TB cases and 7% of deaths because of rifampicin-resistant TB (RR-TB), multidrug-resistant TB (MDR-TB), and extremely drug resistant TB (XDR-TB) [<xref rid="ciad562-B49" ref-type="bibr">49</xref>]<break/>Selective pressures of antimicrobial use for MDR-TB in other pathogens would be averted, such as fluoroquinolone resistance in <italic toggle="yes">S. pneumoniae</italic> [<xref rid="ciad562-B50" ref-type="bibr">50</xref>] and <italic toggle="yes">C. difficile</italic> [<xref rid="ciad562-B51" ref-type="bibr">51</xref>]<break/>BCG vaccination has been shown to reduce all-cause mortality by half in children aged younger than age 5 y [<xref rid="ciad562-B52" ref-type="bibr">52</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Neisseria gonorrhoeae</italic></td><td rowspan="1" colspan="1">Sexually transmitted infections (STIs), spontaneous abortion, stillbirth, preterm birth, low birth weight and perinatal morbidity and mortality</td><td rowspan="1" colspan="1">Decrease in the number of AMR gonorrhea cases, which may emerge within 3&#x02013;4 years of the introduction of AMU in revised treatment guidelines [<xref rid="ciad562-B53" ref-type="bibr">53</xref>], which could drive AMR in other sexually acquired pathogens, such as azithromycin-resistant <italic toggle="yes">Shigella</italic> [<xref rid="ciad562-B54" ref-type="bibr">54</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Nontyphoidal <italic toggle="yes">Salmonella</italic> (NTS)</td><td rowspan="1" colspan="1">Diarrhea, dysentery, invasive salmonellosis (iNTS disease)</td><td rowspan="1" colspan="1">In sSA, iNTS may be as high as 383 per 100,000 population, and 48% of iNTS isolates were MDR [<xref rid="ciad562-B55" ref-type="bibr">55</xref>]. In the United States, infections from AMR NTS are associated with increased risk of iNTS (adjusted OR, 1.6) and hospitalization (adjusted OR, 3.1) compared with fully susceptible NTS [<xref rid="ciad562-B56" ref-type="bibr">56</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Klebsiella pneumoniae</italic></td><td rowspan="1" colspan="1">Hospital-associated infections (HAI)</td><td rowspan="1" colspan="1">MDR <italic toggle="yes">K. pneumoniae</italic> contributed to 20% of the deaths attributable to AMR [<xref rid="ciad562-B3" ref-type="bibr">3</xref>]. An effective vaccine would both decrease this burden as well as reduce selective pressures of AMU on the development of <italic toggle="yes">C. difficile</italic> infection [<xref rid="ciad562-B57" ref-type="bibr">57&#x02013;59</xref>]<break/>Emergence of a novel extended-spectrum <italic toggle="yes">&#x003b2;</italic>-lactamase enzyme in <italic toggle="yes">K. pneumoniae</italic> HAI in South Africa in the mid-1990s (TEM-63) [<xref rid="ciad562-B60" ref-type="bibr">60</xref>] was later followed by the identification of TEM-63 in HAI <italic toggle="yes">Salmonella</italic> infections in the early 2000s [<xref rid="ciad562-B61" ref-type="bibr">61</xref>], and community-acquired <italic toggle="yes">Vibrio cholerae</italic> O1 in 2008 [<xref rid="ciad562-B62" ref-type="bibr">62</xref>]</td></tr><tr><td rowspan="1" colspan="1">Viral vaccines</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;Influenza<break/>Influenza A, B (depending on circulating serotypes)</td><td rowspan="1" colspan="1">Seasonal influenza</td><td rowspan="1" colspan="1">Excessive mortality during the influenza season is associated with secondary bacterial infections, particularly <italic toggle="yes">S. pneumoniae</italic>, followed by <italic toggle="yes">Staphylococcus aureus</italic>, but significantly fewer antibiotic courses are reported in vaccinated children (<italic toggle="yes">P</italic> &#x0003c; .0001) [<xref rid="ciad562-B63" ref-type="bibr">63</xref>]. Temporal variations in <italic toggle="yes">C. difficile</italic> incidence followed temporal variations in influenza infections (<italic toggle="yes">P</italic> = .043) [<xref rid="ciad562-B64" ref-type="bibr">64</xref>]. In the United States, between 2010 and 2017, a 10% increase in vaccination rates for influenza was associated with a 6.5% decrease in antibiotic prescriptions, particularly in children (6% reduction between ages 0 and 18 y) and older patients (5.2% reduction in patients &#x0003e;65&#x0003e;y) [<xref rid="ciad562-B65" ref-type="bibr">65</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;SARS-CoV-2<break/>(COVID-19 vaccines&#x02014;multiple formulations)</td><td rowspan="1" colspan="1">COVID-19</td><td rowspan="1" colspan="1">During the pandemic, the proportion of bacterial or fungal co-infection in patients with confirmed SARS-CoV-2 ranged from 3% to 100%, with AMR to at least 1 antimicrobial [<xref rid="ciad562-B21" ref-type="bibr">21</xref>]. Additionally, antimicrobial usage increased by an estimated 68% to 75% in 2 separate studies [<xref rid="ciad562-B27" ref-type="bibr">27</xref>, <xref rid="ciad562-B28" ref-type="bibr">28</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Rubeola virus<break/>Measles vaccine, measles mumps rubella (MMR)</td><td rowspan="1" colspan="1">Measles</td><td rowspan="1" colspan="1">Between 1990 and 2008, the measles vaccine reduced all-cause mortality in children younger than age 5 y by 28% [<xref rid="ciad562-B66" ref-type="bibr">66</xref>]. Within the first 2 y of life, all-cause mortality was halved [<xref rid="ciad562-B52" ref-type="bibr">52</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Rotavirus vaccine</td><td rowspan="1" colspan="1">Diarrhea</td><td rowspan="1" colspan="1">The 5-y age-adjusted cumulative incidence against antibiotics prescribed in eligible children with commercial health insurance, who had been fully vaccinated for Rotavirus compared with those who had received no vaccine, was 0.793, between 2007 and 2018 [<xref rid="ciad562-B67" ref-type="bibr">67</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Respiratory syncytial virus (RSV)</td><td rowspan="1" colspan="1">Bronchiolitis, pneumonia</td><td rowspan="1" colspan="1">Immunization of pregnant mothers resulted in the transfer of neutralizing antibody titers to newborn infants, with an associated efficacy of 92% from severe RSV-associated lower respiratory tract illness [<xref rid="ciad562-B68" ref-type="bibr">68</xref>]. RSV infection may enhance MDR <italic toggle="yes">Pseudomonas aeruginosa</italic> colonization in chronic lung disease [<xref rid="ciad562-B69" ref-type="bibr">69</xref>], temporal variations in <italic toggle="yes">C. difficile</italic> incidence followed temporal variations in RSV (<italic toggle="yes">P</italic> = .004) [<xref rid="ciad562-B64" ref-type="bibr">64</xref>]</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Human immunodeficiency virus (HIV)</td><td rowspan="1" colspan="1">HIV, AIDS</td><td rowspan="1" colspan="1">Bacterial and fungal co-infections, including resistant <italic toggle="yes">S. pneumoniae</italic>, iNTS, and MDR-TB, are primarily responsible for excessive mortality in HIV-infected patients [<xref rid="ciad562-B70" ref-type="bibr">70&#x02013;75</xref>], who often receive antimicrobial prophylaxis</td></tr><tr><td rowspan="1" colspan="1">&#x02003;Parasitic vaccines</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x02003;<italic toggle="yes">Plasmodium falciparum</italic></td><td rowspan="1" colspan="1">Malaria</td><td rowspan="1" colspan="1">A decreased burden of AMR malaria would be expected [<xref rid="ciad562-B76" ref-type="bibr">76</xref>], and of co-infection with AMR invasive salmonellosis in Africa [<xref rid="ciad562-B77" ref-type="bibr">77</xref>], which further drives AMU</td></tr></tbody></table><table-wrap-foot><fn id="tblfn1"><p>Abbreviations: AMR, antimicrobial resistance; AMU, antimicrobial use; COVID-19, coronavirus disease 2019; Hib, <italic toggle="yes">Haemophilus influenzae</italic> type B; SARS-CoV-2, severe acute respiratory syndrome coronavirus 2; TB, tuberculosis.</p></fn></table-wrap-foot></table-wrap></sec><sec id="ciad562-s1.2"><title>Vaccination, AMR, Metabolic Costs, and Role of the Microbiome</title><p>The fitness cost of acquiring MDR plasmids is significantly greater than acquiring those with monoresistance (<italic toggle="yes">P</italic> &#x0003c; .05), whereas de novo development of chromosomal resistance is associated with a greater cost than plasmid acquisition [<xref rid="ciad562-B31" ref-type="bibr">31</xref>]. The XDR-<italic toggle="yes">S.</italic> Typhi isolated during the Pakistani typhoid fever outbreak expressed plasmid and chromosomally mediated AMR, which may explain the greater efficacy of TCV against XDR-<italic toggle="yes">S</italic>. Typhi in Pakistan (97%) [<xref rid="ciad562-B17" ref-type="bibr">17</xref>] compared with that in Nepal (79%) [<xref rid="ciad562-B78" ref-type="bibr">78</xref>], Malawi (81%) [<xref rid="ciad562-B79" ref-type="bibr">79</xref>], and a controlled human infection model (52% to 55%) [<xref rid="ciad562-B80" ref-type="bibr">80</xref>]. Globally, PCV reduced the prevalence of penicillin nonsusceptibility in <italic toggle="yes">S. pneumoniae</italic> (PNSP) among PCV serotypes by 16% [<xref rid="ciad562-B7" ref-type="bibr">7</xref>]. In contrast, in Massachusetts, USA, despite reduced nasopharyngeal carriage of PNSP in children who had received PCV13, the proportion of PNSP PCV13 serotypes remained constant [<xref rid="ciad562-B81" ref-type="bibr">81</xref>]. These differences may be explained by initial fitness costs associated with the acquisition of penicillin-binding protein genes in <italic toggle="yes">S. pneumoniae</italic> being offset by the evolution of compensatory mutations, increasing resistance to &#x003b2;-lactam antibiotics [<xref rid="ciad562-B82" ref-type="bibr">82</xref>]. Similarly, <italic toggle="yes">E. coli</italic> that acquired amoxicillin resistance resulted in increased glucose consumption initially followed by reduced salt and pH tolerance, but ultimately no difference in maintenance energy [<xref rid="ciad562-B83" ref-type="bibr">83</xref>]. Fitness costs may, hence, be exploitable in vaccination strategies for certain MDR pathogens.</p><p>Changes in the human microbiome, which mediates physiological processes including pathogen transmission, immune system development, and nutritional status, could partially explain the interplay between vaccination and the acquisition, development, and evolution of AMR. The first year of life is critical for the establishment of a healthy, functional microbiome, priming the immune responses to vaccine-preventable infections that disproportionately affect newborns and infants [<xref rid="ciad562-B84" ref-type="bibr">84</xref>]. <italic toggle="yes">Bifidobacterium</italic>, for instance, metabolizes human milk oligosaccharides in the neonatal gut, producing short-chain fatty acids, which promote differentiation of colonic T cells into T-regulatory cells, mediating the production of antigen-specific immunoglobulin A [<xref rid="ciad562-B85" ref-type="bibr">85</xref>, <xref rid="ciad562-B86" ref-type="bibr">86</xref>].</p><p>AMR-containing opportunistic pathogens may also colonize the early-life gut microbiome [<xref rid="ciad562-B85" ref-type="bibr">85</xref>, <xref rid="ciad562-B87" ref-type="bibr">87</xref>]. Horizontal transfer of ARGs can also be enhanced or attenuated by commensals and pathogens present in the gut microbiome [<xref rid="ciad562-B88" ref-type="bibr">88</xref>].</p><p>Manipulating the microbiome may mediate vaccine efficacy and AMR carriage, directing vaccine development and co-interventions to enhance vaccine response. Microbiota-informed dietary recommendations, novel probiotics, or prebiotic adjuvants to promote the growth of gut commensals could stimulate vaccine response and improve vaccine efficacy [<xref rid="ciad562-B89" ref-type="bibr">89</xref>].</p></sec></sec><sec id="ciad562-s2"><title>OUTCOME MEASURES FOR STUDIES OF VACCINE IMPACT ON AMR</title><p>The TCV cohort study in Pakistan following the typhoid fever outbreak in 2017&#x02013;2018 noted an impact of the vaccine on the isolation of XDR <italic toggle="yes">S</italic>. Typhi within 2 years of initiating vaccination [<xref rid="ciad562-B17" ref-type="bibr">17</xref>]. Similarly, introduction of PCV in Finland was followed by an observed reduction in penicillin-non-susceptible <italic toggle="yes">Streptococcus pneumoniae</italic> (PNSP) within 5 years [<xref rid="ciad562-B47" ref-type="bibr">47</xref>]. These included large study populations; smaller studies may be underpowered to detect an effect. Evaluating vaccine impacts on AMR and AMU should be vaccine- and pathogen-specific, but this realistically depends on trial design.</p><p>A search for currently recruiting, ongoing, and completed studies in ClinicalTrials.gov including vaccine interventions listed more than 1,000 relevant studies. Of these, 119 trials referenced terms related to antimicrobial resistance, usage, or prescription; 16 trials included AMR as a stated primary or secondary outcome in an interventional or observational vaccine trial; 14 of 16 stated monitoring AMR as a secondary outcome; and 2 included AMU as a primary outcome (<xref rid="sup1" ref-type="supplementary-material">Supplementary Figure 1</xref>; <xref rid="sup1" ref-type="supplementary-material">Supplementary Table 1</xref>). Study outcomes predominantly focused on AMC or AMU postvaccination (6 and 4, respectively), whereas 5 studies aimed to assess AMR profiles and detect specific resistance genotypes or phenotypes. One study included AMR and AMU as secondary outcomes. The impact of PCV on MDR was the predominant subject of the studies listed.</p><p>Standardization will be critical for comparing future studies defining the impact of vaccines on AMR. Currently, studies focus primarily on vaccine safety and efficacy, with impact on AMR being typically included in posttrial analyses. Secondary analyses predominantly emphasize vaccine characteristics including long-term effectiveness of vaccines in the community and durability of protection [<xref rid="ciad562-B90" ref-type="bibr">90</xref>]. This lack of systematically collected AMR data may occasion discrepancies in diagnostic methods for pathogen isolation, differences in strain characterization, loss of critical isolates, and variation in data collection and quality, particularly in multicenter studies. The diversity of analytical methods pre- and posttrial may affect post hoc results. Although the WHO has published guidelines for the clinical evaluation of new vaccines, these focus on immune response, safety, efficacy, and effectiveness [<xref rid="ciad562-B90" ref-type="bibr">90</xref>, <xref rid="ciad562-B91" ref-type="bibr">91</xref>], rather than pathogen characterization in vaccine-preventable diseases.</p><p>Metagenomic sequencing of ARG burdens in communities of pathogenic and nonpathogenic bacteria (the &#x0201c;resistome&#x0201d;) offers further opportunities to gather evidence on the potential of vaccines to control AMR. Clinical trials of microbiome-targeted therapies reduced AMR carriage in individuals (eg, fecal microbiota transplantation) pre- and posttreatment [<xref rid="ciad562-B92" ref-type="bibr">92</xref>]. Evaluating ARG burdens in wastewater could also inform our understanding of the impact of vaccines on AMR at the community level [<xref rid="ciad562-B93" ref-type="bibr">93</xref>, <xref rid="ciad562-B94" ref-type="bibr">94</xref>]. Such studies would require careful consideration of the inherent limitations in the detection limits of metagenomics, necessitating consensus on optimal methods.</p></sec><sec id="ciad562-s3"><title>LEVERAGING VACCINE STUDIES FOR EVALUATION OF VACCINE IMPACT ON AMR</title><p>Global stakeholders and funders should encourage a standardized approach for pathogen surveillance of (potentially) vaccine-preventable diseases. Whereas AMU is a key component of disease prevention and management, AST should be performed on the relevant pathogens and AMU should be monitored in infectious disease surveillance. These should be secondary outcomes in study subjects of vaccine trials, along with the impact on AMU and AMR on co-infections or superinfections.</p><sec id="ciad562-s3.1"><title>Randomized Controlled Trials</title><p>Phase III/IV trials, if sufficiently powered, provide an opportunity to examine the potential impact of vaccines on AMU and AMR [<xref rid="ciad562-B95" ref-type="bibr">95</xref>]. The Finnish and Israeli randomized controlled trials (RCTs) comparing PCV and Hib-CV vaccine formulations (<xref rid="ciad562-T1" ref-type="table">Table 1</xref>) illustrated the large numbers required to establish vaccine impact on AMU and AMR. These studies also demonstrated the timespan needed for follow-up, frequency with which MDR strains may be expected to be isolated, and the specimen type for optimal statistical analysis, when examining nasopharyngeal carriage rather than invasive disease [<xref rid="ciad562-B43" ref-type="bibr">43</xref>, <xref rid="ciad562-B44" ref-type="bibr">44</xref>, <xref rid="ciad562-B46" ref-type="bibr">46</xref>]. Future and upcoming RCTs should measure AMU/AMC and AMR in vaccine and control groups, for the primary pathogen and selected Global Antimicrobial Resistance and Use Surveillance System pathogens of interest.</p><p>Although current methods to &#x0201c;quantify&#x0201d; AMR content in the microbiome are challenging, this technique will be available in the foreseeable future. Given the relatively long observation times in phase III and IV studies, collecting samples in a subset of participants (ie, stool and nasopharyngeal swabs) may enable the retrospective assessment of the indirect impact of vaccines on AMR.</p></sec><sec id="ciad562-s3.2"><title>Observational Studies</title><p>Most data concerning the impact of vaccination on AMR are collected from observational studies that compare AMR data in the pathogen(s) of concern before and after vaccine introduction [<xref rid="ciad562-B7" ref-type="bibr">7</xref>, <xref rid="ciad562-B45" ref-type="bibr">45</xref>, <xref rid="ciad562-B47" ref-type="bibr">47</xref>]. Observational studies to define the impact of vaccines on AMR require systematic laboratory surveillance, either of a cohort of vaccinees [<xref rid="ciad562-B17" ref-type="bibr">17</xref>] or at a pathogen-specific level in a population, including active disease surveillance and carriage [<xref rid="ciad562-B10" ref-type="bibr">10</xref>, <xref rid="ciad562-B96" ref-type="bibr">96</xref>, <xref rid="ciad562-B97" ref-type="bibr">97</xref>]. For instance, following the PHiD-CV10 RCT trial in Finland, the incidence of AMR in clinical <italic toggle="yes">S. pneumoniae</italic> isolates declined significantly in all age groups, which is indicative of the wider impact of vaccination beyond vaccine recipients [<xref rid="ciad562-B47" ref-type="bibr">47</xref>]. Similar studies have been cited in <xref rid="ciad562-T1" ref-type="table">Table 1</xref> (above), but this list is not exhaustive.</p><p>
+<xref rid="ciad562-T2" ref-type="table">Table 2</xref> summarizes the key research questions regarding vaccine impact on AMR, example(s) of the potential study designs, and some of the limitations/challenges based on the stage of the clinical vaccine trial.</p><table-wrap position="float" id="ciad562-T2"><label>Table 2.</label><caption><p>Evaluation of Vaccine Impact on AMR as Part of Clinical Trials Designed for Vaccine Development</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/><col align="left" valign="top" span="1"/></colgroup><thead><tr><th align="left" rowspan="1" colspan="1">Vaccine Trial Design</th><th align="center" rowspan="1" colspan="1">AMR-Specific Research Aims That Can Be Addressed as Secondary or Exploratory Objectives</th><th align="center" rowspan="1" colspan="1">Study Designs To Address AMR-Specific Research Objectives</th><th align="center" rowspan="1" colspan="1">Limitations and Other Considerations</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Preclinical animal studies</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>The interplay between vaccination and the activity of antimicrobials can be investigated</p></list-item><list-item><p>Mechanistic understanding of the development of AMR</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Laboratory experiments designed to address specific research questions</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Inferring the findings to humans might be challenging and limits application of the results</p></list-item></list>
+</td></tr><tr><td rowspan="1" colspan="1">Phase 1 and 2 studies with sample sizes of 100&#x02013;200 participants</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Mechanisms of vaccine impact on reducing AMR burden</p></list-item><list-item><p>Effect of vaccination on the gut microbiome comparing vaccinated and unvaccinated individuals and by vaccine type</p></list-item><list-item><p>Differences in ARG carriage between vaccinees and nonvaccinees at different timepoints following vaccination</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Prospective longitudinal observation involving repeated sampling to assess the impact of vaccination on the AMR changes related to vaccination</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Mostly addressed as an exploratory objective</p></list-item><list-item><p>The small sample size limits validity and reliability</p></list-item><list-item><p>Difficult to collect the required number of endpoints</p></list-item></list>
+</td></tr><tr><td rowspan="1" colspan="1">Phase 3 studies&#x02014;sample size of 300&#x02013;3,000</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Incidence of resistant infections from the pathogen of interest in vaccinees compared with nonvaccinees</p></list-item><list-item><p>Antibiotic/antimicrobial use patterns of vaccinees compared with nonvaccinees</p></list-item><list-item><p>Differences in ARG detection in gut microbiome between a subset of vaccinees and nonvaccinees</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Prospective cohort studies with similar surveillance systems as the vaccine trial</p></list-item><list-item><p>Genotyping and phylogenetic analysis for detection and quantification of genotypic resistance</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Some of these objectives can be assessed as secondary endpoints with sample size estimation</p></list-item></list>
+</td></tr><tr><td rowspan="1" colspan="1">Phase 4&#x02014;cluster randomized and individually rando trials (RCT)</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Direct, total, indirect, and overall impact of vaccines in reducing resistant infections. If addressed as a secondary endpoint with adequate statistical power, this could provide critical evidence for the impact of vaccines on reducing AMR</p></list-item><list-item><p>Difference in AMU and AMC patterns between vaccinees and non-vaccinees; and/or vaccinated and unvaccinated clusters</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>In placebo-controlled vaccine RCTs, comparison between vaccinated and unvaccinated individuals and clusters can be performed</p></list-item><list-item><p>In active controlled RCTs, the assessment for AMR could consider an unvaccinated control group</p></list-item><list-item><p>Considerations for the impact of the active control is important</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>In the presence of an active control, assessment of impact might be complicated</p></list-item><list-item><p>Understanding long-term impact might provide better-informed policy decisions</p></list-item></list>
+</td></tr><tr><td rowspan="1" colspan="1">VE studies with no randomization</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Incidence of resistant infections in vaccinees compared with nonvaccinees living in the same targeted community</p></list-item><list-item><p>Estimate the overall reduction in resistant infections comparing before and after vaccination campaign periods in the specific region</p></list-item><list-item><p>Trend in AMC patterns in the specific community after introduction of the specific vaccine compared with preintroduction levels</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Case control studies comparing the impact of vaccines. Important to control for healthcare-seeking behavior by including hospital controls</p></list-item><list-item><p>Test negative case control studies that provided comparable VE estimates to RCTs, for example, for typhoid [<xref rid="ciad562-B98" ref-type="bibr">98</xref>]</p></list-item><list-item><p>Prospective cohort studies employing active surveillance (at least enhanced passive surveillance) comparing vaccinated and unvaccinated groups</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Representative surveillance established to detect endpoints are expensive and require expertise</p></list-item><list-item><p>Differential healthcare-seeking behavior biases vaccine impact estimation</p></list-item><list-item><p>Large sample sizes required to collect the required number of sample sizes</p></list-item></list>
+</td></tr><tr><td rowspan="1" colspan="1">Government-led vaccine introduction</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Assessing the overall reduction in resistant infections comparing pre- and postvaccination nationally</p></list-item><list-item><p>Change in AMC patterns nationally after introduction of the specific vaccine as compared with preintroduction levels</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Collecting and analyzing before- and after-vaccine-rollout data</p></list-item><list-item><p>Representative sampling and follow up for 1 or more of AMR, AMU, or AMC</p></list-item></list>
+</td><td rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Data collection and analysis requires careful planning and implementation considering the vaccine introduction timelines</p></list-item><list-item><p>Requires intensive planning and resources for data collection</p></list-item></list>
+</td></tr></tbody></table><table-wrap-foot><fn id="tblfn2"><p>Abbreviations: AMC, antimicrobial consumption; AMR, antimicrobial resistance; AMU, antimicrobial use; ARG, antimicrobial resistance gene; RCT, randomized controlled trial; VE, vaccine effectiveness.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="ciad562-s4"><title>ECONOMIC BURDEN OF AMR</title><p>Data collected <italic toggle="yes">a priori</italic>, describing a significant reduction in AMU and AMR for primary and secondary infections following the WHO's AWaRe (Access, Watch, Reserve) guidelines for the classification of antibiotics [<xref rid="ciad562-B2" ref-type="bibr">2</xref>], would enhance the economic case for vaccine introduction. Although evidence on the economic burden of AMR is currently lacking in many parts of the world, the economic burden was assessed as a global GDP loss ranging from 53 billion USD to &#x0003e;3 trillion USD, by 2050 (2011 USD values) [<xref rid="ciad562-B99" ref-type="bibr">99</xref>]. In the United States, hidden costs from AMR specifically associated with ambulatory prescriptions for antibiotics, were estimated at 13 USD per prescription [<xref rid="ciad562-B100" ref-type="bibr">100</xref>]. Data insufficiency, particularly in LMICs, hampers accurate calculations of AMR economic burden at the population level. Nonetheless, across 94 LMICs, costs of optimized immunization programs for 10 antigens (Hib, hepatitis B, human papillomavirus, Japanese encephalitis, measles, <italic toggle="yes">Neisseria meningitidis</italic> serogroup A, rotavirus, rubella, <italic toggle="yes">S. pneumoniae</italic>, and yellow fever) were projected at 34 billion USD between 2011 and 2020, offsetting illness costs of 586 billion USD and creating broader economic benefits of 1.5 trillion USD (2010 USD values) [<xref rid="ciad562-B101" ref-type="bibr">101</xref>].</p><p>Robust calculations associated with AMR economic burdens at the population level require precise primary data points addressing disease-specific burdens and individual-level economic burdens for patients presenting for treatment because of AMR pathogens. For example, AMR to certain antibiotic classes in a patient may reduce the effectiveness of antibiotics for the current pathogen and, potentially, future infections [<xref rid="ciad562-B40" ref-type="bibr">40</xref>, <xref rid="ciad562-B41" ref-type="bibr">41</xref>, <xref rid="ciad562-B62" ref-type="bibr">62</xref>, <xref rid="ciad562-B82" ref-type="bibr">82</xref>], worsening patient outcomes. This will particularly affect patients who make multiple visits to health facilities at varying times, requiring antibiotic treatment for different infections or who are exposed to resistant infections during hospitalization and intermediate or long-term care (ie, those recovering from surgical procedures).</p></sec><sec id="ciad562-s5"><title>VACCINE HESITANCY</title><p>The use of vaccination to combat AMR mandates an urgent need to improve public perception of the value of vaccines. Vaccine hesitancy reached alarmingly high rates during the coronavirus disease 2019 (COVID-19) pandemic, and this may impact vaccination programs going forward [<xref rid="ciad562-B102" ref-type="bibr">102</xref>]. Even in LMICs (where uptake has traditionally been better), by early 2022, uptake of the COVID-19 vaccine was less than 60% [<xref rid="ciad562-B103" ref-type="bibr">103</xref>]. In many, this is accompanied by a paradoxical risk perception in terms of the safety of antibiotics compared with the potential dangers of vaccination [<xref rid="ciad562-B102" ref-type="bibr">102</xref>, <xref rid="ciad562-B104" ref-type="bibr">104</xref>]. Accordingly, current vaccination programs&#x02014;as well as future study enrollments as new vaccines are developed&#x02014;are threatened. Patient education tools have previously enhanced the uptake of pneumococcal vaccines [<xref rid="ciad562-B105" ref-type="bibr">105</xref>], and they may be a cost-effective way to improve the acceptance of vaccination.</p></sec><sec sec-type="conclusions" id="ciad562-s6"><title>CONCLUSIONS AND FUTURE DIRECTIONS</title><p>Ongoing monitoring will establish long-term trends in the impact of vaccines. Strategies for the use of vaccines to combat emerging AMR must include better data collection and models for cost-effectiveness. Given the global platform to promote data collection on AMR and AMU/AMC [<xref rid="ciad562-B2" ref-type="bibr">2</xref>] and the number of current and novel vaccines in the pipeline [<xref rid="ciad562-B106" ref-type="bibr">106</xref>], there are excellent opportunities for funders and stakeholders to promote the inclusion of AMR impact studies as core to vaccine trials. AMR, particularly for the WHO-priority pathogens [<xref rid="ciad562-B2" ref-type="bibr">2</xref>], should be inherent in any report on infectious disease burden and should be included in observational studies pre- and postvaccine introduction. Large-scale RCTs may provide more granular information but may be difficult to initiate for diseases with lower burdens or reduced carriage of pathogens. Better data are needed to understand differing side effects of certain vaccines in different vaccinees and why some vaccinees mount suboptimal immune responses. Stakeholders must capitalize on the use of social and other media to enhance dissemination of information, educate the public, and lobby politicians for support for antimicrobial stewardship and the value of vaccines. Reducing vaccine costs, improving immunogenicity, and facilitating attendance at vaccination centers may improve enrolment in vaccination programs. Furthermore, healthcare workers must promote vaccination over antimicrobials and provide knowledge and understanding to ensure patients receive appropriate messages. Ultimately, there are numerous arguments for improving how we quantify the impact of vaccines on AMR. We need to ensure that it is done.</p></sec><sec sec-type="supplementary-material" id="ciad562-s7"><title>Supplementary Data</title><p>
+<xref rid="sup1" ref-type="supplementary-material">Supplementary materials</xref> are available at <italic toggle="yes">Clinical Infectious Diseases</italic> online. Consisting of data provided by the authors to benefit the reader, the posted materials are not copyedited and are the sole responsibility of the authors, so questions or comments should be addressed to the corresponding author.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material id="sup1" position="float" content-type="local-data"><label>ciad562_Supplementary_Data</label><media xlink:href="ciad562_supplementary_data.zip"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><sec id="ciad562-s8"><title>Notes</title><p>
+<bold>
+<italic toggle="yes">Disclaimer.</italic>
+</bold> The views expressed here are those of the authors and not necessarily those of the UK Department of Health and Social Care or its management agent, Mott MacDonald; and, International Vaccine Institute.</p><p>
+<bold>
+<italic toggle="yes">Supplement sponsorship.</italic>
+</bold> This article appears as part of the supplement &#x0201c;Capturing Data on Antimicrobial Resistance Patterns and Trends in Use in Regions of Asia (CAPTURA),&#x0201d; funded by the Department of Health and Social Care's Fleming Fund using UK aid.</p></sec><ref-list id="ref1"><title>References</title><ref id="ciad562-B1"><label>1</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Sixty-Eighth World Health Assembly</collab>
+</person-group>. <comment>Global action plan on antimicrobial resistance. WHA68.7. 2015. Available at</comment>: <ext-link xlink:href="https://cdn.who.int/media/docs/default-source/antimicrobial-resistance/amr-spc-sel-glass/a68-r7-en.pdf" ext-link-type="uri">https://cdn.who.int/media/docs/default-source/antimicrobial-resistance/amr-spc-sel-glass/a68-r7-en.pdf</ext-link>. <date-in-citation content-type="access">Accessed 18 December 2022</date-in-citation>.</mixed-citation></ref><ref id="ciad562-B2"><label>2</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group>. <comment>Global antimicrobial resistance and use surveillance system (GLASS) report: 2022. Geneva, Switzerland. 2022. Available at</comment>: <ext-link xlink:href="https://www.who.int/publications/i/item/9789240062702" ext-link-type="uri">https://www.who.int/publications/i/item/9789240062702</ext-link>. <date-in-citation content-type="access">Accessed 18 December 2022</date-in-citation>.</mixed-citation></ref><ref id="ciad562-B3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Murray</surname>
+<given-names>CJL</given-names>
+</string-name>, <string-name><surname>Ikuta</surname><given-names>KS</given-names></string-name>, <string-name><surname>Sharara</surname><given-names>F</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis</article-title>. <source>Lancet</source><year>2022</year>; <volume>399</volume>:<fpage>629</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">35065702</pub-id>
+</mixed-citation></ref><ref id="ciad562-B4"><label>4</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group>. <comment>Global tuberculosis report 2022. Geneva, Switzerland. 2022. Available at</comment>: <ext-link xlink:href="https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2022" ext-link-type="uri">https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2022</ext-link>. Accessed 18 December 2022.</mixed-citation></ref><ref id="ciad562-B5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jit</surname>
+<given-names>M</given-names>
+</string-name>, <string-name><surname>Ng</surname><given-names>DHL</given-names></string-name>, <string-name><surname>Luangasanatip</surname><given-names>N</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Quantifying the economic cost of antibiotic resistance and the impact of related interventions: rapid methodological review, conceptual framework and recommendations for future studies</article-title>. <source>BMC Med</source><year>2020</year>; <volume>18</volume>:<fpage>38</fpage>.<pub-id pub-id-type="pmid">32138748</pub-id>
+</mixed-citation></ref><ref id="ciad562-B6"><label>6</label><mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name><surname>Holm</surname><given-names>M</given-names></string-name>, <string-name><surname>Frost</surname><given-names>I</given-names></string-name>, <string-name><surname>Hasso-Agopsowicz</surname><given-names>M</given-names></string-name>, <string-name><surname>Abbas</surname><given-names>K</given-names></string-name></person-group>. <comment>Global and regional burden of attributable and associated bacterial antimicrobial resistance avertable by vaccination: modelling study. medRxiv</comment>. 2023; 8:e011341.</mixed-citation></ref><ref id="ciad562-B7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Andrejko</surname>
+<given-names>K</given-names>
+</string-name>, <string-name><surname>Ratnasiri</surname><given-names>B</given-names></string-name>, <string-name><surname>Hausdorff</surname><given-names>WP</given-names></string-name>, <string-name><surname>Laxminarayan</surname><given-names>R</given-names></string-name>, <string-name><surname>Lewnard</surname><given-names>JA</given-names></string-name></person-group>. <article-title>Antimicrobial resistance in paediatric Streptococcus pneumoniae isolates amid global implementation of pneumococcal conjugate vaccines: a systematic review and meta-regression analysis</article-title>. <source>Lancet Microbe</source><year>2021</year>; <volume>2</volume>:<fpage>e450</fpage>&#x02013;<lpage>e60</lpage>.<pub-id pub-id-type="pmid">34485957</pub-id>
+</mixed-citation></ref><ref id="ciad562-B8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kaur</surname>
+<given-names>R</given-names>
+</string-name>, <string-name><surname>Pham</surname><given-names>M</given-names></string-name>, <string-name><surname>Yu</surname><given-names>KOA</given-names></string-name>, <string-name><surname>Pichichero</surname><given-names>ME</given-names></string-name></person-group>. <article-title>Rising pneumococcal antibiotic resistance in the post-13-valent pneumococcal conjugate vaccine era in pediatric isolates from a primary care setting</article-title>. <source>Clin Inf Dis</source><year>2021</year>; <volume>72</volume>:<fpage>797</fpage>&#x02013;<lpage>805</lpage>.</mixed-citation></ref><ref id="ciad562-B9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wahl</surname>
+<given-names>B</given-names>
+</string-name>, <string-name><surname>O'Brien</surname><given-names>KL</given-names></string-name>, <string-name><surname>Greenbaum</surname><given-names>A</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Burden of Streptococcus pneumoniae and Haemophilus influenzae type b disease in children in the era of conjugate vaccines: global, regional, and national estimates for 2000-15</article-title>. <source>Lancet Glob Health</source><year>2018</year>; <volume>6</volume>:<fpage>e744</fpage>&#x02013;<lpage>e57</lpage>.<pub-id pub-id-type="pmid">29903376</pub-id>
+</mixed-citation></ref><ref id="ciad562-B10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bajanca-Lavado</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name><surname>Sim&#x000f5;es</surname><given-names>AS</given-names></string-name>, <string-name><surname>Betencourt</surname><given-names>CR</given-names></string-name>, <string-name><surname>S&#x000e1;-Le&#x000e3;o</surname><given-names>R</given-names></string-name></person-group>. <article-title>The Portuguese group for the study of Haemophilus influenzae invasive infection. Characteristics of Haemophilus influenzae invasive isolates from Portugal following routine childhood vaccination against H. influenzae serotype b (2002&#x02013;2010)</article-title>. <source>Eur J Clin Microbiol Infect Dis</source><year>2014</year>; <volume>33</volume>:<fpage>603</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">24154654</pub-id>
+</mixed-citation></ref><ref id="ciad562-B11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>von Gottberg</surname>
+<given-names>A</given-names>
+</string-name>, <string-name><surname>de Gouveia</surname><given-names>L</given-names></string-name>, <string-name><surname>Madhi</surname><given-names>SA</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Impact of conjugate Haemophilus influenzae type b (Hib) vaccine introduction in South Africa</article-title>. <source>Bull World Health Organ</source><year>2006</year>; <volume>84</volume>:<fpage>811</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">17128361</pub-id>
+</mixed-citation></ref><ref id="ciad562-B12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hasegawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name><surname>Kobayashi</surname><given-names>R</given-names></string-name>, <string-name><surname>Takada</surname><given-names>E</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>High prevalence of type b beta-lactamase-non-producing ampicillin-resistant Haemophilus influenzae in meningitis: the situation in Japan where Hib vaccine has not been introduced</article-title>. <source>J Antimicrob Chemother</source><year>2006</year>; <volume>57</volume>:<fpage>1077</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">16617062</pub-id>
+</mixed-citation></ref><ref id="ciad562-B13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ubukata</surname>
+<given-names>K</given-names>
+</string-name>, <string-name><surname>Chiba</surname><given-names>N</given-names></string-name>, <string-name><surname>Morozumi</surname><given-names>M</given-names></string-name>, <string-name><surname>Iwata</surname><given-names>S</given-names></string-name>, <string-name><surname>Sunakawa</surname><given-names>K</given-names></string-name></person-group>. <article-title>Longitudinal surveillance of Haemophilus influenzae isolates from pediatric patients with meningitis throughout Japan, 2000&#x02013;2011</article-title>. <source>J Infect Chemother</source><year>2013</year>; <volume>19</volume>:<fpage>34</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">22806445</pub-id>
+</mixed-citation></ref><ref id="ciad562-B14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Suga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name><surname>Ishiwada</surname><given-names>N</given-names></string-name>, <string-name><surname>Sasaki</surname><given-names>Y</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>A nationwide population-based surveillance of invasive Haemophilus influenzae diseases in children after the introduction of the Haemophilus influenzae type b vaccine in Japan</article-title>. <source>Vaccine</source><year>2018</year>; <volume>36</volume>:<fpage>5678</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">30122645</pub-id>
+</mixed-citation></ref><ref id="ciad562-B15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Soeters</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name><surname>Blain</surname><given-names>A</given-names></string-name>, <string-name><surname>Pondo</surname><given-names>T</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Current epidemiology and trends in invasive Haemophilus influenzae disease-United States, 2009-2015</article-title>. <source>Clin Infect Dis</source><year>2018</year>; <volume>67</volume>:<fpage>881</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">29509834</pub-id>
+</mixed-citation></ref><ref id="ciad562-B16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fatima</surname>
+<given-names>M</given-names>
+</string-name>, <string-name><surname>Kumar</surname><given-names>S</given-names></string-name>, <string-name><surname>Hussain</surname><given-names>M</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Morbidity and mortality associated with typhoid fever among hospitalized patients in Hyderabad district, Pakistan, 2017-2018: retrospective record review</article-title>. <source>JMIR Public Health Surveill</source><year>2021</year>; <volume>7</volume>:<fpage>e27268</fpage>.<pub-id pub-id-type="pmid">33999000</pub-id>
+</mixed-citation></ref><ref id="ciad562-B17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yousafzai</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name><surname>Karim</surname><given-names>S</given-names></string-name>, <string-name><surname>Qureshi</surname><given-names>S</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Effectiveness of typhoid conjugate vaccine against culture-confirmed Salmonella enterica serotype Typhi in an extensively drug-resistant outbreak setting of Hyderabad, Pakistan: a cohort study</article-title>. <source>Lancet Glob Health</source><year>2021</year>; <volume>9</volume>:<fpage>e1154</fpage>&#x02013;<lpage>e62</lpage>.<pub-id pub-id-type="pmid">34297962</pub-id>
+</mixed-citation></ref><ref id="ciad562-B18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Smith</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name><surname>Njanpop-Lafourcade</surname><given-names>BM</given-names></string-name>, <string-name><surname>Mengel</surname><given-names>MA</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Comparative characterization of vibrio Cholerae O1 from five Sub-Saharan African countries using various phenotypic and genotypic techniques</article-title>. <source>PLoS One</source><year>2015</year>; <volume>10</volume>:<fpage>e0142989</fpage>.<pub-id pub-id-type="pmid">26606536</pub-id>
+</mixed-citation></ref><ref id="ciad562-B19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Luquero</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name><surname>Grout</surname><given-names>L</given-names></string-name>, <string-name><surname>Ciglenecki</surname><given-names>I</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Use of vibrio cholerae vaccine in an outbreak in Guinea</article-title>. <source>N Engl J Med</source><year>2014</year>; <volume>370</volume>:<fpage>2111</fpage>&#x02013;<lpage>20</lpage>.<pub-id pub-id-type="pmid">24869721</pub-id>
+</mixed-citation></ref><ref id="ciad562-B20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Weill</surname>
+<given-names>FX</given-names>
+</string-name>, <string-name><surname>Domman</surname><given-names>D</given-names></string-name>, <string-name><surname>Njamkepo</surname><given-names>E</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Genomic history of the seventh pandemic of cholera in Africa</article-title>. <source>Science</source><year>2017</year>; <volume>358</volume>:<fpage>785</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">29123067</pub-id>
+</mixed-citation></ref><ref id="ciad562-B21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kariyawasam</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name><surname>Julien</surname><given-names>DA</given-names></string-name>, <string-name><surname>Jelinski</surname><given-names>DC</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Antimicrobial resistance (AMR) in COVID-19 patients: a systematic review and meta-analysis (November 2019-June 2021)</article-title>. <source>Antimicrob Resist Infect Control</source><year>2022</year>; <volume>11</volume>:<fpage>45</fpage>.<pub-id pub-id-type="pmid">35255988</pub-id>
+</mixed-citation></ref><ref id="ciad562-B22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rawson</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name><surname>Moore</surname><given-names>LSP</given-names></string-name>, <string-name><surname>Zhu</surname><given-names>N</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Bacterial and fungal coinfection in individuals with coronavirus: a rapid review to support COVID-19 antimicrobial prescribing</article-title>. <source>Clin Infect Dis</source><year>2020</year>; <volume>71</volume>:<fpage>2459</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">32358954</pub-id>
+</mixed-citation></ref><ref id="ciad562-B23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name><surname>Zhou</surname><given-names>M</given-names></string-name>, <string-name><surname>Dong</surname><given-names>X</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study</article-title>. <source>Lancet</source><year>2020</year>; <volume>395</volume>:<fpage>507</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">32007143</pub-id>
+</mixed-citation></ref><ref id="ciad562-B24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zhou</surname>
+<given-names>F</given-names>
+</string-name>, <string-name><surname>Yu</surname><given-names>T</given-names></string-name>, <string-name><surname>Du</surname><given-names>R</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study</article-title>. <source>Lancet</source><year>2020</year>; <volume>395</volume>:<fpage>1054</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">32171076</pub-id>
+</mixed-citation></ref><ref id="ciad562-B25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Staub</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name><surname>Beaulieu</surname><given-names>RM</given-names></string-name>, <string-name><surname>Graves</surname><given-names>J</given-names></string-name>, <string-name><surname>Nelson</surname><given-names>GE</given-names></string-name></person-group>. <article-title>Changes in antimicrobial utilization during the coronavirus disease 2019 (COVID-19) pandemic after implementation of a multispecialty clinical guidance team</article-title>. <source>Infect Control Hosp Epidemiol</source><year>2021</year>; <volume>42</volume>:<fpage>810</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">33100250</pub-id>
+</mixed-citation></ref><ref id="ciad562-B26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Seethalakshmi</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name><surname>Charity</surname><given-names>OJ</given-names></string-name>, <string-name><surname>Giakoumis</surname><given-names>T</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Delineating the impact of COVID-19 on antimicrobial resistance: an Indian perspective</article-title>. <source>Sci Total Environ</source><year>2022</year>; <volume>818</volume>:<fpage>151702</fpage>.<pub-id pub-id-type="pmid">34798093</pub-id>
+</mixed-citation></ref><ref id="ciad562-B27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Khan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name><surname>Hasan</surname><given-names>SS</given-names></string-name>, <string-name><surname>Bond</surname><given-names>SE</given-names></string-name>, <string-name><surname>Conway</surname><given-names>BR</given-names></string-name>, <string-name><surname>Aldeyab</surname><given-names>MA</given-names></string-name></person-group>. <article-title>Antimicrobial consumption in patients with COVID-19: a systematic review and meta-analysis</article-title>. <source>Expert Rev Anti Infect Ther</source><year>2022</year>; <volume>20</volume>:<fpage>749</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">34895002</pub-id>
+</mixed-citation></ref><ref id="ciad562-B28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Langford</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name><surname>So</surname><given-names>M</given-names></string-name>, <string-name><surname>Raybardhan</surname><given-names>S</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Antibiotic prescribing in patients with COVID-19: rapid review and meta-analysis</article-title>. <source>Clin Microbiol Infect</source><year>2021</year>; <volume>27</volume>:<fpage>520</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">33418017</pub-id>
+</mixed-citation></ref><ref id="ciad562-B29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tregoning</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name><surname>Flight</surname><given-names>KE</given-names></string-name>, <string-name><surname>Higham</surname><given-names>SL</given-names></string-name>, <string-name><surname>Wang</surname><given-names>Z</given-names></string-name>, <string-name><surname>Pierce</surname><given-names>BF</given-names></string-name></person-group>. <article-title>Progress of the COVID-19 vaccine effort: viruses, vaccines and variants versus efficacy, effectiveness and escape</article-title>. <source>Nat Rev Immunol</source><year>2021</year>; <volume>21</volume>:<fpage>626</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">34373623</pub-id>
+</mixed-citation></ref><ref id="ciad562-B30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name><surname>Dudley</surname><given-names>MZ</given-names></string-name>, <string-name><surname>Chen</surname><given-names>X</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Evaluation of the safety profile of COVID-19 vaccines: a rapid review</article-title>. <source>BMC Med</source><year>2021</year>; <volume>19</volume>:<fpage>173</fpage>.<pub-id pub-id-type="pmid">34315454</pub-id>
+</mixed-citation></ref><ref id="ciad562-B31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Vogwill</surname>
+<given-names>T</given-names>
+</string-name>, <string-name><surname>MacLean</surname><given-names>RC</given-names></string-name></person-group>. <article-title>The genetic basis of the fitness costs of antimicrobial resistance: a meta-analysis approach</article-title>. <source>Evol Appl</source><year>2015</year>; <volume>8</volume>:<fpage>284</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">25861386</pub-id>
+</mixed-citation></ref><ref id="ciad562-B32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Muloi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name><surname>Ward</surname><given-names>MJ</given-names></string-name>, <string-name><surname>Pedersen</surname><given-names>AB</given-names></string-name>, <string-name><surname>F&#x000e8;vre</surname><given-names>EM</given-names></string-name>, <string-name><surname>Woolhouse</surname><given-names>MEJ</given-names></string-name>, <string-name><surname>van Bunnik</surname><given-names>BAD</given-names></string-name></person-group>. <article-title>Are food animals responsible for transfer of antimicrobial-resistant Escherichia coli or their resistance determinants to human populations? A systematic review</article-title>. <source>Foodborne Pathog Dis</source><year>2018</year>; <volume>15</volume>:<fpage>467</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">29708778</pub-id>
+</mixed-citation></ref><ref id="ciad562-B33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hernando-Amado</surname>
+<given-names>S</given-names>
+</string-name>, <string-name><surname>Coque</surname><given-names>TM</given-names></string-name>, <string-name><surname>Baquero</surname><given-names>F</given-names></string-name>, <string-name><surname>Mart&#x000ed;nez</surname><given-names>JL</given-names></string-name></person-group>. <article-title>Defining and combating antibiotic resistance from one health and global health perspectives</article-title>. <source>Nat Microbiol</source><year>2019</year>; <volume>4</volume>:<fpage>1432</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">31439928</pub-id>
+</mixed-citation></ref><ref id="ciad562-B34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Carlet</surname>
+<given-names>J</given-names>
+</string-name>
+</person-group>. <article-title>The gut is the epicentre of antibiotic resistance</article-title>. <source>Antimicrob Resist Infect Control</source><year>2012</year>; <volume>1</volume>:<fpage>39</fpage>.<pub-id pub-id-type="pmid">23181506</pub-id>
+</mixed-citation></ref><ref id="ciad562-B35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name><surname>Yang</surname><given-names>X</given-names></string-name>, <string-name><surname>Li</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>The bacterial mobile resistome transfer network connecting the animal and human microbiomes</article-title>. <source>Appl Environ Microbiol</source><year>2016</year>; <volume>82</volume>:<fpage>6672</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">27613679</pub-id>
+</mixed-citation></ref><ref id="ciad562-B36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mourkas</surname>
+<given-names>E</given-names>
+</string-name>, <string-name><surname>Florez-Cuadrado</surname><given-names>D</given-names></string-name>, <string-name><surname>Pascoe</surname><given-names>B</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Gene pool transmission of multidrug resistance among Campylobacter from livestock, sewage and human disease</article-title>. <source>Environ Microbiol</source><year>2019</year>; <volume>21</volume>:<fpage>4597</fpage>&#x02013;<lpage>613</lpage>.<pub-id pub-id-type="pmid">31385413</pub-id>
+</mixed-citation></ref><ref id="ciad562-B37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mughini-Gras</surname>
+<given-names>L</given-names>
+</string-name>, <string-name><surname>Pijnacker</surname><given-names>R</given-names></string-name>, <string-name><surname>Coipan</surname><given-names>C</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Sources and transmission routes of campylobacteriosis: a combined analysis of genome and exposure data</article-title>. <source>J Infect</source><year>2021</year>; <volume>82</volume>:<fpage>216</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">33275955</pub-id>
+</mixed-citation></ref><ref id="ciad562-B38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>More</surname>
+<given-names>E</given-names>
+</string-name>, <string-name><surname>Ayats</surname><given-names>T</given-names></string-name>, <string-name><surname>Ryan</surname><given-names>PG</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Seabirds (Laridae) as a source of Campylobacter spp., Salmonella spp. and antimicrobial resistance in South Africa</article-title>. <source>Environ Microbiol</source><year>2017</year>; <volume>19</volume>:<fpage>4164</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">28752962</pub-id>
+</mixed-citation></ref><ref id="ciad562-B39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Keenan</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name><surname>Bailey</surname><given-names>RL</given-names></string-name>, <string-name><surname>West</surname><given-names>SK</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Azithromycin to reduce childhood mortality in sub-Saharan Africa</article-title>. <source>N Engl J Med</source><year>2018</year>; <volume>378</volume>:<fpage>1583</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">29694816</pub-id>
+</mixed-citation></ref><ref id="ciad562-B40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Doan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name><surname>Arzika</surname><given-names>AM</given-names></string-name>, <string-name><surname>Hinterwirth</surname><given-names>A</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Macrolide resistance in MORDOR I&#x02014;a cluster-randomized trial in Niger</article-title>. <source>N Engl J Med</source><year>2019</year>; <volume>380</volume>:<fpage>2271</fpage>&#x02013;<lpage>3</lpage>.<pub-id pub-id-type="pmid">31167060</pub-id>
+</mixed-citation></ref><ref id="ciad562-B41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Doan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name><surname>Worden</surname><given-names>L</given-names></string-name>, <string-name><surname>Hinterwirth</surname><given-names>A</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Macrolide and nonmacrolide resistance with mass azithromycin distribution</article-title>. <source>N Engl J Med</source><year>2020</year>; <volume>383</volume>:<fpage>1941</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">33176084</pub-id>
+</mixed-citation></ref><ref id="ciad562-B42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Klugman</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name><surname>Black</surname><given-names>S</given-names></string-name></person-group>. <article-title>Impact of existing vaccines in reducing antibiotic resistance: primary and secondary effects</article-title>. <source>Proc Natl Acad Sci U S A</source><year>2018</year>; <volume>115</volume>:<fpage>12896</fpage>&#x02013;<lpage>901</lpage>.<pub-id pub-id-type="pmid">30559195</pub-id>
+</mixed-citation></ref><ref id="ciad562-B43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dagan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name><surname>Juergens</surname><given-names>C</given-names></string-name>, <string-name><surname>Trammel</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Efficacy of 13-valent pneumococcal conjugate vaccine (PCV13) versus that of 7-valent PCV (PCV7) against nasopharyngeal colonization of antibiotic-nonsusceptible Streptococcus pneumoniae</article-title>. <source>J Infect Dis</source><year>2015</year>; <volume>211</volume>:<fpage>1144</fpage>&#x02013;<lpage>53</lpage>.<pub-id pub-id-type="pmid">25355940</pub-id>
+</mixed-citation></ref><ref id="ciad562-B44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Nieminen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name><surname>Rinta-Kokko</surname><given-names>H</given-names></string-name>, <string-name><surname>Jokinen</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Effectiveness of the 10-valent pneumococcal conjugate vaccine among girls, boys, preterm and low-birth-weight infants&#x02014;results from a randomized, double-blind vaccine trial</article-title>. <source>Vaccine</source><year>2019</year>; <volume>37</volume>:<fpage>3715</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">31122856</pub-id>
+</mixed-citation></ref><ref id="ciad562-B45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Palmu</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name><surname>Rinta-Kokko</surname><given-names>H</given-names></string-name>, <string-name><surname>Nohynek</surname><given-names>H</given-names></string-name>, <string-name><surname>Nuorti</surname><given-names>JP</given-names></string-name></person-group>. <article-title>Indirect impact of ten-valent pneumococcal conjugate vaccine program on reducing antimicrobial use and tympanostomy tube placements in Finland</article-title>. <source>Pediatr Infect Dis J</source><year>2020</year>; <volume>39</volume>:<fpage>862</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">32412982</pub-id>
+</mixed-citation></ref><ref id="ciad562-B46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Palmu</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name><surname>Jokinen</surname><given-names>J</given-names></string-name>, <string-name><surname>Nieminen</surname><given-names>H</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Effect of pneumococcal Haemophilus influenzae protein D conjugate vaccine (PHiD-CV10) on outpatient antimicrobial purchases: a double-blind, cluster randomised phase 3-4 trial</article-title>. <source>Lancet Infect Dis</source><year>2014</year>; <volume>14</volume>:<fpage>205</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">24287186</pub-id>
+</mixed-citation></ref><ref id="ciad562-B47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sihvonen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name><surname>Siira</surname><given-names>L</given-names></string-name>, <string-name><surname>Toropainen</surname><given-names>M</given-names></string-name>, <string-name><surname>Kuusela</surname><given-names>P</given-names></string-name>, <string-name><surname>P&#x000e4;t&#x000e4;ri-Sampo</surname><given-names>A</given-names></string-name></person-group>. <article-title>Streptococcus pneumoniae antimicrobial resistance decreased in the Helsinki metropolitan area after routine 10-valent pneumococcal conjugate vaccination of infants in Finland</article-title>. <source>Eur J Clin Microbiol Infect Dis</source><year>2017</year>; <volume>36</volume>:<fpage>2109</fpage>&#x02013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">28612153</pub-id>
+</mixed-citation></ref><ref id="ciad562-B48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kaufhold</surname>
+<given-names>S</given-names>
+</string-name>, <string-name><surname>Yaesoubi</surname><given-names>R</given-names></string-name>, <string-name><surname>Pitzer</surname><given-names>VE</given-names></string-name></person-group>. <article-title>Predicting the impact of typhoid conjugate vaccines on antimicrobial resistance</article-title>. <source>Clin Infect Dis</source><year>2019</year>; <volume>68</volume>(<issue>Suppl 2</issue>):<fpage>S96</fpage>&#x02013;<lpage>s104</lpage>.<pub-id pub-id-type="pmid">30845324</pub-id>
+</mixed-citation></ref><ref id="ciad562-B49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name><surname>Lewnard</surname><given-names>JA</given-names></string-name>, <string-name><surname>Frost</surname><given-names>I</given-names></string-name>, <string-name><surname>Laxminarayan</surname><given-names>R</given-names></string-name>, <string-name><surname>Arinaminpathy</surname><given-names>N</given-names></string-name></person-group>. <article-title>Modelling the global burden of drug-resistant tuberculosis avertable by a post-exposure vaccine</article-title>. <source>Nat Commun</source><year>2021</year>; <volume>12</volume>:<fpage>424</fpage>.<pub-id pub-id-type="pmid">33462224</pub-id>
+</mixed-citation></ref><ref id="ciad562-B50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wolter</surname>
+<given-names>N</given-names>
+</string-name>, <string-name><surname>du Plessis</surname><given-names>M</given-names></string-name>, <string-name><surname>von Gottberg</surname><given-names>A</given-names></string-name>, <string-name><surname>de Gouveia</surname><given-names>L</given-names></string-name>, <string-name><surname>Klugman</surname><given-names>KP</given-names></string-name></person-group>. <article-title>Molecular characterization of emerging non-levofloxacin-susceptible pneumococci isolated from children in South Africa</article-title>. <source>J Clin Microbiol</source><year>2009</year>; <volume>47</volume>:<fpage>1319</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">19261799</pub-id>
+</mixed-citation></ref><ref id="ciad562-B51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>de Jager</surname>
+<given-names>P</given-names>
+</string-name>, <string-name><surname>Smith</surname><given-names>O</given-names></string-name>, <string-name><surname>Bolon</surname><given-names>S</given-names></string-name>, <string-name><surname>Thomas</surname><given-names>J</given-names></string-name>, <string-name><surname>Richards</surname><given-names>GA</given-names></string-name></person-group>. <article-title>Epidemiology of Clostridioides difficile in South Africa</article-title>. <source>PLoS One</source><year>2021</year>; <volume>16</volume>:<fpage>e0259771</fpage>.<pub-id pub-id-type="pmid">34813626</pub-id>
+</mixed-citation></ref><ref id="ciad562-B52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Higgins</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name><surname>Soares-Weiser</surname><given-names>K</given-names></string-name>, <string-name><surname>L&#x000f3;pez-L&#x000f3;pez</surname><given-names>JA</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Association of BCG, DTP, and measles containing vaccines with childhood mortality: systematic review</article-title>. <source>BMJ</source><year>2016</year>; <volume>355</volume>:<fpage>i5170</fpage>.<pub-id pub-id-type="pmid">27737834</pub-id>
+</mixed-citation></ref><ref id="ciad562-B53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fifer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name><surname>Cole</surname><given-names>M</given-names></string-name>, <string-name><surname>Hughes</surname><given-names>G</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Sustained transmission of high-level azithromycin-resistant Neisseria gonorrhoeae in England: an observational study</article-title>. <source>Lancet Infect Dis</source><year>2018</year>; <volume>18</volume>:<fpage>573</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">29523496</pub-id>
+</mixed-citation></ref><ref id="ciad562-B54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Baker</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name><surname>Dallman</surname><given-names>TJ</given-names></string-name>, <string-name><surname>Ashton</surname><given-names>PM</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Intercontinental dissemination of azithromycin-resistant shigellosis through sexual transmission: a cross-sectional study</article-title>. <source>Lancet Infect Dis</source><year>2015</year>; <volume>15</volume>:<fpage>10</fpage>&#x02013;<lpage>3099</lpage>.</mixed-citation></ref><ref id="ciad562-B55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Marks</surname>
+<given-names>F</given-names>
+</string-name>, <string-name><surname>von Kalckreuth</surname><given-names>V</given-names></string-name>, <string-name><surname>Aaby</surname><given-names>P</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Incidence of invasive salmonella disease in sub-Saharan Africa: a multicentre population-based surveillance study</article-title>. <source>Lancet Glob Health</source><year>2017</year>; <volume>5</volume>:<fpage>e310</fpage>&#x02013;<lpage>e23</lpage>.<pub-id pub-id-type="pmid">28193398</pub-id>
+</mixed-citation></ref><ref id="ciad562-B56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Varma</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name><surname>Molbak</surname><given-names>K</given-names></string-name>, <string-name><surname>Barrett</surname><given-names>TJ</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Antimicrobial-resistant nontyphoidal Salmonella is associated with excess bloodstream infections and hospitalizations</article-title>. <source>J Infect Dis</source><year>2005</year>; <volume>191</volume>:<fpage>554</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">15655779</pub-id>
+</mixed-citation></ref><ref id="ciad562-B57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Okeah</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name><surname>Morrison</surname><given-names>V</given-names></string-name>, <string-name><surname>Huws</surname><given-names>JC</given-names></string-name></person-group>. <article-title>Antimicrobial stewardship and infection prevention interventions targeting healthcare-associated Clostridioides difficile and carbapenem-resistant Klebsiella pneumoniae infections: a scoping review</article-title>. <source>BMJ Open</source><year>2021</year>; <volume>11</volume>:<fpage>e051983</fpage>.</mixed-citation></ref><ref id="ciad562-B58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tavoukjian</surname>
+<given-names>V</given-names>
+</string-name>
+</person-group>. <article-title>Faecal microbiota transplantation for the decolonization of antibiotic-resistant bacteria in the gut: a systematic review and meta-analysis</article-title>. <source>J Hosp Infect</source><year>2019</year>; <volume>102</volume>:<fpage>174</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">30926290</pub-id>
+</mixed-citation></ref><ref id="ciad562-B59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tozzo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name><surname>Delicati</surname><given-names>A</given-names></string-name>, <string-name><surname>Caenazzo</surname><given-names>L</given-names></string-name></person-group>. <article-title>Human microbiome and microbiota identification for preventing and controlling healthcare-associated infections: a systematic review</article-title>. <source>Front Public Health</source><year>2022</year>; <volume>10</volume>:<fpage>989496</fpage>.<pub-id pub-id-type="pmid">36530685</pub-id>
+</mixed-citation></ref><ref id="ciad562-B60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Essack</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name><surname>Hall</surname><given-names>LM</given-names></string-name>, <string-name><surname>Pillay</surname><given-names>DG</given-names></string-name>, <string-name><surname>McFadyen</surname><given-names>ML</given-names></string-name>, <string-name><surname>Livermore</surname><given-names>DM</given-names></string-name></person-group>. <article-title>Complexity and diversity of Klebsiella pneumoniae strains with extended-spectrum beta-lactamases isolated in 1994 and 1996 at a teaching hospital in Durban, South Africa</article-title>. <source>Antimicrob Agents Chemother</source><year>2001</year>; <volume>45</volume>:<fpage>88</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">11120950</pub-id>
+</mixed-citation></ref><ref id="ciad562-B61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kruger</surname>
+<given-names>T</given-names>
+</string-name>, <string-name><surname>Szabo</surname><given-names>D</given-names></string-name>, <string-name><surname>Keddy</surname><given-names>KH</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Infections with nontyphoidal Salmonella species producing TEM-63 or a novel TEM enzyme, TEM-131, in South Africa</article-title>. <source>Antimicrob Agents Chemother</source><year>2004</year>; <volume>48</volume>:<fpage>4263</fpage>&#x02013;<lpage>70</lpage>.<pub-id pub-id-type="pmid">15504851</pub-id>
+</mixed-citation></ref><ref id="ciad562-B62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ismail</surname>
+<given-names>H</given-names>
+</string-name>, <string-name><surname>Smith</surname><given-names>AM</given-names></string-name>, <string-name><surname>Tau</surname><given-names>NP</given-names></string-name>, <string-name><surname>Sooka</surname><given-names>A</given-names></string-name>, <string-name><surname>Keddy</surname><given-names>KH</given-names></string-name></person-group>. <article-title>Cholera outbreak in South Africa, 2008-2009: laboratory analysis of Vibrio cholerae O1 strains</article-title>. <source>J Infect Dis</source><year>2013</year>; <volume>208</volume>(<issue>Suppl 1</issue>):<fpage>S39</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">24101643</pub-id>
+</mixed-citation></ref><ref id="ciad562-B63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Esposito</surname>
+<given-names>S</given-names>
+</string-name>, <string-name><surname>Principi</surname><given-names>N</given-names></string-name></person-group>. <article-title>Influenza vaccination and prevention of antimicrobial resistance</article-title>. <source>Expert Rev Vaccines</source><year>2018</year>; <volume>17</volume>:<fpage>881</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">30259755</pub-id>
+</mixed-citation></ref><ref id="ciad562-B64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gilca</surname>
+<given-names>R</given-names>
+</string-name>, <string-name><surname>Fortin</surname><given-names>E</given-names></string-name>, <string-name><surname>Frenette</surname><given-names>C</given-names></string-name>, <string-name><surname>Longtin</surname><given-names>Y</given-names></string-name>, <string-name><surname>Gourdeau</surname><given-names>M</given-names></string-name></person-group>. <article-title>Seasonal variations in Clostridium difficile infections are associated with influenza and respiratory syncytial virus activity independently of antibiotic prescriptions: a time series analysis in Quebec, Canada</article-title>. <source>Antimicrob Agents Chemother</source><year>2012</year>; <volume>56</volume>:<fpage>639</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">22106208</pub-id>
+</mixed-citation></ref><ref id="ciad562-B65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Klein</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name><surname>Schueller</surname><given-names>E</given-names></string-name>, <string-name><surname>Tseng</surname><given-names>KK</given-names></string-name>, <string-name><surname>Morgan</surname><given-names>DJ</given-names></string-name>, <string-name><surname>Laxminarayan</surname><given-names>R</given-names></string-name>, <string-name><surname>Nandi</surname><given-names>A</given-names></string-name></person-group>. <article-title>The impact of influenza vaccination on antibiotic use in the United States, 2010-2017</article-title>. <source>Open Forum Infect Dis</source><year>2020</year>; <volume>7</volume>:<fpage>ofaa223</fpage>.<pub-id pub-id-type="pmid">32665959</pub-id>
+</mixed-citation></ref><ref id="ciad562-B66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>van den Ent</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name><surname>Brown</surname><given-names>DW</given-names></string-name>, <string-name><surname>Hoekstra</surname><given-names>EJ</given-names></string-name>, <string-name><surname>Christie</surname><given-names>A</given-names></string-name>, <string-name><surname>Cochi</surname><given-names>SL</given-names></string-name></person-group>. <article-title>Measles mortality reduction contributes substantially to reduction of all cause mortality among children less than five years of age, 1990-2008</article-title>. <source>J Infect Dis</source><year>2011</year>; <volume>204</volume>(<issue>Suppl 1</issue>):<fpage>S18</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">21666160</pub-id>
+</mixed-citation></ref><ref id="ciad562-B67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hall</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name><surname>Tippett</surname><given-names>A</given-names></string-name>, <string-name><surname>Fridkin</surname><given-names>S</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Association between rotavirus vaccination and antibiotic prescribing among commercially insured US children, 2007-2018</article-title>. <source>Open Forum Infect Dis</source><year>2022</year>; <volume>9</volume>:<fpage>ofac276</fpage>.<pub-id pub-id-type="pmid">35855006</pub-id>
+</mixed-citation></ref><ref id="ciad562-B68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sim&#x000f5;es</surname>
+<given-names>EAF</given-names>
+</string-name>, <string-name><surname>Center</surname><given-names>KJ</given-names></string-name>, <string-name><surname>Tita</surname><given-names>ATN</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Prefusion F protein-based respiratory syncytial virus immunization in pregnancy</article-title>. <source>N Engl J Med</source><year>2022</year>; <volume>386</volume>:<fpage>1615</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">35476650</pub-id>
+</mixed-citation></ref><ref id="ciad562-B69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hendricks</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name><surname>Lashua</surname><given-names>LP</given-names></string-name>, <string-name><surname>Fischer</surname><given-names>DK</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Respiratory syncytial virus infection enhances Pseudomonas aeruginosa biofilm growth through dysregulation of nutritional immunity</article-title>. <source>Proc Natl Acad Sci U S A</source><year>2016</year>; <volume>113</volume>:<fpage>1642</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">26729873</pub-id>
+</mixed-citation></ref><ref id="ciad562-B70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chang</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name><surname>Crane</surname><given-names>M</given-names></string-name>, <string-name><surname>Zhou</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>HIV and co-infections</article-title>. <source>Immunol Rev</source><year>2013</year>; <volume>254</volume>:<fpage>114</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">23772618</pub-id>
+</mixed-citation></ref><ref id="ciad562-B71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gazzard</surname>
+<given-names>BG</given-names>
+</string-name>
+</person-group>. <article-title>Opportunistic infections in HIV seropositive individuals</article-title>. <source>J R Coll Physicians Lond</source><year>1995</year>; <volume>29</volume>:<fpage>335</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">7473330</pub-id>
+</mixed-citation></ref><ref id="ciad562-B72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kerkhoff</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name><surname>Havlir</surname><given-names>DV</given-names></string-name></person-group>. <article-title>CROI 2021: tuberculosis, opportunistic infections, and COVID-19 among people with HIV</article-title>. <source>Top Antivir Med</source><year>2021</year>; <volume>29</volume>:<fpage>344</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">34107204</pub-id>
+</mixed-citation></ref><ref id="ciad562-B73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Limper</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name><surname>Adenis</surname><given-names>A</given-names></string-name>, <string-name><surname>Le</surname><given-names>T</given-names></string-name>, <string-name><surname>Harrison</surname><given-names>TS</given-names></string-name></person-group>. <article-title>Fungal infections in HIV/AIDS</article-title>. <source>Lancet Infect Dis</source><year>2017</year>; <volume>17</volume>:<fpage>e334</fpage>&#x02013;<lpage>e43</lpage>.<pub-id pub-id-type="pmid">28774701</pub-id>
+</mixed-citation></ref><ref id="ciad562-B74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Stearn</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name><surname>Polis</surname><given-names>MA</given-names></string-name></person-group>. <article-title>Prophylaxis of opportunistic infections in persons with HIV infection</article-title>. <source>Cleve Clin J Med</source><year>1994</year>; <volume>61</volume>:<fpage>187</fpage>&#x02013;<lpage>94</lpage>.<pub-id pub-id-type="pmid">7913002</pub-id>
+</mixed-citation></ref><ref id="ciad562-B75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Khan</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name><surname>Yates</surname><given-names>TA</given-names></string-name>, <string-name><surname>Osman</surname><given-names>M</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Transmission of drug-resistant tuberculosis in HIV-endemic settings</article-title>. <source>Lancet Infect Dis</source><year>2019</year>; <volume>19</volume>:<fpage>e77</fpage>&#x02013;<lpage>88</lpage>.<pub-id pub-id-type="pmid">30554996</pub-id>
+</mixed-citation></ref><ref id="ciad562-B76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>von Seidlein</surname>
+<given-names>L</given-names>
+</string-name>, <string-name><surname>Hanboonkunupakarn</surname><given-names>B</given-names></string-name>, <string-name><surname>Jittamala</surname><given-names>P</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Combining antimalarial drugs and vaccine for malaria elimination campaigns: a randomized safety and immunogenicity trial of RTS, S/AS01 administered with dihydroartemisinin, piperaquine, and primaquine in healthy Thai adult volunteers</article-title>. <source>Hum Vaccin Immunother</source><year>2020</year>; <volume>16</volume>:<fpage>33</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">31306084</pub-id>
+</mixed-citation></ref><ref id="ciad562-B77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Park</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name><surname>Pak</surname><given-names>GD</given-names></string-name>, <string-name><surname>Aaby</surname><given-names>P</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>The relationship between invasive nontyphoidal salmonella disease, other bacterial bloodstream infections, and malaria in sub-Saharan Africa</article-title>. <source>Clin Infect Dis</source><year>2016</year>; <volume>62</volume>(<issue>Suppl 1</issue>):<fpage>S23</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">26933016</pub-id>
+</mixed-citation></ref><ref id="ciad562-B78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Shakya</surname>
+<given-names>M</given-names>
+</string-name>, <string-name><surname>Voysey</surname><given-names>M</given-names></string-name>, <string-name><surname>Theiss-Nyland</surname><given-names>K</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Efficacy of typhoid conjugate vaccine in Nepal: final results of a phase 3, randomised, controlled trial</article-title>. <source>Lancet Glob Health</source><year>2021</year>; <volume>9</volume>:<fpage>e1561</fpage>&#x02013;<lpage>e8</lpage>.<pub-id pub-id-type="pmid">34678198</pub-id>
+</mixed-citation></ref><ref id="ciad562-B79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Patel</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name><surname>Patel</surname><given-names>P</given-names></string-name>, <string-name><surname>Liang</surname><given-names>Y</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Safety and efficacy of a typhoid conjugate vaccine in Malawian children</article-title>. <source>N Engl J Med</source><year>2021</year>; <volume>385</volume>:<fpage>1104</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">34525285</pub-id>
+</mixed-citation></ref><ref id="ciad562-B80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name><surname>Gibani</surname><given-names>MM</given-names></string-name>, <string-name><surname>Moore</surname><given-names>M</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Efficacy and immunogenicity of a vi-tetanus toxoid conjugate vaccine in the prevention of typhoid fever using a controlled human infection model of Salmonella Typhi: a randomised controlled, phase 2b trial</article-title>. <source>Lancet</source><year>2017</year>; <volume>390</volume>:<fpage>2472</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">28965718</pub-id>
+</mixed-citation></ref><ref id="ciad562-B81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lee</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name><surname>Kleinman</surname><given-names>K</given-names></string-name>, <string-name><surname>Pelton</surname><given-names>SI</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Impact of 13-valent pneumococcal conjugate vaccination on streptococcus pneumoniae carriage in young children in Massachusetts</article-title>. <source>J Pediatric Infect Dis Soc</source><year>2014</year>; <volume>3</volume>:<fpage>23</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">24567842</pub-id>
+</mixed-citation></ref><ref id="ciad562-B82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Albarrac&#x000ed;n Orio</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name><surname>Pi&#x000f1;as</surname><given-names>GE</given-names></string-name>, <string-name><surname>Cortes</surname><given-names>PR</given-names></string-name>, <string-name><surname>Cian</surname><given-names>MB</given-names></string-name>, <string-name><surname>Echenique</surname><given-names>J</given-names></string-name></person-group>. <article-title>Compensatory evolution of pbp mutations restores the fitness cost imposed by &#x003b2;-lactam resistance in Streptococcus pneumoniae</article-title>. <source>PLoS Pathog</source><year>2011</year>; <volume>7</volume>:<fpage>e1002000</fpage>.<pub-id pub-id-type="pmid">21379570</pub-id>
+</mixed-citation></ref><ref id="ciad562-B83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>H&#x000e4;ndel</surname>
+<given-names>N</given-names>
+</string-name>, <string-name><surname>Schuurmans</surname><given-names>JM</given-names></string-name>, <string-name><surname>Brul</surname><given-names>S</given-names></string-name>, <string-name><surname>ter Kuile</surname><given-names>BH</given-names></string-name></person-group>. <article-title>Compensation of the metabolic costs of antibiotic resistance by physiological adaptation in Escherichia coli</article-title>. <source>Antimicrob Agents Chemother</source><year>2013</year>; <volume>57</volume>:<fpage>3752</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">23716056</pub-id>
+</mixed-citation></ref><ref id="ciad562-B84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gomez de Ag&#x000fc;ero</surname>
+<given-names>M</given-names>
+</string-name>, <string-name><surname>Ganal-Vonarburg</surname><given-names>SC</given-names></string-name>, <string-name><surname>Fuhrer</surname><given-names>T</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>The maternal microbiota drives early postnatal innate immune development</article-title>. <source>Science</source><year>2016</year>; <volume>351</volume>:<fpage>1296</fpage>&#x02013;<lpage>302</lpage>.<pub-id pub-id-type="pmid">26989247</pub-id>
+</mixed-citation></ref><ref id="ciad562-B85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Furusawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name><surname>Obata</surname><given-names>Y</given-names></string-name>, <string-name><surname>Fukuda</surname><given-names>S</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Commensal microbe-derived butyrate induces the differentiation of colonic regulatory T cells</article-title>. <source>Nature</source><year>2013</year>; <volume>504</volume>:<fpage>446</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">24226770</pub-id>
+</mixed-citation></ref><ref id="ciad562-B86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Raqib</surname>
+<given-names>R</given-names>
+</string-name>, <string-name><surname>Sarker</surname><given-names>P</given-names></string-name>, <string-name><surname>Bergman</surname><given-names>P</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Improved outcome in shigellosis associated with butyrate induction of an endogenous peptide antibiotic</article-title>. <source>Proc Natl Acad Sci U S A</source><year>2006</year>; <volume>103</volume>:<fpage>9178</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">16740661</pub-id>
+</mixed-citation></ref><ref id="ciad562-B87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Shao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name><surname>Forster</surname><given-names>SC</given-names></string-name>, <string-name><surname>Tsaliki</surname><given-names>E</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Stunted microbiota and opportunistic pathogen colonization in caesarean-section birth</article-title>. <source>Nature</source><year>2019</year>; <volume>574</volume>: <fpage>117</fpage>&#x02013;<lpage>21</lpage><pub-id pub-id-type="pmid">31534227</pub-id>
+</mixed-citation></ref><ref id="ciad562-B88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Groussin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name><surname>Poyet</surname><given-names>M</given-names></string-name>, <string-name><surname>Sistiaga</surname><given-names>A</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Elevated rates of horizontal gene transfer in the industrialized human microbiome</article-title>. <source>Cell</source><year>2021</year>; <volume>184</volume>:<fpage>2053</fpage>&#x02013;<lpage>67.e18</lpage>.<pub-id pub-id-type="pmid">33794144</pub-id>
+</mixed-citation></ref><ref id="ciad562-B89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yadav</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name><surname>Kumari</surname><given-names>I</given-names></string-name>, <string-name><surname>Singh</surname><given-names>B</given-names></string-name>, <string-name><surname>Sharma</surname><given-names>KK</given-names></string-name>, <string-name><surname>Tiwari</surname><given-names>SK</given-names></string-name></person-group>. <article-title>Probiotics, prebiotics and synbiotics: safe options for next-generation therapeutics</article-title>. <source>Appl Microbiol Biotechnol</source><year>2022</year>; <volume>106</volume>:<fpage>505</fpage>&#x02013;<lpage>21</lpage>.<pub-id pub-id-type="pmid">35015145</pub-id>
+</mixed-citation></ref><ref id="ciad562-B90"><label>90</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group>. <source>Design of vaccine efficacy trials to be used during public health emergencies&#x02014;points of considerations and key principles</source>. <publisher-loc>Geneva, Switzerland</publisher-loc>: <publisher-name>World Health Organization</publisher-name>. <comment>Available at</comment>: <ext-link xlink:href="https://www.who.int/docs/default-source/blue-print/working-group-for-vaccine-evaluation-(4th-consultation)/ap1-guidelines-online-consultation.pdf" ext-link-type="uri">https://www.who.int/docs/default-source/blue-print/working-group-for-vaccine-evaluation-(4th-consultation)/ap1-guidelines-online-consultation.pdf</ext-link>. Accessed 15 January 2023.</mixed-citation></ref><ref id="ciad562-B91"><label>91</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<collab>World Health Organization</collab>
+</person-group>. <source>Annex 9. Guidelines on clinical evaluation of vaccines: regulatory expectations</source>. <publisher-loc>Geneva, Switzerland</publisher-loc>: <publisher-name>World Health Organization</publisher-name>. <year>2016</year>. <comment>Available at</comment>: <ext-link xlink:href="https://cdn.who.int/media/docs/default-source/biologicals/vaccine-standardization/clinical-evaluation-of-vaccines/who_trs_1004_web_annex_9.pdf" ext-link-type="uri">https://cdn.who.int/media/docs/default-source/biologicals/vaccine-standardization/clinical-evaluation-of-vaccines/who_trs_1004_web_annex_9.pdf</ext-link>. Accessed 21 December 2022.</mixed-citation></ref><ref id="ciad562-B92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hourigan</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name><surname>Ahn</surname><given-names>M</given-names></string-name>, <string-name><surname>Gibson</surname><given-names>KM</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Fecal transplant in children with Clostridioides difficile gives sustained reduction in antimicrobial resistance and potential pathogen burden</article-title>. <source>Open Forum Infect Dis</source><year>2019</year>; <volume>6</volume>:<fpage>ofz379</fpage>.<pub-id pub-id-type="pmid">31660343</pub-id>
+</mixed-citation></ref><ref id="ciad562-B93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Che</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name><surname>Xia</surname><given-names>Y</given-names></string-name>, <string-name><surname>Liu</surname><given-names>L</given-names></string-name>, <string-name><surname>Li</surname><given-names>A-D</given-names></string-name>, <string-name><surname>Yang</surname><given-names>Y</given-names></string-name>, <string-name><surname>Zhang</surname><given-names>T</given-names></string-name></person-group>. <article-title>Mobile antibiotic resistome in wastewater treatment plants revealed by nanopore metagenomic sequencing</article-title>. <source>Microbiome</source><year>2019</year>; <volume>7</volume>:<fpage>44</fpage>.<pub-id pub-id-type="pmid">30898140</pub-id>
+</mixed-citation></ref><ref id="ciad562-B94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Munk</surname>
+<given-names>P</given-names>
+</string-name>, <string-name><surname>Brinch</surname><given-names>C</given-names></string-name>, <string-name><surname>M&#x000f8;ller</surname><given-names>FD</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Genomic analysis of sewage from 101 countries reveals global landscape of antimicrobial resistance</article-title>. <source>Nat Commun</source><year>2022</year>; <volume>13</volume>:<fpage>7251</fpage>.<pub-id pub-id-type="pmid">36456547</pub-id>
+</mixed-citation></ref><ref id="ciad562-B95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Farrington</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name><surname>Miller</surname><given-names>E</given-names></string-name></person-group>. <article-title>Vaccine trials</article-title>. <source>Mol Biotechnol</source><year>2001</year>; <volume>17</volume>:<fpage>43</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">11280930</pub-id>
+</mixed-citation></ref><ref id="ciad562-B96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Im&#x000f6;hl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name><surname>Reinert</surname><given-names>RR</given-names></string-name>, <string-name><surname>van der Linden</surname><given-names>M</given-names></string-name></person-group>. <article-title>Regional differences in serotype distribution, pneumococcal vaccine coverage, and antimicrobial resistance of invasive pneumococcal disease among German federal states</article-title>. <source>Int J Med Microbiol</source><year>2010</year>; <volume>300</volume>:<fpage>237</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">19604721</pub-id>
+</mixed-citation></ref><ref id="ciad562-B97"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kim</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name><surname>Song</surname><given-names>JH</given-names></string-name>, <string-name><surname>Chung</surname><given-names>DR</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Changing trends in antimicrobial resistance and serotypes of Streptococcus pneumoniae isolates in Asian countries: an Asian Network for Surveillance of Resistant Pathogens (ANSORP) study</article-title>. <source>Antimicrob Agents Chemother</source><year>2012</year>; <volume>56</volume>:<fpage>1418</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">22232285</pub-id>
+</mixed-citation></ref><ref id="ciad562-B98"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name><surname>Driscoll</surname><given-names>AJ</given-names></string-name>, <string-name><surname>Patel</surname><given-names>PD</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Typhoid conjugate vaccine effectiveness in Malawi: evaluation of a test-negative design using randomised, controlled clinical trial data</article-title>. <source>Lancet Glob Health</source><year>2023</year>; <volume>11</volume>:<fpage>e136</fpage>&#x02013;<lpage>e44</lpage>.<pub-id pub-id-type="pmid">36442498</pub-id>
+</mixed-citation></ref><ref id="ciad562-B99"><label>99</label><mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Taylor</surname>
+<given-names>J</given-names>
+</string-name>, <string-name><surname>Hafner</surname><given-names>M</given-names></string-name>, <string-name><surname>Yerushalmi</surname><given-names>E</given-names></string-name>, <etal>et al</etal></person-group>
+<source>Estimating the economic costs of antimicrobial resistance: model and results</source>. <publisher-loc>Santa Monica, CA</publisher-loc>: <publisher-name>RAND Corporation</publisher-name>, <year>2014</year>.</mixed-citation></ref><ref id="ciad562-B100"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Michaelidis</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name><surname>Fine</surname><given-names>MJ</given-names></string-name>, <string-name><surname>Lin</surname><given-names>CJ</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>The hidden societal cost of antibiotic resistance per antibiotic prescribed in the United States: an exploratory analysis</article-title>. <source>BMC Infect Dis</source><year>2016</year>; <volume>16</volume>:<fpage>655</fpage>.<pub-id pub-id-type="pmid">27825306</pub-id>
+</mixed-citation></ref><ref id="ciad562-B101"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ozawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name><surname>Clark</surname><given-names>S</given-names></string-name>, <string-name><surname>Portnoy</surname><given-names>A</given-names></string-name>, <string-name><surname>Grewal</surname><given-names>S</given-names></string-name>, <string-name><surname>Brenzel</surname><given-names>L</given-names></string-name>, <string-name><surname>Walker</surname><given-names>DG</given-names></string-name></person-group>. <article-title>Return on investment from childhood immunization in low- and middle-income countries, 2011&#x02013;20</article-title>. <source>Health Affairs</source><year>2016</year>; <volume>35</volume>:<fpage>199</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">26858370</pub-id>
+</mixed-citation></ref><ref id="ciad562-B102"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wagner</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name><surname>Prentice</surname><given-names>JA</given-names></string-name>, <string-name><surname>Saad-Roy</surname><given-names>CM</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Economic and behavioral influencers of vaccination and antimicrobial use</article-title>. <source>Front Public Health</source><year>2020</year>; <volume>8</volume>:<fpage>614113</fpage>.<pub-id pub-id-type="pmid">33409264</pub-id>
+</mixed-citation></ref><ref id="ciad562-B103"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Patwary</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name><surname>Alam</surname><given-names>MA</given-names></string-name>, <string-name><surname>Bardhan</surname><given-names>M</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>COVID-19 vaccine acceptance among low- and lower-middle-income countries: a rapid systematic review and meta-analysis</article-title>. <source>Vaccines (Basel)</source><year>2022</year>; <volume>10</volume>:<fpage>427</fpage>.<pub-id pub-id-type="pmid">35335059</pub-id>
+</mixed-citation></ref><ref id="ciad562-B104"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cag</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name><surname>Al Madadha</surname><given-names>ME</given-names></string-name>, <string-name><surname>Ankarali</surname><given-names>H</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>Vaccine hesitancy and refusal among parents: an international ID-IRI survey</article-title>. <source>J Infect Dev Ctries</source><year>2022</year>; <volume>16</volume>:<fpage>1081</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">35797304</pub-id>
+</mixed-citation></ref><ref id="ciad562-B105"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jacobson</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name><surname>Thomas</surname><given-names>DM</given-names></string-name>, <string-name><surname>Morton</surname><given-names>FJ</given-names></string-name>, <string-name><surname>Offutt</surname><given-names>G</given-names></string-name>, <string-name><surname>Shevlin</surname><given-names>J</given-names></string-name>, <string-name><surname>Ray</surname><given-names>S</given-names></string-name></person-group>. <article-title>Use of a low-literacy patient education tool to enhance pneumococcal vaccination rates. A randomized controlled trial</article-title>. <source>JAMA</source><year>1999</year>; <volume>282</volume>:<fpage>646</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">10517717</pub-id>
+</mixed-citation></ref><ref id="ciad562-B106"><label>106</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Frost</surname>
+<given-names>I</given-names>
+</string-name>, <string-name><surname>Sati</surname><given-names>H</given-names></string-name>, <string-name><surname>Garcia-Vello</surname><given-names>P</given-names></string-name>, <etal>et al</etal></person-group>
+<article-title>The role of bacterial vaccines in the fight against antimicrobial resistance: an analysis of the preclinical and clinical development pipeline</article-title>. <source>Lancet Microbe</source><year>2022</year>; <volume>4</volume>:<fpage>e113</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">36528040</pub-id>
+</mixed-citation></ref></ref-list></back></article>

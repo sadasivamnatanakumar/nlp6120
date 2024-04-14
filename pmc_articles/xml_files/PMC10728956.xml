@@ -1,0 +1,266 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="article-commentary"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Gen Psychiatr</journal-id><journal-id journal-id-type="iso-abbrev">Gen Psychiatr</journal-id><journal-id journal-id-type="hwp">gpsych</journal-id><journal-id journal-id-type="publisher-id">gpsych</journal-id><journal-title-group><journal-title>General Psychiatry</journal-title></journal-title-group><issn pub-type="epub">2517-729X</issn><publisher><publisher-name>BMJ Publishing Group</publisher-name><publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38116459</article-id><article-id pub-id-type="pmc">PMC10728956</article-id><article-id pub-id-type="publisher-id">gpsych-2023-101258</article-id><article-id pub-id-type="doi">10.1136/gpsych-2023-101258</article-id><article-categories><subj-group subj-group-type="heading"><subject>Commentary</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>1506</subject><subject>2624</subject></subj-group></article-categories><title-group><article-title>Exploring the potential of the metaverse medical paradigm in drug addiction treatment: a preliminary discussion and future prospects</article-title></title-group><contrib-group><contrib id="author-109888902" contrib-type="author"><name><surname>Yang</surname><given-names>Longtao</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref ref-type="bio" rid="d64e39">*</xref></contrib><contrib id="author-109888960" contrib-type="author"><name><surname>Zhang</surname><given-names>Lijie</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-109889013" contrib-type="author"><name><surname>Yang</surname><given-names>Wenhan</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-109888999" contrib-type="author"><name><surname>Tang</surname><given-names>Fei</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-109889034" contrib-type="author"><name><surname>Du</surname><given-names>Yanyao</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib id="author-109888152" contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7851-6782</contrib-id><name><surname>Liu</surname><given-names>Jun</given-names></name><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref><xref ref-type="bio" rid="d64e78">*</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution content-type="department">Department of Radiology</institution>, <institution>The Second Xiangya Hospital, Central South University</institution>, <addr-line content-type="city">Changsha</addr-line>, <addr-line content-type="state">Hunan</addr-line>, <country>China</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Clinical Research Center for Medical Imaging in Hunan Province</institution>, <addr-line content-type="city">Changsha</addr-line>, <addr-line content-type="state">Hunan</addr-line>, <country>China</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Department of Radiology Quality Control Center in Hunan Province</institution>, <addr-line content-type="city">Changsha</addr-line>, <addr-line content-type="state">Hunan</addr-line>, <country>China</country>
+</aff><author-notes><corresp>
+<label>Correspondence to</label> Dr Jun Liu; <email>junliu123@csu.edu.cn</email>
+</corresp></author-notes><pub-date pub-type="collection"><year>2023</year></pub-date><pub-date pub-type="epub"><day>14</day><month>12</month><year>2023</year></pub-date><volume>36</volume><issue>6</issue><elocation-id>e101258</elocation-id><history><date date-type="received"><day>26</day><month>7</month><year>2023</year></date><date date-type="accepted"><day>17</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY. Published by BMJ.</copyright-statement><copyright-year>2023</copyright-year><ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense" start_date="2023-12-14">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See:&#x000a0;<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><self-uri xlink:title="pdf" xlink:href="gpsych-2023-101258.pdf"/><kwd-group><kwd>Behavior Observation Techniques</kwd><kwd>Cognitive Behavioral Therapy</kwd><kwd>Virtual Reality Exposure Therapy</kwd><kwd>Cognitive Neuroscience</kwd><kwd>Behavior and Behavior Mechanisms</kwd></kwd-group><funding-group specific-use="FundRef"><award-group id="funding-1"><funding-source>
+<institution-wrap><institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100001809</institution-id><institution>National Natural Science Foundation of China</institution></institution-wrap>
+</funding-source><award-id>61971451</award-id><award-id>U22A20303</award-id></award-group><award-group id="funding-2"><funding-source>
+<institution-wrap><institution>Innovative Province special construction foundation of Hunan Province</institution></institution-wrap>
+</funding-source><award-id>2019SK2131</award-id></award-group><award-group id="funding-3"><funding-source>
+<institution-wrap><institution>the Science and Technology Innovation Program of Hunan Province</institution></institution-wrap>
+</funding-source><award-id>2021RC4016</award-id></award-group><award-group id="funding-4"><funding-source>
+<institution-wrap><institution>Clinical Research Center for Medical Imaging in Hunan Province in China</institution></institution-wrap>
+</funding-source><award-id>2020SK4001</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>special-feature</meta-name><meta-value>unlocked</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>Drug addiction is a chronic and recurrent encephalopathy characterised by impulsive behaviour, spiritual cravings, psychological distortion and physical damage.<xref rid="R1" ref-type="bibr">1</xref> According to the role of molecular biology mechanisms on the central nervous system, addictive substances can be classified as inhibitors (eg, opioids, etc), stimulants (eg, methamphetamine (MA), nicotine, cocaine, etc) and hallucinogens (eg, cannabis, etc).<xref rid="R1" ref-type="bibr">1</xref> As published by the World Drug Report 2022, over 284&#x02009;million individuals aged 15&#x02013;64 worldwide have reportedly abused drugs in the past 12 months, emphasising the international challenge of effective detox treatment. The detoxification process consists of three phases: physiological recovery for the remission of withdrawal symptoms, psychological rehabilitation for the elimination of mental dependence, and social function restoration for the return to life, with the second phase being the most significant challenge. A sustained high level of drug craving often leads to unsuccessful psychological rehabilitation. Current methods of psychological intervention generally include compulsory detention management, cognitive behavioural therapy (CBT), repetitive transcranial magnetic stimulation (rTMS) and deep brain stimulation (DBS).<xref rid="R2" ref-type="bibr">2</xref> However, often drug cravings are not effectively controlled.<xref rid="R3" ref-type="bibr">3</xref> For example, the relapse rate of individuals addicted to opioid drugs like heroin could exceed 95% within 6&#x02009;months post-detox treatment.<xref rid="R4" ref-type="bibr">4</xref> Therefore, there is an urgent need to consider treatment effects during psychological rehabilitation. The integration of multiple schemes and novel interventions for drug treatment is emerging as a key research topic in this field.</p><p>In recent years, digital health has rapidly advanced, with a focus on improving the efficiency and quality of healthcare services, including diagnosis, monitoring, treatment and data management, through digital information communication. Metaverse, also known as the three-dimensional internet, is a broader concept involving virtual multidimensional spaces that foster social interactions, user-generated content and a persistent environment across various domains, such as economy, ecology and the medical industry. Metaverse is a remarkable accomplishment in cutting-edge technologies that can be divided into four essential categories: mixed reality (MR), extended reality, virtual reality (VR) and augmented reality (AR).<xref rid="R5" ref-type="bibr">5</xref> Of these, VR especially enables individuals to immerse themselves in and interact with a virtual world.<xref rid="R5" ref-type="bibr">5</xref> Unlike VR, AR typically inserts created images into the experiencer&#x02019;s coexisting environment via a smartphone or tablet.<xref rid="R5" ref-type="bibr">5</xref> Therefore, the metaverse paradigm applied in the medical field can be defined as the Internet of Things promoted by AR, VR and even MR.<xref rid="R5" ref-type="bibr">5</xref> The metaverse medical paradigm (MMP) has been employed in the treatment for mental disorders such as depression, anxiety and autism.<xref rid="R5" ref-type="bibr">5</xref> As depicted in <xref rid="F1" ref-type="fig">figure 1</xref>, in the neuropsychiatric field of drug addiction, there are two main application modes of the MMP through visual induction. One mode is for neuroimaging mechanism exploration, mediating the fluctuations of physiological activities through cue exposure stimulation and leading to the identification of potential therapeutic neuro-targets and predictive and diagnostic biomarkers. The other mode is for detox treatment, reconstructing the psychological environment and thereby influencing behaviour and cognition during psychological rehabilitation. Thus, MMP will be able to provide a new perspective for in-depth delving into all aspects of substance use disorder (SUD), covering diagnosis, prediction and treatment. To clarify, while traditional approaches like self-reported drug consumption or urine/hair tests can readily identify SUD, diagnostic neuroimaging biomarkers could facilitate the discovery of predictive and therapeutic markers.</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>Schematic illustration of the role of metaverse medical paradigms in biological mechanism exploration (A) and relapse prevention (B) of drug addiction. AR-CET, augmented reality-cue exposure therapy; CBT, cognitive behavioural therapy; DBS, deep brain stimulation; HRV, heart rate variability; MMP, metaverse medical paradigm; rTMS, repetitive transcranial magnetic stimulation; SCL, skin conductance level; VR, virtual reality; VR-CET, VR-cue exposure therapy; VRCP, VR counterconditioning producer; VR-RE, VR-retrieval-extinction paradigm. Figure 1(A) is adapted from Servier Medical Art with publication permission.</p></caption><graphic xlink:href="gpsych-2023-101258f03" position="float"/></fig></sec><sec id="s2"><title>MMP for neuroimaging mechanism exploration</title><p>Cerebral imaging techniques, including functional magnetic resonance imaging (fMRI), electroencephalogram (EEG) and physiological activity measures (including heart rate variability (HRV) and skin conductance level (SCL)), can provide objective indicators for the response to external stimuli. When exposed to substance cues, a VR scene has been more effective in transforming cerebral reactivity than a video or still picture, eliciting higher drug craving scores.<xref rid="R6" ref-type="bibr">6</xref> The transition from baseline resting state to MA-related VR-cue conditions revealed a significant difference in the non-linear and time domains of HRV between those with MA addictions and healthy controls and was positively correlated with craving severity.<xref rid="R7" ref-type="bibr">7</xref> Neural correlates of this induction involved decreased EEG gamma activity in the dorsolateral prefrontal cortex and medial prefrontal cortex/orbitofrontal cortex, which was responsible for executive control and the reward circuit.<xref rid="R8" ref-type="bibr">8</xref> However, there was no association between the brain&#x02019;s electrophysiological response and self-reported craving.<xref rid="R8" ref-type="bibr">8</xref> The evaluation of drug craving via a visual analogue scale is susceptible to reporting and interviewer bias, indicating the necessity of employing more sensitive and objective indexes that represent biological alterations during stimulation experiments, such as autonomic nervous reactivity like SCL.<xref rid="R8" ref-type="bibr">8</xref> Interestingly, the arousal of SCL and HRV was used as a physiological marker for craving reactivity.<xref rid="R9" ref-type="bibr">9</xref>
+</p><p>Presently, due to its protruding shape, a head-mounted device for VR or AR is challenging to match with the head coil of an MRI machine, limiting the discovery of the biological mechanisms of MMP in neuropsychiatric imaging (eg, fMRI, etc). Thus, MMP equipment that is better designed in the future will facilitate the progression of task fMRI for identifying specific neural biomarkers. In addition, beyond comparing the groups with addictions and healthy controls in MMP trials, subgroup analysis of the cerebral features and other physiological measurements among those with addictions undergoing varied psychological interventions (eg, rTMS, MMPs for rehabilitation, DBS, etc) may also be informative in developing novel therapeutic mechanisms and personalising treatment plans. More research in this field is needed, despite the challenges confronting it. Standardised reference guidelines for constructing MMPs are lacking. Moreover, enrolling participants addicted to illegal drugs such as heroin or MA or to emerging substances that are being abused such as etomidate and laughing gas has become even more difficult since the coronavirus disease 2019 (COVID-19) pandemic in China because of the reduction of available subjects, either due to death or loss of follow-up contact.</p></sec><sec id="s3"><title>MMP for psychological rehabilitation</title><p>Relapse is commonly characterised by substance craving. To address this, MMP can play a positive role in drug desensitisation, including drug-related VR-cue exposure therapy (VR-CET), VR-retrieval-extinction paradigm (VR-RE), VR counterconditioning producer (VRCP), and AR-cue exposure therapy (AR-CET). Nicotine-related VR-CET is found to be at least as effective as CBT in reducing drug craving, with significantly lower dropout and relapse rates.<xref rid="R10" ref-type="bibr">10</xref> A case report involving six VR-CET sessions over 5&#x02009;weeks preliminarily showed improved anxiety and decreased craving as well as altered attention bias in the post-treatment phase of alcohol use disorder.<xref rid="R11" ref-type="bibr">11</xref> Based on the theory of memory reconsolidation, the efficacy of VR-RE in decreasing cue-induced craving was validated in MA participants.<xref rid="R9" ref-type="bibr">9</xref> Following VRCP with the stimulus of an opposite valence, MA subjects exhibited a more substantial decrease in HRV indexes on the non-linear domain and time domain during VR cue exposure, in contrast to VRCP-untreated individuals with addicitions.<xref rid="R7" ref-type="bibr">7 12</xref> Moreover, VR-CET combined with mindfulness-based relapse prevention might have critical clinical application.<xref rid="R13" ref-type="bibr">13</xref> Vinci <italic toggle="yes">et al</italic> first proposed AR-CET in nicotine cessation, using a smartphone application with smoking-related AR images and neutral AR images, and observed that exposure to the former mediated a higher urge to smoke in a sample of 10 smokers.<xref rid="R14" ref-type="bibr">14</xref> This was a groundbreaking trial of applying AR to cue exposure treatment.</p><p>However, in the psychosphere of drug addiction, the sample sizes in the varied MMP studies have been relatively small. Sensitivity to MMPs might differ among individuals with SUDs, influenced by factors such as heredity, surrounding environment, and educational background. Thus, increasing the number of subjects will mitigate random errors and improve statistical power. In the recent 5&#x02009;years, mechanism investigation within multimodal neuroimaging (eg, fMRI, structural MRI, etc) in MMP-induced rehabilitation of SUDs has been lacking. Understanding the diverse neurobiological mechanisms underlying the efficacy of MMPs is crucial for designing more effective paradigms and predicting therapeutic response. Moreover, combined paradigms may further enhance the downregulation of drug craving. For example, in a prospective cohort study of individuals with alcohol disorder, the treatment-as-usual (TAU)+VR&#x02009;CET group showed a greater reduction in alcohol craving compared with the TAU-only group.<xref rid="R15" ref-type="bibr">15</xref>
+</p></sec><sec sec-type="conclusions" id="s4"><title>Conclusion</title><p>The challenges in preventing relapse during the detox treatment of drug addiction highlight the potential of MMPs as a novel, cost-effective approach for reducing drug craving and identifying the relevant neural biotargets, as shown in <xref rid="T1" ref-type="table">table 1</xref>. Beyond being an exploratory mechanism and psychological intervention for addictive disorders, MMP may benefit other clinical applications such as surgical treatment (eg, DBS, etc), telemedicine, remote patient care and monitoring. From external cue stimulus to paradigm therapy, MMPs could be used in the entire process of addiction neuroimaging research. While recent studies primarily have focused on the electrophysiological level of the brain, a comprehensive understanding of the multimodal neurobiological mechanisms will enhance the value validation of MMPs that are applied in psychological rehabilitation. MMP could synergise with other paradigms, potentially involving neural mechanisms in plasticity recovery in the reward-punishment circuit, executive function and contextual memory, including the thalamus, hippocampus and frontal regions.<xref rid="R1" ref-type="bibr">1</xref> So far, the therapeutic effectiveness of MPP remains unclear, requiring further exploration through comparisons with other routine paradigms and placebo groups. Proposing an optimised approach (eg, MMP, rTMS, TAU, CBT, etc) is essential for maximising the use of medical resources. Therefore, we anticipate that the metaverse will permeate all aspects of clinical practice related to drug addiction, with MMP-induced specific neuroimaging features and therapeutic MMPs accelerating the diagnosis, relapse prediction and tailored treatment of SUD.</p><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Clinical cases of metaverse medical paradigms applied in the mechanism discovery and relapse prevention of drug addiction in the past 5 years</p></caption><table frame="hsides" rules="groups"><thead><tr><td align="left" valign="bottom" rowspan="1" colspan="1">MMPs</td><td align="left" valign="bottom" rowspan="1" colspan="1">Scenario</td><td align="left" valign="bottom" rowspan="1" colspan="1">Research methodology</td><td align="left" valign="bottom" rowspan="1" colspan="1">Subjects</td><td align="left" valign="bottom" rowspan="1" colspan="1">Significant measurement indexes</td><td align="left" valign="bottom" rowspan="1" colspan="1">Clinical application</td><td align="left" valign="bottom" rowspan="1" colspan="1">Reference</td></tr></thead><tbody><tr><td align="left" valign="top" rowspan="2" colspan="1">Cue exposure stimulation</td><td align="left" valign="top" rowspan="1" colspan="1">8&#x02009;min social environment video depicting a real-life story of addicts who are taking MA together and who invite the observers to use MA</td><td align="left" valign="top" rowspan="1" colspan="1">Cross-sectional study</td><td align="left" valign="top" rowspan="1" colspan="1">61 MA abstinent participants vs 45 normal controls</td><td align="left" valign="top" rowspan="1" colspan="1">Changes in time domain and non-linear domain of HRV</td><td align="left" valign="top" rowspan="1" colspan="1">Monitoring abstinent state via detection of neuro-electrophysiological mechanisms</td><td align="left" valign="top" rowspan="1" colspan="1">
+<sup>
+<xref rid="R7" ref-type="bibr">7</xref>
+</sup>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Panoramic videos with 5 min drug-related and 5 min neutral cue</td><td align="left" valign="top" rowspan="1" colspan="1">Cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">57 MA abstinent participants</td><td align="left" valign="top" rowspan="1" colspan="1">Decreased gamma activity in MPFC/OFC and right DLPFC; increased SCL</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="R8" ref-type="bibr">8</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VR-CET</td><td align="left" valign="top" rowspan="1" colspan="1">45&#x02009;min session consisting of six specific smoking-eliciting 3D VR scenes that could interact with participants via varied exposure degrees</td><td align="left" valign="top" rowspan="1" colspan="1">Cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">39 VR-CET participants vs 32 CBT participants</td><td align="left" valign="top" rowspan="1" colspan="1">Lower dropout and relapse rate</td><td align="left" valign="top" rowspan="1" colspan="1">Relapse prevention</td><td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="R10" ref-type="bibr">10</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VR-RE</td><td align="left" valign="top" rowspan="1" colspan="1">10&#x02009;min&#x02013;6h RE training by briefly exposing substance-related stimuli and then obstructing the reconsolidation process of its memories</td><td align="left" valign="top" rowspan="1" colspan="1">Cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">R-10 min-E MA group vs<break/>NR-10 min-E MA group vs<break/>R-6h-E MA group vs<break/>RV-10 min-E MA group</td><td align="left" valign="top" rowspan="1" colspan="1">Measurement of craving, anxiety, HRV and SCL</td><td align="left" valign="top" rowspan="1" colspan="1">Possible implications for relapse reduction</td><td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="R9" ref-type="bibr">9</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">VRCP</td><td align="left" valign="top" rowspan="1" colspan="1">Six 5&#x02009;min/per VR videos respectively associated with the most common aversive scenarios related to MA-consumption</td><td align="left" valign="top" rowspan="1" colspan="1">Cohort study</td><td align="left" valign="top" rowspan="1" colspan="1">
+<italic toggle="yes">Study 1</italic>:<break/>31 VRCP participants vs<break/>29 non-VRCP participants<break/>
+<italic toggle="yes">Study 2</italic>:<break/>612 VRCP participants vs 276 non-VRCP participants</td><td align="left" valign="top" rowspan="1" colspan="1">Greater decrease in MA-craving/liking score; greater reduction in HRV indexes on non-linear domain and time domain</td><td align="left" valign="top" rowspan="1" colspan="1">Relapse prevention</td><td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="R12" ref-type="bibr">12</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AR-CET</td><td align="left" valign="top" rowspan="1" colspan="1">6 smoking-related images and 6 neutral images that are well-integrated into a realistic environment</td><td align="left" valign="top" rowspan="1" colspan="1">Cross-sectional study</td><td align="left" valign="top" rowspan="1" colspan="1">10 smokers</td><td align="left" valign="top" rowspan="1" colspan="1">Higher rates of smoking urge in response to smoking stimuli compared with neutral stimuli</td><td align="left" valign="top" rowspan="1" colspan="1">Smoking cessation</td><td align="left" valign="top" rowspan="1" colspan="1">
+<xref rid="R14" ref-type="bibr">14</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="T1_FN1"><p>AR, augmented reality; AR-CET, AR-cue exposure therapy; CBT, cognitive behavioural therapy; 3D, three-dimensional; DLPFC, dorsolateral prefrontal cortex; HRV, heart rate variability; MA, methamphetamine; RV-10 min-E, video cues retrieval-10min interval extinction; NR-10 min-E, VR neutral cues retrieval-10min interval extinction; MMP, metaverse medical paradigm; MPFC/OFC, medial prefrontal cortex/orbitofrontal cortex; R-6h-E, VR cues retrieval-6h interval extinction; R-10min-E, VR cues retrieval-10min interval extinction; SCL, skin conductance level; VR, virtual reality; VR-CET, VR-cue exposure therapy; VRCP, VR counterconditioning producer; VR-RE, VR-retrieval-extinction paradigm.</p></fn></table-wrap-foot></table-wrap></sec></body><back><ack><p>Figure 1 is adapted from Servier Medical Art (<ext-link xlink:href="http://smart.servier.com/" ext-link-type="uri">http://smart.servier.com/</ext-link>) under a Creative Common Attribution 3.0 Generic Licence. (<ext-link xlink:href="https://creativecommons.org/licenses/by/3.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/3.0/</ext-link>)</p></ack><fn-group><fn fn-type="other"><p><bold>Contributors:</bold> JL developed the key concepts; LY wrote the first draft and the conclusion; LZ, FT and YD improved the first draft; WY rewrote and organised the final draft.</p></fn><fn fn-type="other"><p><bold>Funding:</bold> This work was supported by National Natural Science Foundation of China (61971451, U22A20303), Innovative Province Special Construction Foundation of Hunan Province (2019SK2131), the Science and Technology Innovation Program of Hunan Province (2021RC4016) and Clinical Research Center for Medical Imaging in Hunan Province in China (2020SK4001).</p></fn><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> None declared.</p></fn><fn fn-type="other"><p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p></fn></fn-group><bio id="d64e39"><p>Longtao Yang graduated from Nanchang University, China in 2022. He has been pursuing his master&#x02019;s degree in imaging and nuclear medicine at Central South University since 2022. His main research interests include multimodal neuroimaging genetics and brain stimulation for drug addiction. As the first/co-author, he has five publications to his credit in related subjects.</p><graphic xlink:href="gpsych-2023-101258f01.gif" position="float"/></bio><bio id="d64e78"><p>Jun Liu graduated from Hunan Normal University, China in 1996. He received his master&#x02019;s degree in imaging and nuclear medicine from Central South University, China in 2002 and continually completed his doctorate degree in psychiatry and mental health in 2009. Since 2020, he has served as the director of the Department of Radiology at the Second Xiangya Hospital in China. Since 2021, he has also been the top talent at the Science and Technology Innovation Program of Hunan Province. His main research interests include multimodal imaging research and artificial intelligence for drug addiction (eg, methamphetamine, heroin, etc) and other mental illnesses.</p><graphic xlink:href="gpsych-2023-101258f02.gif" position="float"/></bio><sec sec-type="ethics-statement"><title>Ethics statements</title><sec><title>Patient consent for publication</title><p content-type="ethics-consent-to-publish">Not applicable.</p></sec><sec><title>Ethics approval</title><p content-type="ethics-approval">Not applicable.</p></sec></sec><ref-list><title>References</title><ref id="R1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>W</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Machine learning with neuroimaging biomarkers: application in the diagnosis and prediction of drug addiction</article-title>. <source>Addict Biol</source>
+<year>2023</year>;<volume>28</volume>:<elocation-id>e13267</elocation-id>. <pub-id pub-id-type="doi">10.1111/adb.13267</pub-id>
+<pub-id pub-id-type="pmid">36692873</pub-id>
+</mixed-citation></ref><ref id="R2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Joseph</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Varghese</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vr</surname>
+<given-names>V</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prevalence of internet addiction among college students in the Indian setting: a systematic review and meta-analysis</article-title>. <source>Gen Psychiatr</source>
+<year>2021</year>;<volume>34</volume>:<elocation-id>e100496</elocation-id>. <pub-id pub-id-type="doi">10.1136/gpsych-2021-100496</pub-id>
+<pub-id pub-id-type="pmid">34504996</pub-id>
+</mixed-citation></ref><ref id="R3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mistler</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Gunstad</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Adapting behavioural interventions to compensate for cognitive dysfunction in persons with opioid use disorder</article-title>. <source>Gen Psychiatr</source>
+<year>2021</year>;<volume>34</volume>:<elocation-id>e100412</elocation-id>. <pub-id pub-id-type="doi">10.1136/gpsych-2020-100412</pub-id>
+<pub-id pub-id-type="pmid">34504995</pub-id>
+</mixed-citation></ref><ref id="R4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Volkow</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Einstein</surname>
+<given-names>EB</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Prevention and treatment of opioid misuse and addiction: a review</article-title>. <source>JAMA Psychiatry</source>
+<year>2019</year>;<volume>76</volume>:<fpage>208</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.1001/jamapsychiatry.2018.3126</pub-id>
+<pub-id pub-id-type="pmid">30516809</pub-id>
+</mixed-citation></ref><ref id="R5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Usmani</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Sharath</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mehendale</surname>
+<given-names>M</given-names>
+</string-name>
+</person-group>. <article-title>Future of mental health in the metaverse</article-title>. <source>Gen Psychiatr</source>
+<year>2022</year>;<volume>35</volume>:<elocation-id>e100825</elocation-id>. <pub-id pub-id-type="doi">10.1136/gpsych-2022-100825</pub-id>
+<pub-id pub-id-type="pmid">36189180</pub-id>
+</mixed-citation></ref><ref id="R6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Culbertson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nicolas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zaharovits</surname>
+<given-names>I</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Methamphetamine craving induced in an online virtual reality environment</article-title>. <source>Pharmacol Biochem Behav</source>
+<year>2010</year>;<volume>96</volume>:<fpage>454</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1016/j.pbb.2010.07.005</pub-id>
+<pub-id pub-id-type="pmid">20643158</pub-id>
+</mixed-citation></ref><ref id="R7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wang</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>XC</given-names>
+</string-name>
+</person-group>. <article-title>Detection of patients with methamphetamine dependence with cue-elicited heart rate variability in a virtual social environment</article-title>. <source>Psychiatry Res</source>
+<year>2018</year>;<volume>270</volume>:<fpage>382</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1016/j.psychres.2018.10.009</pub-id>
+<pub-id pub-id-type="pmid">30300868</pub-id>
+</mixed-citation></ref><ref id="R8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Drug-related virtual reality cue reactivity is associated with gamma activity in reward and executive control circuit in methamphetamine use disorders</article-title>. <source>Arch Med Res</source>
+<year>2019</year>;<volume>50</volume>:<fpage>509</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.arcmed.2019.09.003</pub-id>
+<pub-id pub-id-type="pmid">32028094</pub-id>
+</mixed-citation></ref><ref id="R9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X-J</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>
+<given-names>Y-T</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Memory retrieval-extinction combined with virtual reality reducing drug craving for methamphetamine: study protocol for a randomized controlled trial</article-title>. <source>Front Psychiatry</source>
+<year>2020</year>;<volume>11</volume>:<fpage>322</fpage>. <pub-id pub-id-type="doi">10.3389/fpsyt.2020.00322</pub-id>
+<pub-id pub-id-type="pmid">32411025</pub-id>
+</mixed-citation></ref><ref id="R10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Malbos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Borwell</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Einig-Iscain</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Virtual reality cue exposure therapy for tobacco relapse prevention: a comparative study with standard intervention</article-title>. <source>Psychol Med</source>
+<year>2023</year>;<volume>53</volume>:<fpage>5070</fpage>&#x02013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1017/S0033291722002070</pub-id>
+<pub-id pub-id-type="pmid">35924727</pub-id>
+</mixed-citation></ref><ref id="R11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ghi&#x00163;&#x00103;</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez-Serrano</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Fern&#x000e1;ndez-Ruiz</surname>
+<given-names>J</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Attentional bias, alcohol craving, and anxiety implications of the virtual reality cue-exposure therapy in severe alcohol use disorder: a case report</article-title>. <source>Front Psychol</source>
+<year>2021</year>;<volume>12</volume>:<elocation-id>543586</elocation-id>. <pub-id pub-id-type="doi">10.3389/fpsyg.2021.543586</pub-id>
+<pub-id pub-id-type="pmid">33692713</pub-id>
+</mixed-citation></ref><ref id="R12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wang</surname>
+<given-names>YG</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>ZH</given-names>
+</string-name>
+</person-group>. <article-title>A virtual reality counterconditioning procedure to reduce methamphetamine cue-induced craving</article-title>. <source>J Psychiatr Res</source>
+<year>2019</year>;<volume>116</volume>:<fpage>88</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpsychires.2019.06.007</pub-id>
+<pub-id pub-id-type="pmid">31226580</pub-id>
+</mixed-citation></ref><ref id="R13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chen</surname>
+<given-names>XJ</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>LD</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Mindfulness-based relapse prevention combined with virtual reality cue exposure for methamphetamine use disorder: study protocol for a randomized controlled trial</article-title>. <source>Contemp Clin Trials</source>
+<year>2018</year>;<volume>70</volume>:<fpage>99</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.cct.2018.04.006</pub-id>
+<pub-id pub-id-type="pmid">29679670</pub-id>
+</mixed-citation></ref><ref id="R14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Vinci</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Brandon</surname>
+<given-names>KO</given-names>
+</string-name>, <string-name>
+<surname>Kleinjan</surname>
+<given-names>M</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Augmented reality for smoking cessation: development and usability study</article-title>. <source>JMIR Mhealth Uhealth</source>
+<year>2020</year>;<volume>8</volume>:<elocation-id>e21643</elocation-id>. <pub-id pub-id-type="doi">10.2196/21643</pub-id>
+<pub-id pub-id-type="pmid">33382377</pub-id>
+</mixed-citation></ref><ref id="R15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hern&#x000e1;ndez-Serrano</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Ghi&#x00163;&#x00103;</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Figueras-Puigderrajols</surname>
+<given-names>N</given-names>
+</string-name>, <etal>et al</etal>
+</person-group>. <article-title>Predictors of changes in alcohol craving levels during a virtual reality cue exposure treatment among patients with alcohol use disorder</article-title>. <source>J Clin Med</source>
+<year>2020</year>;<volume>9</volume>:<fpage>3018</fpage>. <pub-id pub-id-type="doi">10.3390/jcm9093018</pub-id>
+<pub-id pub-id-type="pmid">32962176</pub-id>
+</mixed-citation></ref></ref-list></back></article>

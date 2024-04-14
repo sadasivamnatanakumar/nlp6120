@@ -1,0 +1,672 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Sustain Chem Eng</journal-id><journal-id journal-id-type="iso-abbrev">ACS Sustain Chem Eng</journal-id><journal-id journal-id-type="publisher-id">sc</journal-id><journal-id journal-id-type="coden">ascecg</journal-id><journal-title-group><journal-title>ACS Sustainable Chemistry &#x00026; Engineering</journal-title></journal-title-group><issn pub-type="epub">2168-0485</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">PMC10732281</article-id><article-id pub-id-type="doi">10.1021/acssuschemeng.3c07024</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Upcycling
+of Poly(lactic acid) Waste: A Valuable Strategy
+to Obtain Ionic Liquids</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Raia</surname><given-names>Giovanna</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9932-9823</contrib-id><name><surname>Marullo</surname><given-names>Salvatore</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Lazzara</surname><given-names>Giuseppe</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2145-0161</contrib-id><name><surname>Cavallaro</surname><given-names>Giuseppe</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Marino</surname><given-names>Sefora</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Cancemi</surname><given-names>Patrizia</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath7"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6171-8620</contrib-id><name><surname>D&#x02019;Anna</surname><given-names>Francesca</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Dipartimento
+STEBICEF, Sezione di Chimica, <institution>Universit&#x000e0;
+degli Studi di Palermo</institution>, Viale delle Scienze Ed. 17 &#x0201c;S. Cannizzaro&#x0201d;, Palermo 90128, <country>Italy</country></aff><aff id="aff2"><label>&#x02021;</label>Dipartimento
+di Fisica e Chimica, <institution>Universit&#x000e0; degli
+Studi di Palermo</institution>, Viale delle Scienze Ed. 17 &#x0201c;S. Cannizzaro&#x0201d;, Palermo 90128, <country>Italy</country></aff><aff id="aff3"><label>&#x000a7;</label>Dipartimento
+STEBICEF, Sezione di Biologia Cellulare, <institution>Universit&#x000e0; degli Studi di Palermo</institution>, Viale delle Scienze Ed. 16, Palermo 90128, <country>Italy</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>francesca.danna@unipa.it</email>.</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>18</day><month>12</month><year>2023</year></pub-date><volume>11</volume><issue>50</issue><fpage>17870</fpage><lpage>17880</lpage><history><date date-type="received"><day>31</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>20</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>20</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0012" id="ab-tgr1"/></p><p>With the aim to investigate
+new strategies for upcycling
+of plastic
+waste, we performed aminolysis of poly(lactic acid) (PLA), using <italic>N,N</italic>-dimethylethylenediamine (DMEDA), <italic>N</italic>,<italic>N</italic>-dimethylpropylenediamine (DMPDA), and 3-aminopropylimidazole
+(API) as nucleophiles. The <italic>N</italic>-substituted lactamides
+obtained were alkylated by using alkyl halides differing in alkyl
+chain length, obtaining organic salts that in most cases behaved as
+ionic liquids (ILs). Both aminolysis of PLA and alkylation of amides
+were carried out taking into consideration the basic principles of
+the holistic approach to green chemistry, applied at a laboratory
+scale, and carefully selecting the nature of the reaction solvent,
+temperature range, and amount of reagents. Organic salts obtained
+from the alkylation of <italic>N</italic>-substituted lactamides were
+investigated to determine their glass or solid&#x02013;liquid transitions
+and their thermal stability. Furthermore, cytotoxicity toward normal
+lung fibroblasts was also assessed. Data collected show that the proposed
+strategy represents a valuable protocol to upcycle plastic waste,
+using it as starting material to obtain alternative solvents of potential
+industrial relevance.</p></abstract><abstract abstract-type="short"><p>In this work,
+we recycle PLA by depolymerization and then
+we use the resulting lactamides to obtain safe ionic liquids.</p></abstract><kwd-group><kwd>poly(lactic acid)</kwd><kwd>upcycling</kwd><kwd>aminolysis</kwd><kwd>lactamides</kwd><kwd>ionic liquids</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Ministero dell''Universit&#x000c3;&#x000a0; e della Ricerca</institution><institution-id institution-id-type="doi">10.13039/501100021856</institution-id></institution-wrap></funding-source><award-id>PE00000004</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>sc3c07024</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>sc3c07024</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><title>Introduction</title><p>Plastic polymers represent a class of
+materials that play a pivotal
+role in the everyday life of modern society. The large use and different
+fields of application make it unlikely that their substitution or
+banning would be necessary without lowering the standards of living.
+Unfortunately, the main problem directly related to the use of plastics
+is the environmental impact due to both production and disposal of
+these materials. Indeed, in some cases, the incorrect disposal of
+plastic waste induces accumulation in landfills and oceans, and considering
+that most of these synthetic polymers are designed for longevity and
+performance, their persistence poses serious environmental issues.
+A careful analysis of the actual plastic waste production allows foreseeing
+that it will outweigh marine fish by 2050. Furthermore, as above stated,
+due to the chemical inertia of plastic constituents, degradation of
+existing materials requires around 250&#x02013;500 years, with the
+high risk that they can enter the human food chain through crops and
+animals.</p><p>Recycling is currently considered as a possible strategy
+to face
+the above problems. However, plastic production has increased exponentially
+from 1975, with the current worldwide annual amount of approximately
+380 millions of tons, of which only about 20% is recycled. Frequently,
+this is a consequence of the complexity of postconsumer plastic waste
+having unknown composition and presenting contaminants of different
+nature.</p><p>Among alternative strategies suggested to partially
+overcome the
+above issues, production of biobased polymers and degradable plastics
+shows great promise for a green and sustainable future.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> This is especially important in the case of polyesters,
+considering not only their wide application but also their petroleum-based
+production. Indeed, the use of biobased raw materials could contribute
+to decrease the impact deriving from the production.</p><p>During
+the years, among biobased polymers, polylactic acid (PLA)
+has been proposed as the best replacement for petroleum-based polyesters
+and its production is currently equal to 1.23 million tons per year,
+representing 32% of global biodegradable plastics.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup></p><p>PLA was produced for the first time in 1954 by Dupont,<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> and its mechanical properties allow a wide range
+of applications ranging from food packaging to agricultural films.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> Unfortunately, although it is generally believed that biodegradable
+plastics have a lower environmental impact, PLA degradation occurs
+very slowly in the real environment, both in seawater and in soil,
+producing CO<sub>2</sub>.<sup><xref ref-type="bibr" rid="ref8">8</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> Like other thermoplastic polymers,
+PLA can be physically recycled by melting and reforming into new shapes.
+However, this kind of treatment induces a worsening of chemical and
+mechanical properties of the polymer, and this is the main reason
+why, also in this case, chemical recycling represents the more valuable
+strategy.</p><p>Among chemical recycling methods, hydrolysis, alcoholysis,
+and
+aminolysis have been mainly considered. Hydrolysis represents the
+best strategy for a closed loop, but this process requires harsh conditions
+and produces waste for the use of a large amount of acids or bases.<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup></p><p>As for alcoholysis, different cases have been reported in
+which
+Lewis acids<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> or ionic liquids<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> have been used as catalysts. Finally, as for aminolysis, after the
+first example investigating the transformation of PLA into alanine,
+by treatment of the polymer in ammonia solution,<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> only few examples concerning the aminolysis of PLA, carried
+out in the presence of amines, have been reported.<sup><xref ref-type="bibr" rid="ref16">16</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> The main products
+of such processes are <italic>N</italic>-substituted lactamides, widely
+applied in the chemical industry. These substrates are normally obtained
+by dehydrative coupling reactions of lactic acid with amines, carried
+out under equilibrium conditions, producing a large amount of waste
+because of the removal of an acid or base catalyst.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup> Then, the possibility to obtain these chemical intermediates, under
+mild conditions and avoiding production of a large amount of waste,
+represents a challenge of the current research in the field of sustainable
+chemistry.</p><p>In this paper, embracing the above challenge, we
+performed the
+aminolysis of PLA in the presence of <italic>N,N</italic>-dimethylethylenediamine
+(<bold>DMEDA</bold>), <italic>N,N</italic>-dimethylpropylenediamine
+(<bold>DMPDA</bold>), and 3-aminopropylimidazole (<bold>API</bold>) (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>).</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Representation of Aminolysis of PLA and Amines Used</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0009" id="gr1" position="float"/></fig><p>Nucleophiles were chosen with the aim to evaluate
+the effect due
+to the length of the spacer between primary and tertiary nitrogens
+(<bold>DMEDA</bold> and <bold>DMPDA</bold>) and the one deriving from
+the aliphatic or aromatic nature of the tertiary amine function (<bold>DMPDA</bold> and <bold>API</bold>). In setting up the experimental
+conditions, we considered basic principles of the holistic approach
+to green chemistry,<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> applied at a laboratory
+scale, with the aim to minimize energy and materials consumption.</p><p>The relevance of the above approach further increases if <italic>N</italic>-substituted lactamides are subsequently used as starting
+materials to obtain alternative solvents. To this aim, in this article,
+we evaluated the possibility of using the products of PLA aminolysis
+to prepare a new class of ionic liquids (ILs).</p><p>ILs are organic
+salts with a melting point lower than 100 &#x000b0;C,
+frequently liquid at room temperature and claimed as a benign and
+sustainable alternative to conventional organic solvents, thanks to
+their low vapor pressure and flammability. After pioneering papers
+published in the past decade of the 20th century, presenting imidazolium
+salts as main actors in this class of solvents, several efforts have
+been carried out with the aim to prepare ILs, which combine good chemical
+performance with low environmental cost and impact. In this context,
+the possibility of using raw materials as building blocks for the
+obtainment of ILs is a strategy widely considered in the past few
+years. To this aim, some examples have been reported about the preparation
+of ILs that originate from compounds normally existing in nature,
+such as amino acids, carbohydrates, carboxylic acids, and choline.<sup><xref ref-type="bibr" rid="ref22">22</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup></p><p>These compounds frequently award ILs lower toxicity and higher
+biocompatibility. Furthermore, as they can be obtained also from biomass,
+they also offer the dual advantage of a lower cost, which is one of
+the main factors affecting ILs use on an industrial scale.</p><p>Bearing
+in mind the above information and considering the structure
+of <italic>N</italic>-substituted lactamides, we evaluated the possibility
+of alkylating the tertiary amine function to obtain organic salts,
+potentially behaving as ILs (<xref rid="sch2" ref-type="scheme">Schemes <xref rid="sch2" ref-type="scheme">2</xref></xref> and <xref rid="sch3" ref-type="scheme">3</xref>).</p><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Representation of
+the Synthesis of Ammonium Salts</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0010" id="gr2" position="float"/></fig><fig id="sch3" position="float"><label>Scheme 3</label><caption><title>Representation of the Synthesis of Imidazolium Salts</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0011" id="gr3" position="float"/></fig><p>To this aim, the alkylation reaction was carried
+out by using alkyl
+iodides differing in alkyl chain length to assess the role played
+by the above structural feature on the properties of the salts obtained.
+Furthermore, the effect deriving from a different length of the spacer
+or from the different nature of the cationic head (ammonium or imidazolium)
+was also taken into consideration. We carried out synthetic procedures
+considering the nature of the solvent used, the amount of reagents,
+and also the reaction temperature, in the attempt to fully accomplish
+green chemistry principles.</p><p>The thermal behavior of the obtained
+organic salts was evaluated
+by performing differential scanning calorimetry (DCS) and thermal
+gravimetric analysis (TGA). Furthermore, considering the amide nature
+of the organic salts and the presence of a lactate residue on the
+cation structure, we also performed cytotoxicity tests by using normal
+lung fibroblasts.</p><p>Previous reports in the literature demonstrate
+that ammonium-based
+ILs generally show a lower toxicity with respect to the corresponding
+imidazolium ones. Furthermore, the toxicity of these latter can be
+drastically reduced if hydroxylated chains are endowed in the cation
+or anion structure.<sup><xref ref-type="bibr" rid="ref28">28</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> As a further point, it is also noteworthy that although
+different examples of ILs bearing lactate anion have been reported,<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> and they have been used for extractive desulfurization of fuels,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> as liquid phases for CO<sub>2</sub> and SO<sub>2</sub> capture,<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> and as stabilizer of
+metal nanoparticles,<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> no case about the
+presence of lactic acid residue on the cation structure has been reported
+so far.</p><p>Results collected demonstrate that starting from PLA
+waste, it
+is possible to obtain lactamide-based ILs, under mild conditions and
+in full compliance with the holistic approach to green chemistry.
+Furthermore, our strategy demonstrates that a suitable combination
+of structural features allows us to obtain ILs with good thermal stability
+but very low toxicity.</p></sec><sec id="sec2"><title>Results and Discussion</title><sec id="sec2.1"><title>Aminolysis of PLA</title><p>The first experiments performed were
+aimed at the setup of the experimental conditions. To this aim, we
+carried out the aminolysis of PLA, using <italic>N,N</italic>-dimethylpropylenediamine
+as nucleophile and evaluating the effect deriving from the increase
+in the amount of nucleophile, reaction time, and reaction temperature.</p><p>The first attempts were performed using 1.5 equiv of nucleophile,
+at 40 &#x000b0;C, under magnetic stirring. According to green chemistry
+principles, to avoid the use of unnecessary auxiliaries, we performed
+the reaction without using additional solvents.<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> Then, we evaluated the effect of increasing reaction times,
+going from 1 up to 6 h (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S1</ext-link>).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Conversion and yield
+values for the aminolysis of PLA carried out,
+at 40 &#x000b0;C, in the presence of <italic>N</italic>,<italic>N-</italic>dimethylpropylenediamine, as a function of time.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0001" id="gr4" position="float"/></fig><p>In all cases, the reaction proceeded with very
+high selectivity,
+as accounted for by comparable yield and conversion values. Furthermore,
+we observed a gradual increase in yield from 17%, after 1 h, up to
+60%, after 6 h.</p><p>With the aim to improve the performance of the
+process, we slightly
+increased the amount of nucleophile, using 2 equiv of amine at 40
+&#x000b0;C. However, the modest increase in yield from 45 up to 52% induced
+us to perform the process at a lower amount of nucleophile (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).</p><p>Once we
+determined the amount of nucleophile (1.5 equiv), we analyzed
+the effect deriving from the increase in temperature, performing the
+process in the temperature range 40&#x02013;100 &#x000b0;C (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S1</ext-link>).</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Conversion and yield values for the aminolysis of PLA carried out,
+for 1 h, in the presence of <italic>N</italic>,<italic>N-</italic>dimethylpropylenediamine (1.5 equiv), as a function of the temperature.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0002" id="gr5" position="float"/></fig><p>The gradual increase in temperature induced a parallel
+increase
+in conversion values that ranged from 18 up to 99%. However, at the
+highest temperature, we observed only a modest increase in yield that
+changed from 73 up to 81%, because of a temperature increase from
+70 up to 100 &#x000b0;C. Conversely, a significant decrease in selectivity
+was detected, as accounted for by the significant difference between
+yield and conversion value. This is the reason that further investigation
+was performed at 70 &#x000b0;C.</p><p>The last parameter we took into
+consideration, the temperature
+being the same, was the reaction time. Interestingly, going from 1
+h up to 3 h, we collected very high conversion and yield values with
+excellent selectivity in the reaction (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S1</ext-link>).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Conversion
+and yield values for the aminolysis of PLA carried out,
+at 70 &#x000b0;C, in the presence of <italic>N</italic>,<italic>N</italic>-dimethylpropylenediamine (1.5 equiv), as a function of time.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0003" id="gr6" position="float"/></fig><p>With the optimized reaction conditions in hand,
+we analyzed the
+effect derived from the nature of the nucleophile. In particular,
+besides <italic>N</italic>,<italic>N</italic>-dimethylpropylenediamine,
+we also took into consideration <italic>N</italic>,<italic>N</italic>-dimethylethylenediamine and 3-aminopropylimidazole, with the aim
+to explore the effect deriving from a different flexibility in the
+nucleophile structure, going from the propyl to ethyl spacer and,
+the spacer being the same, to assess the role played by the aliphatic
+or aromatic nature of the tertiary amine (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Conversion and yield values for the aminolysis
+of PLA carried out
+at 70 &#x000b0;C as a function of the nature of the nucleophile.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0004" id="gr7" position="float"/></fig><p>Surprisingly, we observed only a negligible effect
+deriving from
+the nucleophile flexibility, as accounted for by comparable conversion
+and yield values obtained by using <italic>N</italic>,<italic>N</italic>-dimethylpropylenediamine and <italic>N</italic>,<italic>N</italic>-dimethylethylenediamine. Conversely, the presence of the aromatic
+tertiary amine induced a significant worsening of the performance
+of the process. Indeed, using 3-aminopropylimidazole required extending
+the reaction time up to 24 h to obtain a yield higher than 89%.</p><p>As previously stated, the main aim of the present work was to perform
+the aminolysis of PLA in a sustainable way and, consequently, consider
+all the experimental parameters that could have repercussions on the
+environmental impact of the process. To this aim, we analyzed the
+results collected by using the holistic approach at green chemistry,
+reported some years ago by Clark et al.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> This kind of approach can be applied at different levels, and, as
+far as the laboratory scale is considered, important parameters that
+must be considered are, besides reaction temperature, also conversion,
+yield, and selectivity values. Flags of different color, green, yellow,
+and red, respectively, are indicative of the increase of the environmental
+impact of the target process. In particular, reaction temperatures
+in the range 0&#x02013;70 &#x000b0;C and yield values higher than 89%
+are indicative of a more sustainable process.</p><p>Results obtained
+from the aminolysis of PLA performed under our
+experimental conditions as a function of the different nature of the
+nucleophile are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S2</ext-link>. Analysis
+of the results sheds light on the good performance of the process.
+Indeed, in all cases, reaction temperature perfectly complies with
+the guidelines of the used approach. Only in the case of 3-aminopropylimidazole,
+a yield value lower than 89% was collected, giving a yellow flag to
+the process. In all other cases, conversion, yield, and selectivity
+values near or higher than 90% were collected, highlighting a good
+compliance of the target process with the best previsions of the holistic
+approach. The reaction mass efficiency ranged from 63% in the case
+of <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac]</bold> up
+to 69.6% for <bold>[N</bold><sub><bold>112</bold></sub><bold>&#x02013;Lac]</bold>.</p><p>To further assess the relevance of our process, we compared
+our
+results to some of the most recently reported papers on aminolysis
+of PLA (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>).</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Reaction Conditions and Yields for
+the Aminolysis of PLA</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col/><col/><col/><col/><col/><col/><col/></colgroup><thead><tr><th style="border:none;" align="center"><bold>amine</bold></th><th style="border:none;" align="center"><bold>catalyst</bold></th><th style="border:none;" align="center"><italic>T</italic>&#x000a0;(&#x000b0;C)</th><th style="border:none;" align="center"><bold>reaction time (min)</bold></th><th style="border:none;" align="center"><bold>feeding ratio</bold></th><th style="border:none;" align="center">yield&#x000a0;(%)</th><th style="border:none;" align="center"><bold>reference</bold></th></tr></thead><tbody><tr><td style="border:none;">DMEDA</td><td style="border:none;">none</td><td style="border:none;">70</td><td style="border:none;">180</td><td style="border:none;">1:1.5</td><td style="border:none;">88</td><td style="border:none;">this work</td></tr><tr><td style="border:none;">DMPDA</td><td style="border:none;">None</td><td style="border:none;">70</td><td style="border:none;">180</td><td style="border:none;">1:1.5</td><td style="border:none;">90</td><td style="border:none;">this work</td></tr><tr><td style="border:none;">API</td><td style="border:none;">none</td><td style="border:none;">70</td><td style="border:none;">24&#x000a0;h</td><td style="border:none;">1:1.5</td><td style="border:none;">83</td><td style="border:none;">this work</td></tr><tr><td style="border:none;">2-aminoethanol</td><td style="border:none;">none</td><td style="border:none;">100</td><td style="border:none;">60</td><td style="border:none;">1:4</td><td style="border:none;">100</td><td style="border:none;">(<xref ref-type="bibr" rid="ref18">18</xref>)</td></tr><tr><td style="border:none;">benzylamine</td><td style="border:none;">[FeCl<sub>2</sub>(TMG<sub>5</sub>NMe<sub>2</sub>asme)]</td><td style="border:none;">60</td><td style="border:none;">180</td><td style="border:none;">1:7</td><td style="border:none;">99</td><td style="border:none;">(<xref ref-type="bibr" rid="ref16">16</xref>)</td></tr><tr><td style="border:none;">&#x000a0;</td><td style="border:none;">none</td><td style="border:none;">60</td><td style="border:none;">180</td><td style="border:none;">1:7</td><td style="border:none;">85</td><td style="border:none;">(<xref ref-type="bibr" rid="ref16">16</xref>)</td></tr><tr><td style="border:none;">aniline</td><td style="border:none;">[N<sub>4444</sub>][Lac]</td><td style="border:none;">120</td><td style="border:none;">120</td><td style="border:none;">1:1.5</td><td style="border:none;">94</td><td style="border:none;">(<xref ref-type="bibr" rid="ref17">17</xref>)</td></tr></tbody></table></table-wrap><p>Our reaction conditions proved
+to be comparable or
+better than
+the ones recently reported in literature. Indeed, our protocol foresees
+the use of a lower amount of nucleophile, compared with data recently
+reported by Zhang et al., concerning the same process carried out
+in the presence of 2-aminoethanol, that gave full conversion of the
+polymer at 60 &#x000b0;C, but working with a feeding ratio PLA/amine
+equal to 1:4.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> On the other hand, our
+approach also exhibited better performance than the one recently reported
+by Liu et al. about the aminolysis of PLA carried out using aniline
+as nucleophile.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> In the above case, a
+yield value equal to 94% was obtained, using a comparable amount of
+nucleophile (1.5 equiv) but operating at 120 &#x000b0;C. On the other
+hand, our conditions proved to be significantly better than the ones
+applied by Herres-Pawlis et al. that achieved a quantitative yield,
+at 60 &#x000b0;C in the presence of a guanidine Iron(II) catalyst but
+using the nucleophile with a feeding ratio equal to 1:7.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup></p></sec><sec id="sec2.2"><title>Alkylation of N-Substituted Lactamides</title><p>After the optimization
+of the reaction conditions for the aminolysis of PLA, with the aim
+to obtain products having potential industrial value, we considered
+the possibility to alkylate the tertiary amine function of the amides
+(<xref rid="sch2" ref-type="scheme">Schemes <xref rid="sch2" ref-type="scheme">2</xref></xref> and <xref rid="sch3" ref-type="scheme">3</xref>) for the obtainment of ammonium salts that, depending
+on their melting point, could behave as ILs.</p><p>We optimized the
+reaction conditions using <bold>[N</bold><sub><bold>113</bold></sub><bold>&#x02013;Lac]</bold> as substrate and butyl or dodecyl iodide
+as alkylating agent to assess the effect of the alkyl chain length
+on the performance of the process. We carried out the reaction at
+70 &#x000b0;C, which represents a temperature value that perfectly resides
+in the range 0&#x02013;70 &#x000b0;C, indicated as relatively mild conditions
+according to the holistic approach.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup></p><p>First attempts were carried out by using 1.5 equiv of alkyl halides
+in solvent-free conditions. However, in all cases, reaction mixtures
+appeared as biphasic systems and after 24 h (butyl iodide) or 72 h
+(dodecyl iodide), we did not observe product formation. Consequently,
+we used ethanol as solvent that, according to solvent selection guides,
+is classified as a recommended solvent,<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> operating in a very concentrated solution. Indeed, 100 mg of amide
+was solubilized in 2 mL of EtOH and the alkyl iodide was added dropwise.
+Alkylation reactions were performed changing the amount of alkyl iodide
+from 1 up to 1.5 eq. (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S3</ext-link>). However,
+data collected demonstrate that they proceeded with a full conversion
+only using 1.5 equiv of alkyl iodide.</p><p>Taking into consideration
+the above results, we changed the length
+of the alkyl chain and the spacer to evaluate the effect of the above
+structural parameters on the process performance<underline>.</underline> Reaction times ranged from 24 up to 72 h, in dependence of the alkyl
+chain and the amide nature (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Experimental Section in the SI</ext-link>). In general, lower reaction times were used for
+butyl chain and hexyl derivatives whereas the further lengthening
+induced a corresponding increase in the reaction time. The longest
+reaction time (2 weeks) was used in the case of <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold>.</p><p>In all cases, we
+obtained a full conversion and yields ranging
+from 83% (<bold>[N</bold><sub><bold>113</bold></sub><bold>&#x02013;Lac-10]I</bold>) to 97% (<bold>[N</bold><sub><bold>113</bold></sub><bold>&#x02013;Lac-6]I</bold> and <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold>). Results are reported in <xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>, together with reaction mass efficiency values (RMI).</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Yields and Reaction Mass Efficiency
+(RME) for the Alkylation Reaction of the <italic>N</italic>-Lactamides</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col/><col/><col/></colgroup><thead><tr><th style="border:none;" align="center"><bold>ammonium salt</bold></th><th style="border:none;" align="center">yield&#x000a0;(%)<xref rid="t2fn1" ref-type="table-fn">a</xref></th><th style="border:none;" align="center">RME&#x000a0;(%)</th></tr></thead><tbody><tr><td style="border:none;"><bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold></td><td style="border:none;">92</td><td style="border:none;">72</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold></td><td style="border:none;">95</td><td style="border:none;">75</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-6]I</bold></td><td style="border:none;">97</td><td style="border:none;">76</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-8]I</bold></td><td style="border:none;">98</td><td style="border:none;">76</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-10]I</bold></td><td style="border:none;">83</td><td style="border:none;">63</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold></td><td style="border:none;">93</td><td style="border:none;">70</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-12]I</bold></td><td style="border:none;">92</td><td style="border:none;">69</td></tr><tr><td style="border:none;"><bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I</bold></td><td style="border:none;">99</td><td style="border:none;">74</td></tr><tr><td style="border:none;"><bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold></td><td style="border:none;">97</td><td style="border:none;">79</td></tr><tr><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold></td><td style="border:none;">91</td><td style="border:none;">74</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold></td><td style="border:none;">70</td><td style="border:none;">53</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>Yields were reproducible within
+&#x000b1;2.0%.</p></fn></table-wrap-foot></table-wrap><p>With the only
+exception of <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-10]I</bold>, the yield and selectivity
+were higher
+than 91%, giving a green flag to the process. In all cases, solvent
+used to perform the reaction, as well as the ones used in the workup
+procedures, can be easily recycled. Consequently, reaction mass efficiency
+shows good values ranging from 70 up to 79%.</p><p>With the only exceptions
+being <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold>, all organic salts behaved as viscous
+liquids at room temperature. Some representative pictures are listed
+in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Picture of
+the obtained organic salts: (a) <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold>; (b) <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-6]I</bold>; (c) <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-12]I</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0005" id="gr8" position="float"/></fig><p>To have information about the effect of the nature
+of the anion
+on the properties of the organic salts, also butyl and dodecylbromides
+of <italic>N</italic>-lactamide deriving from <italic>N,N</italic>-dimethylpropylenediamine were prepared (<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold>; <xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>). These were obtained under the same reaction
+conditions, used for the alkylation, but only after reacting the amide
+and corresponding bromides for 96 and 72 h, respectively. At the end
+of the reaction time, also in this case, we recorded a full conversion
+but with significantly different yield values that were equal to 70
+and 91% in the case of [<bold>N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold>, respectively. As a consequence of the low yield,
+in the case of <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold>, we obtained the lowest reaction mass efficiency that was equal
+to 53% (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>).</p><p>In addition, we investigated the possibility of recovering excess
+halide. To this aim, we evaporated the organic phase obtained after
+the washing step in the workup of the synthesis of <bold>[N<sub>113</sub>-Lac-12]I</bold>, as a representative case. The <sup>1</sup>H NMR
+spectrum of the residue, reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Figure S5</ext-link>, shows that it is practically constituted by only the alkyl iodide,
+suggesting the concrete possibility to recover it.</p></sec><sec id="sec2.3"><title>Thermal Behavior</title><p>Organic salts were first studied using
+DSC measurements. Melting or glass transitions are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S4</ext-link>, whereas DSC traces are displayed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Figure S1</ext-link>. In most cases, in the used temperature
+range (&#x02212;40&#x02013;60 &#x000b0;C), on heating, we did not observe
+transitions, confirming the ionic liquid nature of the organic salts.
+Melting processes were detected only in the case of <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold>, and <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold>, and, among the above
+cases, only <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold> and <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold> showed transition at temperature values lower than 100 &#x000b0;C.
+Data collected clearly evidence that transition temperature increased
+by increasing the spacer length (<italic>T</italic><sub>m<bold>[N113-Lac-4]I</bold></sub> &#x0003e; <italic>T</italic><sub>m<bold>[N112-Lac-4]I</bold></sub>) but also changing the anion nature (<italic>T</italic><sub>m<bold>[N113-Lac-4]Br</bold></sub> &#x0003e; <italic>T</italic><sub>m<bold>[N113-Lac-4]I</bold></sub>).</p><p>Thermal
+stability of all of the organic salts was investigated by TGA measurements.
+TGA traces are reported in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S1</ext-link>. With
+the only exception of <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold>, in all of the other cases, we observed a single-step
+degradation process. In all cases, we considered the temperature corresponding
+to the first degradation process, as the short-term stability limit,
+as the highest temperature ILs can withstand for short periods. These
+temperature values are reported in <xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref>.</p><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Decomposition Temperatures
+Obtained
+for ILs</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col/><col align="char" char="."/><col/><col/><col/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char="."><italic>T</italic><sub><bold>ons</bold></sub><bold>(1) (&#x000b0;C)</bold></th><th style="border:none;" align="center"><bold>&#x00394;</bold><italic>T</italic><bold>G peak(1) (&#x000b0;C)</bold></th><th style="border:none;" align="center"><italic>T</italic><sub><bold>ons</bold></sub><bold>(2) (&#x000b0;C)</bold></th><th style="border:none;" align="center">&#x000a0;</th><th style="border:none;" align="center" char="."><italic>T</italic><sub><bold>ons</bold></sub><bold>(1) (&#x000b0;C)</bold>(<xref ref-type="bibr" rid="ref25">25</xref>)</th></tr></thead><tbody><tr><td style="border:none;"><bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold></td><td style="border:none;" align="char" char=".">230.2</td><td style="border:none;">252.13</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-12]I</bold></td><td style="border:none;" align="char" char=".">218.23</td><td style="border:none;">250.21</td><td style="border:none;">&#x000a0;</td><td style="border:none;"><bold>[N</bold><sub><bold>112</bold></sub><bold>-Glu-12]I</bold></td><td style="border:none;" align="char" char=".">210.3</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold></td><td style="border:none;" align="char" char=".">261.01</td><td style="border:none;">295.76</td><td style="border:none;">&#x000a0;</td><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Glu-4]I</bold></td><td style="border:none;" align="char" char=".">191.7</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-6]I</bold></td><td style="border:none;" align="char" char=".">234.34</td><td style="border:none;">264.57</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-8]I</bold></td><td style="border:none;" align="char" char=".">238.92</td><td style="border:none;">272</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-10]I</bold></td><td style="border:none;" align="char" char=".">230.15</td><td style="border:none;">261.13</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold></td><td style="border:none;" align="char" char=".">235.17</td><td style="border:none;">263.41</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I</bold></td><td style="border:none;" align="char" char=".">292.05</td><td style="border:none;">320.8</td><td style="border:none;">&#x000a0;</td><td style="border:none;"><bold><bold>[Im</bold><sub><bold>3</bold></sub>-Glu-4]I</bold></td><td style="border:none;" align="char" char=".">197.3</td></tr><tr><td style="border:none;"><bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold></td><td style="border:none;" align="char" char=".">274.24</td><td style="border:none;">310.33</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold></td><td style="border:none;" align="char" char=".">251.2</td><td style="border:none;">277.9</td><td style="border:none;">457.1</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr><tr><td style="border:none;"><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold></td><td style="border:none;" align="char" char=".">226.7</td><td style="border:none;">245.3</td><td style="border:none;">466.4</td><td style="border:none;">&#x000a0;</td><td style="border:none;" align="char" char=".">&#x000a0;</td></tr></tbody></table></table-wrap><p>Decomposition temperatures
+of ILs ranged from 245.3
+(<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I)</bold> up to 320.8 &#x000b0;C
+(<bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I).</bold> Thermal
+stability significantly decreased by lengthening the alkyl chain.
+On the other hand, alkyl chain and anion being the same, it increased
+on going from <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold> to (<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4 ]I</bold> and from <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-12]I</bold> to <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>, according to the increase in the alkyl spacer length, with &#x00394;<italic>T</italic> depending on the length of the alkyl chain (&#x00394;<italic>T</italic> = 43.7 and 13.2 in the case of butyl and dodecyl derivatives,
+respectively).<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> This result was different
+from the one we collected for <italic>N</italic>-glucosamide-based
+ILs. Indeed, in that case, we observed a decrease in thermal stability
+on going from an ethyl to propyl spacer.</p><p>Comparison between
+data collected for bromide (<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold>) and iodide salts (<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>) evidenced
+a higher thermal stability of the iodides than bromide salts. This
+result perfectly accounts for the increase in thermal stability induced
+by a decrease in the anion nucleophilicity previously reported for
+imidazolium salts.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup></p><p>Finally, data
+were collected accounting for the higher thermal
+stability of imidazolium with respect to the corresponding ammonium
+salts (<italic>cfr.</italic><bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I/[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold> and [<bold>Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I/</bold>[<bold>Im</bold><sub><bold>3</bold></sub><bold>-Lac-</bold><sub><bold>12</bold></sub><bold>]I</bold>), in accordance with a previous observation
+in literature comparing imidazolium and ammonium salt having alkyl
+chains of the same length.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup></p><p>In order
+to analyze the effect of the oxygenated chain on the thermal
+stability, we compared decomposition temperatures, at 95% wt, for <italic>N</italic>-glucosamides-based ILs<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> with
+the one now obtained for <italic>N</italic>-lactamide-based ILs (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>). In general, the
+above comparison evidenced a higher thermal stability for <italic>N</italic>-lactamides-based ILs with respect to the corresponding <italic>N</italic>-glucosamide-based ones.</p></sec><sec id="sec2.4"><title>Biological Activity of
+ILs: Morphological Assessment</title><p>A morphological assessment
+of human fetal lung fibroblasts (IMR-90
+cells) by a phase-contrast inverted microscope was employed, monitoring
+the cells under an inverted light microscope after 24 h of treatment
+with different concentrations (50, 75, 100, 150 &#x003bc;M) of ILs (<xref rid="fig6" ref-type="fig">Figures <xref rid="fig6" ref-type="fig">6</xref></xref> and <xref rid="fig7" ref-type="fig">7</xref>). IMR-90 control cells maintained their original morphology
+consisting of elongated and slender forms and the strikingly regular
+form, with longitudinal alignment of cells. At a lower concentration
+of treatments (50 &#x003bc;M), the ILs bearing short alkyl chains showed
+weaker biological effectiveness compared to those with long apolar
+alkyl chains in terms of morphological changes and cytotoxic effects.
+This lower biological activity was maintained at higher concentrations
+of treatments, especially for salts bearing butyl or hexyl chains.
+The obtained results clearly indicate that, according to the specific
+fields of application, the biological activity of ILs is quite tunable,
+by modifying structural characteristics.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Micrographs performed
+by inverted phase-contrast microscopy of
+IMR-90 cells treated for 24 h with different concentrations (50, 75,
+100, 150 &#x003bc;M) of <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I, [N</bold><sub><bold>113</bold></sub><bold>-Lac-6]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-8]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-10]I</bold>, and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>. Magnification 200&#x000d7;.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0006" id="gr9" position="float"/></fig><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Micrographs
+performed by inverted phase-contrast microscopy
+of
+IMR-90 cells treated for 24 h with different concentrations (50, 75,
+100, 150 &#x003bc;M) of <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold>, <bold>[N</bold><sub><bold>112</bold></sub><bold>&#x02013;Lac-4]I</bold>, <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-12]I, [Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I</bold>, and <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold>. Magnification 200&#x000d7;.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0007" id="gr10" position="float"/></fig></sec><sec id="sec2.5"><title>Structure vs Cytotoxicity</title><p>The cytotoxicity of ILs was
+evaluated by using a 24 h toxicity assay. The IC<sub>50</sub> values
+were calculated using a dose&#x02013;response model by means of sigmoidal
+fitting of curves of percent inhibition versus logarithm of tested
+concentrations. In all cases, the MTT assay was performed using diluted
+1 &#x000d7; 10<sup>&#x02013;3</sup> M stock solutions of salts. The results
+obtained are gathered in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">Table S3</ext-link> and depicted
+in <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>.</p><fig id="fig8" position="float"><label>Figure 8</label><caption><p>Histograms
+showing IC<sub>50</sub> values expressed as &#x003bc;M
+concentration of ILs sorted for different structural characteristics:
+(a) alkyl chain length in the cation (<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-6]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-8]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-10]I</bold>, and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>), (b) spacer length (<bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>112</bold></sub><bold>-Lac-12]I</bold>, and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>), (c) cation nature
+(<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold>, <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>, <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold>), and (d) anion nature
+(<bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]Br</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold>, <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]Br</bold>, and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-12]I</bold>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_0008" id="gr11" position="float"/></fig><p>IC<sub>50</sub> values range from 6.58 &#x003bc;M
+up to 94.4 &#x003bc;M.
+In general, these organic salts prove to be less toxic than <italic>N</italic>-gluconamide-based ILs, which exhibited IC<sub>50</sub> values ranging from 0.06 &#x003bc;M up to 12.6 &#x003bc;m.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup></p><p>Data collected will be analyzed as a function
+of different structural
+features of the salts.</p><p>First, as can be seen from <xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>a, butyl and hexyl derivatives
+represent the terms
+of lower toxicity. The further increase in alkyl chain length induces
+a sharp increase in cytotoxicity.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> These
+results are consistent with data previously reported in literature
+and can be easily ascribed to the increase in the lipophilicity that
+induces a better interaction with the phospholipid bilayers of biological
+membranes.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup></p><p>On the alkyl chain being
+the same, small changes were detected
+as a function of the length of the alkyl spacer. In particular, ILs
+bearing the ethyl spacer are slightly less toxic than the ones featured
+by the presence of the propyl spacer (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>b). This result is different from the one
+we collected studying the biological activity of <italic>N</italic>-glucosamide-based ILs.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup></p><p>Interestingly,
+the presence of the <italic>N</italic>-lactamide
+unit induced comparable toxicity in imidazolium- and ammonium-based
+salts, as accounted for by the comparison between IC<sub>50</sub> values
+detected for <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-4]I</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold>, as well as the ones for <bold>[Im</bold><sub><bold>3</bold></sub><bold>-Lac-12]I</bold> and <bold>[N</bold><sub><bold>113</bold></sub><bold>-Lac-4]I</bold> (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>c). This results appear quite surprising considering the frequently
+claimed lower toxicity of aliphatic ILs with respect to the corresponding
+aromatic ones. This finding clearly supports the one previously reported
+in literature about the role played by oxygenated chains in decreasing
+the IL toxicity.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>Finally, independently
+from the cation structure, bromide salt
+exhibited lower toxicity with respect to the corresponding iodide
+salts (<xref rid="fig8" ref-type="fig">Figure <xref rid="fig8" ref-type="fig">8</xref></xref>d).
+Probably, the above result can be related to the anion lipophilicity,
+as accounted for by its ability to interact with water molecules.
+Bromide, as a consequence of its higher charge density, should better
+interact with water molecules exhibiting a lower lipophilicity and
+consequently a lower ability to interact with the lipophilic membrane.
+This hypothesis is also supported by data previously reported in literature
+about the ability of the anion to permeate phospholipidic bilayers
+and showing a higher permeation rate for the iodide anion with respect
+to the bromide one.<sup><xref ref-type="bibr" rid="ref43">43</xref></sup></p></sec></sec><sec id="sec3"><title>Conclusions</title><p>With the aim to upcycle plastic waste and
+to realize an open loop
+that starting from waste materials allows the obtainment of products
+of industrial values, like alternative solvents, we performed aminolysis
+of PLA, under sustainable conditions. In particular, temperature and
+time of reaction, as well as the amount and nature of nucleophile,
+were carefully evaluated, to minimize the environmental impact of
+the process. This allowed the obtainment of <italic>N</italic>-substituted
+lactamides, avoiding harsh conditions and the use of a large amount
+of acidic or basic catalysts.</p><p>A careful analysis of the <italic>N</italic>-lactamide structure
+sheds light on the possibility of using them as starting materials
+for the preparation of organic salts, potentially behaving as ionic
+liquids. To this aim, they were successfully alkylated, using alkyl
+halides differing for the alkyl chain length and the halide nature.
+Proposed synthetic protocols perfectly fit the guidelines of the holistic
+approach to green chemistry and allowed obtaining a green or yellow
+flag for related parameters, like conversion and yield, while RMI
+values ranged from 52 up to 79%.</p><p>The majority of the ammonium
+salts obtained were viscous liquids
+at room temperature, behaving as ILs. Properties of these solvents,
+like melting temperature, thermal stability, and toxicity toward normal
+lung fibroblasts, were studied as a function of different structural
+features, showing good thermal stability and toxicity lower than the
+one recently detected for some <italic>N</italic>-glucosamide-based
+ILs.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Interestingly, the results collected
+demonstrate how careful modulation of structural features, like alkyl
+chain and spacer length, as well as anion and cationic head nature
+allows the obtainment of ILs of good thermal stability and low toxicity.
+To the best of our knowledge, this is the first report about the obtainment
+of ILs from plastic waste, featured by a lactate residue on the cation
+structure. The presence of the above residue should award these ILs
+a good coordination ability, and also thanks to the good thermal stability
+and low toxicity, they could be tested, in the future, for extractive
+desulfurization of fuels or as liquid phases for CO<sub>2</sub> and
+SO<sub>2</sub> capture. Furthermore, according to previous reports,
+iodide-based ammonium salts are frequently indicated as good corrosion
+inhibitors.<sup><xref ref-type="bibr" rid="ref44">44</xref>&#x02212;<xref ref-type="bibr" rid="ref46">46</xref></sup> Consequently, the proposed strategy in this work
+could represent a suitable way to upcycle waste for the obtainment
+of useful industrial intermediates.</p></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acssuschemeng.3c07024?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acssuschemeng.3c07024</ext-link>. <list id="silist" list-type="simple"><list-item><p>Experimental
+procedures, yields and conversions for
+PLA aminolysis, IC<sub>50</sub> values, thermogravimetric curves, <sup>1</sup>H and <sup>13</sup>C NMR spectra, and FTIR spectra of lacatamide-based
+ionic liquids (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acssuschemeng.3c07024/suppl_file/sc3c07024_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sc3c07024_si_001.pdf"><caption><p>sc3c07024_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d14e1581-autogenerated"><p>The
+authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This study was carried out within the MICS (Made
+in Italy &#x02013; Circular and Sustainable) Extended Partnership and
+received funding from the European Union Next-GenerationEU (Piano
+Nazionale di Ripresa e Resilienza (PNRR) &#x02013; Missione 4 Componente
+2, Investimento 1.3 &#x02013; D.D. 1551.11-10-2022, PE00000004). This
+manuscript reflects only the authors&#x02019; views and opinions; neither
+the European Union nor the European Commission can be considered responsible
+for them. G.R. thanks PNRR, Missione 4, Componente 1 &#x0201c;Potenziamento
+dell&#x02019;offerta dei servizi di istruzione: dagli asili nido all&#x02019;Universit&#x000e0;&#x0201d;
+- Investimento 3.4 &#x0201c;Didattica e competenze universitarie avanzate&#x0201d;
+e Investimento 4.1 &#x0201c;Estensione del numero di dottorati di ricerca
+e dottorati innovativi per la pubblica amministrazione e il patrimonio
+culturale&#x0201d;.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Schneiderman</surname><given-names>D. K.</given-names></name>; <name><surname>Hillmyer</surname><given-names>M. A.</given-names></name>
+<article-title><italic>50th Anniversary
+Perspective</italic>: There
+Is a Great Future in Sustainable Polymers</article-title>. <source>Macromolecules</source>
+<year>2017</year>, <volume>50</volume> (<issue>10</issue>), <fpage>3733</fpage>&#x02013;<lpage>3749</lpage>. <pub-id pub-id-type="doi">10.1021/acs.macromol.7b00293</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Singhvi</surname><given-names>M. S.</given-names></name>; <name><surname>Zinjarde</surname><given-names>S. S.</given-names></name>; <name><surname>Gokhale</surname><given-names>D. V.</given-names></name>
+<article-title>Polylactic Acid: Synthesis and Biomedical
+Applications</article-title>. <source>J. Appl. Microbiol.</source>
+<year>2019</year>, <volume>127</volume> (<issue>6</issue>), <fpage>1612</fpage>&#x02013;<lpage>1626</lpage>. <pub-id pub-id-type="doi">10.1111/jam.14290</pub-id>.<pub-id pub-id-type="pmid">31021482</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Simon</surname><given-names>N.</given-names></name>; <name><surname>Raubenheimer</surname><given-names>K.</given-names></name>; <name><surname>Urho</surname><given-names>N.</given-names></name>; <name><surname>Unger</surname><given-names>S.</given-names></name>; <name><surname>Azoulay</surname><given-names>D.</given-names></name>; <name><surname>Farrelly</surname><given-names>T.</given-names></name>; <name><surname>Sousa</surname><given-names>J.</given-names></name>; <name><surname>van Asselt</surname><given-names>H.</given-names></name>; <name><surname>Carlini</surname><given-names>G.</given-names></name>; <name><surname>Sekomo</surname><given-names>C.</given-names></name>; <name><surname>Schulte</surname><given-names>M. L.</given-names></name>; <name><surname>Busch</surname><given-names>P.-O.</given-names></name>; <name><surname>Wienrich</surname><given-names>N.</given-names></name>; <name><surname>Weiand</surname><given-names>L.</given-names></name>
+<article-title>A Binding
+Global Agreement to Address
+the Life Cycle of Plastics</article-title>. <source>Science (1979)</source>
+<year>2021</year>, <volume>373</volume> (<issue>6550</issue>), <fpage>43</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1126/science.abi9010</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="undeclared" id="cit4"><person-group person-group-type="allauthors"><name><surname>Kimura</surname><given-names>Y.</given-names></name></person-group><article-title>Chapter 1. PLA
+Synthesis. From the Monomer to the Polymer</article-title>. <source>Poly (lactic acid) science and technology: processing, properties,
+additives and applications</source>; <publisher-name>Royal Society
+Chemistry</publisher-name><year>2014</year>; pp <fpage>1</fpage>&#x02013;<lpage>36</lpage>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Xing</surname><given-names>Q.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>
+<article-title>Quality and
+Microbial Diversity of Homemade Bread Packaged in Cinnamaldehyde Loaded
+Poly(Lactic Acid)/Konjac Glucomannan/Wheat Gluten Bilayer Film during
+Storage</article-title>. <source>Food Chem.</source>
+<year>2023</year>, <volume>402</volume>, <elocation-id>134259</elocation-id><pub-id pub-id-type="doi">10.1016/j.foodchem.2022.134259</pub-id>.<pub-id pub-id-type="pmid">36137378</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Swetha</surname><given-names>T. A.</given-names></name>; <name><surname>Bora</surname><given-names>A.</given-names></name>; <name><surname>Mohanrasu</surname><given-names>K.</given-names></name>; <name><surname>Balaji</surname><given-names>P.</given-names></name>; <name><surname>Raja</surname><given-names>R.</given-names></name>; <name><surname>Ponnuchamy</surname><given-names>K.</given-names></name>; <name><surname>Muthusamy</surname><given-names>G.</given-names></name>; <name><surname>Arun</surname><given-names>A.</given-names></name>
+<article-title>A Comprehensive Review
+on Polylactic Acid (PLA) &#x02013; Synthesis, Processing and Application
+in Food Packaging</article-title>. <source>Int. J. Biol. Macromol.</source>
+<year>2023</year>, <volume>234</volume>, <elocation-id>123715</elocation-id><pub-id pub-id-type="doi">10.1016/j.ijbiomac.2023.123715</pub-id>.<pub-id pub-id-type="pmid">36801278</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Jiang</surname><given-names>Y.</given-names></name>; <name><surname>Yan</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>K.</given-names></name>; <name><surname>Shi</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>M.</given-names></name>
+<article-title>Super-Toughed
+PLA Blown Film with Enhanced Gas Barrier Property Available for Packaging
+and Agricultural Applications</article-title>. <source>Materials</source>
+<year>2019</year>, <volume>12</volume> (<issue>10</issue>), <fpage>1663</fpage><pub-id pub-id-type="doi">10.3390/ma12101663</pub-id>.<pub-id pub-id-type="pmid">31121860</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Martin</surname><given-names>R. T.</given-names></name>; <name><surname>Camargo</surname><given-names>L. P.</given-names></name>; <name><surname>Miller</surname><given-names>S. A.</given-names></name>
+<article-title>Marine-Degradable
+Polylactic Acid</article-title>. <source>Green Chem.</source>
+<year>2014</year>, <volume>16</volume> (<issue>4</issue>), <fpage>1768</fpage>&#x02013;<lpage>1773</lpage>. <pub-id pub-id-type="doi">10.1039/C3GC42604A</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Lambert</surname><given-names>S.</given-names></name>; <name><surname>Wagner</surname><given-names>M.</given-names></name>
+<article-title>Environmental Performance
+of Bio-Based and Biodegradable
+Plastics: The Road Ahead</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2017</year>, <volume>46</volume> (<issue>22</issue>), <fpage>6855</fpage>&#x02013;<lpage>6871</lpage>. <pub-id pub-id-type="doi">10.1039/C7CS00149E</pub-id>.<pub-id pub-id-type="pmid">28932844</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Suyama</surname><given-names>T.</given-names></name>; <name><surname>Tokiwa</surname><given-names>Y.</given-names></name>; <name><surname>Ouichanpagdee</surname><given-names>P.</given-names></name>; <name><surname>Kanagawa</surname><given-names>T.</given-names></name>; <name><surname>Kamagata</surname><given-names>Y.</given-names></name>
+<article-title>Phylogenetic
+Affiliation of Soil Bacteria That Degrade Aliphatic Polyesters Available
+Commercially as Biodegradable Plastics</article-title>. <source>Appl.
+Environ. Microbiol.</source>
+<year>1998</year>, <volume>64</volume> (<issue>12</issue>), <fpage>5008</fpage>&#x02013;<lpage>5011</lpage>. <pub-id pub-id-type="doi">10.1128/AEM.64.12.5008-5011.1998</pub-id>.<pub-id pub-id-type="pmid">9835597</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Piemonte</surname><given-names>V.</given-names></name>; <name><surname>Gironi</surname><given-names>F.</given-names></name>
+<article-title>Kinetics of Hydrolytic
+Degradation of PLA</article-title>. <source>J. Polym. Environ.</source>
+<year>2013</year>, <volume>21</volume> (<issue>2</issue>), <fpage>313</fpage>&#x02013;<lpage>318</lpage>. <pub-id pub-id-type="doi">10.1007/s10924-012-0547-x</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Piemonte</surname><given-names>V.</given-names></name>; <name><surname>Gironi</surname><given-names>F.</given-names></name>
+<article-title>Lactic Acid Production by Hydrolysis of Poly(Lactic
+Acid) in Aqueous Solutions: An Experimental and Kinetic Study</article-title>. <source>J. Polym. Environ.</source>
+<year>2013</year>, <volume>21</volume> (<issue>1</issue>), <fpage>275</fpage>&#x02013;<lpage>279</lpage>. <pub-id pub-id-type="doi">10.1007/s10924-012-0468-8</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Leibfarth</surname><given-names>F. A.</given-names></name>; <name><surname>Moreno</surname><given-names>N.</given-names></name>; <name><surname>Hawker</surname><given-names>A. P.</given-names></name>; <name><surname>Shand</surname><given-names>J. D.</given-names></name>
+<article-title>Transforming Polylactide
+into Value-Added Materials</article-title>. <source>J. Polym. Sci.,
+Part A: Polym. Chem.</source>
+<year>2012</year>, <volume>50</volume> (<issue>23</issue>), <fpage>4814</fpage>&#x02013;<lpage>4822</lpage>. <pub-id pub-id-type="doi">10.1002/pola.26303</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Liu</surname><given-names>F.</given-names></name>; <name><surname>Guo</surname><given-names>J.</given-names></name>; <name><surname>Zhao</surname><given-names>P.</given-names></name>; <name><surname>Gu</surname><given-names>Y.</given-names></name>; <name><surname>Gao</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>
+<article-title>Facile Synthesis
+of DBU-Based Protic Ionic Liquid for Efficient Alcoholysis of Waste
+Poly(Lactic Acid) to Lactate Esters</article-title>. <source>Polym.
+Degrad. Stab.</source>
+<year>2019</year>, <volume>167</volume>, <fpage>124</fpage>&#x02013;<lpage>129</lpage>. <pub-id pub-id-type="doi">10.1016/j.polymdegradstab.2019.06.028</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Luo</surname><given-names>H.</given-names></name>; <name><surname>Shao</surname><given-names>Z.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>J.</given-names></name>; <name><surname>Huang</surname><given-names>C.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Xia</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>
+<article-title>Converting Plastic Wastes to Naphtha
+for Closing the Plastic Loop</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2023</year>, <volume>145</volume> (<issue>3</issue>), <fpage>1847</fpage>&#x02013;<lpage>1854</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.2c11407</pub-id>.<pub-id pub-id-type="pmid">36635072</pub-id>
+</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Burkart</surname><given-names>L.</given-names></name>; <name><surname>Eith</surname><given-names>A.</given-names></name>; <name><surname>Hoffmann</surname><given-names>A.</given-names></name>; <name><surname>Herres-Pawlis</surname><given-names>S.</given-names></name>
+<article-title>Open Loop
+Recycling &#x02013; guanidine Iron(II) Polymerization Catalyst for
+the Depolymerization of Polylactide</article-title>. <source>Chem. -
+Asian J.</source>
+<year>2023</year>, <volume>18</volume> (<issue>5</issue>), <elocation-id>e202201195</elocation-id><pub-id pub-id-type="doi">10.1002/asia.202201195</pub-id>.<pub-id pub-id-type="pmid">36577118</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Wu</surname><given-names>F.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>M.</given-names></name>; <name><surname>Zeng</surname><given-names>W.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Chang</surname><given-names>X.</given-names></name>; <name><surname>Xiang</surname><given-names>J.</given-names></name>; <name><surname>Han</surname><given-names>B.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>
+<article-title>Lactate Anion
+Catalyzes Aminolysis of Polyesters with Anilines</article-title>. <source>Sci. Adv.</source>
+<year>2023</year>, <volume>9</volume> (<issue>5</issue>), <elocation-id>eade7971</elocation-id><pub-id pub-id-type="doi">10.1126/sciadv.ade7971</pub-id>.<pub-id pub-id-type="pmid">36724269</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Shao</surname><given-names>L.</given-names></name>; <name><surname>Chang</surname><given-names>Y.-C.</given-names></name>; <name><surname>Hao</surname><given-names>C.</given-names></name>; <name><surname>Fei</surname><given-names>M.</given-names></name>; <name><surname>Zhao</surname><given-names>B.</given-names></name>; <name><surname>Bliss</surname><given-names>B. J.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>
+<article-title>A Chemical Approach for the Future
+of PLA upcycling: From Plastic Wastes to New 3D Printing Materials</article-title>. <source>Green Chem.</source>
+<year>2022</year>, <volume>24</volume> (<issue>22</issue>), <fpage>8716</fpage>&#x02013;<lpage>8724</lpage>. <pub-id pub-id-type="doi">10.1039/D2GC01745H</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>RATCHFORD</surname><given-names>W. P.</given-names></name>; <name><surname>FISHER</surname><given-names>C. H.</given-names></name>
+<article-title>Preparation of n-substituted
+lactamides by aminolysis
+of methyl lactate</article-title>. <source>J. Org. Chem.</source>
+<year>1950</year>, <volume>15</volume> (<issue>2</issue>), <fpage>317</fpage>&#x02013;<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1021/jo01148a013</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Fein</surname><given-names>M. L.</given-names></name>; <name><surname>Filachione</surname><given-names>E. M.</given-names></name>
+<article-title>N-Substituted
+Lactamides</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<year>1953</year>, <volume>75</volume> (<issue>9</issue>), <fpage>2097</fpage>&#x02013;<lpage>2099</lpage>. <pub-id pub-id-type="doi">10.1021/ja01105a022</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>McElroy</surname><given-names>C. R.</given-names></name>; <name><surname>Constantinou</surname><given-names>A.</given-names></name>; <name><surname>Jones</surname><given-names>L. C.</given-names></name>; <name><surname>Summerton</surname><given-names>L.</given-names></name>; <name><surname>Clark</surname><given-names>J. H.</given-names></name>
+<article-title>Towards a Holistic
+Approach to Metrics for the 21st
+Century Pharmaceutical Industry</article-title>. <source>Green Chem.</source>
+<year>2015</year>, <volume>17</volume> (<issue>5</issue>), <fpage>3111</fpage>&#x02013;<lpage>3121</lpage>. <pub-id pub-id-type="doi">10.1039/C5GC00340G</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Ohno</surname><given-names>H.</given-names></name>; <name><surname>Fukumoto</surname><given-names>K.</given-names></name>
+<article-title>Amino Acid Ionic Liquids</article-title>. <source>Acc.
+Chem. Res.</source>
+<year>2007</year>, <volume>40</volume> (<issue>11</issue>), <fpage>1122</fpage>&#x02013;<lpage>1129</lpage>. <pub-id pub-id-type="doi">10.1021/ar700053z</pub-id>.<pub-id pub-id-type="pmid">17970600</pub-id>
+</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Miao</surname><given-names>S.</given-names></name>; <name><surname>Atkin</surname><given-names>R.</given-names></name>; <name><surname>Warr</surname><given-names>G.</given-names></name>
+<article-title>Design and Applications of Biocompatible
+choline Amino Acid Ionic Liquids</article-title>. <source>Green Chem.</source>
+<year>2022</year>, <volume>24</volume> (<issue>19</issue>), <fpage>7281</fpage>&#x02013;<lpage>7304</lpage>. <pub-id pub-id-type="doi">10.1039/D2GC02282F</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Dhattarwal</surname><given-names>H. S.</given-names></name>; <name><surname>Kashyap</surname><given-names>H. K.</given-names></name>
+<article-title>Microstructures
+of choline Amino Acid Based Biocompatible
+Ionic Liquids</article-title>. <source>Chem. Record</source>
+<year>2023</year>, <volume>23</volume>, <elocation-id>e202200295</elocation-id><pub-id pub-id-type="doi">10.1002/tcr.202200295</pub-id>.<pub-id pub-id-type="pmid">36960931</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Billeci</surname><given-names>F.</given-names></name>; <name><surname>D&#x02019;Anna</surname><given-names>F.</given-names></name>; <name><surname>Feroci</surname><given-names>M.</given-names></name>; <name><surname>Cancemi</surname><given-names>P.</given-names></name>; <name><surname>Feo</surname><given-names>S.</given-names></name>; <name><surname>Forlino</surname><given-names>A.</given-names></name>; <name><surname>Tonnelli</surname><given-names>F.</given-names></name>; <name><surname>Seddon</surname><given-names>K. R.</given-names></name>; <name><surname>Gunaratne</surname><given-names>H. Q. N.</given-names></name>; <name><surname>Plechkova</surname><given-names>N. V.</given-names></name>
+<article-title>When Functionalization Becomes Useful: Ionic Liquids
+with a &#x0201c;Sweet&#x0201d; Appended Moiety Demonstrate Drastically
+Reduced Toxicological Effects</article-title>. <source>ACS Sustainable
+Chem. Eng.</source>
+<year>2020</year>, <volume>8</volume> (<issue>2</issue>), <fpage>926</fpage>&#x02013;<lpage>938</lpage>. <pub-id pub-id-type="doi">10.1021/acssuschemeng.9b05507</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Zullo</surname><given-names>V.</given-names></name>; <name><surname>Iuliano</surname><given-names>A.</given-names></name>; <name><surname>Guazzelli</surname><given-names>L.</given-names></name>
+<article-title>Sugar-Based
+Ionic Liquids: Multifaceted
+Challenges and Intriguing Potential</article-title>. <source>Molecules</source>
+<year>2021</year>, <volume>26</volume> (<issue>7</issue>), <fpage>2052</fpage><pub-id pub-id-type="doi">10.3390/molecules26072052</pub-id>.<pub-id pub-id-type="pmid">33916695</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Jordan</surname><given-names>A.</given-names></name>; <name><surname>Gathergood</surname><given-names>N.</given-names></name>
+<article-title>Biodegradation
+of Ionic Liquids &#x02013; a Critical
+Review</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume> (<issue>22</issue>), <fpage>8200</fpage>&#x02013;<lpage>8237</lpage>. <pub-id pub-id-type="doi">10.1039/C5CS00444F</pub-id>.<pub-id pub-id-type="pmid">26239761</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Gaida</surname><given-names>B.</given-names></name>; <name><surname>Brz&#x00065;&#x00328;czek-Szafran</surname><given-names>A.</given-names></name>
+<article-title>Insights into
+the Properties and
+Potential Applications of Renewable Carbohydrate-Based Ionic Liquids:
+A Review</article-title>. <source>Molecules</source>
+<year>2020</year>, <volume>25</volume> (<issue>14</issue>), <fpage>3285</fpage><pub-id pub-id-type="doi">10.3390/molecules25143285</pub-id>.<pub-id pub-id-type="pmid">32698359</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Javed</surname><given-names>F.</given-names></name>; <name><surname>Ullah</surname><given-names>F.</given-names></name>; <name><surname>Akil</surname><given-names>H. Md.</given-names></name>
+<article-title>Synthesis,
+Characterization and Cellulose
+Dissolution Capabilities of Ammonium-Based Room Temperature Ionic
+Liquids (RTILs)</article-title>. <source>Pure Appl. Chem.</source>
+<year>2018</year>, <volume>90</volume> (<issue>6</issue>), <fpage>1019</fpage>&#x02013;<lpage>1034</lpage>. <pub-id pub-id-type="doi">10.1515/pac-2017-0315</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Costa</surname><given-names>A.</given-names></name>; <name><surname>Forte</surname><given-names>A.</given-names></name>; <name><surname>Zalewska</surname><given-names>K.</given-names></name>; <name><surname>Tiago</surname><given-names>G.</given-names></name>; <name><surname>Petrovski</surname><given-names>Z.</given-names></name>; <name><surname>Branco</surname><given-names>L. C.</given-names></name>
+<article-title>Novel Biocompatible Ionic Liquids Based on Gluconate
+Anion</article-title>. <source>Green Chem. Lett. Rev.</source>
+<year>2015</year>, <volume>8</volume> (<issue>1</issue>), <fpage>8</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="doi">10.1080/17518253.2014.951695</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Shawver</surname><given-names>N. M.</given-names></name>; <name><surname>Doerr</surname><given-names>A. M.</given-names></name>; <name><surname>Long</surname><given-names>B. K.</given-names></name>
+<article-title>A Perspective
+on redox-switchable
+Ring-opening Polymerization</article-title>. <source>J. Polym. Sci.</source>
+<year>2023</year>, <volume>61</volume> (<issue>5</issue>), <fpage>361</fpage>&#x02013;<lpage>371</lpage>. <pub-id pub-id-type="doi">10.1002/pol.20220585</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Kasprzak</surname><given-names>D.</given-names></name>; <name><surname>St&#x00065;&#x00328;pniak</surname><given-names>I.</given-names></name>; <name><surname>Gali&#x00144;ski</surname><given-names>M.</given-names></name>
+<article-title>Acetate- and Lactate-Based Ionic
+Liquids: Synthesis, Characterisation and Electrochemical Properties</article-title>. <source>J. Mol. Liq.</source>
+<year>2018</year>, <volume>264</volume>, <fpage>233</fpage>&#x02013;<lpage>241</lpage>. <pub-id pub-id-type="doi">10.1016/j.molliq.2018.05.059</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Lei</surname><given-names>L.</given-names></name>; <name><surname>Zhu</surname><given-names>J.</given-names></name>; <name><surname>Yang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>
+<article-title>Deep Desulfurization
+of Fuels by Extraction with 4-Dimethylaminopyridinium-Based Ionic
+Liquids</article-title>. <source>Energy Fuels</source>
+<year>2013</year>, <volume>27</volume> (<issue>8</issue>), <fpage>4617</fpage>&#x02013;<lpage>4623</lpage>. <pub-id pub-id-type="doi">10.1021/ef401015c</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Tian</surname><given-names>S.</given-names></name>; <name><surname>Hou</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>; <name><surname>Ren</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>
+<article-title>Absorption of SO2 by
+Thermal-Stable Functional Ionic Liquids with Lactate Anion</article-title>. <source>RSC Adv.</source>
+<year>2013</year>, <volume>3</volume> (<issue>11</issue>), <fpage>3572</fpage><pub-id pub-id-type="doi">10.1039/c3ra22450c</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Morel</surname><given-names>A.</given-names></name>; <name><surname>Silarska</surname><given-names>E.</given-names></name>; <name><surname>Trzeciak</surname><given-names>A. M.</given-names></name>; <name><surname>Pernak</surname><given-names>J.</given-names></name>
+<article-title>Palladium-Catalyzed
+Asymmetric Heck Arylation of 2,3-Dihydrofuran &#x02013; Effect of Prolinate
+Salts</article-title>. <source>Dalton Trans.</source>
+<year>2013</year>, <volume>42</volume> (<issue>4</issue>), <fpage>1215</fpage>&#x02013;<lpage>1222</lpage>. <pub-id pub-id-type="doi">10.1039/C2DT31672B</pub-id>.<pub-id pub-id-type="pmid">23135637</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Anastas</surname><given-names>P.</given-names></name>; <name><surname>Eghbali</surname><given-names>N.</given-names></name>
+<article-title>Green Chemistry: Principles
+and Practice</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2010</year>, <volume>39</volume> (<issue>1</issue>), <fpage>301</fpage>&#x02013;<lpage>312</lpage>. <pub-id pub-id-type="doi">10.1039/B918763B</pub-id>.<pub-id pub-id-type="pmid">20023854</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Prat</surname><given-names>D.</given-names></name>; <name><surname>Pardigon</surname><given-names>O.</given-names></name>; <name><surname>Flemming</surname><given-names>H.-W.</given-names></name>; <name><surname>Letestu</surname><given-names>S.</given-names></name>; <name><surname>Ducandas</surname><given-names>V.</given-names></name>; <name><surname>Isnard</surname><given-names>P.</given-names></name>; <name><surname>Guntrum</surname><given-names>E.</given-names></name>; <name><surname>Senac</surname><given-names>T.</given-names></name>; <name><surname>Ruisseau</surname><given-names>S.</given-names></name>; <name><surname>Cruciani</surname><given-names>P.</given-names></name>; <name><surname>Hosek</surname><given-names>P.</given-names></name>
+<article-title>Sanofi&#x02019;s
+Solvent Selection
+Guide: A Step Toward More Sustainable Processes</article-title>. <source>Org. Process Res. Dev.</source>
+<year>2013</year>, <volume>17</volume> (<issue>12</issue>), <fpage>1517</fpage>&#x02013;<lpage>1525</lpage>. <pub-id pub-id-type="doi">10.1021/op4002565</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Kroon</surname><given-names>M. C.</given-names></name>; <name><surname>Buijs</surname><given-names>W.</given-names></name>; <name><surname>Peters</surname><given-names>C. J.</given-names></name>; <name><surname>Witkamp</surname><given-names>G.-J.</given-names></name>
+<article-title>Quantum Chemical
+Aided Prediction of the Thermal Decomposition Mechanisms and Temperatures
+of Ionic Liquids</article-title>. <source>Thermochim. Acta</source>
+<year>2007</year>, <volume>465</volume> (<issue>1&#x02013;2</issue>), <fpage>40</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/j.tca.2007.09.003</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Kulkarni</surname><given-names>P. S.</given-names></name>; <name><surname>Branco</surname><given-names>L. C.</given-names></name>; <name><surname>Crespo</surname><given-names>J. G.</given-names></name>; <name><surname>Nunes</surname><given-names>M. C.</given-names></name>; <name><surname>Raymundo</surname><given-names>A.</given-names></name>; <name><surname>Afonso</surname><given-names>C. A. M.</given-names></name>
+<article-title>Comparison of Physicochemical Properties of New Ionic
+Liquids Based on imidazolium, Quaternary Ammonium, and Guanidinium
+Cations</article-title>. <source>Chem. - Eur. J.</source>
+<year>2007</year>, <volume>13</volume> (<issue>30</issue>), <fpage>8478</fpage>&#x02013;<lpage>8488</lpage>. <pub-id pub-id-type="doi">10.1002/chem.200700965</pub-id>.<pub-id pub-id-type="pmid">17665379</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Cancemi</surname><given-names>P.</given-names></name>; <name><surname>Buttacavoli</surname><given-names>M.</given-names></name>; <name><surname>D&#x02019;Anna</surname><given-names>F.</given-names></name>; <name><surname>Feo</surname><given-names>S.</given-names></name>; <name><surname>Fontana</surname><given-names>R. M.</given-names></name>; <name><surname>Noto</surname><given-names>R.</given-names></name>; <name><surname>Sutera</surname><given-names>A.</given-names></name>; <name><surname>Vitale</surname><given-names>P.</given-names></name>; <name><surname>Gallo</surname><given-names>G.</given-names></name>
+<article-title>The Effects
+of Structural Changes on the Anti-Microbial and Anti-Proliferative
+Activities of Diimidazolium Salts</article-title>. <source>New J. Chem.</source>
+<year>2017</year>, <volume>41</volume> (<issue>9</issue>), <fpage>3574</fpage>&#x02013;<lpage>3585</lpage>. <pub-id pub-id-type="doi">10.1039/C6NJ03904A</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Egorova</surname><given-names>K.
+S.</given-names></name>; <name><surname>Ananikov</surname><given-names>V. P.</given-names></name>
+<article-title>Toxicity
+of Ionic Liquids: Eco(Cyto)Activity as Complicated,
+but Unavoidable Parameter for Task-Specific Optimization</article-title>. <source>ChemSusChem</source>
+<year>2014</year>, <volume>7</volume> (<issue>2</issue>), <fpage>336</fpage>&#x02013;<lpage>360</lpage>. <pub-id pub-id-type="doi">10.1002/cssc.201300459</pub-id>.<pub-id pub-id-type="pmid">24399804</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Vrane&#x00161;</surname><given-names>M.</given-names></name>; <name><surname>Tot</surname><given-names>A.</given-names></name>; <name><surname>Jovanovi&#x00107;-&#x00160;anta</surname><given-names>S.</given-names></name>; <name><surname>Karaman</surname><given-names>M.</given-names></name>; <name><surname>Do&#x0017e;i&#x00107;</surname><given-names>S.</given-names></name>; <name><surname>Te&#x00161;anovi&#x00107;</surname><given-names>K.</given-names></name>; <name><surname>Koji&#x00107;</surname><given-names>V.</given-names></name>; <name><surname>Gad&#x0017e;uri&#x00107;</surname><given-names>S.</given-names></name>
+<article-title>Toxicity Reduction of imidazolium-Based
+Ionic Liquids by the Oxygenation of the Alkyl Substituent</article-title>. <source>RSC Adv.</source>
+<year>2016</year>, <volume>6</volume> (<issue>98</issue>), <fpage>96289</fpage>&#x02013;<lpage>96295</lpage>. <pub-id pub-id-type="doi">10.1039/C6RA16182K</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Paula</surname><given-names>S.</given-names></name>; <name><surname>Volkov</surname><given-names>A. G.</given-names></name>; <name><surname>Deamer</surname><given-names>D. W.</given-names></name>
+<article-title>Permeation
+of Halide Anions through
+Phospholipid bilayers Occurs by the Solubility-Diffusion Mechanism</article-title>. <source>Biophys. J.</source>
+<year>1998</year>, <volume>74</volume> (<issue>1</issue>), <fpage>319</fpage>&#x02013;<lpage>327</lpage>. <pub-id pub-id-type="doi">10.1016/S0006-3495(98)77789-6</pub-id>.<pub-id pub-id-type="pmid">9449332</pub-id>
+</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Dean</surname><given-names>P. M.</given-names></name>; <name><surname>Golding</surname><given-names>J. J.</given-names></name>; <name><surname>Pringle</surname><given-names>J. M.</given-names></name>; <name><surname>Forsyth</surname><given-names>M.</given-names></name>; <name><surname>Skelton</surname><given-names>B. W.</given-names></name>; <name><surname>White</surname><given-names>A. H.</given-names></name>; <name><surname>MacFarlane</surname><given-names>D. R.</given-names></name>
+<article-title>The Effect
+of Alkyl Chain Length
+in a Series of Novel N-Alkyl-3-Benzylimidazolium Iodide Salts</article-title>. <source>CrystEngComm</source>
+<year>2009</year>, <volume>11</volume> (<issue>11</issue>), <fpage>2456</fpage><pub-id pub-id-type="doi">10.1039/b906142h</pub-id>.</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Branzoi</surname><given-names>V.</given-names></name>; <name><surname>Branzoi</surname><given-names>F.</given-names></name>; <name><surname>Baibarac</surname><given-names>M.</given-names></name>
+<article-title>The Inhibition of the Corrosion of
+Armco Iron in HCl Solutions in the Presence of Surfactants of the
+Type of N-Alkyl Quaternary Ammonium Salts</article-title>. <source>Mater.
+Chem. Phys.</source>
+<year>2000</year>, <volume>65</volume> (<issue>3</issue>), <fpage>288</fpage>&#x02013;<lpage>297</lpage>. <pub-id pub-id-type="doi">10.1016/S0254-0584(00)00260-1</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Arellanes-Lozada</surname><given-names>P.</given-names></name>; <name><surname>D&#x000ed;az-Jim&#x000e9;nez</surname><given-names>V.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Cocoletzi</surname><given-names>H.</given-names></name>; <name><surname>Nava</surname><given-names>N.</given-names></name>; <name><surname>Olivares-Xometl</surname><given-names>O.</given-names></name>; <name><surname>Likhanova</surname><given-names>N. V.</given-names></name>
+<article-title>Corrosion
+Inhibition Properties of Iodide Ionic Liquids for API 5L X52 Steel
+in Acid Medium</article-title>. <source>Corros. Sci.</source>
+<year>2020</year>, <volume>175</volume>, <elocation-id>108888</elocation-id><pub-id pub-id-type="doi">10.1016/j.corsci.2020.108888</pub-id>.</mixed-citation></ref></ref-list></back></article>

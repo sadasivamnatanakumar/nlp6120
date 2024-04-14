@@ -1,0 +1,363 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Org Lett</journal-id><journal-id journal-id-type="iso-abbrev">Org Lett</journal-id><journal-id journal-id-type="publisher-id">ol</journal-id><journal-id journal-id-type="coden">orlef7</journal-id><journal-title-group><journal-title>Organic Letters</journal-title></journal-title-group><issn pub-type="ppub">1523-7060</issn><issn pub-type="epub">1523-7052</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38055858</article-id><article-id pub-id-type="pmc">PMC10729022</article-id>
+<article-id pub-id-type="doi">10.1021/acs.orglett.3c03731</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Borylation&#x02013;Reduction&#x02013;Borylation
+for
+the Formation of 1,4-Azaborines</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Kothavale</surname><given-names>Shantaram
+S.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Iqbal</surname><given-names>Saqib A.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Hanover</surname><given-names>Emily L.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-0203-6256</contrib-id><name><surname>Gupta</surname><given-names>Abhishek K.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath5"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-7183-6022</contrib-id><name><surname>Zysman-Colman</surname><given-names>Eli</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9975-8302</contrib-id><name><surname>Ingleson</surname><given-names>Michael J.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>EaStCHEM
+School of Chemistry, <institution>The University of Edinburgh</institution>, Edinburgh EH9 3FJ, <country>United Kingdom</country></aff><aff id="aff2"><label>&#x02021;</label>Organic
+Semiconductor Centre and EaStCHEM School of Chemistry, <institution>University of St Andrews</institution>, St Andrews KY16 9ST, <country>United Kingdom</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>michael.ingleson@ed.ac.uk</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>eli.zysman-colman@st-andrews.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>15</day><month>12</month><year>2023</year></pub-date><volume>25</volume><issue>49</issue><fpage>8912</fpage><lpage>8916</lpage><history><date date-type="received"><day>06</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>30</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>28</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0007" id="ab-tgr1"/></p><p>Given the current
+interest in materials containing 1,4-azaborine
+units, the development of new routes to these structures is important.
+Carbonyl directed electrophilic borylation using BBr<sub>3</sub> is
+a facile method for the <italic>ortho</italic>-borylation of <italic>N</italic>,<italic>N</italic>-diaryl-amide derivatives. Subsequent
+addition of Et<sub>3</sub>SiH results in carbonyl reduction and then
+formation of 1,4-azaborines that can be protected <italic>in situ</italic> using a Grignard reagent. Overall, borylation&#x02013;reduction&#x02013;borylation
+is a one-pot methodology to access 1,4-azaborines from simple precursors.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>H2020 European Research Council</institution><institution-id institution-id-type="doi">10.13039/100010663</institution-id></institution-wrap></funding-source><award-id>769599</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Leverhulme Trust</institution><institution-id institution-id-type="doi">10.13039/501100000275</institution-id></institution-wrap></funding-source><award-id>RPG-2022-032</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>Engineering and Physical Sciences Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000266</institution-id></institution-wrap></funding-source><award-id>EP/W007517</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ol3c03731</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ol3c03731</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Aryl-fused
+1,4-azaborines are
+polycyclic aromatic hydrocarbons (PAHs) that contain <italic>ortho</italic> boron and nitrogen centers (e.g., <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref4">4</xref></sup> Materials containing these units are of considerable
+current interest principally due to their attractive photophysical
+properties, which has led to their use as emitters in OLEDs.<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref7">7</xref></sup> However, they are utilized in other areas, e.g. as components of
+novel ligands in catalysis<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> and as bioisosteres.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> Therefore, the efficient synthesis of 1,4-azaborines
+is of significant importance.<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref12">12</xref></sup> The classic route to these compounds
+builds on the pioneering work of the groups of Maitlis, Clark and
+Kawashima.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> This uses an <italic>ortho</italic>-halogenated diarylamine
+in a lithium/halogen exchange, with a boron electrophile then added
+to form the 1,4-azaborine (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A). While widely used,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> the requirement for halogenated precursors adds complexity to this
+approach. This is particularly true if the halogenated-diarylamine
+is formed via a Hartwig-Buchwald (HB) coupling reaction, as this necessitates
+making multihalogenated precursors that undergo a selective HB-coupling.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> A more efficient route involves the double C&#x02013;H borylation
+(one inter- and one intramolecular) of a diarylamine using a boron
+electrophile. However, the primary product from intermolecular electrophilic
+borylation of (di)arylamines is the <italic>para</italic> (to <italic>N</italic>) borylated isomer.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Nevertheless,
+seminal work by Hatakeyama and co-workers demonstrated that 1,4-azaborines
+can be accessed by sequential electrophilic C&#x02013;H borylations
+using BX<sub>3</sub> (X = Br or I). First, they achieved this by blocking
+the <italic>para</italic> position, forcing the electrophilic borylation
+to the <italic>ortho</italic> site (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B).<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> Subsequently,
+they demonstrated that in certain cases under forcing conditions it
+is possible to form 1,4-azaborines using arylamine precursors that
+do not contain blocking groups at the <italic>para</italic> position
+(<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>C).<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> These two approaches, termed &#x0201c;one-shot
+borylations&#x0201d;, are powerful and efficient routes to form these
+important materials. The absence of <italic>para</italic>-borylation
+in the last approach is notable and is presumably due to a combination
+of (a) the extended PAH structures having a HOMO localized on the <italic>ortho</italic> sites;<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> and (b) reversible <italic>para</italic> C&#x02013;H borylation under the high temperatures used (generally
+170&#x02013;220 &#x000b0;C). While these developments are impressive,
+alternative routes to transform diarylamine derivatives into 1,4-azaborines
+are of interest particularly if they: (i) expand the accessible compound
+space; (ii) proceed under milder conditions.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Previous work forming
+1,4-azaborines by lithiation/borylation (A)
+or one-shot borylations (B,C).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0001" id="gr1" position="float"/></fig><p>One key challenge to form 1,4-azaborines under
+mild conditions
+is achieving intermolecular electrophilic borylation with the desired
+(<italic>ortho</italic>) regiochemistry. One way to affect facile <italic>ortho</italic> electrophilic borylation of aniline derivatives is
+to install a directing group (DG) at nitrogen and then add BBr<sub>3</sub>.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup> After enabling the <italic>ortho</italic>-borylation, the DG needs
+to be removed to access an <italic>ortho</italic>-BBr<sub>2</sub>-diarylamine
+that can then be used for the intramolecular electrophilic borylation
+to form the 1,4-azaborine. However, the removal of the DGs used to
+date in directed electrophilic borylation of diaryl amines requires
+conditions that are not compatible with Aryl-BBr<sub>2</sub> units.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> An alternative approach exploits recent reports
+of carbonyl directed <italic>ortho</italic>-borylation using BBr<sub>3</sub>.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Post borylation the carbonyl
+moiety can be reduced using silanes (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>, top).<sup><xref ref-type="bibr" rid="cit29b">29b</xref></sup> This
+leads to an ArylBBr<sub>2</sub> unit, as confirmed by isolation of
+the Lewis adduct with the newly formed amine, which produced a boracycle
+(e.g., compound <bold>A</bold>). We hypothesized that applying this
+approach to diarylamine derivatives would lead to a product that does
+not contain a N &#x02192; B dative bond (e.g., <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>. bottom right). Lewis adduct formation in
+this case will be disfavored due to the lower Lewis basicity of the
+diarylamine (relative to the amine in <bold>A</bold>)<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> coupled with the strained nature of the four-membered boracycle
+that would be produced on B&#x02013;N formation. Thus, the ArylBBr<sub>2</sub> unit will be available to perform the second C&#x02013;H borylation
+and form the 1,4-azaborine. Herein we report a borylation&#x02013;reduction&#x02013;borylation
+strategy that forms 1,4-azaborines from simple diarylamine precursors
+at temperatures &#x0003c;60 &#x000b0;C.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Top, previous borylation-reduction. Bottom,
+this work.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0002" id="gr2" position="float"/></fig><p>Based on our previous work,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> initial
+studies used <italic>N,N</italic>,2-triphenylacetamide, <bold>1a</bold>, which contains two inequivalent sites for directed <italic>ortho</italic> C&#x02013;H borylation, on the PhCH<sub>2</sub> and on the N&#x02013;Ph
+unit. Monitoring the reaction of <bold>1a</bold> with BBr<sub>3</sub> by <italic>in situ</italic> NMR spectroscopy revealed selective
+borylation to form <bold>2a-Br</bold><sub><bold>2</bold></sub> which
+was in equilibrium with <bold>[2a-Br][BBr</bold><sub><bold>4</bold></sub><bold>]</bold>, (based on comparable NMR spectra to that reported
+for related systems).<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> The mixture of <bold>2a-Br</bold><sub><bold>2</bold></sub> and <bold>[2a-Br][BBr</bold><sub><bold>4</bold></sub><bold>]</bold> reacted with &#x02265;2 equiv
+of Et<sub>3</sub>SiH to ultimately give one major new boron containing
+product with the <sup>11</sup>B (&#x003b4;<sub>11B</sub> = 50.1) and <sup>1</sup>H NMR spectra consistent with the formation of <bold>3a-Br</bold>. Addition of water to this compound led to a new <sup>11</sup>B
+resonance (&#x003b4;<sub>11B</sub> = 38),<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> consistent with the 1,4-azaborinic acid, <bold>3a&#x02013;OH</bold> (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>, bottom
+right). Definitive confirmation of 1,4-azaborine formation was forthcoming
+from the conversion of <bold>3a-Br</bold> into <bold>4a</bold> by
+the addition of MesMgBr. Compound <bold>4a</bold> is bench stable
+and was isolated by column chromatography, enabling its full characterization.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Initial
+studies into the synthesis of 1,4-azaborines by borylation&#x02013;reduction&#x02013;borylation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0003" id="gr3" position="float"/></fig><p>With the confirmation of 1,4-azaborine formation
+by this approach
+in hand, an optimization study was performed to identify borylation&#x02013;reduction&#x02013;borylation
+conditions applicable to multiple substrates. This revealed that 2.5
+equiv of Et<sub>3</sub>SiH was sufficient for full carbonyl reduction,
+with this step giving optimal outcomes when performed in DCM with
+heating. Higher yields also were obtained using &#x02265;4 equiv of
+MesMgBr (as some MesMgBr is consumed by reaction with the Et<sub>3</sub>SiBr byproduct from the reduction). Using these conditions, a number
+of nitrogen-substituted DGs were explored, including pivaloyl (<bold>1b</bold>), hexanoyl (<bold>1c</bold>) and benzoyl (<bold>1d</bold>), forming <bold>4b</bold>&#x02013;<bold>4d</bold> (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>) containing <italic>N</italic>-neopentyl, <italic>N</italic>-hexyl, and <italic>N</italic>-benzyl
+units. respectively (note: homobenzyl in <bold>4a</bold>, and neopentyl
+in <bold>4b</bold>, have not been used as a <italic>N</italic> substituent
+in any previously reported 1,4-azaborines to our knowledge). Analogous
+to the reaction starting from <bold>1a</bold>, monitoring the borylation&#x02013;reduction&#x02013;borylation
+of <bold>1c</bold> by <italic>in situ</italic> NMR spectroscopy revealed
+that the <italic>B</italic>-Br-1,4-azaborine (<bold>3c-Br</bold>)
+is the only major boron-containing product formed (by multinuclear
+NMR spectroscopy; see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03731/suppl_file/ol3c03731_si_001.pdf">Figures S1, S2</ext-link>).
+However, for <bold>1d</bold>, although the initial C&#x02013;H borylation
+occurs cleanly, the subsequent reduction-borylation steps are not
+clean. Instead, products from N&#x02013;C cleavage are observed (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03731/suppl_file/ol3c03731_si_001.pdf">Figures S3, S4</ext-link>. This is consistent with the lower
+isolated yield observed for <bold>4d</bold> relative to <bold>4a</bold>&#x02013;<bold>4c</bold>. Nevertheless, accessing <bold>4d</bold> with
+a <italic>N</italic>-benzyl group is important as it can be deprotected
+to form the <italic>N</italic>-H-1,4-azaborine for use in subsequent
+reactions as a number of us previously have reported.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Substrate scope for dibenzofused-1,4-azaborines. Reactions were
+performed in sealed tubes. <bold>4<italic>x</italic></bold>: Isolated
+yields.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0004" id="gr4" position="float"/></fig><p>Looking at electronic effects
+in this reaction, electron-withdrawing
+bromines <italic>meta</italic> to the borylation position (Br &#x003c3;<sub>meta</sub> = 0.37) were tolerated with <bold>4e</bold> isolated in
+a yield similar to that of <bold>4f</bold>, which contains electron-donating
+methyl groups (Me &#x003c3;<sub>meta</sub> = &#x02212;0.06). An unsymmetric
+monobrominated derivative also was amenable to this process with <bold>4g</bold> isolated in good yield. Next, we looked at the selectivity
+in the two C&#x02013;H borylation steps by using diarylamine-substituted <italic>meta</italic> to <italic>N</italic> (<bold>1h</bold> and <bold>1i</bold>). This substitution pattern results in the two <italic>ortho</italic> positions being inequivalent. In both cases, the two C&#x02013;H
+borylation steps proceeded with high selectivity for the less sterically
+hindered position leading to formation of <bold>4h</bold> and <bold>4i.</bold> These contain an electron-donating group (<bold>4h</bold>, Me &#x003c3;<sub>para</sub> = &#x02212;0.14) and an electron-withdrawing
+group (<bold>4i</bold>, F &#x003c3;<sub>para</sub> = 0.15), respectively.
+While the functional group tolerance of this process is limited, given
+the use of strong electrophiles (BBr<sub>3</sub>) and reducing conditions,
+we note that halides are the functional group most widely used in
+organic materials for further transformations.</p><p>The potential
+to access 1,4-azaborines other than dibenzofused
+systems by using the same conditions was explored next. Attempts to
+form a B,N-naphthalene (<bold>4j</bold>, <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>) using <italic>N</italic>-vinyl-acetanilide
+led to no 1,4-azaborine product being isolated and instead produced
+a complex, intractable mixture. Using naphthyl-containing precursor <bold>1k</bold> led to the isolation of two 1,4-azaborine products (<bold>4k-&#x003b1;,&#x003b2;</bold>) from unselective borylation of the <italic>alpha</italic> and <italic>beta</italic> positions of naphthalene.
+In contrast, the use of pivaloyl led to the formation of the &#x003b1;
+product as the major isomer, which could be isolated in 30% yield,
+with minimal (&#x0003c;5%) &#x003b2;-isomer (<bold>41-&#x003b2;</bold>) isolated.
+Replacing the naphthalene moiety with benzothiophene led to <bold>1m</bold> being converted into two 1,4-azaborine isomers, <bold>4m-&#x003b1;</bold> and <bold>4m-&#x003b2;</bold>, even when pivaloyl was used as the
+directing group. Note, these isomeric mixtures can be separated by
+column chromatography. In contrast to <bold>1k</bold> and <bold>1m</bold>, the <italic>N</italic>-phenyl carbazole derivative, <bold>1n</bold>, produced only a single azaborine isomer, <bold>4n</bold>, from
+borylation <italic>para</italic> to <italic>N</italic>. Presumably,
+the N-Ph unit provides sufficient steric shielding of its <italic>ortho</italic> C&#x02013;H position to prevent any observable borylation
+at that site. Carbazole-fused 1,4-azaborines are of interest as compounds
+related to <bold>4n</bold> have been reported previously to have superior
+photophysical properties and electrochemical stability relative to
+dibenzofused-1,4-azaborines.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> The extended
+heterocyclic cores of <bold>4m</bold> and <bold>4n</bold> are novel
+structures to the best of our knowledge;<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> furthermore, they are accessible in one pot from <bold>1m/1n</bold>, with <bold>1m</bold> and <bold>1n</bold> themselves accessible
+in two simple steps from commercial precursors (a HB coupling and
+then an acylation). In contrast, the previously reported route to
+carbazole-fused 1,4-azaborines required the initial synthesis of a
+dibrominated dibenzo-fused 1,4-azaborine (related to <bold>4e</bold>), which was used in a HB-coupling reaction with <italic>ortho</italic>-chloro-aniline, followed by a palladium catalyzed C&#x02013;C bond
+forming reaction to make the carbazole fused 1,4-azaborine.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Other fused 1,4-azaborines made through borylation&#x02013;reduction&#x02013;borylation.
+Reactions in sealed tubes; yields are for isolated materials</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0005" id="gr5" position="float"/></fig><p>Next, the construction of multiple 1,4-azaborine
+units in one PAH
+via this methodology was explored. However, multiple attempts to form
+the B<sub>2</sub>N<sub>2</sub> pentacene <bold>4o</bold> via this
+methodology proved unsuccessful (with &#x0003c;5% of the desired product
+isolated), this included using more forcing conditions. In contrast
+these type of materials can be accessed using lithium/halogen exchange
+based synthetic routes (as per <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> The lack of significant
+B<sub>2</sub>N<sub>2</sub> product being formed using this borylation&#x02013;reduction&#x02013;borylation
+method is tentatively attributed to the first C&#x02013;H borylation
+on the central phenyl (shown in red in <bold>4o</bold>) electronically
+deactivating it (due to the &#x003c0; electron withdrawing effect of
+the boron unit)<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> towards further C&#x02013;H
+borylation (see <xref rid="notes2" ref-type="notes">section S2</xref> for more discussion).
+This hypothesis also is supported by the successful formation of 
+B<sub>2</sub>N<sub>2</sub> compound <bold>4p</bold> in 25% isolated
+yield, with the borylation sites in <bold>1p</bold> more electronically
+isolated than those on the central phenyl in <bold>1o</bold>.</p><p>The functionalization of two of the 1,4-azaborines made through
+this borylation&#x02013;reduction&#x02013;borylation method also was
+explored. Compound <bold>4g</bold> was found to be compatible with
+standard HB coupling conditions to form <bold>5</bold> (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref> left). Second, the oxidation
+of sulfur in <bold>4m-&#x003b2;</bold> was attempted as this is a well-established
+method to fine-tune optoelectronic properties.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> This led to the formation of the sulfone containing azaborine <bold>6</bold>. This enabled comparison of the optoelectronic properties
+of isomers <bold>4m-&#x003b1;,&#x003b2;</bold> and <bold>6</bold>. This
+revealed that the two isomers possess very similar optoelectronic
+properties (e.g., &#x003bb;<sub>max</sub> for the lowest energy absorption
+band = 416 and 409 nm, see <xref rid="notes2" ref-type="notes">Figure S98</xref>) with
+the peak reduction potentials being &#x02212;2.13 and &#x02212;2.10
+V, respectively (versus Fc/Fc<sup>+</sup>). This was in agreement
+with DFT calculations (on model compounds containing N-Me groups instead
+of N&#x02013;CH<sub>2</sub><sup><italic>t</italic></sup>Bu, <xref rid="notes2" ref-type="notes">Figure S95</xref>) that confirmed closely comparable
+HOMO, LUMO and S<sub>1</sub> energies for <sup>Me</sup><bold>4m-&#x003b1;</bold> and <sup>Me</sup><bold>4m-&#x003b2;</bold>. Finally, as expected<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> sulfone containing <bold>6</bold> has a significantly
+stabilized LUMO energy (relative to <bold>4m</bold>), with the peak
+reduction potential observed at &#x02212;1.67 V (versus Fc/Fc<sup>+</sup>).</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Compounds <bold>5</bold> and <bold>6</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_0006" id="gr6" position="float"/></fig><p>In summary, borylation&#x02013;reduction&#x02013;borylation
+is a
+one-pot approach to produce a range of aryl fused 1,4-azaborines using
+a single set of reaction conditions. This methodology proceeds at
+a relatively low (&#x02264;60 &#x000b0;C) temperature for an inter/intramolecular
+electrophilic borylation based route to form 1,4-azaborines and enables
+formation of 1,4-azaborines that would be challenging to access by
+established methodologies.</p></body><back><notes notes-type="data-availability" id="notes1"><title>Data Availability Statement</title><p>The data underlying
+this study are available in the published article and its <xref rid="notes2" ref-type="notes">Supporting Information</xref>. Some of the research data
+supporting this publication also can be accessed at <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.17630/d5437e72-5005-4808-9964-dfdef6adc068">https://doi.org/10.17630/d5437e72-5005-4808-9964-dfdef6adc068</uri></p></notes><notes id="notes2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.orglett.3c03731?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.orglett.3c03731</ext-link>.<list id="silist" list-type="simple"><list-item><p>Full experimental details,
+NMR spectra for all new compounds,
+and plots of optoelectronic data (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03731/suppl_file/ol3c03731_si_001.pdf">PDF</ext-link>)</p></list-item><list-item><p>Cartesian coordinates for 4m-beta (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03731/suppl_file/ol3c03731_si_002.xyz">XYZ</ext-link>)</p></list-item><list-item><p>Cartesian coordinates
+for 4m-alpha (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03731/suppl_file/ol3c03731_si_003.xyz">XYZ</ext-link>)</p></list-item><list-item><p>Cartesian coordinates for compound <bold>6</bold> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03731/suppl_file/ol3c03731_si_004.xyz">XYZ</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_si_001.pdf"><caption><p>ol3c03731_si_001.pdf</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_si_002.xyz"><caption><p>ol3c03731_si_002.xyz</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile3"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_si_003.xyz"><caption><p>ol3c03731_si_003.xyz</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile4"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03731_si_004.xyz"><caption><p>ol3c03731_si_004.xyz</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes3"><title>Author Contributions</title><p>The manuscript
+was written through the contributions of all authors. All authors
+have given approval to the final version of the manuscript.</p></notes><notes notes-type="COI-statement" id="notes4"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This project has received funding from
+the Leverhulme
+Trust (grant Number RPG-2022-032) and the European Research Council
+(ERC) under the European Union&#x02019;s Horizon 2020 research and
+innovation program (Grant Agreement No. 769599). M.J.I. and E.Z.-C.
+also thank the EPSRC Programme Grant &#x0201c;Boron: Beyond the Reagent&#x0201d;
+(EP/W007517/1) for support.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Campbell</surname><given-names>P. G.</given-names></name>; <name><surname>Marwitz</surname><given-names>A. J. V</given-names></name>; <name><surname>Liu</surname><given-names>S.-Y.</given-names></name>
+<article-title>Recent Advances in Azaborine Chemistry</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>6074</fpage>&#x02013;<lpage>6092</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201200063</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Baranac-Stojanovi&#x00107;</surname><given-names>M.</given-names></name>
+<article-title>Aromaticity
+and Stability of Azaborines</article-title>. <source>Chem.&#x02014;Eur.
+J.</source>
+<year>2014</year>, <volume>20</volume>, <fpage>16558</fpage>&#x02013;<lpage>16565</lpage>. <pub-id pub-id-type="doi">10.1002/chem.201402851</pub-id>.<pub-id pub-id-type="pmid">25331155</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>B&#x000e9;langer-Chabot</surname><given-names>G.</given-names></name>; <name><surname>Braunschweig</surname><given-names>H.</given-names></name>; <name><surname>Roy</surname><given-names>D. K.</given-names></name>
+<article-title>Recent Developments in Azaborinine
+Chemistry</article-title>. <source>Eur. J. Inorg. Chem.</source>
+<year>2017</year>, <volume>2017</volume>, <fpage>4353</fpage>&#x02013;<lpage>4368</lpage>. <pub-id pub-id-type="doi">10.1002/ejic.201700562</pub-id>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>McConnell</surname><given-names>C. R.</given-names></name>; <name><surname>Liu</surname><given-names>S.-Y.</given-names></name>
+<article-title>Late-Stage Functionalization
+of BN-Heterocycles</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2019</year>, <volume>48</volume>, <fpage>3436</fpage>&#x02013;<lpage>3453</lpage>. <pub-id pub-id-type="doi">10.1039/C9CS00218A</pub-id>.<pub-id pub-id-type="pmid">31134984</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Du</surname><given-names>C.-Z.</given-names></name>; <name><surname>Wang</surname><given-names>X.-Y.</given-names></name>
+<article-title>The Rise
+of 1,4-BN-Heteroarenes:
+Synthesis, Properties, and Applications</article-title>. <source>Adv.
+Sci.</source>
+<year>2022</year>, <volume>9</volume>, <fpage>2200707</fpage><pub-id pub-id-type="doi">10.1002/advs.202200707</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Madayanad
+Suresh</surname><given-names>S.</given-names></name>; <name><surname>Hall</surname><given-names>D.</given-names></name>; <name><surname>Beljonne</surname><given-names>D.</given-names></name>; <name><surname>Olivier</surname><given-names>Y.</given-names></name>; <name><surname>Zysman-Colman</surname><given-names>E.</given-names></name>
+<article-title>Multiresonant Thermally Activated Delayed Fluorescence
+Emitters Based on Heteroatom-Doped Nanographenes: Recent Advances
+and Prospects for Organic Light-Emitting Diodes</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2020</year>, <volume>30</volume>, <fpage>1908677</fpage><pub-id pub-id-type="doi">10.1002/adfm.201908677</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Kothavale</surname><given-names>S. S.</given-names></name>; <name><surname>Lee</surname><given-names>J. Y.</given-names></name>
+<article-title>Three- and Four-Coordinate, Boron-Based, Thermally
+Activated Delayed Fluorescent Emitters</article-title>. <source>Adv.
+Opt. Mater.</source>
+<year>2020</year>, <volume>8</volume>, <fpage>2000922</fpage><pub-id pub-id-type="doi">10.1002/adom.202000922</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Xu</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Liu</surname><given-names>S.-Y.</given-names></name>
+<article-title>Site-Selective and
+Stereoselective Trans-Hydroboration of 1,3-Enynes Catalyzed by 1,4-Azaborine-Based
+Phosphine-Pd Complex</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>14566</fpage>&#x02013;<lpage>14569</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.6b09759</pub-id>.<pub-id pub-id-type="pmid">27802037</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Abbey</surname><given-names>E. R.</given-names></name>; <name><surname>Liu</surname><given-names>S.-Y.</given-names></name>
+<article-title>BN Isosteres of
+Indole</article-title>. <source>Org.
+Biomol. Chem.</source>
+<year>2013</year>, <volume>11</volume>, <fpage>2060</fpage>&#x02013;<lpage>2069</lpage>. <pub-id pub-id-type="doi">10.1039/c3ob27436e</pub-id>.<pub-id pub-id-type="pmid">23403937</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Giustra</surname><given-names>Z.
+X.</given-names></name>; <name><surname>Liu</surname><given-names>S.-Y.</given-names></name>
+<article-title>The State
+of the Art in Azaborine Chemistry: New Synthetic
+Methods and Applications</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>1184</fpage>&#x02013;<lpage>1194</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.7b09446</pub-id>.<pub-id pub-id-type="pmid">29314835</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Shin</surname><given-names>H. N.</given-names></name>; <name><surname>Hong</surname></name>; <name><surname>Wan Pyo</surname><given-names>I. L.</given-names></name>
+<article-title>1,4-Azaborines:
+Origin, Modern Synthesis, and Applications as Optoelectronic Materials</article-title>. <source>Synthesis</source>
+<year>2021</year>, <volume>54</volume>, <fpage>570</fpage>&#x02013;<lpage>588</lpage>. <pub-id pub-id-type="doi">10.1055/s-0040-1719851</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Guo</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>X.-Y.</given-names></name>
+<article-title>Recent
+Advances in Boron-Containing
+Acenes: Synthesis, Properties, and Optoelectronic Applications&#x02020;</article-title>. <source>Chin. J. Chem.</source>
+<year>2023</year>, <volume>41</volume>, <fpage>1355</fpage>&#x02013;<lpage>1373</lpage>. <pub-id pub-id-type="doi">10.1002/cjoc.202200700</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Maitlis</surname><given-names>P. M.</given-names></name>
+<article-title>New Heteroaromatic
+Compounds. Part IX. Some 10,9-Borazaroanthracenes</article-title>. <source>J. Chem. Soc.</source>
+<year>1961</year>, <fpage>425</fpage>&#x02013;<lpage>429</lpage>. <pub-id pub-id-type="doi">10.1039/jr9610000425</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Kranz</surname><given-names>M.</given-names></name>; <name><surname>Hampel</surname><given-names>F.</given-names></name>; <name><surname>Clark</surname><given-names>T.</given-names></name>
+<article-title>N-Methyl-B-Mesityldibenzo-1,4-Azaborinine:
+The First Experimental Structure of a 1,4-Azaborinine Derivative</article-title>. <source>J. Chem. Soc. Chem. Commun.</source>
+<year>1992</year>, <volume>17</volume>, <fpage>1247</fpage>&#x02013;<lpage>1248</lpage>. <pub-id pub-id-type="doi">10.1039/c39920001247</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Agou</surname><given-names>T.</given-names></name>; <name><surname>Kobayashi</surname><given-names>J.</given-names></name>; <name><surname>Kawashima</surname><given-names>T.</given-names></name>
+<article-title>Syntheses, Structure, and Optical
+Properties of Ladder-Type Fused Azaborines</article-title>. <source>Org. Lett.</source>
+<year>2006</year>, <volume>8</volume>, <fpage>2241</fpage>&#x02013;<lpage>2244</lpage>. <pub-id pub-id-type="doi">10.1021/ol060539n</pub-id>.<pub-id pub-id-type="pmid">16706496</pub-id>
+</mixed-citation></ref><ref id="ref16"><note><p>See (and references therein):</p></note><mixed-citation publication-type="journal" id="cit16"><name><surname>Ishikawa</surname><given-names>Y.</given-names></name>; <name><surname>Suzuki</surname><given-names>K.</given-names></name>; <name><surname>Hayashi</surname><given-names>K.</given-names></name>; <name><surname>Nema</surname><given-names>S.</given-names></name>; <name><surname>Yamashita</surname><given-names>M.</given-names></name>
+<article-title>Chlorine-Substituted
+9,10-Dihydro-9-Aza-10-Boraanthracene as a Precursor for Various Boron-
+and Nitrogen-Containing &#x003c0;-Conjugated Compounds</article-title>. <source>Org. Lett.</source>
+<year>2019</year>, <volume>21</volume>, <fpage>1722</fpage>&#x02013;<lpage>1725</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.9b00278</pub-id>.<pub-id pub-id-type="pmid">30838862</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Agou</surname><given-names>T.</given-names></name>; <name><surname>Kobayashi</surname><given-names>J.</given-names></name>; <name><surname>Kawashima</surname><given-names>T.</given-names></name>
+<article-title>Development
+of a General Route to
+Periphery-Functionalized Azaborines and Ladder-Type Azaborines by
+Using Common Intermediates</article-title>. <source>Chem. Commun.</source>
+<year>2007</year>, <volume>30</volume>, <fpage>3204</fpage>&#x02013;<lpage>3206</lpage>. <pub-id pub-id-type="doi">10.1039/b706418g</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Agou</surname><given-names>T.</given-names></name>; <name><surname>Kojima</surname><given-names>T.</given-names></name>; <name><surname>Kobayashi</surname><given-names>J.</given-names></name>; <name><surname>Kawashima</surname><given-names>T.</given-names></name>
+<article-title>Synthesis
+of &#x003c0;-Conjugated Dendrimers Based on Azaborines</article-title>. <source>Org. Lett.</source>
+<year>2009</year>, <volume>11</volume>, <fpage>3534</fpage>&#x02013;<lpage>3537</lpage>. <pub-id pub-id-type="doi">10.1021/ol901035d</pub-id>.<pub-id pub-id-type="pmid">19719196</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Bagutski</surname><given-names>V.</given-names></name>; <name><surname>Del Grosso</surname><given-names>A.</given-names></name>; <name><surname>Carrillo</surname><given-names>J. A.</given-names></name>; <name><surname>Cade</surname><given-names>I. A.</given-names></name>; <name><surname>Helm</surname><given-names>M. D.</given-names></name>; <name><surname>Lawson</surname><given-names>J. R.</given-names></name>; <name><surname>Singleton</surname><given-names>P. J.</given-names></name>; <name><surname>Solomon</surname><given-names>S. A.</given-names></name>; <name><surname>Marcelli</surname><given-names>T.</given-names></name>; <name><surname>Ingleson</surname><given-names>M. J.</given-names></name>
+<article-title>Mechanistic Studies into Amine-Mediated Electrophilic
+Arene Borylation and Its Application in MIDA Boronate Synthesis</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>474</fpage>&#x02013;<lpage>487</lpage>. <pub-id pub-id-type="doi">10.1021/ja3100963</pub-id>.<pub-id pub-id-type="pmid">23205640</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Matsui</surname><given-names>K.</given-names></name>; <name><surname>Oda</surname><given-names>S.</given-names></name>; <name><surname>Yoshiura</surname><given-names>K.</given-names></name>; <name><surname>Nakajima</surname><given-names>K.</given-names></name>; <name><surname>Yasuda</surname><given-names>N.</given-names></name>; <name><surname>Hatakeyama</surname><given-names>T.</given-names></name>
+<article-title>One-Shot Multiple
+Borylation toward BN-Doped Nanographenes</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<year>2018</year>, <volume>140</volume>, <fpage>1195</fpage>&#x02013;<lpage>1198</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.7b10578</pub-id>.<pub-id pub-id-type="pmid">29120174</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Oda</surname><given-names>S.</given-names></name>; <name><surname>Kawakami</surname><given-names>B.</given-names></name>; <name><surname>Yamasaki</surname><given-names>Y.</given-names></name>; <name><surname>Matsumoto</surname><given-names>R.</given-names></name>; <name><surname>Yoshioka</surname><given-names>M.</given-names></name>; <name><surname>Fukushima</surname><given-names>D.</given-names></name>; <name><surname>Nakatsuka</surname><given-names>S.</given-names></name>; <name><surname>Hatakeyama</surname><given-names>T.</given-names></name>
+<article-title>One-Shot Synthesis of Expanded Heterohelicene Exhibiting
+Narrowband Thermally Activated Delayed Fluorescence</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2022</year>, <volume>144</volume>, <fpage>106</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.1c11659</pub-id>.<pub-id pub-id-type="pmid">34941256</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Oda</surname><given-names>S.</given-names></name>; <name><surname>Hatakeyama</surname><given-names>T.</given-names></name>
+<article-title>Development of One-Shot/One-Pot Borylation Reactions
+toward Organoboron-Based Materials</article-title>. <source>Bull. Chem.
+Soc. Jpn.</source>
+<year>2021</year>, <volume>94</volume>, <fpage>950</fpage>&#x02013;<lpage>960</lpage>. <pub-id pub-id-type="doi">10.1246/bcsj.20200372</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Oda</surname><given-names>S.</given-names></name>; <name><surname>Ueura</surname><given-names>K.</given-names></name>; <name><surname>Kawakami</surname><given-names>B.</given-names></name>; <name><surname>Hatakeyama</surname><given-names>T.</given-names></name>
+<article-title>Multiple Electrophilic
+C-H Borylation of Arenes Using Boron Triiodide</article-title>. <source>Org. Lett.</source>
+<year>2020</year>, <volume>22</volume>, <fpage>700</fpage>&#x02013;<lpage>704</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.9b04483</pub-id>.<pub-id pub-id-type="pmid">31908166</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Iqbal</surname><given-names>S. A.</given-names></name>; <name><surname>Cid</surname><given-names>J.</given-names></name>; <name><surname>Procter</surname><given-names>R. J.</given-names></name>; <name><surname>Uzelac</surname><given-names>M.</given-names></name>; <name><surname>Yuan</surname><given-names>K.</given-names></name>; <name><surname>Ingleson</surname><given-names>M. J.</given-names></name>
+<article-title>Acyl-Directed
+Ortho-Borylation of Anilines and C7 Borylation of Indoles Using Just
+BBr<sub>3</sub></article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2019</year>, <volume>58</volume>, <fpage>15381</fpage>&#x02013;<lpage>15385</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201909786</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Lv</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Xue</surname><given-names>X.-S.</given-names></name>; <name><surname>Zhao</surname><given-names>B.</given-names></name>; <name><surname>Liang</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>M.</given-names></name>; <name><surname>Jin</surname><given-names>L.</given-names></name>; <name><surname>Yuan</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>W.-Y.</given-names></name>; <name><surname>Houk</surname><given-names>K. N.</given-names></name>; <name><surname>Shi</surname><given-names>Z.</given-names></name>
+<article-title>Metal-Free
+Directed sp<sup>2</sup>-C-H Borylation</article-title>. <source>Nature</source>
+<year>2019</year>, <volume>575</volume>, <fpage>336</fpage>&#x02013;<lpage>340</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-019-1640-2</pub-id>.<pub-id pub-id-type="pmid">31723273</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Rej</surname><given-names>S.</given-names></name>; <name><surname>Chatani</surname><given-names>N.</given-names></name>
+<article-title>Regioselective Transition-Metal-Free
+C(sp<sup>2</sup>)-H Borylation: A Subject of Practical and Ongoing
+Interest in Synthetic
+Organic Chemistry</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2022</year>, <volume>61</volume>, <elocation-id>e202209539</elocation-id><pub-id pub-id-type="doi">10.1002/anie.202209539</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Iqbal</surname><given-names>S. A.</given-names></name>; <name><surname>Pahl</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>K.</given-names></name>; <name><surname>Ingleson</surname><given-names>M. J.</given-names></name>
+<article-title>Intramolecular (Directed)
+Electrophilic C-H Borylation</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2020</year>, <volume>49</volume>, <fpage>4564</fpage>&#x02013;<lpage>4591</lpage>. <pub-id pub-id-type="doi">10.1039/C9CS00763F</pub-id>.</mixed-citation></ref><ref id="ref28"><note><p>See (and references therein):</p></note><mixed-citation publication-type="journal" id="cit28"><name><surname>Pahl</surname><given-names>J.</given-names></name>; <name><surname>Noone</surname><given-names>E.</given-names></name>; <name><surname>Uzelac</surname><given-names>M.</given-names></name>; <name><surname>Yuan</surname><given-names>K.</given-names></name>; <name><surname>Ingleson</surname><given-names>M. J.</given-names></name>
+<article-title>Borylation
+Directed Borylation of Indoles Using Pyrazabole Electrophiles: A One-Pot
+Route to C7-Borylated-Indolines</article-title>. <source>Angew. Chem.,
+Int. Ed.</source>
+<year>2022</year>, <volume>61</volume>, <fpage>e202206230</fpage><pub-id pub-id-type="doi">10.1002/anie.202206230</pub-id>.</mixed-citation></ref><ref id="ref29"><note><p>See (and references therein):</p></note><mixed-citation publication-type="journal" id="cit29a"><label>a</label><name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Hao</surname><given-names>L.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>G.</given-names></name>; <name><surname>Ji</surname><given-names>Y.</given-names></name>
+<article-title>C-H Borylation of Benzophenones Using Hydrazone as
+the Traceless Directing Group</article-title>. <source>Org. Lett.</source>
+<year>2023</year>, <volume>25</volume>, <fpage>5875</fpage>&#x02013;<lpage>5879</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.3c02142</pub-id>.<pub-id pub-id-type="pmid">37498107</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="cit29b"><label> b</label><name><surname>Iqbal</surname><given-names>S. A.</given-names></name>; <name><surname>Uzelac</surname><given-names>M.</given-names></name>; <name><surname>Nawaz</surname><given-names>I.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Jones</surname><given-names>T. H.</given-names></name>; <name><surname>Yuan</surname><given-names>K.</given-names></name>; <name><surname>Millet</surname><given-names>C. R. P.</given-names></name>; <name><surname>Nichol</surname><given-names>G. S.</given-names></name>; <name><surname>Chotana</surname><given-names>G. A.</given-names></name>; <name><surname>Ingleson</surname><given-names>M. J.</given-names></name>
+<article-title>Amides as Modifiable Directing Groups
+in Electrophilic Borylation</article-title>. <source>Chem. Sci.</source>
+<year>2023</year>, <volume>14</volume>, <fpage>3865</fpage>&#x02013;<lpage>3872</lpage>. <pub-id pub-id-type="doi">10.1039/D2SC06483A</pub-id>.<pub-id pub-id-type="pmid">37035693</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Sangster</surname><given-names>J.</given-names></name>
+<article-title>Octanol-Water
+Partition Coefficients of Simple Organic Compounds</article-title>. <source>J. Phys. Chem. Ref. Data.</source>
+<year>1989</year>, <volume>18</volume>, <fpage>1111</fpage>&#x02013;<lpage>1229</lpage>. <pub-id pub-id-type="doi">10.1063/1.555833</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Iqbal</surname><given-names>S. A.</given-names></name>; <name><surname>Millet</surname><given-names>C. R. P.</given-names></name>; <name><surname>Pahl</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>K.</given-names></name>; <name><surname>Ingleson</surname><given-names>M. J.</given-names></name>
+<article-title>Two Directing
+Groups Used for Metal Catalysed Meta-C-H Functionalisation Only Effect
+Ortho Electrophilic C-H Borylation</article-title>. <source>Eur. J.
+Org. Chem.</source>
+<year>2022</year>, <volume>2022</volume>, <elocation-id>e202200901</elocation-id><pub-id pub-id-type="doi">10.1002/ejoc.202200901</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Igarashi</surname><given-names>T.</given-names></name>; <name><surname>Tobisu</surname><given-names>M.</given-names></name>; <name><surname>Chatani</surname><given-names>N.</given-names></name>
+<article-title>Catalytic Double Carbon-Boron Bond
+Formation for the Synthesis of Cyclic Diarylborinic Acids as Versatile
+Building Blocks for &#x003c0;-Extended Heteroarenes</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>2069</fpage>&#x02013;<lpage>2073</lpage>. <pub-id pub-id-type="doi">10.1002/anie.201612535</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Sudhakar</surname><given-names>P.</given-names></name>; <name><surname>Kuila</surname><given-names>S.</given-names></name>; <name><surname>Stavrou</surname><given-names>K.</given-names></name>; <name><surname>Danos</surname><given-names>A.</given-names></name>; <name><surname>Slawin</surname><given-names>A. M. Z.</given-names></name>; <name><surname>Monkman</surname><given-names>A.</given-names></name>; <name><surname>Zysman-Colman</surname><given-names>E.</given-names></name>
+<article-title>Azaborine as a Versatile Weak Donor
+for Thermally Activated Delayed Fluorescence</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2023</year>, <volume>15</volume>, <fpage>25806</fpage>&#x02013;<lpage>25818</lpage>. <pub-id pub-id-type="doi">10.1021/acsami.3c05409</pub-id>.<pub-id pub-id-type="pmid">37199521</pub-id>
+</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Nagata</surname><given-names>M.</given-names></name>; <name><surname>Oshiro</surname><given-names>T.</given-names></name>; <name><surname>Mizuhata</surname><given-names>Y.</given-names></name>; <name><surname>Tokitoh</surname><given-names>N.</given-names></name>; <name><surname>Hosoya</surname><given-names>T.</given-names></name>; <name><surname>Yamada</surname><given-names>S.</given-names></name>; <name><surname>Konno</surname><given-names>T.</given-names></name>; <name><surname>Fukumoto</surname><given-names>H.</given-names></name>; <name><surname>Kubota</surname><given-names>T.</given-names></name>; <name><surname>Agou</surname><given-names>T.</given-names></name>
+<article-title>Synthesis of Carbazole-Fused Azaborines via a Pd-Catalyzed C-H Activation-Cyclization
+Reaction</article-title>. <source>Bull. Chem. Soc. Jpn.</source>
+<year>2021</year>, <volume>94</volume>, <fpage>21</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1246/bcsj.20200129</pub-id>.</mixed-citation></ref><ref id="ref35"><note><p>We note that thienyl fused
+1,4-azaborines
+have been previously reported, see:</p></note><mixed-citation publication-type="journal" id="cit35"><name><surname>Mitsudo</surname><given-names>K.</given-names></name>; <name><surname>Shigemori</surname><given-names>K.</given-names></name>; <name><surname>Mandai</surname><given-names>H.</given-names></name>; <name><surname>Wakamiya</surname><given-names>A.</given-names></name>; <name><surname>Suga</surname><given-names>S.</given-names></name>
+<article-title>Synthesis and Properties
+of Dithieno-Fused 1,4-Azaborine Derivatives</article-title>. <source>Org. Lett.</source>
+<year>2018</year>, <volume>20</volume>, <fpage>7336</fpage>&#x02013;<lpage>7340</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.8b03316</pub-id>.<pub-id pub-id-type="pmid">30372077</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Entwistle</surname><given-names>C. D.</given-names></name>; <name><surname>Marder</surname><given-names>T. B.</given-names></name>
+<article-title>Applications of Three-Coordinate Organoboron Compounds
+and Polymers in Optoelectronics</article-title>. <source>Chem. Mater.</source>
+<year>2004</year>, <volume>16</volume>, <fpage>4574</fpage>&#x02013;<lpage>4585</lpage>. <pub-id pub-id-type="doi">10.1021/cm0495717</pub-id>.</mixed-citation></ref><ref id="ref37"><note><p>See (and references therein):</p></note><mixed-citation publication-type="journal" id="cit37"><name><surname>Yuan</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Wolf</surname><given-names>M. O.</given-names></name>
+<article-title>Sulfur-Bridged Chromophores for Photofunctional Materials:
+Using Sulfur Oxidation State to Tune Electronic and Structural Properties</article-title>. <source>Chem. Sci.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>5447</fpage>&#x02013;<lpage>5464</lpage>. <pub-id pub-id-type="doi">10.1039/D2SC01128J</pub-id>.<pub-id pub-id-type="pmid">35694344</pub-id>
+</mixed-citation></ref></ref-list></back></article>

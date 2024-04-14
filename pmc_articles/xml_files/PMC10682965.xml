@@ -1,0 +1,71 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="anr312264" xml:lang="en" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Anaesth Rep</journal-id><journal-id journal-id-type="iso-abbrev">Anaesth Rep</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2637-3726</journal-id><journal-id journal-id-type="publisher-id">ANR3</journal-id><journal-title-group><journal-title>Anaesthesia Reports</journal-title></journal-title-group><issn pub-type="epub">2637-3726</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38031632</article-id><article-id pub-id-type="pmc">PMC10682965</article-id>
+<article-id pub-id-type="doi">10.1002/anr3.12264</article-id><article-id pub-id-type="publisher-id">ANR312264</article-id><article-categories><subj-group subj-group-type="overline"><subject>Clinical and Educational Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical and Educational Articles</subject></subj-group></article-categories><title-group><article-title>Challenges in confirming the position of a central venous catheter in the presence of an arterio&#x02010;venous haemodialysis fistula</article-title><alt-title alt-title-type="right-running-head">CVC in arterio&#x02010;venous haemodialysis fistula</alt-title><alt-title alt-title-type="left-running-head">Evans and Hall</alt-title></title-group><contrib-group><contrib id="anr312264-cr-0001" contrib-type="author" corresp="yes"><name><surname>Evans</surname><given-names>C. R.</given-names></name><role>Junior Clinical Fellow</role><xref rid="anr312264-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>chris.evans26@nhs.net</email></address></contrib><contrib id="anr312264-cr-0002" contrib-type="author"><name><surname>Hall</surname><given-names>T. M.</given-names></name><role>Specialty Trainee</role><xref rid="anr312264-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="anr312264-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Paediatric Intensive Care</named-content>
+<institution>St Georges Hospital</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="anr312264-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Anaesthesia</named-content>
+<institution>St Georges Hospital</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+Correspondence to: C. R. Evans<break/>
+Email: <email>chris.evans26@nhs.net</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>11</month><year>2023</year></pub-date><pub-date pub-type="collection"><season>Jul-Dec</season><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>28</day><month>11</month><year>2023</year></pub-date><volume>11</volume><issue seq="290">2</issue><issue-id pub-id-type="doi">10.1002/anr3.v11.2</issue-id><elocation-id>e12264</elocation-id><history>
+<date date-type="accepted"><day>03</day><month>11</month><year>2023</year></date>
+</history><permissions><!--2023 &#x000a9; Association of Anaesthetists--><copyright-statement content-type="article-copyright">&#x000a9; 2023 The Authors. <italic toggle="yes">Anaesthesia Reports</italic> published by John Wiley &#x00026; Sons Ltd on behalf of Association of Anaesthetists.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ANR3-11-e12264.pdf"/><kwd-group kwd-group-type="author-generated"><kwd id="anr312264-kwd-0001">arteriovenous fistula</kwd><kwd id="anr312264-kwd-0002">central venous catheter</kwd><kwd id="anr312264-kwd-0003">chronic renal failure</kwd><kwd id="anr312264-kwd-0004">intensive care unit</kwd></kwd-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="2"/><word-count count="915"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July&#x02010;December 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.5 mode:remove_FC converted:28.11.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="anr312264-ntgp-0001"><fn id="anr312264-note-0001"><p>1 Junior Clinical Fellow, Department of Paediatric Intensive Care, 2 Specialty Trainee, Department of Anaesthesia, St Georges Hospital, London, UK</p></fn></fn-group></notes></front><body id="anr312264-body-0001"><p>A 71&#x02010;year&#x02010;old man was admitted to the Cardiothoracic Intensive Care Unit following implantation of a left ventricular assist device (LVAD) (Impella, Abiomed, Danvers, MA, USA) and percutaneous coronary intervention (PCI) procedure. His medical history included coronary artery disease and end&#x02010;stage chronic kidney disease requiring haemodialysis via an arteriovenous (AV) fistula on his right arm. He was transferred to our centre with new onset heart failure and was found to have a left ventricular ejection fraction of 22% on transthoracic echo. Percutaneous coronary intervention was deemed too high risk to undertake without LVAD support. During a protracted recovery, on day 46, he required a replacement central venous catheter (CVC) and dialysis catheter. The left internal jugular vein was chosen due to the presence of existing vascular access devices elsewhere. An 8.5 Fr, 20&#x02009;cm quad&#x02010;lumen CVC (Multicath 4expert, Vygon, Aachen, Germany) and a 13.5 Fr, 20&#x02009;cm dual lumen dialysis catheter (Hemo&#x02010;cath, Nikkiso Co Ltd, Tokyo, Japan) were sited at a depth of 18&#x02009;cm and 17&#x02009;cm respectively, with the dialysis catheter placed proximally.</p><p>Blood gas analysis from the distal lumen of the new CVC showed a pO<sub>2</sub> of 10.8&#x02009;kPa (F<sub>I</sub>O<sub>2</sub> of 0.28). A contemporaneous arterial line sample indicated an arterial pO<sub>2</sub> of 10.5&#x02009;kPa. A sample from the distal lumen of the dialysis catheter indicated a more reassuring pO<sub>2</sub> of 4.24&#x02009;kPa. Repeat CVC samples showed a pO<sub>2</sub> of 10&#x02009;kPa from the distal lumen whilst samples taken from proximal CVC lumens indicated a pO<sub>2</sub> of 4.62&#x02009;kPa, consistent with venous results. Because of these results, we were concerned that the CVC had punctured the left carotid artery. Neither line was transduced at this stage and a computed tomography (CT) angiogram was arranged urgently, which confirmed an appropriate position for both lines (Fig.&#x000a0;<xref rid="anr312264-fig-0001" ref-type="fig">1</xref>).</p><fig position="float" fig-type="Figure" id="anr312264-fig-0001"><label>Figure 1</label><caption><p>Reconstructed 3D image of CT angiogram of the aortic arch and carotid arteries. The CVC (A) and dialysis catheter (B) can be seen entering the left aspect of the neck and the left internal jugular vein. The CT report confirmed the presence of both catheter tips in the distal left brachiocephalic vein (C). Contrast is noted to obscure the distal part of both catheters in this image.</p></caption><graphic xlink:href="ANR3-11-e12264-g001" position="anchor" id="jats-graphic-1"/></fig><p>This case highlights the difficulty of interpreting blood gas samples taken from a CVC in a patient with an AV fistula. The presence of a high pO<sub>2</sub> cannot be interpreted accurately because of abnormal flow of arterial blood from the fistula. However, results compatible with venous samples were taken from the proximal lumens of the CVC which complicated the interpretation of results. Although rare, cases of patients with AV fistulae in whom CVC location is unclear due to unexpected blood gas analysis data have been previously reported [<xref rid="anr312264-bib-0001" ref-type="bibr">1</xref>, <xref rid="anr312264-bib-0002" ref-type="bibr">2</xref>]. It is well established that the central veins demonstrate laminar flow and that laminae vary in their oxygenation, indicating that mixing of content between the laminae does not necessarily occur [<xref rid="anr312264-bib-0003" ref-type="bibr">3</xref>]. It seems most likely in our case that the distal CVC lumen was situated sufficiently close to the fistula to allow aspiration from an arterial, well&#x02010;oxygenated stream of blood.</p><p>As per Association of Anaesthetists guidance [<xref rid="anr312264-bib-0004" ref-type="bibr">4</xref>], pressure transduction is an option for assessing placement of a CVC, alongside blood gas assessment. Manometer tubing can be attached to the cannula used in the modified Seldinger technique to allow the confirmation of venous placement before dilation [<xref rid="anr312264-bib-0005" ref-type="bibr">5</xref>], although care must be taken to maintain sterility. Transducing all CVC lumens would have helped confirm intravenous placement in this case. However, we highlight the importance of further investigation of CVC placement prior to use in cases where malposition cannot be ruled out.</p></body><back><ref-list id="anr312264-bibl-0001" content-type="cited-references"><title>References</title><ref id="anr312264-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="anr312264-cit-0001">
+<string-name>
+<surname>Yee</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Despotis</surname>
+<given-names>GJ</given-names>
+</string-name>. <article-title>Increased venous hemoglobin saturation during percutaneous right internal jugular vein cannulation in a patient with a mature right forearm arteriovenous hemodialysis fistula</article-title>. <source>Journal of the American Society of Anesthesiologists</source>
+<year>1990</year>; <volume>73</volume>: <fpage>184</fpage>&#x02013;<lpage>185</lpage>.</mixed-citation></ref><ref id="anr312264-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="anr312264-cit-0002">
+<string-name>
+<surname>Williamson</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Werstler</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Central lines in patients with AV fistula</article-title>. <source>Anaesthesia</source>
+<year>2006</year>; <volume>61</volume>: <fpage>819</fpage>&#x02013;<lpage>820</lpage>.</mixed-citation></ref><ref id="anr312264-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="anr312264-cit-0003">
+<string-name>
+<surname>Helps</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Observations on laminar flow in veins</article-title>. <source>Journal of Physiology</source>
+<year>1954</year>; <volume>124</volume>: <fpage>631</fpage>&#x02013;<lpage>639</lpage>.<pub-id pub-id-type="pmid">13175205</pub-id>
+</mixed-citation></ref><ref id="anr312264-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="anr312264-cit-0004">
+<string-name>
+<surname>Bodenham</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Babu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Association of Anaesthetists of Great Britain and Ireland: safe vascular access 2016</article-title>. <source>Anaesthesia</source>
+<year>2016</year>; <volume>71</volume>: <fpage>573</fpage>&#x02013;<lpage>585</lpage>.<pub-id pub-id-type="pmid">26888253</pub-id>
+</mixed-citation></ref><ref id="anr312264-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="anr312264-cit-0005">
+<collab collab-type="authors">Queen Alexandra Hospital</collab>
+. <article-title>Central Venous Catheter Insertion in Critical Care Guideline</article-title>. 30 June 2017. <ext-link xlink:href="https://www.portsmouthicu.com/resources/2017-06-30-CVC(2017).pdf" ext-link-type="uri">https://www.portsmouthicu.com/resources/2017&#x02010;06&#x02010;30&#x02010;CVC(2017).pdf</ext-link> (accessed 16/10/2023).</mixed-citation></ref></ref-list></back></article>

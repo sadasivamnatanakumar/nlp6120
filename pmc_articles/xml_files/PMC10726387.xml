@@ -1,0 +1,429 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38032839</article-id><article-id pub-id-type="pmc">PMC10726387</article-id>
+<article-id pub-id-type="doi">10.1021/acs.jpclett.3c02778</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Electrical Discharge
+in a Cavitating Liquid under
+an Ultrasound Field</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Karabassov</surname><given-names>T.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2978-8650</contrib-id><name><surname>Vasenko</surname><given-names>A. S.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Bayazitov</surname><given-names>V. M.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-5085-5195</contrib-id><name><surname>Golubov</surname><given-names>A. A.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Fedulov</surname><given-names>I. S.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Abramova</surname><given-names>A. V.</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><aff id="aff1"><label>&#x02020;</label><institution>HSE
+University</institution>, 101000 Moscow, <country>Russia</country></aff><aff id="aff2"><label>&#x02021;</label><institution>Donostia
+International Physics Center (DIPC)</institution>, 20018 San Sebasti&#x000e1;n/Donostia, Basque Country, <country>Spain</country></aff><aff id="aff3"><label>&#x000a7;</label>N.S.
+Kurnakov Institute of General and Inorganic Chemistry, <institution>Russian Academy of Sciences</institution>, 119991 Moscow, <country>Russia</country></aff><aff id="aff4"><label>&#x02225;</label>Faculty
+of Science and Technology and MESA+ Institute of Nanotechnology, <institution>University of Twente</institution>, 7500AE Enschede, <country>The Netherlands</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email <email>a.golubov@utwente.nl</email>.</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>11</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><volume>14</volume><issue>49</issue><fpage>10880</fpage><lpage>10885</lpage><history><date date-type="received"><day>05</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>22</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>13</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0008" id="ab-d33e123"/></p><p>A theoretical model for an electrical discharge in a
+cavitating
+liquid is developed and compared with experiments for the optimization
+of the water treatment device. The calculations based on solution
+of the Noltingk&#x02014;Neppiras equation support the hypothesis that
+the electric field promotes the formation of vapor microchannels inside
+a liquid gap between the electrodes, where at a low gas pressure Paschen&#x02019;s
+conditions of rupture and abnormal glow discharge maintenance in those
+microchannels are fulfilled. Theoretical analysis of the cavitation
+processes and the discharge formation processes is in qualitative
+agreement with the experimental data obtained in this work in a water
+treatment device using a hydrodynamic emitter. The following graphic
+illustrates the experimental setup: (1) feeding tank, (2) hydrodynamic
+emitter, (3) zone of cavitation inside the plasma reactor, (4) high-frequency
+generator of electric impulses, and (5) outlet.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>IGIC RAS state assignment</institution><institution-id institution-id-type="doi">NA</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz3c02778</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz3c02778</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>New technologies for contaminated-water
+treatment are currently in great demand. The proposed approaches include
+oxidation-based physical and chemical processes,<sup><xref ref-type="bibr" rid="ref1">1</xref>&#x02212;<xref ref-type="bibr" rid="ref13">13</xref></sup> in particular methods that involve the simultaneous action of UV
+radiation and oxidizers: ozone,<sup><xref ref-type="bibr" rid="ref14">14</xref>&#x02212;<xref ref-type="bibr" rid="ref18">18</xref></sup> hydrogen peroxide,<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> etc., and those
+that involve various combinations of ozonation and sonication.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref27">27</xref></sup></p><p>Among such technologies for purification of aqueous solutions
+from
+organic compounds methods that involve the use of combined plasma-catalytic
+processes are especially interesting.<sup><xref ref-type="bibr" rid="ref28">28</xref></sup> Experiments have shown that in a liquid subjected to an intense
+ultrasound (US) field above the cavitation threshold, there may exist
+a form of electric discharge that features volumetric glow across
+the entire space between the electrodes.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Such discharge can be used to treat liquid flows in order to remove
+organic contaminants and microorganisms from contaminated water,<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> for carbon dioxide conversion,<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> etc.
+Such a method does not require additional use of reagents.</p><p>When
+processing the liquid flow by the above-mentioned cold plasma
+method, local electrical breakdowns occur in the liquid flow with
+the formation of streamers containing an ionized oxygen and hydrogen
+mixture. Therefore, in order to develop an effective method of wastewater
+treatment, it is necessary to create a favorable environment for 
+discharge to occur simultaneously throughout the entire volume of
+the flow reactor. In order to optimize the characteristics of the
+process, i.e., the optimal intensity of ultrasound in the discharge
+zone, it is necessary to understand the processes that occur in such
+a hybrid environment.</p><p>Recently, the phenomena of the plasma
+discharge in liquids at intensive
+ultrasonic field above the cavitation threshold attracted great interest.<sup><xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref41">41</xref></sup> At the same time, a theoretical model for such processes is lacking.
+The main purpose of this work is to formulate such a model and test
+it using experimental data from a water treatment device with a hydrodynamic
+emitter.</p><p>In ref (<xref ref-type="bibr" rid="ref29">29</xref>) we have
+formulated the hypothesis that such discharge can emerge in a cavitating
+liquid because it is a dynamic two-phase medium. In that case, the
+following scenario for the development of such a discharge may be
+suggested: in a medium with developed cavitation, numerous unstable
+oscillating bubbles may occur. The electric field promotes the arrangement
+of such bubbles into chains, with the formation of numerous gas microchannels
+in the gap between the electrodes, where at a low gas pressure Paschen&#x02019;s
+conditions of rupture and abnormal glow discharge maintenance in those
+microchannels are fulfilled. Those microchannels are dynamic formations
+that constantly appear and disappear in the US acoustic and quasi-stationary
+or stationary electric field, creating the image of average volumetric
+discharge glow.</p><p>In this work, we introduce detailed theoretical
+analysis of the
+cavitation processes and the discharge formation processes, which
+enables us to optimize the water treatment device for removal of organic
+contaminants from water flows.</p><p>First of all, let us consider
+the constrained medium (space between
+the electrodes) filled with a liquid (water). If we apply an external
+sound field to the medium, we expect to observe the creation and subsequent
+oscillations of the bubbles. This happens due to the expansion and
+contraction phases of the cavities in the liquid under an external
+periodic sound field. Assuming the created cavities are filled with
+gas (generally air), we can expect two types of cavitation dynamics
+of the bubbles: stable and transient. More detailed studies of distinctions
+between these two types of cavitation can be found in ref (<xref ref-type="bibr" rid="ref42">42</xref>). Transient cavitation
+is characterized by the eventual collapse of the bubble. Importantly,
+during the transient cavitation, the bubble&#x02019;s size can grow
+orders of magnitude before collapsing.</p><p>The basic features of
+the cavitating bubbles can be described by
+the Noltingk&#x02014;Neppiras equation<sup><xref ref-type="bibr" rid="ref42">42</xref></sup><disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_m001" position="anchor"/><label>1</label></disp-formula>where <italic>P</italic><sub>0</sub> is the initial pressure in the cavity [Pa] (10<sup>5</sup> Pa), <italic>P</italic><sub>A</sub> is the acoustic pressure amplitude
+[Pa], &#x003c9; is the frequency of acoustic radiation [2&#x003c0; Hz], <italic>R</italic><sub>0</sub> is the initial radius of the cavity [m], &#x003c1;<sub>0</sub> is the density of the liquid [kg/m<sup>3</sup>] (997 kg/m<sup>3</sup> for water), and &#x003c3; is the surface tension [N/m] (72.86
+&#x000d7; 10<sup>&#x02013;3</sup> N/m for water at 20 &#x000b0;C).</p><p>Assuming an ideal gas in the bubbles, and neglecting heat and mass
+transfer, we can write the expression for the pressure inside the
+cavity as<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_m002" position="anchor"/><label>2</label></disp-formula>After solving the nonlinear <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref>, we find that for the
+operating regime with ultrasound frequencies of the order of 20&#x02013;60
+kHz and the sound pressure amplitude of 0.7 MPa (which corresponds
+to the ultrasound intensity of approximately 14 W/cm<sup>2</sup>),
+for various initial bubble radii <italic>R</italic><sub>0</sub>, an
+increase in the radius to values from <italic>R</italic>/<italic>R</italic><sub>0</sub> &#x0223c; 5 to <italic>R</italic>/<italic>R</italic><sub>0</sub> &#x0223c; 100 is observed. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a shows the bubble growth curves on a logarithmic
+scale. It can also be seen that at a certain moment the cavity collapses,
+reflecting the transient cavitation type of the bubbles. Knowing that
+the size of the cavitating bubbles can grow in orders of magnitude,
+depending on initial radius <italic>R</italic><sub>0</sub> we can
+estimate the pressure inside the bubble as <italic>P</italic><sub>T</sub>/<italic>P</italic><sub>0</sub> &#x02248; (<italic>R</italic>/<italic>R</italic><sub>0</sub>)<sup>&#x02212;3</sup>, which gives
+the pressure drop up to <italic>P</italic><sub>T</sub>/<italic>P</italic><sub>0</sub> &#x0223c; 10<sup>&#x02013;6</sup>. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b shows the dynamics of the bubble size with <italic>R</italic><sub>0</sub> = 10 &#x003bc;m for different acoustic field
+period <italic>T</italic> = 2&#x003c0;/&#x003c9;. Under the assumption
+that the concentration of bubbles is sufficient for the formation
+of plasma flow channels, we may expect that comparable pressure is
+maintained in the bubbles forming the plasma channels. Keeping this
+in mind, we turn to Pachen&#x02019;s law for the voltage breakdown
+in gases<sup><xref ref-type="bibr" rid="ref39">39</xref></sup><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_m003" position="anchor"/><label>3</label></disp-formula>where <italic>A</italic> and <italic>B</italic> are the coefficients determined from the experiment, <italic>p</italic> is the gas pressure, <italic>d</italic> is the distance
+between electrodes, and &#x003b3; is the coefficient of secondary emission&#x02014;the
+number of electrons leaving the cathode per incident positive ion.
+Now we compare the experimental data for the breakdown voltage in
+the region between two electrodes with the theoretical Pachen&#x02019;s
+curves (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>).
+Here we assume that the electric field in water is smaller by a factor
+of &#x003b5;<sub>r</sub> &#x02248; 74; thus, we divide the result of <xref rid="eq3" ref-type="disp-formula">eq <xref rid="eq3" ref-type="disp-formula">3</xref></xref> by &#x003b5;<sub>r</sub> and plot the corresponding theoretical plot in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Simulated dynamics
+of a single bubble of radius <italic>R</italic> normalized by the
+initial radius <italic>R</italic><sub>0</sub> for
+three different values of <italic>R</italic><sub>0</sub>. Other parameters
+of the calculations are <italic>P</italic><sub>a</sub> = 0.7 MPa, <italic>T</italic> = 2&#x003c0;/&#x003c9; = 50 &#x003bc;s. (b) Simulated dynamics
+of a bubble with initial radius <italic>R</italic><sub>0</sub> = 10<sup>&#x02013;5</sup>m calculated for various periods <italic>T</italic>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0001" id="gr2" position="float"/></fig><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Pachen&#x02019;s curve calculated for three sets of parameters <italic>A</italic>, <italic>B</italic>, &#x003b3;, and <italic>p</italic>. <italic>A</italic> and <italic>B</italic> have the same dimensions [cm Torr]<sup>&#x02212;1</sup>; <italic>p</italic> is measured in [Pa], and &#x003b3;
+is dimensionless. The parameters <italic>A</italic> and <italic>B</italic> which correspond to blue dashed line typically used for air environment
+and those for black solid line are taken between the typical parameters
+for oxygen and hydrogen.<sup><xref ref-type="bibr" rid="ref39">39</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0002" id="gr3" position="float"/></fig><p>Based on the theoretical model described above,
+we can conclude
+that in order to treat the whole liquid flow with the maximum intensity
+at the lowest energy consumption, we need to create with the help
+of ultrasonic cavitation a uniform cloud of pulsating bubbles, which
+fills the entire space between the electrodes. To form such a cavitation
+region in the fluid flow, we chose to use hydrodynamic emitters. Such
+emitters have a number of technological advantages such as ease of
+manufacture, high reliability (due to the absence of electronic components),
+and low cost of acoustic energy. At the same time, acoustic effects,
+such as cavitation and pulsation, arising during the operation of
+a hydrodynamic emitter, are the main factors determining the possibility
+of plasma formation. To optimize the length of the reactor working
+area, a long quartz tube was used in which the dimensions of the cloud
+of cavitation bubbles formed during the operation of the hydrodynamic
+emitter were visually determined. Experimentally, it was found that
+the dependence of the size of the cavitation region on the pressure
+of the liquid supplied to the hydrodynamic radiator is essentially
+nonlinear. At low supply pressures, a smooth increase in its length
+was observed; then at pressures reaching about 5&#x02013;6 MPa, the
+bubble torch length increased by 3&#x02013;4 times with a sharp jump
+because the hydrodynamic radiator apparently went into a different
+mode of operation.</p><p>The hydrodynamic emitter caused a hydrostatic
+pressure drop from
+3 to 6 MPa to 0.07&#x02013;0.02 MPa, which caused vibrations in a wide
+frequency range from 0.3 to 60 kHz with an intensity of 2.5&#x02013;15.5
+W/cm<sup>2</sup> (which corresponds to acoustic pressure levels of
+0.29&#x02013;0.7 MPa). Thus, the parameters of the medium match the
+parameters, which were taken for the modeling of the process above.</p><p>After the approximate length of the cavitation cloud was determined,
+electrodes were placed at the ends of the tube so that one of the
+contacts was at the emitter while the other contact was on the opposite
+side of the reactor. The reactor length of 150 mm was chosen because
+the maximum length of the cavitation zone for the used hydrodynamic
+emitter was found to be 150 mm. As a result, plasma could be formed
+in the experimental setup along the entire length of the reactor.
+The minimum pressure at which the plasma was ignited was 3 MPa, and
+the full length of the torch was observed at only 6 MPa. At inlet
+pressures below 6 MPa, which corresponds to hydrostatic pressures
+near the emitter outlet above 0.02 MPa, the plasma discharge existed
+only in a part of the reactor because the bubbles necessary for the
+process did not reach the electrode at the other end.</p><p>We equipped
+our experimental setup with the following measuring
+devices: (i) The pressure at the outlet of the hydrodynamic emitter
+was measured with a FIZTEKh VTIf vacuum gauge (accuracy class 0.6
+in the measurement range from 0 to 100 kPa). (ii) The voltage was
+measured using a Tektronix TPS2024 oscilloscope. (iii) The plasma
+glow intensity was measured with an Ocean Optics QE65000 optical spectrometer
+in the wavelength range from 220 to 1100 nm. (iv) Acoustic pressure
+data were taken with dynamic pressure sensor GTLab 5 V110TB-6. During
+the experimental runs, it was noted that stable discharge was possible
+only when an alternating voltage with a frequency higher than 25 kHz
+was used for the power supply. This could indicate that the lifetime
+of a bubble channel does not exceed 40 &#x003bc;s, which is in good
+agreement with the presented model.</p><p>Studies were performed to
+monitor the changes in the current&#x02013;voltage
+characteristics during ignition and stable discharge. For this purpose,
+an alternating voltage with a frequency of 38 kHz was applied to the
+electrodes. The amplitude of the voltage was increased step by step.
+We used an oscilloscope to monitor the discharge characteristics.
+The obtained oscillograms are shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>. It can be seen that when a breakdown occurs,
+voltage decreases abruptly, and at the same time the current increases.
+Oscillograms taken during the stable phase of the sonoplasma discharge
+also clearly show that the voltage values reach their peak values
+and then fall (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Changes in the values on the voltage and current waveforms at the
+time of ignition of the plasma discharge (a) and the voltage and current
+waveforms during the stable phase of the plasma discharge in a reactor
+150 mm long.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0003" id="gr4" position="float"/></fig><p>We have found that both the breakdown voltage and
+the stable discharge
+voltage decreased with decreasing pressure at the outlet to the hydrodynamic
+emitter, as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>. Lower hydrostatic pressure at the outlet corresponds to
+a higher pressure drop in the emitter, i.e., a higher acoustic pressure,
+which reaches the target acoustic pressure of 0.7 MPa at optimal conditions
+(pressures at the outlet below 0.02 MPa and above 6 MPa at the inlet
+of the emitter).</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Dependence of breakdown voltage (red curve) and voltage
+during
+stable discharge glow (blue curve) on the hydrostatic pressure at
+the outlet to the hydrodynamic emitter.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0004" id="gr5" position="float"/></fig><p>Important information about the plasma discharge
+process can be
+obtained by examining the radiation spectra. A typical spectrum of
+the sonoplasma discharge is shown in <xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Radiation spectrum of a plasma discharge formed
+in water in the
+field of hydrodynamic cavitation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0005" id="gr6" position="float"/></fig><p>The effect of the pressure conditions on the intensity
+of the plasma
+glow was investigated. The experiment was performed in the inlet pressure
+range of 4.0&#x02013;7.5 MPa, which corresponds to pressures at the
+outlet of 0.045&#x02013;0.015 MPa, i.e., a pressure drop of 3.955&#x02013;7.485
+MPa. The results of the experiment are shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>.</p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Dependences of the radiation intensity on the
+pressure at the outlet
+of the hydrodynamic emitter.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0006" id="gr7" position="float"/></fig><p>As shown in <xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>, the intensity of the glow in the ultraviolet, visible,
+and infrared
+ranges does not further increase after reaching its optimal value
+at a pressure of 0.02 MPa at the outlet of the emitter.</p><p>The
+comparison of the dependence of the breakdown voltage on the
+distance between the electrodes with the theoretical model developed
+in this work is shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>. The theoretical fit gives us approximate values of
+the gas pressure inside the formed streams between <italic>P</italic> = 6 Pa and <italic>P</italic> = 14 Pa, which we may assume as the
+pressure inside the bubbles. These estimated pressures are in a qualitative
+agreement with the pressures obtained by solving <xref rid="eq1" ref-type="disp-formula">eq <xref rid="eq1" ref-type="disp-formula">1</xref></xref> for the considered range of parameters; i.e.,
+the pressure of the order of several Pa in the cavitating bubbles
+is predicted for initial radii of the order between <italic>R</italic><sub>0</sub> &#x0223c; 10<sup>&#x02013;4</sup> m and <italic>R</italic><sub>0</sub> &#x0223c; 10<sup>&#x02013;5</sup> m (see <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>). Thus, the estimated characteristics
+support the qualitative picture of plasma discharge in the cavitating
+medium.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup></p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Comparison of theory (solid curve) with
+experimental data of the
+breakdown voltage between the electrodes (black squares).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c02778_0007" id="gr8" position="float"/></fig><p>From <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref> we
+can conclude that for the given range of pressures the parameters
+which are between the oxygen and hydrogen environment give quite good
+agreement with the experiment. This may be interpreted by the presence
+of the mixed gas environment inside the cavitating region.</p><p>Based
+on the theoretical analysis of the cavitation processes inside
+a reactor for water treatment and the discharge formation processes
+between two electrodes placed at the ends of a cavitation zone, we
+were able to optimize a water treatment device for the removal of
+organic contaminants from water flows. The device contained a reactor
+with a hydrodynamic emitter to cause cavitation inside the water flow.
+Two electrodes were placed at the ends of the reactor to cause plasma
+discharge inside the channels formed by the cavitation bubbles.</p><p>Theoretical and experimental analyses enabled us to optimize the
+following parameters: (i) reactor length of 150 mm, which corresponded
+to the maximal length of the bubble torch; (ii) minimal voltage frequency
+of 25 kHz, which corresponded to the lifetime of the bubble channels
+of 40 &#x003bc;s; (iii) optimal pressure drop at the hydrodynamic emitter
+of 5.98 MPa, which corresponded to an acoustic pressure of 0.7 MPa
+in the cavitation zone. The determined parameters can be used to minimize
+the energy consumption of a water treatment device. Moreover, the
+obtained results can make it possible to implement the elaborate process
+of water purification on a large scale.</p></body><back><notes notes-type="COI-statement" id="NOTES-d14e751-autogenerated"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work was supported by an IGIC RAS state assignment.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Lee</surname><given-names>Y.</given-names></name>; <name><surname>von Gunten</surname><given-names>U.</given-names></name>
+<article-title>Oxidative transformation of micropollutants during
+municipal wastewater treatment: comparison of kinetic aspects of selective
+(chlorine, chlorine dioxide, ferrate VI, and ozone) and non-selective
+oxidants (hydroxyl radical)</article-title>. <source>Water Res.</source>
+<year>2010</year>, <volume>44</volume>, <fpage>555</fpage>&#x02013;<lpage>566</lpage>. <pub-id pub-id-type="doi">10.1016/j.watres.2009.11.045</pub-id>.<pub-id pub-id-type="pmid">20015530</pub-id>
+</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Andreozzi</surname><given-names>R.</given-names></name>; <name><surname>Caprio</surname><given-names>V.</given-names></name>; <name><surname>Insola</surname><given-names>A.</given-names></name>; <name><surname>Marotta</surname><given-names>R.</given-names></name>
+<article-title>Advanced oxidation
+processes (AOP) for water purification and recovery</article-title>. <source>Catal. Today.</source>
+<year>1999</year>, <volume>53</volume>, <fpage>51</fpage>&#x02013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1016/S0920-5861(99)00102-9</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Chong</surname><given-names>M. N.</given-names></name>; <name><surname>Jin</surname><given-names>B.</given-names></name>; <name><surname>Chow</surname><given-names>C. W. K.</given-names></name>; <name><surname>Saint</surname><given-names>C.</given-names></name>
+<article-title>Recent developments
+in photocatalytic
+water treatment technology: a review</article-title>. <source>Water
+Res.</source>
+<year>2010</year>, <volume>44</volume>, <fpage>2997</fpage>&#x02013;<lpage>3027</lpage>. <pub-id pub-id-type="doi">10.1016/j.watres.2010.02.039</pub-id>.<pub-id pub-id-type="pmid">20378145</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Pignatello</surname><given-names>J. J.</given-names></name>; <name><surname>Oliveros</surname><given-names>E.</given-names></name>; <name><surname>MacKay</surname><given-names>A.</given-names></name>
+<article-title>Advanced oxidation processes for
+organic contaminant destruction based on the fenton reaction and related
+chemistry</article-title>. <source>Crit. Rev. Environ. Sci. Technol.</source>
+<year>2006</year>, <volume>36</volume>, <fpage>1</fpage>&#x02013;<lpage>84</lpage>. <pub-id pub-id-type="doi">10.1080/10643380500326564</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Neyens</surname><given-names>E.</given-names></name>; <name><surname>Baeyens</surname><given-names>J.</given-names></name>
+<article-title>A review of classic
+Fenton&#x02019;s peroxidation as
+an advanced oxidation technique</article-title>. <source>J. Hazard.
+Mater.</source>
+<year>2003</year>, <volume>98</volume>, <fpage>33</fpage>&#x02013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1016/S0304-3894(02)00282-0</pub-id>.<pub-id pub-id-type="pmid">12628776</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Mart&#x000ed;nez-Huitle</surname><given-names>C. A.</given-names></name>; <name><surname>Brillas</surname><given-names>E.</given-names></name>
+<article-title>Decontamination of wastewaters containing synthetic
+organic dyes by electrochemical methods: a general review</article-title>. <source>Appl. Catal., B</source>
+<year>2009</year>, <volume>87</volume>, <fpage>105</fpage>&#x02013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1016/j.apcatb.2008.09.017</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Mishra</surname><given-names>V. S.</given-names></name>; <name><surname>Mahajani</surname><given-names>V. V.</given-names></name>; <name><surname>Joshi</surname><given-names>J. B.</given-names></name>
+<article-title>Wet air oxidation</article-title>. <source>Ind. Eng. Chem. Res.</source>
+<year>1995</year>, <volume>34</volume>, <fpage>2</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1021/ie00040a001</pub-id>.</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Magureanu</surname><given-names>M.</given-names></name>; <name><surname>Mandache</surname><given-names>N. B.</given-names></name>; <name><surname>Parvulescu</surname><given-names>V. I.</given-names></name>
+<article-title>Degradation of pharmaceutical compounds
+in water by non-thermal plasma treatment</article-title>. <source>Water
+Res.</source>
+<year>2015</year>, <volume>81</volume>, <fpage>124</fpage>&#x02013;<lpage>136</lpage>. <pub-id pub-id-type="doi">10.1016/j.watres.2015.05.037</pub-id>.<pub-id pub-id-type="pmid">26057260</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Manoj
+Kumar Reddy</surname><given-names>P.</given-names></name>; <name><surname>Rama Raju</surname><given-names>B.</given-names></name>; <name><surname>Karuppiah</surname><given-names>J.</given-names></name>; <name><surname>Linga Reddy</surname><given-names>E.</given-names></name>; <name><surname>Subrahmanyam</surname><given-names>C.</given-names></name>
+<article-title>Degradation and mineralization of
+methylene blue by dielectric barrier discharge non-thermal plasma
+reactor</article-title>. <source>Chem. Eng. J.</source>
+<year>2013</year>, <volume>217</volume>, <fpage>41</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/j.cej.2012.11.116</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Gogate</surname><given-names>P. R.</given-names></name>; <name><surname>Pandit</surname><given-names>A. B.</given-names></name>
+<article-title>A review of imperative
+technologies for wastewater
+treatment I: Oxidation technologies at ambient conditions</article-title>. <source>Adv. Environ. Res.</source>
+<year>2004</year>, <volume>8</volume>, <fpage>501</fpage>&#x02013;<lpage>551</lpage>. <pub-id pub-id-type="doi">10.1016/S1093-0191(03)00032-7</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Nikitenko</surname><given-names>S. I.</given-names></name>; <name><surname>Chave</surname><given-names>T.</given-names></name>; <name><surname>Virot</surname><given-names>M.</given-names></name>; <name><surname>Pflieger</surname><given-names>R.</given-names></name>
+<article-title>Simultaneous
+H/D and
+13C/12C Anomalous Kinetic Isotope Effects during the Sonolysis of
+Water in the Presence of Carbon Monoxide</article-title>. <source>J.
+Phys. Chem. Lett.</source>
+<year>2022</year>, <volume>13</volume> (<issue>1</issue>), <fpage>42</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.1c03744</pub-id>.<pub-id pub-id-type="pmid">34958222</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Stanton</surname><given-names>R.</given-names></name>; <name><surname>Russell</surname><given-names>E.</given-names></name>; <name><surname>Brandt</surname><given-names>H.</given-names></name>; <name><surname>Trivedi</surname><given-names>D. J.</given-names></name>
+<article-title>Capture
+of Toxic
+Oxoanions from Water Using Metal&#x02013;Organic Frameworks</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2021</year>, <volume>12</volume> (<issue>37</issue>), <fpage>9175</fpage>&#x02013;<lpage>9181</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.1c02550</pub-id>.<pub-id pub-id-type="pmid">34528794</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Stanton</surname><given-names>R.</given-names></name>; <name><surname>Russell</surname><given-names>E.</given-names></name>; <name><surname>Trivedi</surname><given-names>D. J.</given-names></name>
+<article-title>Computational
+Investigations of Metal&#x02013;Organic
+Frameworks as Sorbents for BTEX Removal</article-title>. <source>J.
+Phys. Chem. Lett.</source>
+<year>2022</year>, <volume>13</volume> (<issue>34</issue>), <fpage>8150</fpage>&#x02013;<lpage>8156</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.2c02131</pub-id>.<pub-id pub-id-type="pmid">36001471</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Hoign&#x000e9;</surname><given-names>J.</given-names></name>; <name><surname>Bader</surname><given-names>H.</given-names></name>
+<article-title>The role of hydroxyl
+radical reactions in ozonation processes in
+aqueous solutions</article-title>. <source>Water Res.</source>
+<year>1976</year>, <volume>10</volume>, <fpage>377</fpage>&#x02013;<lpage>386</lpage>. <pub-id pub-id-type="doi">10.1016/0043-1354(76)90055-5</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Pera-Titus</surname><given-names>M.</given-names></name>; <name><surname>Garc&#x000ed;a-Molina</surname><given-names>V.</given-names></name>; <name><surname>Ba&#x000f1;os</surname><given-names>M. A.</given-names></name>; <name><surname>Gim&#x000e9;nez</surname><given-names>J.</given-names></name>; <name><surname>Esplugas</surname><given-names>S.</given-names></name>
+<article-title>Degradation of chlorophenols
+by means of advanced oxidation
+processes: A general review</article-title>. <source>Appl. Catal., B</source>
+<year>2004</year>, <volume>47</volume>, <fpage>219</fpage>&#x02013;<lpage>256</lpage>. <pub-id pub-id-type="doi">10.1016/j.apcatb.2003.09.010</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Wang</surname><given-names>J. L.</given-names></name>; <name><surname>Xu</surname><given-names>L. J.</given-names></name>
+<article-title>Advanced oxidation
+processes for wastewater treatment: Formation
+of hydroxyl radical and application</article-title>. <source>Crit. Rev.
+Environ. Sci. Technol.</source>
+<year>2012</year>, <volume>42</volume>, <fpage>251</fpage>&#x02013;<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1080/10643389.2010.507698</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Ikehata</surname><given-names>K.</given-names></name>; <name><surname>Jodeiri Naghashkar</surname><given-names>N.</given-names></name>; <name><surname>Gamal El-Din</surname><given-names>M.</given-names></name>
+<article-title>Degradation
+of aqueous pharmaceuticals
+by ozonation and advanced oxidation processes</article-title>. <source>A review. Ozone Sci. Eng.</source>
+<year>2006</year>, <volume>28</volume>, <fpage>353</fpage>&#x02013;<lpage>414</lpage>. <pub-id pub-id-type="doi">10.1080/01919510600985937</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Glaze</surname><given-names>W. H.</given-names></name>; <name><surname>Kang</surname><given-names>J. W.</given-names></name>; <name><surname>Chapin</surname><given-names>D. H.</given-names></name>
+<article-title>The chemistry of
+water treatment
+processes involving ozone, hydrogen peroxide and ultraviolet radiation</article-title>. <source>Ozone Sci. Eng.</source>
+<year>1987</year>, <volume>9</volume>, <fpage>335</fpage>&#x02013;<lpage>352</lpage>. <pub-id pub-id-type="doi">10.1080/01919518708552148</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Okouchi</surname><given-names>S.</given-names></name>; <name><surname>Nojima</surname><given-names>O.</given-names></name>; <name><surname>Arai</surname><given-names>T.</given-names></name>
+<article-title>Cavitation-induced
+degradation of
+phenol by ultrasound</article-title>. <source>Water Sci. Technol.</source>
+<year>1992</year>, <volume>26</volume>, <fpage>2053</fpage>&#x02013;<lpage>2056</lpage>. <pub-id pub-id-type="doi">10.2166/wst.1992.0659</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Guti&#x000e9;rrez</surname><given-names>M.</given-names></name>; <name><surname>Henglein</surname><given-names>A.</given-names></name>
+<article-title>Sonolytic decomposition
+of poly(vinylpyrrolidone),
+ethanol, and tetranitromethane in aqueous solution</article-title>. <source>J. Phys. Chem.</source>
+<year>1988</year>, <volume>92</volume>, <fpage>2978</fpage>&#x02013;<lpage>2981</lpage>. <pub-id pub-id-type="doi">10.1021/j100321a052</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="book" id="cit21"><person-group person-group-type="allauthors"><name><surname>Parsons</surname><given-names>S.</given-names></name>; <name><surname>Williams</surname><given-names>M.</given-names></name></person-group><source>Advanced Oxidation Processes
+for Water and Wastewater Treatment</source>; <publisher-name>IWA Publishing</publisher-name>: <publisher-loc>London</publisher-loc>, <year>2004</year>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Sharma</surname><given-names>V. K.</given-names></name>
+<article-title>Oxidative
+transformations of environmental pharmaceuticals by Cl2, ClO2, O3,
+and Fe(VI): Kinetics assessment</article-title>. <source>Chemosphere</source>
+<year>2008</year>, <volume>73</volume>, <fpage>1379</fpage>&#x02013;<lpage>1386</lpage>. <pub-id pub-id-type="doi">10.1016/j.chemosphere.2008.08.033</pub-id>.<pub-id pub-id-type="pmid">18849059</pub-id>
+</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Von
+Gunten</surname><given-names>U.</given-names></name>
+<article-title>Ozonation of drinking water: Part I Oxidation kinetics and product
+formation</article-title>. <source>Water Res.</source>
+<year>2003</year>, <volume>37</volume>, <fpage>1443</fpage>&#x02013;<lpage>1467</lpage>. <pub-id pub-id-type="doi">10.1016/S0043-1354(02)00457-8</pub-id>.<pub-id pub-id-type="pmid">12600374</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Hoign&#x000e9;</surname><given-names>J.</given-names></name>; <name><surname>Bader</surname><given-names>H.</given-names></name>
+<article-title>Ozone initiated oxidations
+of solutes in wastewater: a reaction kinetic
+approach</article-title>. <source>Prog. Water Technol.</source>
+<year>1979</year>, <volume>10</volume>, <fpage>657</fpage>&#x02013;<lpage>671</lpage>. <pub-id pub-id-type="doi">10.1016/B978-0-08-022939-3.50055-6</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Bray</surname><given-names>W. C.</given-names></name>
+<article-title>The interaction
+of ozone and hydrogen peroxide in aqueous solution</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1938</year>, <volume>60</volume>, <fpage>82</fpage>&#x02013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1021/ja01268a027</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Suslick</surname><given-names>K. S.</given-names></name>
+<article-title>Sonochemistry</article-title>. <source>Science</source>
+<year>1990</year>, <volume>247</volume>, <fpage>1439</fpage>&#x02013;<lpage>1445</lpage>. <pub-id pub-id-type="doi">10.1126/science.247.4949.1439</pub-id>.<pub-id pub-id-type="pmid">17791211</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Abramova</surname><given-names>A.</given-names></name>; <name><surname>Nikonov</surname><given-names>R.</given-names></name>; <name><surname>Cravotto</surname><given-names>G.</given-names></name>
+<article-title>Sonozonation (sonication/ozonation)
+for the degradation of organic contaminants &#x02013; A review</article-title>. <source>Ultrasonics Sonochemistry</source>
+<year>2020</year>, <volume>68</volume>, <fpage>105195</fpage><pub-id pub-id-type="doi">10.1016/j.ultsonch.2020.105195</pub-id>.<pub-id pub-id-type="pmid">32502960</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Foster</surname><given-names>J.</given-names></name>; <name><surname>Sommers</surname><given-names>B. S.</given-names></name>; <name><surname>Gucker</surname><given-names>S. N.</given-names></name>; <name><surname>Blankson</surname><given-names>I. M.</given-names></name>; <name><surname>Adamovsky</surname><given-names>G.</given-names></name>
+<article-title>Perspectives
+on the interaction of plasmas with liquid water for water purification</article-title>. <source>IEEE Transactions On Plasma Science</source>
+<year>2012</year>, <volume>40</volume>, <fpage>1311</fpage><pub-id pub-id-type="doi">10.1109/TPS.2011.2180028</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Abramov</surname><given-names>V. O.</given-names></name>; <name><surname>Abramova</surname><given-names>A. V.</given-names></name>; <name><surname>Nikonov</surname><given-names>R. V.</given-names></name>; <name><surname>Ivanov</surname><given-names>V. K.</given-names></name>; <name><surname>Cravotto</surname><given-names>G.</given-names></name>; <name><surname>Fedulov</surname><given-names>I. S.</given-names></name>
+<article-title>Flow-mode water treatment under simultaneous
+hydrodynamic
+cavitation and plasma</article-title>. <source>Ultrasonics Sonochemistry</source>
+<year>2021</year>, <volume>70</volume>, <fpage>105323</fpage><pub-id pub-id-type="doi">10.1016/j.ultsonch.2020.105323</pub-id>.<pub-id pub-id-type="pmid">32911356</pub-id>
+</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Abramov</surname><given-names>V.</given-names></name>; <name><surname>Abramova</surname><given-names>A.</given-names></name>; <name><surname>Bayazitov</surname><given-names>V.</given-names></name>; <name><surname>Kameneva</surname><given-names>S.</given-names></name>; <name><surname>Veselova</surname><given-names>V.</given-names></name>; <name><surname>Kozlov</surname><given-names>D.</given-names></name>; <name><surname>Sozarukova</surname><given-names>M.</given-names></name>; <name><surname>Baranchikov</surname><given-names>A.</given-names></name>; <name><surname>Fedulov</surname><given-names>I.</given-names></name>; <name><surname>Nikonov</surname><given-names>R.</given-names></name>; <name><surname>Cravotto</surname><given-names>G.</given-names></name>
+<article-title>Fast Degradation
+of
+Tetracycline and Ciprofloxacin in Municipal Water under Hydrodynamic
+Cavitation/Plasma with CeO<sub>2</sub></article-title>. <source>Nanocatalyst.
+Processes</source>
+<year>2022</year>, <volume>10</volume>, <fpage>2063</fpage><pub-id pub-id-type="doi">10.3390/pr10102063</pub-id>.</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Menth&#x000e9;our</surname><given-names>R.</given-names></name>; <name><surname>Machala</surname><given-names>Z.</given-names></name>
+<article-title>Coupled Antibacterial
+Effects of Plasma-Activated Water
+and Pulsed Electric Field</article-title>. <source>Frontiers in Physics</source>
+<year>2022</year>, <volume>10</volume>, <fpage>895813</fpage><pub-id pub-id-type="doi">10.3389/fphy.2022.895813</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Huang</surname><given-names>Q.</given-names></name>; <name><surname>Liang</surname><given-names>Zh.</given-names></name>; <name><surname>Qi</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>N.</given-names></name>; <name><surname>Yang</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Tian</surname><given-names>C.</given-names></name>; <name><surname>Fu</surname><given-names>C.</given-names></name>; <name><surname>Tang</surname><given-names>X.</given-names></name>; <name><surname>Wu</surname><given-names>D.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>W.</given-names></name>
+<article-title>Carbon Dioxide Conversion
+Synergistically Activated by Dielectric Barrier Discharge Plasma and
+the CsPbBr3@TiO<sub>2</sub> Photocatalyst</article-title>. <source>J.
+Phys. Chem. Lett.</source>
+<year>2022</year>, <volume>13</volume> (<issue>10</issue>), <fpage>2418</fpage>&#x02013;<lpage>2427</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.2c00253</pub-id>.<pub-id pub-id-type="pmid">35257573</pub-id>
+</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Bulychev</surname><given-names>N. A.</given-names></name>
+<article-title>Electric
+Discharge in Liquids under the Effect of Vibration</article-title>. <source>International Journal of Recent Technology and Engineering
+(IJRTE)</source>
+<year>2019</year>, <volume>8</volume>, <fpage>68</fpage><pub-id pub-id-type="doi">10.35940/ijrte.C5901.118419</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="conf-proc" id="cit34"><person-group person-group-type="allauthors"><name><surname>Bulychev</surname><given-names>N. A.</given-names></name>; <name><surname>Kazaryan</surname><given-names>M. A.</given-names></name>; <name><surname>Averyushkin</surname><given-names>A. S.</given-names></name>; <name><surname>Kirichenko</surname><given-names>M.</given-names></name>; <name><surname>Zakharyan</surname><given-names>R.</given-names></name>; <name><surname>Chernov</surname><given-names>A. A.</given-names></name></person-group><article-title>Dynamic characteristics
+of electric discharge in liquid under ultrasonic cavitation</article-title>. <source>Proc. SPIE 10614 Conference: XIII International Conference
+on Atomic and Molecular Pulsed Lasers</source>, <year>2018</year>;
+p <fpage>1061414</fpage>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Min</surname><given-names>S. H.</given-names></name>; <name><surname>Wijesinghe</surname><given-names>S.</given-names></name>; <name><surname>Berkowitz</surname><given-names>M. L.</given-names></name>
+<article-title>Enhanced Cavitation and Hydration
+Crossover of Stretched Water in the Presence of C60</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2019</year>, <volume>10</volume> (<issue>21</issue>), <fpage>6621</fpage>&#x02013;<lpage>6625</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.9b02511</pub-id>.<pub-id pub-id-type="pmid">31609628</pub-id>
+</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Cai</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>J. Y.</given-names></name>; <name><surname>Wu</surname><given-names>H. A.</given-names></name>; <name><surname>Zhu</surname><given-names>M. H.</given-names></name>; <name><surname>Goddard</surname><given-names>W. A.</given-names><suffix>III</suffix></name>; <name><surname>Luo</surname><given-names>S. N.</given-names></name>
+<article-title>Tensile
+Strength of Liquids: Equivalence
+of Temporal and Spatial Scales in Cavitation</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2016</year>, <volume>7</volume> (<issue>5</issue>), <fpage>806</fpage>&#x02013;<lpage>810</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.5b02798</pub-id>.<pub-id pub-id-type="pmid">26885747</pub-id>
+</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Rak</surname><given-names>D.</given-names></name>; <name><surname>Ovadov&#x000e1;</surname><given-names>M.</given-names></name>; <name><surname>Sedl&#x000e1;k</surname><given-names>M.</given-names></name>
+<article-title>(Non)Existence
+of Bulk Nanobubbles:
+The Role of Ultrasonic Cavitation and Organic Solutes in Water</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2019</year>, <volume>10</volume> (<issue>15</issue>), <fpage>4215</fpage>&#x02013;<lpage>4221</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.9b01402</pub-id>.<pub-id pub-id-type="pmid">31295404</pub-id>
+</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Aoki</surname><given-names>H.</given-names></name>; <name><surname>Kitano</surname><given-names>K.</given-names></name>; <name><surname>Hamaguchi</surname><given-names>S.</given-names></name>
+<article-title>Plasma generation
+insideexternally
+supplied Ar bubbles in water</article-title>. <source>Plasma Sources
+Sci. Technol.</source>
+<year>2008</year>, <volume>17</volume>, <elocation-id>025006</elocation-id><pub-id pub-id-type="doi">10.1088/0963-0252/17/2/025006</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Babaeva</surname><given-names>N. Y.</given-names></name>; <name><surname>Kushner</surname><given-names>M. J.</given-names></name>
+<article-title>Effect of inhomogeneities onstreamer propagation: II.
+Streamer dynamics in high pressure humid air with bubbles</article-title>. <source>Plasma Sources Sci. Technol.</source>
+<year>2009</year>, <volume>18</volume>, <elocation-id>035010</elocation-id><pub-id pub-id-type="doi">10.1088/0963-0252/18/3/035010</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Foster</surname><given-names>J. E.</given-names></name>; <name><surname>Weatherford</surname><given-names>B.</given-names></name>; <name><surname>Gillman</surname><given-names>E.</given-names></name>; <name><surname>Yee</surname><given-names>B.</given-names></name>
+<article-title>Underwater operation
+of a DBD plasma jet</article-title>. <source>Plasma Sources Sci. Technol.</source>
+<year>2010</year>, <volume>19</volume>, <elocation-id>025001</elocation-id><pub-id pub-id-type="doi">10.1088/0963-0252/19/2/025001</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Foster</surname><given-names>J.</given-names></name>; <name><surname>Sommers</surname><given-names>B.</given-names></name>; <name><surname>Weatherford</surname><given-names>B.</given-names></name>; <name><surname>Yee</surname><given-names>B.</given-names></name>; <name><surname>Gupta</surname><given-names>M.</given-names></name>
+<article-title>Characterization
+of the evolution of underwater DBD plasma jet</article-title>. <source>Plasma Sources Sci. Technol.</source>
+<year>2011</year>, <volume>20</volume>, <elocation-id>034018</elocation-id><pub-id pub-id-type="doi">10.1088/0963-0252/20/3/034018</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Neppiras</surname><given-names>E. A.</given-names></name>
+<article-title>Acoustic
+cavitation</article-title>. <source>PHYSICS REPORTS (Review Section
+of Physics Letters)</source>
+<year>1980</year>, <volume>61</volume>, <fpage>159</fpage>&#x02013;<lpage>251</lpage>. <pub-id pub-id-type="doi">10.1016/0370-1573(80)90115-5</pub-id>.</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Mesyats</surname><given-names>G. A.</given-names></name>
+<article-title>Similarity
+laws for pulsed gas discharges</article-title>. <source>Phys. Usp.</source>
+<year>2006</year>, <volume>49</volume>, <fpage>1045</fpage>&#x02013;<lpage>1065</lpage>. <pub-id pub-id-type="doi">10.1070/PU2006v049n10ABEH006118</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Abramov</surname><given-names>O. V.</given-names></name>; <name><surname>Abramov</surname><given-names>V. O.</given-names></name>; <name><surname>Andriyanov</surname><given-names>Yu. V.</given-names></name>; <name><surname>Kisterev</surname><given-names>E. V.</given-names></name>; <name><surname>Gradov</surname><given-names>O. M.</given-names></name>; <name><surname>Shekhtman</surname><given-names>A. V.</given-names></name>; <name><surname>Klassen</surname><given-names>N. V.</given-names></name>; <name><surname>Mullakaev</surname><given-names>M. S.</given-names></name>; <name><surname>Bulychev</surname><given-names>N. A.</given-names></name>
+<article-title>Plasma discharge
+in a cavitating liquid</article-title>. <source>Inzh. Fiz.</source>
+<year>2009</year>, <volume>8</volume>, <fpage>34</fpage>.</mixed-citation></ref></ref-list></back></article>

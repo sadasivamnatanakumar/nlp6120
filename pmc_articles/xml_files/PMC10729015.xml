@@ -1,0 +1,314 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Org Lett</journal-id><journal-id journal-id-type="iso-abbrev">Org Lett</journal-id><journal-id journal-id-type="publisher-id">ol</journal-id><journal-id journal-id-type="coden">orlef7</journal-id><journal-title-group><journal-title>Organic Letters</journal-title></journal-title-group><issn pub-type="ppub">1523-7060</issn><issn pub-type="epub">1523-7052</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38052021</article-id><article-id pub-id-type="pmc">PMC10729015</article-id>
+<article-id pub-id-type="doi">10.1021/acs.orglett.3c03257</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Boron Triiodide-Mediated Reduction of Nitroarenes
+Using Borohydride Reagents</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>&#x00106;orkovi&#x00107;</surname><given-names>Andrej</given-names></name></contrib><contrib contrib-type="author" id="ath2"><name><surname>Chiarella</surname><given-names>Thomas</given-names></name></contrib><contrib contrib-type="author" corresp="yes" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-2416-3843</contrib-id><name><surname>Williams</surname><given-names>Florence J.</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1"><institution>University of Iowa</institution>, Iowa City, Iowa 52242, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>Florence-Williams@uiowa.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>15</day><month>12</month><year>2023</year></pub-date><volume>25</volume><issue>49</issue><fpage>8787</fpage><lpage>8791</lpage><history><date date-type="received"><day>03</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>29</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>29</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0008" id="ab-tgr1"/></p><p>The reduction of
+nitroarenes using KBH<sub>4</sub> and I<sub>2</sub> is described.
+BI<sub>3</sub> is generated in situ and was shown
+to be the active reductant. Conditions were optimized for BI<sub>3</sub> generation and then applied to a wide range of nitroarenes, including
+traditionally challenging substrates. The method constitutes a practical
+reduction option which produces low-toxicity boric acid and potassium
+iodide upon workup.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>Division of Chemistry</institution><institution-id institution-id-type="doi">10.13039/100000165</institution-id></institution-wrap></funding-source><award-id>CHE 2239556</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>University of Iowa</institution><institution-id institution-id-type="doi">10.13039/100008893</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ol3c03257</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ol3c03257</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>The scale of
+demand is hard
+to comprehend for aniline derivatives. One of the most common aniline-containing
+medicinal compounds, acetaminophen (paracetamol), is generated on
+the scale of 180,000 tons yearly.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> In high-value
+medicinal and agrichemical structures, anilines are ubiquitous. Five
+of the top 10 small-molecule drugs in 2022 sales contain anilines
+(Eliquis, Revlimid, Trikafta, Xarelto, and Xtandi).</p><p>Due to the
+prevalence of this molecular unit within fine chemical
+scaffolds, it is important to continually revisit, diversify, and
+improve methods for its generation.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> Common
+industrial methods include (1) palladium-catalyzed hydrogenation of
+nitroarenes, (2) iron-mediated reduction of nitroarenes, and (3) conversion
+of phenols to anilines catalyzed through palladium-mediated redox
+chemistry.<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref5">5</xref></sup> The third method is typically applied to unsubstituted
+aniline only;<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> however, Li and co-workers
+have expanded the scope by utilizing hydrazine and LiOH.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup></p><p>In 2015, Benaglia and co-workers described
+an elegant metal-free
+method to generate anilines using trichlorosilane and tertiary amines.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> Trichlorosilane is a cost-effective industrial
+byproduct. Further, the method boasts an impressive substrate scope,
+tolerating carboxylic acids, esters, and heterocycles, among others,
+and it will also reduce aliphatic nitro groups.</p><p>Transition-metal-free
+boron-mediated nitroarene reductions utilize
+diboron complexes (B<sub>2</sub>(OH)<sub>4</sub>, B<sub>2</sub>pin<sub>2</sub>, or B<sub>2</sub>nep<sub>2</sub>) and are another common
+choice for process and medicinal chemists. The byproducts have a modest
+toxicity profile (B<sub>2</sub>(OH)<sub>4</sub> is an acute toxicity
+agent classified by OSHA as Category 4), and along with the Benaglia
+method, the substrate scope tends to be complementary to traditional
+metal-catalyzed strategies. For instance, aryl halides and nitriles
+are well-tolerated in these reductions, while such functional groups
+are regularly degraded in palladium-catalyzed hydrogenations. These
+methods require elevated temperature (&#x02265;100 &#x000b0;C),<sup><xref ref-type="bibr" rid="ref10">10</xref>&#x02212;<xref ref-type="bibr" rid="ref13">13</xref></sup> except for a method described by Han and co-workers, in which DMF
+solvent was observed to greatly accelerate the reaction at room temperature
+using B<sub>2</sub>(OH)<sub>4</sub> and 4,4&#x02032;-bipyridine.<sup><xref ref-type="bibr" rid="ref14">14</xref></sup></p><p>Herein we report a new method for the
+transition-metal-free reduction
+of nitroarenes using potassium borohydride and iodine (I<sub>2</sub>). This method satisfies many prerequisites for general adoption
+and diverse application: commercially available reagents, moderate
+reagent cost, and low toxicity of waste. <xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref> outlines commonly considered parameters
+for hazards, cost, and environmental impact under a few reduction
+conditions. The high cost of iodine is due to the 8 equivalents used
+and may also be related to costs associated with I<sub>2</sub> being
+a regulated chemical. I<sub>2</sub> is regenerated in the reaction
+(vide infra); therefore, there is potential for its recycling. Of
+note, our new method avoids flammable reagents and toxic waste since
+the key byproducts upon workup are boric acid and potassium iodide.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Common Nitroarene Reduction Methods<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref9">9</xref></sup></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0005" id="fx1fx2" position="float"/><table-wrap-foot><fn id="t1fn1"><label>a</label><p>Cost per mol product
+(PDT) is calculated
+based on Sigma Aldrich catalogue costs on 9/20/2023 at largest (bulk)
+advertised rate, unless otherwise specified.</p></fn><fn id="t1fn2"><label>b</label><p>Fe metal cost based on 9/20/2023
+Fe scrap metal cost/ton.</p></fn><fn id="t1fn3"><label>c</label><p>For flammability, red = OSHA Category
+&#x0003c;4 and green = no listed flammability hazard in SDS.</p></fn><fn id="t1fn4"><label>d</label><p>For toxicity of waste, Red = acute
+toxicity (oral, dermal, or inhalation) OSHA Category &#x0003c;4; green
+= no listed acute toxicity (oral, dermal, or inhalation).</p></fn><fn id="t1fn5"><label>e</label><p>Storage requirements refers to any
+of the following: pressurized gases, storage in glovebox, or requiring
+refrigeration. Yellow = one requirement; green = none.</p></fn></table-wrap-foot></table-wrap><p>Borohydride reagents have demonstrated
+utility in nitroarene reductions
+but to date have required transition metal catalysts and therefore
+constitute an alternative to hydrogen gas.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> However, these methods exhibit substrate scope limitations similar
+to those of other transition-metal-dependent reductions. An exception
+would be the use of iron(III) halides, as described by Thomas and
+colleagues,<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> which has demonstrated utility
+with nitriles and aryl halides but modest yields with heterocyclic
+nitroarenes. To our delight, iodine functionally fills the role of
+a transition metal in our system. Importantly, borohydride itself
+does not appear to be the active reducing agent.</p><p>We first discovered
+the nitroarene reduction when examining the
+reactivity of a related reagent, boron triiodide (BI<sub>3</sub>).
+Although it is not a classical reductant, we observed the formation
+of aniline and the byproduct iodine when BI<sub>3</sub> was added
+to nitroarenes (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>). We found that 2.5 equivalents of BI<sub>3</sub> was optimal for
+this conversion.</p><fig id="sch1" position="float"><label>Scheme 1</label><caption><title>Reduction of Nitrobenzene with BI<sub>3</sub></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0002" id="gr1" position="float"/></fig><p>However, BI<sub>3</sub> is an expensive reagent
+(&#x0223c;$25,000/mol)
+that often needs to be purified by sublimation before use and stored
+in a glovebox. Thus, we sought methods to generate boron triiodide
+in situ and found a protocol outlined by Briggs and Simmons.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> We optimized the method further using <sup>11</sup>B NMR to track BI<sub>3</sub> production (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>; full optimization data are given in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_002.pdf">Supporting Information</ext-link> (SI)).</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>Optimization of BI<sub>3</sub> Generation<xref rid="t2fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0006" id="fx3" position="float"/><table frame="hsides" rules="groups" border="0"><colgroup><col align="char" char="."/><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center" char=".">entry</th><th style="border:none;" align="center">M</th><th style="border:none;" align="center" char=".">mmol of MBH<sub>4</sub></th><th style="border:none;" align="center" char=".">equiv of I<sub>2</sub></th><th style="border:none;" align="center" char=".">temp. (&#x000b0;C)</th><th style="border:none;" align="center">solvent</th><th style="border:none;" align="center">mmol of
+BI<sub>3</sub></th></tr></thead><tbody><tr><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">0.20<xref rid="t2fn2" ref-type="table-fn">b</xref></td></tr><tr><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">0.14<xref rid="t2fn3" ref-type="table-fn">c</xref></td></tr><tr><td style="border:none;" align="char" char=".">3</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">0.33</td></tr><tr><td style="border:none;" align="char" char=".">4</td><td style="border:none;" align="left">Li</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">0.09</td></tr><tr><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="left">Na</td><td style="border:none;" align="char" char=".">0.54</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">n.d.</td></tr><tr><td style="border:none;" align="char" char=".">6</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">0.15</td></tr><tr><td style="border:none;" align="char" char=".">7</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.50</td><td style="border:none;" align="char" char=".">3</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">n.d.</td></tr><tr><td style="border:none;" align="char" char=".">8</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.35</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">cyclohexane</td><td style="border:none;" align="left">0.26</td></tr><tr><td style="border:none;" align="char" char=".">9</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.35</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">70</td><td style="border:none;" align="left">heptane</td><td style="border:none;" align="left">0.27</td></tr><tr><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="left">K</td><td style="border:none;" align="char" char=".">0.35</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="char" char=".">60</td><td style="border:none;" align="left">DCM</td><td style="border:none;" align="left">n.d.</td></tr></tbody></table><table-wrap-foot><fn id="t2fn1"><label>a</label><p>All reactions were performed in
+a sealed 25 mL round-bottom flask with a rubber septum unless otherwise
+noted. n.d. = not detected.</p></fn><fn id="t2fn2"><label>b</label><p>With a positive-pressure N<sub>2</sub> gas inlet.</p></fn><fn id="t2fn3"><label>c</label><p>With a positive-pressure N<sub>2</sub> gas inlet and a purge needle open to air.</p></fn></table-wrap-foot></table-wrap><p>We discovered that a sealed vessel was critical for
+efficient BI<sub>3</sub> generation (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>, entries 1&#x02013;3). We hypothesize that
+the sealed vessel
+prevents the loss of HI as an intermediate in the conversion. <xref rid="eq1" ref-type="disp-formula">Equations <xref rid="eq1" ref-type="disp-formula">1</xref></xref>&#x02013;<xref rid="eq4" ref-type="disp-formula">4</xref> outline our proposed balanced equation, requiring
+2 equivalents of I<sub>2</sub>, which is supported by our optimal
+stoichiometry (entries 3, 6, and 7). It is unclear at this point why
+excess iodine results in no observable BI<sub>3</sub> formation.</p><p>The production of H<sub>2</sub> gas was confirmed by using a sample
+of the reaction atmosphere to reduce cyclooctadiene with palladium
+on carbon (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_002.pdf">SI</ext-link> for details).<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_m001" position="anchor"/><label>1</label></disp-formula><disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_m002" position="anchor"/><label>2</label></disp-formula><disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_m003" position="anchor"/><label>3</label></disp-formula><disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_m004" position="anchor"/><label>4</label></disp-formula></p><p>Potassium borohydride is uniquely suited
+to this transformation
+(<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>, entries 3&#x02013;5).
+While cyclohexane was selected for our optimization studies, we were
+gratified to see that heptane, a common industrial solvent, worked
+as well (entries 8&#x02013;10).</p><p>Of note, hydrogen gas production
+and a modest pressure increase
+(estimated to be an additional &#x0223c;2 atm of pressure) do require
+engineering controls on scale. However, as BI<sub>3</sub> production
+takes place prior to the addition of substrate, a single optimization
+protocol can be applied to a number of reactions. The subsequent nitroarene
+reductions were performed following removal of the produced H<sub>2</sub> gas under standard pressure and room temperature.</p><p>We
+then turned our attention to the reduction of nitrobenzene.
+Pregeneration of BI<sub>3</sub> by heating KBH<sub>4</sub> and I<sub>2</sub> is necessary, which provides evidence that BI<sub>3</sub>, rather than in situ-generated BH<sub>3</sub>, is the active reductant
+(<xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref>, entry 1).
+Both KBH<sub>4</sub> and I<sub>2</sub> (entries 2 and 3) are required,
+and while some product is formed when all three are mixed and heated
+together (entry 4), the most efficient reaction occurs when BI<sub>3</sub> is pregenerated (entry 5). Interestingly, 2-iodoaniline was
+consistently formed as a byproduct in about 5&#x02013;10% NMR yield.
+This regioselectivity suggests possible iodine radicals, as radical
+additions to aromatic rings provide majority <italic>ortho</italic> substitution,<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> in contrast to electrophilic
+aromatic substitution. Addition of alkenes as halide radical traps
+improved the reaction, with polystyrene polymers being optimal (entries
+6&#x02013;9). In our hands, Amberlite resins, which are polystyrene-based,
+were easiest to handle, as the polystyrene beads or powders form gelatinous
+semisolids in cyclohexane. The Amberlite resin could be reused four
+times without impact on the aniline yield.</p><table-wrap id="tbl3" position="float"><label>Table 3</label><caption><title>Optimization
+of Nitrobenzene Reduction<xref rid="t3fn1" ref-type="table-fn">a</xref></title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0007" id="fx4" position="float"/><table frame="hsides" rules="groups" border="0"><colgroup><col align="char" char="&#x0200b;"/><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="left"/><col align="left"/></colgroup><thead><tr><th style="border:none;" align="center" char="&#x0200b;">entry</th><th style="border:none;" align="center">additive (mg)</th><th style="border:none;" align="center" char=".">equiv of
+KBH<sub>4</sub></th><th style="border:none;" align="center" char=".">equiv of I<sub>2</sub></th><th style="border:none;" align="center" char=".">time (h)</th><th style="border:none;" align="center">light?</th><th style="border:none;" align="center">NMR yield (%)</th></tr></thead><tbody><tr><td style="border:none;" align="char" char="&#x0200b;">1<xref rid="t3fn2" ref-type="table-fn">b</xref></td><td style="border:none;" align="left">none</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">&#x0003c;5</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">2</td><td style="border:none;" align="left">none</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">n.d</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">3</td><td style="border:none;" align="left">none</td><td style="border:none;" align="char" char=".">0</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">n.d</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">4<xref rid="t3fn3" ref-type="table-fn">c</xref></td><td style="border:none;" align="left">none</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">58</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">5</td><td style="border:none;" align="left">none</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">74</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">6</td><td style="border:none;" align="left">2-methyl-2-butene (56)</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">78</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">7</td><td style="border:none;" align="left">polystyrene beads (220)</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">84</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">8</td><td style="border:none;" align="left">polystyrene powder (190)</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">94</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">9</td><td style="border:none;" align="left">Amberlite IR120
+Na<sup>+</sup> (200)</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">94</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">10</td><td style="border:none;" align="left">Amberlite IR120 Na<sup>+</sup> (100)</td><td style="border:none;" align="char" char=".">5</td><td style="border:none;" align="char" char=".">10</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="left">N</td><td style="border:none;" align="left">96</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">11</td><td style="border:none;" align="left">Amberlite IR120 Na<sup>+</sup> (100)</td><td style="border:none;" align="char" char=".">3.5</td><td style="border:none;" align="char" char=".">7</td><td style="border:none;" align="char" char=".">2</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">90</td></tr><tr><td style="border:none;" align="char" char="&#x0200b;">12</td><td style="border:none;" align="left">Amberlite IR120 Na<sup>+</sup> (100)</td><td style="border:none;" align="char" char=".">4</td><td style="border:none;" align="char" char=".">8</td><td style="border:none;" align="char" char=".">1</td><td style="border:none;" align="left">Y</td><td style="border:none;" align="left">93</td></tr></tbody></table><table-wrap-foot><fn id="t3fn1"><label>a</label><p>All reactions were performed on
+a 0.2 mmol scale at 0.01 M. BI<sub>3</sub> was generated in a 50 mL
+round-bottom flask. At the conclusion of the BI<sub>3</sub> generation,
+the reaction mixture was purged with N<sub>2</sub>, then the nitroarene
+was added via syringe, followed by briefly exposing the reaction 
+to air for additive addition, when necessary. Conversions are based
+on <sup>1</sup>H NMR analysis with an internal standard.</p></fn><fn id="t3fn2"><label>b</label><p>All reagents were added, without
+heating, at the same time instead of a two-step protocol.</p></fn><fn id="t3fn3"><label>c</label><p>BI<sub>3</sub> was not pregenerated.
+KBH<sub>4</sub> and I<sub>2</sub> were added with nitrobenzene and
+heated to 60 &#x000b0;C for 1 h.</p></fn></table-wrap-foot></table-wrap><p>Since BI<sub>3</sub> is light-sensitive and had the potential for
+radical chemistry, we tested the reaction without light exposure and
+were surprised to find that it behaved identically in the dark as
+upon exposure to ambient light (<xref rid="tbl3" ref-type="other">Table <xref rid="tbl3" ref-type="other">3</xref></xref>, entries 9 and 10). We found that we could reduce
+the amount of BI<sub>3</sub> used (entries 11 and 12), which corresponds
+well to our original BI<sub>3</sub> optimal stoichiometry (<xref rid="sch1" ref-type="scheme">Scheme <xref rid="sch1" ref-type="scheme">1</xref></xref>). Of note, when
+the reaction was run on a 1 mmol scale, no exothermic response occurred
+upon addition of the substrate. This can be an important consideration
+in larger-scale applications (see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_002.pdf">SI section 1.6</ext-link>).</p><p>With the optimal reaction conditions in hand, we turned
+our attention
+to the substrate scope (<xref rid="sch2" ref-type="scheme">Scheme <xref rid="sch2" ref-type="scheme">2</xref></xref>). To our delight, several functional groups that are commonly
+problematic in nitroarene reductions performed well under our conditions,
+including cyano groups (<bold>2e</bold>), aryl halides (<bold>2b</bold>, <bold>2c</bold>, <bold>2h</bold>, <bold>2i</bold>), heterocycles
+(<bold>2i</bold>, <bold>2j</bold>, and <bold>2m</bold>), and ketones
+(<bold>2f</bold>). However, alkyl nitro groups (<bold>1k</bold>) did
+not provide the expected alkyl amine, and alkene <bold>1n</bold> was
+also problematic&#x02014;both resulted in a complex mixture (<bold>2k</bold>, <bold>2n</bold>). For certain polar compounds, dichloromethane,
+dichloroethane, or trifluorotoluene was added to facilitate substrate
+solubility. Lewis basic groups, such as amine <bold>2d</bold> and
+nitrile <bold>2e</bold>, required additional equivalents of BI<sub>3</sub> reagent, presumably to account for coordination and sequestration
+of the Lewis acidic reagent.</p><fig id="sch2" position="float"><label>Scheme 2</label><caption><title>Substrate Scope</title><p id="s2fn1">All
+reactions were run on a 0.2
+mmol scale at 0.01 M. BI<sub>3</sub> was generated in a 50 mL round-bottom
+flask. At the conclusion of the BI<sub>3</sub> generation, the reaction
+mixture was purged with N<sub>2</sub>, then the nitroarene was added
+via syringe, followed by briefly exposing the reaction to air for
+Amberlite resin addition. Conversions based on <sup>1</sup>H NMR analysis
+with an internal standard are shown in italics. Isolated yields are
+shown in parentheses.</p><p id="s2fn2">Isolated
+as the HCl salt.</p><p id="s2fn3">1,2-Dichloroethane
+was added as a cosolvent.</p><p id="s2fn4">Trifluorotoluene was added as a cosolvent.</p><p id="s2fn5">Dichloromethane was added as a cosolvent.</p><p id="s2fn6">Additional equivalents of KBH<sub>4</sub> and I<sub>2</sub> were used.</p><p id="s2fn7">Phenol <bold>2q</bold> was isolated from the reaction
+with <bold>1p</bold> along with <bold>2p</bold>.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0003" id="gr2" position="float"/></fig><p>Ester <bold>1o</bold> and ether <bold>1p</bold> reacted smoothly
+to afford the anilines but resulted in ester/ether cleavage to generate
+carboxylic acid/phenol products. While only carboxylic acid <bold>2o</bold> was recovered in the reaction with <bold>1o</bold>, nitroanisole
+substrate <bold>1p</bold> was converted to a mixture of <italic>p</italic>-aminophenol (<bold>2q</bold>) (50%) and <italic>p</italic>-anisidine
+(<bold>2p</bold>) (25%). Further optimization to maximize the yield
+of the ether may be feasible but was not attempted in this study.</p><p>It is notable that, in addition to ether <bold>1p</bold>, trifluoromethyl <bold>1g</bold> was fully tolerated, as trifluoromethyl and ether functional
+groups have known reactivity with related boron trihalide reagents
+(BBr<sub>3</sub>, BCl<sub>3</sub>).<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup></p><p>The tolerance of a ketone and amide coupled
+with no reduction of
+an ester are indicative of full or near-full consumption of the borohydride.
+No evidence of benzylic alcohol or benzylic amine was observed from
+these substrates.</p><p>Turning our attention to the mechanism of
+the reaction, we found
+no TEMPO adducts when TEMPO was used, and the reaction was only modestly
+affected (<xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref>).</p><fig id="sch3" position="float"><label>Scheme 3</label><caption><title>Mechanistic Test Substrates</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_0004" id="gr3" position="float"/></fig><p>We then took inspiration from previous diboron-mediated reactions.
+BI<sub>3</sub> is known to form B<sub>2</sub>I<sub>4</sub> and I<sub>2</sub> under certain conditions,<sup><xref ref-type="bibr" rid="ref23">23</xref></sup> so
+it is not unreasonable to suspect that a diboron-mediated reaction
+could occur. Prior diboron-mediated mechanisms are proposed to involve
+nucleophilic boron species or nitrene/nitrenoid intermediates.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> We found the reaction conditions
+unlikely to support boron nucleophiles. We tested for nitrene/nitrenoid
+intermediates by using 2-nitrobiphenyl (<bold>1r</bold>) (<xref rid="sch3" ref-type="scheme">Scheme <xref rid="sch3" ref-type="scheme">3</xref></xref>). However, we did
+not observe carbazole and only observed the generation of 2-aminobiphenyl
+(<bold>2r</bold>). Another important consideration is whether HI is
+being produced and then causing the reduction. In our cyclohexane-solvated
+system, we expect only small amounts of HI to be generated. Since
+prior reports of HI-mediated nitroarene reduction were performed in
+57% HI solutions at 90 &#x000b0;C<sup><xref ref-type="bibr" rid="ref24">24</xref></sup> and considering
+that the BI<sub>3</sub> reaction proceeds at room temperature, we
+consider it unlikely that HI is the active reducing agent. Further,
+the reaction performs equally well in exhaustively dry cyclohexane.</p><p>Finally, it was observed that when electron-deficient heterocycle <bold>1s</bold> was used, reduction of the arene occurred alongside iodine&#x02013;chlorine
+halogen exchange. This suggests that there is an iodide anion present
+in the reaction solution. Collectively, these mechanistic studies
+have led to a speculative mechanism outlined in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_002.pdf">SI</ext-link>, involving nucleophilic attack of an iodide on a nitroarene-coordinated
+BI<sub>3</sub>, generating a new B&#x02013;O bond, reducing the nitrogen
+center, and generating I<sub>2</sub> as a byproduct.</p><p>BI<sub>3</sub>-mediated chemistry is underexplored in relation
+to its BCl<sub>3</sub> and BBr<sub>3</sub> relatives. This is likely
+due to its increased moisture and light sensitivity. Our protocol
+provides a straightforward method to generate BI<sub>3</sub> from
+simple, inexpensive, and benchtop-stable reagents, which will be of
+broad benefit to the field of boron Lewis acid chemistry.</p><p>Herein
+we further describe nitroarene reductions using in situ-generated
+BI<sub>3</sub>. The practicality of the precursor reagents and the
+low toxicity of the byproducts provide compelling reasons for use
+in nitroarene reductions generally. The most expensive reagent, iodine,
+is also reproduced during the reduction process (a strong visual color
+change is observed that dissipates upon addition of thiol reductants),
+which provides an opportunity for recovery and reuse.</p><p>Despite
+the strong Lewis acidity of BI<sub>3</sub>, several functional
+groups which are often sensitive to reducing conditions (e.g., nitrile,
+ketone, halide) were well-tolerated and provided excellent conversion
+to the corresponding aniline. Further, functionality typically sensitive
+to boron Lewis acids, such as aryl alkyl ether and trifluoromethyl,
+were generally tolerated, save for some conversion of ether to the
+alcohol/phenol.</p><p>Mechanistically, the behavior of BI<sub>3</sub> as a reductant
+is unexpected and may suggest additional opportunities for its utilization.
+We look forward to further exploring the chemical behavior of BI<sub>3</sub> and its potential applications.</p></body><back><notes notes-type="data-availability" id="notes-2"><title>Data Availability Statement</title><p>All underlying
+data available in the article itself and its <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_002.pdf">Supporting Information</ext-link></p></notes><notes id="notes-1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.orglett.3c03257?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.orglett.3c03257</ext-link>.<list id="silist" list-type="simple"><list-item><p>Experimental procedures,
+characterization data, and
+NMR spectra for all compounds (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_002.pdf">PDF</ext-link>)</p></list-item><list-item><p>FAIR data, including the primary NMR FID
+files, for
+compounds <bold>2b</bold>&#x02013;<bold>2s</bold> and BI<sub>3</sub> in situ generation examples (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.orglett.3c03257/suppl_file/ol3c03257_si_001.zip">ZIP</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_si_001.zip"><caption><p>ol3c03257_si_001.zip</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="sifile2"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ol3c03257_si_002.pdf"><caption><p>ol3c03257_si_002.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-3"><title>Author Contributions</title><p>A.&#x00106;.
+and T.C. performed all investigations, including methodology development
+and data curation. F.J.W. oversaw conceptualization, supervision,
+funding acquisition, and project administration.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e1056-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We acknowledge Ashley
+Schneider (University of Iowa) for early
+assistance in BI<sub>3</sub> generation optimization studies. This
+study was funded by NSF Career Award CHE 2239556 and by the University
+of Iowa. HRMS data and <sup>13</sup>C NMR data were obtained using
+instrumentation supported by NSF CHE 0946779 and NSF/MRI 2017828,
+respectively.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="undeclared" id="cit1"><person-group person-group-type="allauthors"><name><surname>Martuscelli</surname><given-names>C.</given-names></name></person-group><article-title>Made-in-China
+pills come with unwanted side effects for the EU</article-title>. <source>Politico</source>, April 15, <year>2021</year>. <uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.politico.eu/article/europe-china-medicines-drug-imports-health/">https://www.politico.eu/article/europe-china-medicines-drug-imports-health/</uri>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Orlandi</surname><given-names>M.</given-names></name>; <name><surname>Brenna</surname><given-names>D.</given-names></name>; <name><surname>Harms</surname><given-names>R.</given-names></name>; <name><surname>Jost</surname><given-names>S.</given-names></name>; <name><surname>Benaglia</surname><given-names>M.</given-names></name>
+<article-title>Recent Developments
+in the Reduction of Aromatic and Aliphatic Nitro Compounds to Amines</article-title>. <source>Org. Process Res. Dev.</source>
+<year>2018</year>, <volume>22</volume> (<issue>4</issue>), <fpage>430</fpage>&#x02013;<lpage>445</lpage>. <pub-id pub-id-type="doi">10.1021/acs.oprd.6b00205</pub-id>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="report" id="cit3"><person-group person-group-type="allauthors"><name><surname>Lowenbach</surname><given-names>W.</given-names></name>; <name><surname>Schlesinger</surname><given-names>J.</given-names></name>; <name><surname>King</surname><given-names>J.</given-names></name></person-group><source>Toxic Pollutant Identification: Nitrobenzene/Aniline
+Manufacturing</source>; Report 01/79-04; <publisher-name>U.S. Environmental
+Protection Agency</publisher-name>, <year>1979</year>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Driessen</surname><given-names>R. T.</given-names></name>; <name><surname>Kamphuis</surname><given-names>P.</given-names></name>; <name><surname>Mathijssen</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>van der
+Ham</surname><given-names>L. G. J.</given-names></name>; <name><surname>van den Berg</surname><given-names>H.</given-names></name>; <name><surname>Zeeuw</surname><given-names>A. J.</given-names></name>
+<article-title>Industrial Process
+Design for the Production of Aniline by Direct Amination</article-title>. <source>Chem. Eng. Technol.</source>
+<year>2017</year>, <volume>40</volume> (<issue>5</issue>), <fpage>838</fpage>&#x02013;<lpage>846</lpage>. <pub-id pub-id-type="doi">10.1002/ceat.201600635</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="book" id="cit5"><person-group person-group-type="allauthors"><name><surname>Kahl</surname><given-names>T.</given-names></name>; <name><surname>Schroder</surname><given-names>K.-W.</given-names></name></person-group><article-title>Aniline</article-title>. In <source>Ullman&#x02019;s Encyclopedia
+of Industrial Chemistry</source>; <publisher-name>Wiley</publisher-name>, <year>2003</year>; Vol. <volume>3</volume>, pp <fpage>161</fpage>&#x02013;<lpage>168</lpage>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Ono</surname><given-names>Y.</given-names></name>; <name><surname>Ishida</surname><given-names>H.</given-names></name>
+<article-title>Amination of phenols
+with ammonia over palladium supported
+on alumina</article-title>. <source>J. Catal.</source>
+<year>1981</year>, <volume>72</volume> (<issue>1</issue>), <fpage>121</fpage>&#x02013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1016/0021-9517(81)90083-X</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Qiu</surname><given-names>Z.</given-names></name>; <name><surname>Lv</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>C.-C.</given-names></name>; <name><surname>Li</surname><given-names>C.-J.</given-names></name>
+<article-title>Direct conversion
+of phenols into primary anilines with hydrazine catalyzed by palladium</article-title>. <source>Chem. Sci.</source>
+<year>2019</year>, <volume>10</volume> (<issue>18</issue>), <fpage>4775</fpage>&#x02013;<lpage>4781</lpage>. <pub-id pub-id-type="doi">10.1039/C9SC00595A</pub-id>.<pub-id pub-id-type="pmid">31160954</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Orlandi</surname><given-names>M.</given-names></name>; <name><surname>Tosi</surname><given-names>F.</given-names></name>; <name><surname>Bonsignore</surname><given-names>M.</given-names></name>; <name><surname>Benaglia</surname><given-names>M.</given-names></name>
+<article-title>Metal-Free Reduction
+of Aromatic and Aliphatic Nitro Compounds to Amines: A HSiCl<sub>3</sub>-Mediated Reaction of Wide General Applicability</article-title>. <source>Org. Lett.</source>
+<year>2015</year>, <volume>17</volume> (<issue>16</issue>), <fpage>3941</fpage>&#x02013;<lpage>3943</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.5b01698</pub-id>.<pub-id pub-id-type="pmid">26262554</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>West</surname><given-names>R. W.</given-names></name>; <name><surname>Hedges</surname><given-names>E. S.</given-names></name>; <name><surname>Myers</surname><given-names>J. E.</given-names></name>; <name><surname>Briggs</surname><given-names>D. B.</given-names></name>; <name><surname>Partington</surname><given-names>J. R.</given-names></name>; <name><surname>Tweedy</surname><given-names>S. K.</given-names></name>; <name><surname>Hodgson</surname><given-names>H. H.</given-names></name>; <name><surname>Beard</surname><given-names>H. G.</given-names></name>
+<article-title>Notes</article-title>. <source>J. Chem. Soc., Trans.</source>
+<year>1925</year>, <volume>127</volume> (<issue>0</issue>), <fpage>494</fpage>&#x02013;<lpage>498</lpage>. <pub-id pub-id-type="doi">10.1039/ct9252700494</pub-id>.</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Lu</surname><given-names>H.</given-names></name>; <name><surname>Geng</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Zou</surname><given-names>D.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>; <name><surname>Wu</surname><given-names>Y.</given-names></name>
+<article-title>Metal-Free Reduction
+of Aromatic Nitro Compounds to Aromatic Amines
+with B<sub>2</sub>pin<sub>2</sub> in Isopropanol</article-title>. <source>Org. Lett.</source>
+<year>2016</year>, <volume>18</volume> (<issue>11</issue>), <fpage>2774</fpage>&#x02013;<lpage>2776</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.6b01274</pub-id>.<pub-id pub-id-type="pmid">27214590</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Zhou</surname><given-names>H.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>K.</given-names></name>; <name><surname>Uozumi</surname><given-names>Y.</given-names></name>
+<article-title>Metal-free Reduction of Nitro Aromatics
+to Amines with B<sub>2</sub>(OH)<sub>4</sub>/H<sub>2</sub>O</article-title>. <source>Synlett</source>
+<year>2018</year>, <volume>29</volume> (<issue>13</issue>), <fpage>1765</fpage>&#x02013;<lpage>1768</lpage>. <pub-id pub-id-type="doi">10.1055/s-0037-1610086</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Du</surname><given-names>H.-C.</given-names></name>; <name><surname>Simmons</surname><given-names>N.</given-names></name>; <name><surname>Faver</surname><given-names>J. C.</given-names></name>; <name><surname>Yu</surname><given-names>Z.</given-names></name>; <name><surname>Palaniappan</surname><given-names>M.</given-names></name>; <name><surname>Riehle</surname><given-names>K.</given-names></name>; <name><surname>Matzuk</surname><given-names>M. M.</given-names></name>
+<article-title>A Mild, DNA-Compatible
+Nitro Reduction
+Using B<sub>2</sub>(OH)<sub>4</sub></article-title>. <source>Org. Lett.</source>
+<year>2019</year>, <volume>21</volume> (<issue>7</issue>), <fpage>2194</fpage>&#x02013;<lpage>2199</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.9b00497</pub-id>.<pub-id pub-id-type="pmid">30860855</pub-id>
+</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Hosoya</surname><given-names>H.</given-names></name>; <name><surname>Misal Castro</surname><given-names>L. C.</given-names></name>; <name><surname>Sultan</surname><given-names>I.</given-names></name>; <name><surname>Nakajima</surname><given-names>Y.</given-names></name>; <name><surname>Ohmura</surname><given-names>T.</given-names></name>; <name><surname>Sato</surname><given-names>K.</given-names></name>; <name><surname>Tsurugi</surname><given-names>H.</given-names></name>; <name><surname>Suginome</surname><given-names>M.</given-names></name>; <name><surname>Mashima</surname><given-names>K.</given-names></name>
+<article-title>4,4&#x02032;-Bipyridyl-Catalyzed
+Reduction of Nitroarenes by Bis(neopentylglycolato)diboron</article-title>. <source>Org. Lett.</source>
+<year>2019</year>, <volume>21</volume> (<issue>24</issue>), <fpage>9812</fpage>&#x02013;<lpage>9817</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.9b03419</pub-id>.<pub-id pub-id-type="pmid">31663767</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Jang</surname><given-names>M.</given-names></name>; <name><surname>Lim</surname><given-names>T.</given-names></name>; <name><surname>Park</surname><given-names>B. Y.</given-names></name>; <name><surname>Han</surname><given-names>M. S.</given-names></name>
+<article-title>Metal-Free, Rapid, and Highly Chemoselective
+Reduction of Aromatic Nitro Compounds at Room Temperature</article-title>. <source>J. Org. Chem.</source>
+<year>2022</year>, <volume>87</volume> (<issue>2</issue>), <fpage>910</fpage>&#x02013;<lpage>919</lpage>. <pub-id pub-id-type="doi">10.1021/acs.joc.1c01431</pub-id>.<pub-id pub-id-type="pmid">34983185</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>MacNair</surname><given-names>A. J.</given-names></name>; <name><surname>Tran</surname><given-names>M.-M.</given-names></name>; <name><surname>Nelson</surname><given-names>J. E.</given-names></name>; <name><surname>Sloan</surname><given-names>U.</given-names></name>; <name><surname>Ironmonger</surname><given-names>A.</given-names></name>; <name><surname>Thomas</surname><given-names>S. P.</given-names></name>
+<source>Org. Biomol. Chem.</source>
+<year>2014</year>, <volume>12</volume>, <fpage>5082</fpage>&#x02013;<lpage>5088</lpage>. <pub-id pub-id-type="doi">10.1039/C4OB00945B</pub-id>.<pub-id pub-id-type="pmid">24914735</pub-id>
+</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Briggs</surname><given-names>A. G.</given-names></name>; <name><surname>Simmons</surname><given-names>R. E.</given-names></name>
+<article-title>The preparation
+of very pure boron iodide</article-title>. <source>Sci. Nat.</source>
+<year>1990</year>, <volume>77</volume> (<issue>12</issue>), <fpage>595</fpage>&#x02013;<lpage>597</lpage>. <pub-id pub-id-type="doi">10.1007/BF01133735</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="book" id="cit17"><person-group person-group-type="allauthors"><name><surname>Anslyn</surname><given-names>E. V.</given-names></name>; <name><surname>Dougherty</surname><given-names>D. A.</given-names></name></person-group><source>Modern Physical Organic
+Chemistry</source>; <publisher-name>University Science Books</publisher-name>, <year>2023</year>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Prakash</surname><given-names>G.
+K. S.</given-names></name>; <name><surname>Hu</surname><given-names>J.</given-names></name>; <name><surname>Simon</surname><given-names>J.</given-names></name>; <name><surname>Bellew</surname><given-names>D. R.</given-names></name>; <name><surname>Olah</surname><given-names>G. A.</given-names></name>
+<article-title>Preparation
+of &#x003b1;,&#x003b1;-difluoroalkanesulfonic acids</article-title>. <source>J. Fluorine Chem.</source>
+<year>2004</year>, <volume>125</volume> (<issue>4</issue>), <fpage>595</fpage>&#x02013;<lpage>601</lpage>. <pub-id pub-id-type="doi">10.1016/j.jfluchem.2003.11.031</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Chivers</surname><given-names>T.</given-names></name>
+<article-title>Halogen exchange
+in reactions of boron halides with <italic>o</italic>-(trifluoromethyl)-phenyltrimethyl
+derivatives of silicon and tin</article-title>. <source>Can. J. Chem.</source>
+<year>1970</year>, <volume>48</volume> (<issue>24</issue>), <fpage>3856</fpage>&#x02013;<lpage>3859</lpage>. <pub-id pub-id-type="doi">10.1139/v70-649</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>&#x00106;orkovi&#x00107;</surname><given-names>A.</given-names></name>; <name><surname>Dorian</surname><given-names>A.</given-names></name>; <name><surname>Williams</surname><given-names>F. J.</given-names></name>
+<article-title>Improvements in Efficiency and Selectivity
+for C&#x02013;F Bond Halogen-Exchange Reactions by Using Boron Reagents</article-title>. <source>Synlett</source>
+<year>2023</year>, <volume>34</volume>, <fpage>193</fpage>&#x02013;<lpage>202</lpage>. <pub-id pub-id-type="doi">10.1055/a-1941-2205</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Atienza</surname><given-names>B. J. P.</given-names></name>; <name><surname>Truong</surname><given-names>N.</given-names></name>; <name><surname>Williams</surname><given-names>F. J.</given-names></name>
+<article-title>Reliably Regioselective Dialkyl Ether
+Cleavage with Mixed Boron Trihalides</article-title>. <source>Org. Lett.</source>
+<year>2018</year>, <volume>20</volume> (<issue>20</issue>), <fpage>6332</fpage>&#x02013;<lpage>6335</lpage>. <pub-id pub-id-type="doi">10.1021/acs.orglett.8b02356</pub-id>.<pub-id pub-id-type="pmid">30265548</pub-id>
+</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Bhatt</surname><given-names>M. V.</given-names></name>; <name><surname>Kulkarni</surname><given-names>S. U.</given-names></name>
+<article-title>Cleavage of Ethers</article-title>. <source>Synthesis</source>
+<year>1983</year>, <volume>1983</volume> (<issue>04</issue>), <fpage>249</fpage>&#x02013;<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1055/s-1983-30301</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Briggs</surname><given-names>A. G.</given-names></name>; <name><surname>Massey</surname><given-names>A. G.</given-names></name>; <name><surname>Reason</surname><given-names>M. S.</given-names></name>; <name><surname>Portal</surname><given-names>P. J.</given-names></name>
+<article-title>Possible intermediates
+in the discharge synthesis of diboron tetrahalides</article-title>. <source>Polyhedron</source>
+<year>1984</year>, <volume>3</volume> (<issue>3</issue>), <fpage>369</fpage>&#x02013;<lpage>371</lpage>. <pub-id pub-id-type="doi">10.1016/S0277-5387(00)88124-3</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Kumar</surname><given-names>J. S. D.</given-names></name>; <name><surname>Ho</surname><given-names>M. M.</given-names></name>; <name><surname>Toyokuni</surname><given-names>T.</given-names></name>
+<article-title>Simple and chemoselective
+reduction
+of aromatic nitro compounds to aromatic amines: reduction with hydriodic
+acid revisited</article-title>. <source>Tetrahedron Lett.</source>
+<year>2001</year>, <volume>42</volume>, <fpage>5601</fpage>&#x02013;<lpage>5603</lpage>. <pub-id pub-id-type="doi">10.1016/S0040-4039(01)01083-8</pub-id>.</mixed-citation></ref></ref-list></back></article>

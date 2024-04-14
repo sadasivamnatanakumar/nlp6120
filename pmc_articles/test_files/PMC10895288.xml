@@ -1,0 +1,749 @@
+<!-- The Source File : 73-80.docx -->
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="zh" article-type="research-article"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Zhongguo Fei Ai Za Zhi</journal-id><journal-id journal-id-type="iso-abbrev">Zhongguo Fei Ai Za Zhi</journal-id><journal-title-group><journal-title>Chinese Journal of Lung Cancer</journal-title></journal-title-group><issn pub-type="ppub">1009-3419</issn><issn pub-type="epub">1999-6187</issn><publisher><publisher-name>Editorial board of Chinese Journal of Lung Cancer</publisher-name><publisher-loc>No. 154 Anshan Road, Heping District, Tianjin, PRC, 300052</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38296628</article-id><article-id pub-id-type="pmc">PMC10895288</article-id>
+<article-id pub-id-type="doi">10.3779/j.issn.1009-3419.2024.101.01</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title><italic toggle="yes">BRAF</italic>&#x07a81;&#x053d8;&#x05728;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x04e2d;&#x07684;&#x07814;&#x07a76;&#x08fdb;&#x05c55;</article-title><trans-title-group><trans-title xml:lang="en">Progress of <italic toggle="yes">BRAF</italic> Gene Alteration in Non-small Cell Lung Cancer
+</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><name xml:lang="en"><surname>DENG</surname><given-names>Libian</given-names></name><!--<string-name>&#x09093;&#x0674e;&#x053d8;</string-name>--><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>YANG</surname><given-names>Yaxian</given-names></name><!--<string-name>&#x06768;&#x096c5;&#x05a34;</string-name>--><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name xml:lang="en"><surname>HUANG</surname><given-names>Jian</given-names></name><!--<string-name>&#x09ec4;&#x05251;</string-name>--><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="cor1" ref-type="corresp"/><xref rid="cor2" ref-type="corresp"/><email>18665763598@163.com</email></contrib><aff-alternatives id="aff1"><aff>
+<addr-line><sup>1</sup>524002 &#x06e5b;&#x06c5f;&#x0ff0c;&#x05e7f;&#x04e1c;&#x0533b;&#x079d1;&#x05927;&#x05b66;&#x09644;&#x05c5e;&#x07b2c;&#x04e8c;&#x0533b;&#x09662;&#x075c5;&#x07406;&#x079d1;&#x0ff08;&#x09093;&#x0674e;&#x053d8;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>1</sup>Department of Pathology, The Second Affiliated Hospital of Guangdong Medical University, Zhanjiang 524002, China</addr-line>
+</aff></aff-alternatives><aff-alternatives id="aff2"><aff>
+<addr-line><sup>2</sup>510700 &#x05e7f;&#x05dde;&#x0ff0c;&#x05e7f;&#x05dde;&#x0534e;&#x094f6;&#x05eb7;&#x0533b;&#x07597;&#x096c6;&#x056e2;&#x080a1;&#x04efd;&#x06709;&#x09650;&#x0516c;&#x053f8;&#x0ff08;&#x06768;&#x096c5;&#x05a34;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>2</sup>Guangzhou Huayin Health Medical Group Co., Ltd, Guangzhou 510700, China</addr-line>
+</aff></aff-alternatives><aff-alternatives id="aff3"><aff>
+<addr-line><sup>3</sup>524001 &#x06e5b;&#x06c5f;&#x0ff0c;&#x05e7f;&#x04e1c;&#x0533b;&#x079d1;&#x05927;&#x05b66;&#x09644;&#x05c5e;&#x0533b;&#x09662;&#x075c5;&#x07406;&#x08bca;&#x065ad;&#x04e0e;&#x07814;&#x07a76;&#x04e2d;&#x05fc3;&#x0ff08;&#x09ec4;&#x05251;&#x0ff09;</addr-line>
+</aff><aff xml:lang="en">
+<addr-line><sup>3</sup>Department of Pathological Diagnosis and Research Center, The Affiliated Hospital of Guangdong Medical University, Zhanjiang 524001, China</addr-line>
+</aff></aff-alternatives></contrib-group><author-notes><corresp id="cor1">&#x09ec4;&#x05251;&#x0ff0c;E-mail: <email>18665763598@163.com</email></corresp><corresp id="cor2" xml:lang="en">Jian HUANG, E-mail: <email>18665763598@163.com</email></corresp></author-notes><pub-date pub-type="ppub"><day>20</day><month>1</month><year>2024</year></pub-date><volume>27</volume><issue>1</issue><fpage>73</fpage><lpage>80</lpage><history><date date-type="received"><day>16</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x07248;&#x06743;&#x06240;&#x06709; &#x000a9; 2023&#x0300a;&#x04e2d;&#x056fd;&#x080ba;&#x0764c;&#x06742;&#x05fd7;&#x0300b;&#x07f16;&#x08f91;&#x090e8;</copyright-statement><copyright-statement>Copyright &#x000a9; 2023, Chinese Journal of Lung Cancer.</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>Chinese Journal of Lung Cancer</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/3.0/</ali:license_ref><license-p>This is an open access article distributed in accordance with the terms of the Creative Commons Attribution (CC BY 3.0) License. See: <ext-link xlink:href="https://creativecommons.org/licenses/by/3.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/3.0/</ext-link>.</license-p></license></permissions><abstract><p id="p00000">&#x09f20;&#x07c7b;&#x08089;&#x07624;&#x075c5;&#x06bd2;&#x0764c;&#x057fa;&#x056e0;&#x0540c;&#x06e90;&#x07269;&#x0ff08;V-Raf murine sarcoma viral oncogene homolog B, BRAF&#x0ff09;&#x07a81;&#x053d8;&#x0662f;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x0ff08;non-small cell lung cancer, NSCLC&#x0ff09;&#x07684;&#x091cd;&#x08981;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x04e4b;&#x04e00;&#x03002;BRAF&#x057fa;&#x056e0;&#x07f16;&#x07801;&#x04e1d;&#x06c28;&#x09178;/&#x082cf;&#x06c28;&#x09178;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x0901a;&#x05e38;&#x05bfc;&#x081f4;&#x05176;&#x07f16;&#x07801;&#x086cb;&#x0767d;&#x08d28;&#x07684;&#x06d3b;&#x05316;&#x0ff0c;&#x04ece;&#x0800c;&#x05bfc;&#x081f4;&#x04e1d;&#x088c2;&#x0539f;&#x06d3b;&#x05316;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x06fc0;&#x09176;&#x0ff08;mitogen-activated protein kinase kinase, MEK&#x0ff09;&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x09014;&#x05f84;&#x07684;&#x06fc0;&#x06d3b;&#x03002;&#x09488;&#x05bf9;BRAF&#x07a81;&#x053d8;&#x06216;&#x05176;&#x04e0b;&#x06e38;MEK&#x09776;&#x05411;&#x0836f;&#x07269;&#x07684;&#x04e34;&#x05e8a;&#x05e94;&#x07528;&#x0ff0c;&#x04e3a;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x063d0;&#x04f9b;&#x04e86;&#x066f4;&#x04e3a;&#x09488;&#x05bf9;&#x06027;&#x053ca;&#x06709;&#x06548;&#x07684;&#x06cbb;&#x07597;&#x03002;&#x07136;&#x0800c;&#x08fd9;&#x04e9b;&#x065b9;&#x06848;&#x04e5f;&#x05b58;&#x05728;&#x083b7;&#x076ca;&#x06301;&#x07eed;&#x065f6;&#x095f4;&#x077ed;&#x03001;BRAF&#x0975e;V600&#x07a81;&#x053d8;&#x06cbb;&#x07597;&#x06548;&#x0679c;&#x05dee;&#x03001;&#x06613;&#x08010;&#x0836f;&#x07b49;&#x095ee;&#x09898;&#x0ff0c;&#x09700;&#x08981;&#x065b0;&#x07684;&#x0590d;&#x05408;&#x06cbb;&#x07597;&#x065b9;&#x06848;&#x06765;&#x06539;&#x05584;&#x03002;&#x0672c;&#x06587;&#x05c31;BRAF&#x057fa;&#x056e0;&#x07ed3;&#x06784;&#x07279;&#x070b9;&#x03001;&#x076f8;&#x05173;&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x03001;&#x07a81;&#x053d8;&#x07c7b;&#x0578b;&#x0ff0c;&#x05c24;&#x05176;&#x0662f;BRAF&#x07a81;&#x053d8;&#x0548c;NSCLC&#x07684;&#x04e34;&#x05e8a;&#x075c5;&#x07406;&#x08054;&#x07cfb;&#x053ca;&#x06cbb;&#x07597;&#x08fdb;&#x05c55;&#x07b49;&#x065b9;&#x09762;&#x08fdb;&#x0884c;&#x07efc;&#x08ff0;&#x0ff0c;&#x04e3a;&#x04e34;&#x05e8a;&#x0533b;&#x0751f;&#x09009;&#x062e9;&#x066f4;&#x06709;&#x06548;&#x07684;&#x06cbb;&#x07597;&#x065b9;&#x06848;&#x063d0;&#x04f9b;&#x04f9d;&#x0636e;&#x03002;</p></abstract><trans-abstract xml:lang="en"><p id="p00005">V-Raf murine sarcoma viral oncogene homolog B (BRAF) alteration is one of the most essential driver genes of non-small cell lung cancer (NSCLC). BRAF encodes serine/threonine protein kinases, and its mutations typically lead to protein compositional activation, thereby activating the mitogen-activated protein kinase kinase (MEK) signaling pathway. A promising new approach for the treatment of mutated BRAF and/or downstream MEK may provide customized treatment opportunities for BRAF driven NSCLC patients. However, combination therapy is necessary to overcome the difficulties such as short duration of benefit, poor therapeutic effect of non-V600 BRAF mutations and susceptibility to drug resistance. This article reviewed the progress in structural characteristics, related signaling pathways, mutation types of BRAF gene, and the clinical pathological relationship between BRAF mutations and NSCLC, as well as the therapy, in order to provide more evidences for clinical doctors to make treatment decisions.</p></trans-abstract><kwd-group kwd-group-type="author"><kwd>&#x080ba;&#x080bf;&#x07624;</kwd><kwd>BRAF&#x057fa;&#x056e0;</kwd><kwd>&#x09776;&#x05411;&#x06cbb;&#x07597;</kwd></kwd-group><kwd-group kwd-group-type="author" xml:lang="en"><kwd>Lung neoplasms</kwd><kwd>BRAF gene</kwd><kwd>Targeted therapy</kwd></kwd-group><funding-group><award-group id="fund1"><funding-source>&#x056fd;&#x05bb6;&#x081ea;&#x07136;&#x079d1;&#x05b66;&#x057fa;&#x091d1;&#x09879;&#x076ee;</funding-source><funding-source xml:lang="en">National Natural Science Foundation of China</funding-source><award-id>81572610</award-id></award-group><award-group id="fund2"><funding-source>&#x05e7f;&#x04e1c;&#x07701;&#x0201c;&#x0626c;&#x05e06;&#x08ba1;&#x05212;&#x0201d;&#x05f15;&#x08fdb;&#x07d27;&#x07f3a;&#x062d4;&#x05c16;&#x04eba;&#x0624d;&#x09879;&#x076ee;</funding-source><funding-source xml:lang="en">"Sailing Plan" Introduces Scarce and Top-notch Talents of Guangdong Province (Both to Jian HUANG)</funding-source><award-id>4YF16002G</award-id></award-group></funding-group></article-meta></front><body><p id="p00010">&#x080ba;&#x0764c;&#x0662f;&#x05bfc;&#x081f4;&#x0764c;&#x075c7;&#x076f8;&#x05173;&#x06b7b;&#x04ea1;&#x07684;&#x04e3b;&#x08981;&#x0539f;&#x056e0;&#x0ff0c;&#x05360;&#x05168;&#x07403;&#x0764c;&#x075c7;&#x06b7b;&#x04ea1;&#x04eba;&#x06570;&#x07684;1/3&#x05de6;&#x053f3;&#x03002;&#x05728;&#x08fc7;&#x053bb;&#x05927;&#x07ea6;30&#x05e74;&#x095f4;&#x0ff0c;&#x06211;&#x056fd;&#x080ba;&#x0764c;&#x07684;&#x053d1;&#x075c5;&#x07387;&#x0548c;&#x06b7b;&#x04ea1;&#x07387;&#x05448;&#x0663e;&#x08457;&#x04e0a;&#x05347;&#x08d8b;&#x052bf;&#x0ff0c;&#x05df2;&#x06f14;&#x053d8;&#x06210;&#x056fd;&#x05185;&#x0589e;&#x0957f;&#x06700;&#x05feb;&#x03001;&#x05371;&#x05bb3;&#x06700;&#x05927;&#x07684;&#x06076;&#x06027;&#x080bf;&#x07624;<sup>[<xref rid="b1" ref-type="bibr">1</xref>,<xref rid="b2" ref-type="bibr">2</xref>]</sup>&#x03002;&#x06211;&#x056fd;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x04e2d;&#x0ff0c;75%-90%&#x05c5e;&#x04e8e;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x0ff08;non-small cell lung cancer, NSCLC&#x0ff09;&#x03002;&#x0665a;&#x0671f;NSCLC&#x0901a;&#x05e38;&#x091c7;&#x07528;&#x094c2;&#x07c7b;&#x053cc;&#x08054;&#x05316;&#x07597;&#x0ff0c;&#x04f46;&#x06709;&#x0590d;&#x053d1;&#x098ce;&#x09669;&#x03002;</p><p id="p00015">&#x05728;NSCLC&#x04e2d;&#x0ff0c;&#x05b58;&#x05728;&#x08bb8;&#x0591a;&#x080bf;&#x07624;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x0ff0c;&#x05982;&#x08868;&#x076ae;&#x0751f;&#x0957f;&#x056e0;&#x05b50;&#x053d7;&#x04f53;&#x0ff08;epidermal growth factor receptor, EGFR&#x0ff09;&#x03001;&#x04eba;&#x07c7b;&#x08868;&#x076ae;&#x0751f;&#x0957f;&#x056e0;&#x05b50;&#x053d7;&#x04f53;2&#x0ff08;human epidermal growth factor receptor 2, HER2&#x0ff09;&#x03001;Kirsten&#x05927;&#x09f20;&#x08089;&#x07624;&#x075c5;&#x06bd2;&#x0764c;&#x057fa;&#x056e0;&#x0ff08;Kirsten rat sarcoma viral proto oncogene, KRAS&#x0ff09;&#x03001;&#x09f20;&#x07c7b;&#x08089;&#x07624;&#x075c5;&#x06bd2;&#x0764c;&#x057fa;&#x056e0;&#x0540c;&#x06e90;&#x07269;B&#x0ff08;V-Raf murine sarcoma viral oncogene homolog B, BRAF&#x0ff09;&#x03001;&#x095f4;&#x053d8;&#x06027;&#x06dcb;&#x05df4;&#x07624;&#x06fc0;&#x09176;&#x0ff08;anaplastic lymphoma kinase, ALK&#x0ff09;&#x053ca;&#x0539f;&#x0764c;&#x057fa;&#x056e0;1&#x053d7;&#x04f53;&#x0916a;&#x06c28;&#x09178;&#x06fc0;&#x09176;&#x0ff08;c-ros oncogene 1 receptor tyrosine kinase, ROS1&#x0ff09;&#x07b49;<sup>[<xref rid="b3" ref-type="bibr">3</xref>]</sup>&#x03002;&#x09488;&#x05bf9;&#x08fd9;&#x04e9b;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x07684;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x06781;&#x05927;&#x05730;&#x06539;&#x05584;&#x04e86;NSCLC&#x060a3;&#x08005;&#x07684;&#x06cbb;&#x07597;&#x06548;&#x0679c;&#x053ca;&#x06cbb;&#x07597;&#x06a21;&#x05f0f;&#x0ff0c;&#x0672c;&#x06587;&#x07740;&#x091cd;&#x09488;&#x05bf9;NSCLC&#x04e2d;BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x053ca;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x08fdb;&#x05c55;&#x08fdb;&#x0884c;&#x07efc;&#x08ff0;&#x03002;</p><sec id="s1"><title>1 BRAF&#x057fa;&#x056e0;</title><sec id="s1.1"><title>1.1 BRAF&#x057fa;&#x056e0;&#x07ed3;&#x06784;</title><p id="p00020">&#x05927;&#x09f20;&#x08089;&#x07624;&#x0ff08;rat sarcoma, RAS&#x0ff09;/&#x05feb;&#x0901f;&#x052a0;&#x0901f;&#x07ea4;&#x07ef4;&#x08089;&#x07624;&#x0ff08;rapidly accelerated fibrosarcoma, RAF&#x0ff09;/&#x04e1d;&#x088c2;&#x0539f;&#x06d3b;&#x05316;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x06fc0;&#x09176;&#x0ff08;mitogen-activated protein kinase kinase, MEK&#x0ff09;/&#x07ec6;&#x080de;&#x05916;&#x04fe1;&#x053f7;&#x08c03;&#x08282;&#x06fc0;&#x09176;&#x0ff08;extracellular signal-regulated kinase, ERK&#x0ff09;&#x06216;&#x04e1d;&#x088c2;&#x0539f;&#x06d3b;&#x05316;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x0ff08;mitogen-activated protein kinase, MAPK&#x0ff09;&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x0662f;&#x04e00;&#x04e2a;&#x05173;&#x0952e;&#x07684;&#x07ec6;&#x080de;&#x05185;&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x0ff0c;&#x04ecb;&#x05bfc;&#x07ec6;&#x080de;&#x0589e;&#x06b96;&#x0548c;&#x05b58;&#x06d3b;&#x06240;&#x05fc5;&#x09700;&#x07684;&#x0751f;&#x0957f;&#x04fe1;&#x053f7;&#x053cd;&#x05e94;<sup>[<xref rid="b3" ref-type="bibr">3</xref>,<xref rid="b4" ref-type="bibr">4</xref>]</sup>&#x03002;BRAF&#x0662f;&#x04e00;&#x079cd;&#x04e1d;&#x06c28;&#x09178;/&#x082cf;&#x06c28;&#x09178;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x0ff0c;&#x04e0e;ARAF&#x0548c;CRAF&#x0540c;&#x05c5e;&#x04e8e;RAF&#x06fc0;&#x09176;&#x05bb6;&#x065cf;&#x0ff0c;&#x053c2;&#x04e0e;MAPK&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x03002;</p><p id="p00025">BRAF&#x057fa;&#x056e0;&#x04f4d;&#x04e8e;&#x07b2c;7&#x053f7;&#x067d3;&#x08272;&#x04f53;&#x0957f;&#x081c2;&#x04e0a;&#x0ff0c;&#x07531;3&#x04e2a;&#x086cb;&#x0767d;&#x04fdd;&#x05b88;&#x07ed3;&#x06784;&#x0533a;&#x0ff08;conserved regions, CR&#x0ff09;&#x07ec4;&#x06210;&#x0ff0c;&#x05206;&#x0522b;&#x04e3a;RAS&#x07ed3;&#x05408;&#x07ed3;&#x06784;&#x057df;&#x0ff08;CR1&#x0ff09;&#x03001;&#x08c03;&#x08282;&#x07ed3;&#x06784;&#x057df;&#x0ff08;CR2&#x0ff09;&#x0548c;&#x06fc0;&#x09176;&#x07ed3;&#x06784;&#x057df;&#x0ff08;CR3&#x0ff09;<sup>[<xref rid="b5" ref-type="bibr">5</xref>]</sup>&#x03002;CR1&#x0542b;&#x06709;&#x04e0e;Ras-GTP&#x07ed3;&#x05408;&#x07684;RAS&#x07ed3;&#x05408;&#x07ed3;&#x06784;&#x057df;&#x0ff08;RAS binding domain, RBD&#x0ff09;&#x0548c;&#x05bcc;&#x0542b;&#x0534a;&#x080f1;&#x06c28;&#x09178;&#x07ed3;&#x06784;&#x057df;&#x0ff08;cysteine-rich domain, CRD&#x0ff09;&#x0ff0c;&#x0662f;RAS&#x086cb;&#x0767d;&#x095f4;&#x04e92;&#x052a8;&#x07684;&#x05173;&#x0952e;&#x06027;&#x073af;&#x08282;<sup>[<xref rid="b4" ref-type="bibr">4</xref>]</sup>&#x03002;CR2&#x05305;&#x062ec;1&#x04e2a;&#x05bcc;&#x0542b;&#x04e1d;&#x06c28;&#x09178;/&#x082cf;&#x06c28;&#x09178;&#x07684;&#x0533a;&#x057df;&#x0ff0c;&#x08be5;&#x0533a;&#x057df;&#x05177;&#x06709;&#x091cd;&#x08981;&#x07684;&#x06291;&#x05236;&#x06027;&#x078f7;&#x09178;&#x05316;&#x04f4d;&#x070b9;&#x0ff0c;&#x053ef;&#x04ee5;&#x089e3;&#x09664;RAS&#x07ed3;&#x05408;&#x0548c;RAF&#x06d3b;&#x05316;<sup>[<xref rid="b6" ref-type="bibr">6</xref>]</sup>&#x03002;CR3&#x04f4d;&#x04e8e;C&#x0672b;&#x07aef;&#x07684;11-18&#x053f7;&#x05916;&#x0663e;&#x05b50;&#x05185;&#x0ff0c;&#x0662f;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x07ed3;&#x06784;&#x057df;&#x0ff0c;&#x05176;&#x078f7;&#x09178;&#x05316;&#x0662f;&#x06fc0;&#x09176;&#x06fc0;&#x06d3b;&#x07684;&#x05fc5;&#x09700;&#x06761;&#x04ef6;<sup>[<xref rid="b7" ref-type="bibr">7</xref>]</sup>&#x03002;CR3&#x07684;N&#x07aef;&#x090e8;&#x05206;&#x053c2;&#x04e0e;ATP&#x07ed3;&#x05408;&#x0ff0c;&#x05b83;&#x05305;&#x0542b;P&#x073af;&#x0533a;&#x057df;&#x0ff0c;&#x05bf9;&#x07a33;&#x05b9a;ATP&#x07ed3;&#x05408;&#x0548c;&#x07ef4;&#x06301;&#x065e0;&#x06d3b;&#x06027;BRAF&#x06784;&#x08c61;&#x06709;&#x091cd;&#x08981;&#x04f5c;&#x07528;<sup>[<xref rid="b5" ref-type="bibr">5</xref>]</sup>&#x03002;</p></sec><sec id="s1.2"><title>1.2 BRAF&#x076f8;&#x05173;&#x04fe1;&#x053f7;&#x0901a;&#x08def;</title><p id="p00030">&#x05728;&#x09759;&#x0606f;&#x07ec6;&#x080de;&#x04e2d;&#x0ff0c;RAF&#x05b9a;&#x04f4d;&#x04e8e;&#x080de;&#x06d46;&#x0ff0c;&#x05176;N&#x07aef;&#x08c03;&#x08282;&#x0533a;&#x057df;&#x04e0e;&#x06fc0;&#x09176;&#x07ed3;&#x06784;&#x057df;&#x076f8;&#x04e92;&#x04f5c;&#x07528;&#x0ff0c;&#x0901a;&#x08fc7;14-3-3&#x04e8c;&#x0805a;&#x04f53;&#x04e0e;2&#x04e2a;&#x078f7;&#x09178;&#x05316;&#x04e1d;&#x06c28;&#x09178;&#x04f4d;&#x070b9;&#x0ff08;pS365&#x0548c;pS729&#x0ff09;&#x07ed3;&#x05408;&#x0ff0c;&#x07ef4;&#x06301;&#x081ea;&#x08eab;&#x06291;&#x05236;&#x07684;&#x05355;&#x04f53;&#x072b6;&#x06001;<sup>[<xref rid="b8" ref-type="bibr">8</xref>,<xref rid="b9" ref-type="bibr">9</xref>]</sup>&#x03002;</p><p id="p00035">&#x05f53;&#x0751f;&#x0957f;&#x056e0;&#x05b50;&#x04e0e;&#x07ec6;&#x080de;&#x08868;&#x09762;&#x053d7;&#x04f53;&#x0916a;&#x06c28;&#x09178;&#x06fc0;&#x09176;&#x0ff08;receptor tyrosine kinases, RTKs&#x0ff09;&#x07ed3;&#x05408;&#x065f6;&#x0ff08;EGFR&#x0662f;&#x06700;&#x065e9;&#x053d1;&#x073b0;&#x07684;RTK&#x0ff09;&#x0ff0c;&#x053d7;&#x04f53;-&#x0914d;&#x04f53;&#x076f8;&#x04e92;&#x04f5c;&#x07528;&#x04fc3;&#x08fdb;&#x07ec6;&#x080de;&#x05185;&#x090e8;RTK&#x07684;&#x04e8c;&#x0805a;&#x05316;&#x03001;&#x06d3b;&#x05316;&#x0548c;&#x081ea;&#x04f53;&#x078f7;&#x09178;&#x05316;&#x0ff0c;&#x06d3b;&#x05316;&#x07684;RTK&#x0901a;&#x08fc7;&#x078f7;&#x09178;&#x0916a;&#x06c28;&#x09178;&#x06b8b;&#x057fa;&#x07ed3;&#x05408;&#x07ec6;&#x080de;&#x08d28;&#x04e2d;&#x05e26;&#x06709;SH2&#x06216;PTB&#x07ed3;&#x06784;&#x057df;&#x07684;&#x086cb;&#x0767d;&#x0ff0c;&#x052df;&#x096c6;&#x0751f;&#x0957f;&#x056e0;&#x05b50;&#x053d7;&#x04f53;&#x07ed3;&#x05408;2&#x0ff08;growth-factor receptor-bound 2, GRB2&#x0ff09;&#x0548c;&#x09e1f;&#x0560c;&#x05464;&#x06838;&#x082f7;&#x09178;&#x04ea4;&#x06362;&#x056e0;&#x05b50;&#x05982;SOS&#x0ff08;Son of Sevenless&#x0ff09;&#x0ff0c;&#x04fc3;&#x08fdb;Ras&#x04e0a;GTP&#x04e0e;GDP&#x04ea4;&#x06362;<sup>[<xref rid="b10" ref-type="bibr">10</xref>,<xref rid="b11" ref-type="bibr">11</xref>]</sup>&#x03002;RAS-GTP&#x053ef;&#x04ee5;&#x076f4;&#x063a5;&#x04e0e;RAF&#x086cb;&#x0767d;&#x07ed3;&#x05408;&#x0ff0c;&#x05c06;RAF&#x04ece;&#x07ec6;&#x080de;&#x08d28;&#x04e2d;&#x052df;&#x096c6;&#x05230;&#x07ec6;&#x080de;&#x0819c;&#x04e0a;&#x0ff0c;&#x04f7f;RAF&#x06210;&#x04e3a;&#x04e00;&#x079cd;&#x06d3b;&#x06027;&#x06fc0;&#x09176;&#x03002;&#x0968f;&#x0540e;&#x0ff0c;&#x06d3b;&#x05316;&#x07684;RAF&#x05bf9;&#x05176;&#x04e0b;&#x06e38;&#x05e95;&#x07269;&#x0ff08;&#x05373;MEK&#x0548c;ERK&#x0ff09;&#x08fdb;&#x0884c;&#x04e00;&#x07cfb;&#x05217;&#x078f7;&#x09178;&#x05316;&#x053cd;&#x05e94;&#x0ff0c;&#x0542f;&#x052a8;&#x07ecf;&#x05178;MAPK&#x09014;&#x05f84;&#x07684;&#x06d3b;&#x05316;<sup>[<xref rid="b12" ref-type="bibr">12</xref>,<xref rid="b13" ref-type="bibr">13</xref>]</sup>&#x0ff08;<xref rid="F1" ref-type="fig">&#x056fe;1</xref>&#x0ff09;&#x03002;</p><fig position="float" id="F1"><object-id pub-id-type="doi">10.3779/j.issn.1009-3419.2024.101.01.F0001</object-id><label>&#x056fe; 1</label><caption><title>MAPK&#x04fe1;&#x053f7;&#x0901a;&#x08def;</title></caption><abstract abstract-type="fig_caption" xml:lang="en"><title>MAPK signaling pathway.</title><p id="p00040">RTK: receptor tyrosine kinase; RAS: rat sarcoma; GTP: guanosinetriphosphate; RAF: rapidly accelerated fibrosarcoma; MEK: mitogen extracellular kinase; ERK: extracellular signal-regulated kinase; P: phosphorylation; MAPK: mitogen-activated protein kinase.</p></abstract><alt-text content-type="label" xml:lang="en">Fig 1</alt-text><graphic xlink:href="img_1" position="float"/></fig></sec><sec id="s1.3"><title>1.3 &#x05b9e;&#x04f53;&#x07624;&#x04e2d;&#x07684;BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;</title><p id="p00045">RAS-RAF-MEK-ERK&#x0901a;&#x08def;&#x07684;&#x05931;&#x08c03;&#x04e0e;&#x04eba;&#x07c7b;&#x0764c;&#x075c7;&#x07684;&#x053d1;&#x0751f;&#x06709;&#x05173;&#x0ff0c;&#x057fa;&#x056e0;&#x053d8;&#x05f02;&#x09020;&#x06210;&#x05931;&#x08c03;&#x07684;MAPK&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x0901a;&#x08fc7;&#x0591a;&#x079cd;&#x0673a;&#x05236;&#x05bfc;&#x081f4;&#x0764c;&#x075c7;&#x07684;&#x053d1;&#x0751f;&#x0548c;&#x053d1;&#x05c55;&#x0ff0c;&#x05982;&#x04fc3;&#x08fdb;&#x080bf;&#x07624;&#x0589e;&#x06b96;&#x03001;&#x05b58;&#x06d3b;&#x03001;&#x04fb5;&#x088ad;&#x03001;&#x08f6c;&#x079fb;&#x03001;&#x07ec6;&#x080de;&#x05916;&#x095f4;&#x08d28;&#x0964d;&#x089e3;&#x0548c;&#x08840;&#x07ba1;&#x0751f;&#x06210;&#x07b49;&#x03002;2002&#x05e74;&#x0ff0c;&#x09996;&#x06b21;&#x05728;&#x09ed1;&#x08272;&#x07d20;&#x07624;&#x04e2d;&#x08be6;&#x07ec6;&#x08bf4;&#x0660e;&#x04e86;&#x053d1;&#x0751f;&#x05728;BRAF&#x057fa;&#x056e0;V600&#x04f4d;&#x070b9;&#x0ff08;&#x06700;&#x0521d;&#x09519;&#x08bef;&#x063cf;&#x08ff0;&#x05728;V599&#x04f4d;&#x07f6e;&#x0ff09;&#x07684;&#x070b9;&#x07a81;&#x053d8;&#x0662f;&#x081f4;&#x0764c;&#x07a81;&#x053d8;&#x0ff0c;&#x05e76;&#x05c06;&#x05176;&#x09274;&#x05b9a;&#x04e3a;&#x0764c;&#x057fa;&#x056e0;&#x0548c;&#x06f5c;&#x05728;&#x07684;&#x06cbb;&#x07597;&#x09776;&#x070b9;<sup>[<xref rid="b14" ref-type="bibr">14</xref>]</sup>&#x03002;</p><p id="p00050">&#x07814;&#x07a76;<sup>[<xref rid="b15" ref-type="bibr">15</xref>]</sup>&#x08868;&#x0660e;BRAF&#x07a81;&#x053d8;&#x053d1;&#x0751f;&#x05728;&#x0591a;&#x08fbe;8%&#x07684;&#x04eba;&#x07c7b;&#x0764c;&#x075c7;&#x04e2d;&#x0ff0c;&#x05305;&#x062ec;&#x09ed1;&#x08272;&#x07d20;&#x07624;&#x03001;&#x07ed3;&#x076f4;&#x080a0;&#x0764c;&#x03001;&#x080f6;&#x08d28;&#x07624;&#x03001;&#x07532;&#x072b6;&#x0817a;&#x0764c;&#x03001;NSCLC&#x03001;&#x080c6;&#x07ba1;&#x0764c;&#x0548c;&#x0591a;&#x079cd;&#x08840;&#x06db2;&#x07cfb;&#x07edf;&#x06076;&#x06027;&#x080bf;&#x07624;&#x03002;40%-60%&#x07684;&#x09ed1;&#x08272;&#x07d20;&#x07624;&#x060a3;&#x08005;&#x053d1;&#x0751f;BRAF&#x07a81;&#x053d8;&#x0ff0c;&#x04e0e;BRAF &#x091ce;&#x0751f;&#x0578b;&#x09ed1;&#x08272;&#x07d20;&#x07624;&#x060a3;&#x08005;&#x076f8;&#x06bd4;&#x0ff0c;BRAF &#x07a81;&#x053d8;&#x07684;&#x09ed1;&#x08272;&#x07d20;&#x07624;&#x060a3;&#x08005;&#x066f4;&#x05e74;&#x08f7b;&#x0ff0c;&#x04e14;&#x066f4;&#x06709;&#x053ef;&#x080fd;&#x08f6c;&#x079fb;&#x05230;&#x05927;&#x08111;<sup>[<xref rid="b16" ref-type="bibr">16</xref>]</sup>&#x03002;&#x05728;&#x08f6c;&#x079fb;&#x06027;&#x07ed3;&#x076f4;&#x080a0;&#x0764c;&#x0ff08;metastatic colorectal cancer, mCRC&#x0ff09;&#x04e2d;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x053d1;&#x0751f;&#x07387;&#x04e3a;5%-10%<sup>[<xref rid="b17" ref-type="bibr">17</xref>]</sup>&#x0ff0c;&#x07136;&#x0800c;&#x0ff0c;&#x0632a;&#x05a01;&#x07684;&#x04e00;&#x09879;&#x07814;&#x07a76;<sup>[<xref rid="b18" ref-type="bibr">18</xref>]</sup>&#x08868;&#x0793a;&#x08fd9;&#x04e2a;&#x06570;&#x05b57;&#x053ef;&#x080fd;&#x088ab;&#x04f4e;&#x04f30;&#x0ff0c;BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x05728;mCRC&#x053d1;&#x0751f;&#x07387;&#x053ef;&#x09ad8;&#x08fbe;21%&#x03002;&#x095f4;&#x053d8;&#x06027;&#x07532;&#x072b6;&#x0817a;&#x0764c;&#x0ff08;anaplastic thyroid cancer, ATC&#x0ff09;&#x0662f;&#x04e00;&#x079cd;&#x07f55;&#x089c1;&#x07684;&#x07532;&#x072b6;&#x0817a;&#x080bf;&#x07624;&#x0ff0c;BRAF V600E&#x07a81;&#x053d8;&#x05728;&#x08fd1;40%&#x07684;ATC&#x04e2d;&#x09274;&#x05b9a;&#x04e3a;&#x09a71;&#x052a8;&#x0764c;&#x057fa;&#x056e0;<sup>[<xref rid="b19" ref-type="bibr">19</xref>]</sup>&#x03002;&#x06700;&#x08fd1;&#x07684;&#x07814;&#x07a76;<sup>[<xref rid="b20" ref-type="bibr">20</xref><xref rid="b21" ref-type="bibr">&#x021d3;</xref>-<xref rid="b22" ref-type="bibr">22</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;BRAF&#x053d8;&#x05f02;&#x04e5f;&#x0662f;&#x04e2d;&#x067a2;&#x0795e;&#x07ecf;&#x07cfb;&#x07edf;&#x080bf;&#x07624;&#x03001;&#x080c6;&#x07ba1;&#x0764c;&#x07684;&#x05e38;&#x089c1;&#x09a71;&#x052a8;&#x053d8;&#x05f02;&#x03002;</p></sec><sec id="s1.4"><title>1.4 BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x07c7b;&#x0578b;</title><p id="p00055">BRAF V600E&#x0662f;&#x06700;&#x05e38;&#x089c1;&#x04e14;&#x06700;&#x08457;&#x0540d;&#x07684;BRAF&#x07a81;&#x053d8;&#x0ff0c;15&#x053f7;&#x05916;&#x0663e;&#x05b50;&#x06838;&#x082f7;&#x09178;T1799&#x05904;&#x07684;&#x080f8;&#x082f7;&#x08f6c;&#x06362;&#x04e3a;&#x0817a;&#x082f7;&#x0ff0c;&#x04ece;&#x0800c;&#x06709;&#x06548;&#x05730;&#x05728;BRAF&#x06fc0;&#x09176;&#x07ed3;&#x06784;&#x057df;&#x05bc6;&#x07801;&#x05b50;600&#x05904;&#x07528;&#x08c37;&#x06c28;&#x09178;&#x053d6;&#x04ee3;&#x07f2c;&#x06c28;&#x09178;&#x0ff08;V600E&#x0ff09;&#x03002;BRAF&#x057fa;&#x056e0;&#x053d8;&#x05f02;&#x05927;&#x0591a;&#x06570;&#x053d1;&#x0751f;&#x05728;V600&#x05bc6;&#x07801;&#x05b50;&#x09644;&#x08fd1;&#x07684;&#x06fc0;&#x06d3b;&#x073af;&#x0ff08;A&#x073af;&#x0ff09;&#x06216;464-469&#x06b8b;&#x057fa;&#x05904;&#x07684;&#x078f7;&#x09178;&#x07ed3;&#x05408;&#x073af;&#x0ff08;P&#x073af;&#x0ff09;&#x0ff0c;&#x05e76;&#x053ef;&#x05206;&#x04e3a;3&#x079cd;&#x04e9a;&#x0578b;&#x03002;I&#x07c7b;&#x04e9a;&#x0578b;&#x04e3a;&#x07ec4;&#x06210;&#x0578b;&#x06d3b;&#x06027;RAS&#x0975e;&#x04f9d;&#x08d56;&#x06027;&#x05355;&#x04f53;&#x0ff08;BRAF V600E/K/D/R&#x0ff09;&#x0ff0c;&#x08fd9;&#x07c7b;&#x053d8;&#x05f02;&#x080fd;&#x0591f;&#x05f15;&#x08d77;&#x05f3a;&#x070c8;&#x07684;BRAF&#x06fc0;&#x09176;&#x06d3b;&#x05316;<sup>[<xref rid="b23" ref-type="bibr">23</xref>]</sup>&#x03002;II&#x07c7b;&#x07a81;&#x053d8;&#x05f62;&#x06210;&#x06d3b;&#x06027;RAS&#x0975e;&#x04f9d;&#x08d56;&#x06027;&#x04e8c;&#x0805a;&#x04f53;&#x0ff0c;&#x05177;&#x06709;&#x09ad8;&#x06216;&#x04e2d;&#x07b49;BRAF&#x06fc0;&#x09176;&#x06d3b;&#x06027;&#x0ff0c;&#x08fd9;&#x07c7b;&#x07a81;&#x053d8;&#x06d89;&#x053ca;600&#x04f4d;&#x070b9;&#x04ee5;&#x05916;&#x07684;&#x05bc6;&#x07801;&#x05b50;&#x0ff08;&#x04f8b;&#x05982;&#x0ff1a;K601E&#x03001;L597V/Q/R&#x03001;G469V/S/R/E/A&#x03001;G464V&#x0ff09;&#x03002;III&#x07c7b;&#x04e3a;RAS&#x04f9d;&#x08d56;&#x06027;&#x04e8c;&#x0805a;&#x04f53;&#x0ff0c;&#x07531;&#x04e8e;&#x06fc0;&#x09176;&#x06d3b;&#x06027;&#x053d7;&#x0635f;&#x0ff0c;&#x09700;&#x08981;&#x0901a;&#x08fc7;RAS&#x06216;RTK&#x06fc0;&#x06d3b;&#x0989d;&#x05916;&#x07684;&#x04e0a;&#x06e38;&#x04fe1;&#x053f7;&#x06765;&#x06269;&#x05927;ERK&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x0ff0c;&#x08fd9;&#x04f1a;&#x05bfc;&#x081f4;&#x081f4;&#x0764c;MAPK&#x08d85;&#x06d3b;&#x05316;&#x0ff08;&#x04f8b;&#x05982;&#x0ff1a;G596R&#x03001;D594Y/N/G/E&#x03001;N581Y/S/I&#x03001;G466V/L/E/A&#x03001;D287Y&#x0ff09;&#x03002;&#x056e0;&#x06b64;&#x0ff0c;III&#x07c7b;&#x053d8;&#x05f02;&#x0901a;&#x05e38;&#x04e0e;MAPK&#x09014;&#x05f84;&#x04e0a;&#x06e38;&#x07684;&#x05176;&#x04ed6;&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x04e00;&#x08d77;&#x053d1;&#x0751f;&#x0ff08;&#x04f8b;&#x05982;&#x0ff1a;NF1&#x0ff09;&#x03002;II&#x07c7b;&#x0548c;III&#x07c7b;&#x053d8;&#x05f02;&#x07edf;&#x079f0;&#x04e3a;&#x0975e;V600&#x07a81;&#x053d8;<sup>[<xref rid="b24" ref-type="bibr">24</xref>]</sup>&#x03002;</p><p id="p00060">&#x09664;&#x04e86;15&#x053f7;&#x05916;&#x0663e;&#x05b50;&#x07684;&#x07a81;&#x053d8;&#x0ff0c;&#x04e00;&#x04e9b;NSCLC&#x060a3;&#x08005;&#x0643a;&#x05e26;BRAF 11&#x053f7;&#x05916;&#x0663e;&#x05b50;&#x07684;&#x053d8;&#x05f02;&#x0ff0c;&#x08fd9;&#x04e9b;&#x07a81;&#x053d8;&#x076ee;&#x0524d;&#x05e76;&#x0975e;&#x0836f;&#x07269;&#x04f5c;&#x07528;&#x04f4d;&#x070b9;<sup>[<xref rid="b25" ref-type="bibr">25</xref>]</sup>&#x03002;</p></sec></sec><sec id="s2"><title>2 BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x04e0e;NSCLC&#x05173;&#x07cfb;</title><sec id="s2.1"><title>2.1 BRAF&#x07a81;&#x053d8;&#x05728;NSCLC&#x04e2d;&#x07684;&#x06d41;&#x0884c;&#x075c5;&#x05b66;&#x04e0e;&#x075c5;&#x07406;&#x07279;&#x05f81;</title><p id="p00065">BRAF &#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x05728;NSCLC&#x04e2d;&#x07684;&#x053d1;&#x0751f;&#x07387;&#x04e3a;1.5%-4%&#x0ff0c;&#x04e3b;&#x08981;&#x053d1;&#x0751f;&#x04e8e;&#x080ba;&#x0817a;&#x0764c;&#x04e2d;&#x03002;&#x05728;&#x04e2d;&#x056fd;&#x04eba;&#x07fa4;&#x04e2d;BRAF&#x07a81;&#x053d8;&#x09891;&#x07387;&#x04e3a;2.26%&#x0ff08;5/221&#x0ff09;<sup>[<xref rid="b26" ref-type="bibr">26</xref>]</sup>&#x0ff0c;&#x097e9;&#x056fd;&#x060a3;&#x08005;&#x04e2d;BRAF&#x07a81;&#x053d8;&#x09891;&#x07387;&#x04e3a;1.3%&#x0ff08;5/378&#x0ff09;<sup>[<xref rid="b27" ref-type="bibr">27</xref>]</sup>&#x03002;&#x05728;&#x082f1;&#x056fd;&#x07684;&#x05927;&#x0578b;&#x0961f;&#x05217;&#x07814;&#x07a76;<sup>[<xref rid="b28" ref-type="bibr">28</xref>]</sup>&#x04e2d;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x09891;&#x07387;&#x04e3a;3.44%&#x0ff08;185/5384&#x0ff09;&#x0ff0c;&#x0800c;&#x05728;&#x05fb7;&#x056fd;&#x0961f;&#x05217;<sup>[<xref rid="b29" ref-type="bibr">29</xref>]</sup>&#x04e2d;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x09891;&#x07387;&#x04e3a;2.34%&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x09891;&#x07387;&#x05728;&#x04e0d;&#x0540c;&#x04eba;&#x07fa4;&#x04e2d;&#x076f8;&#x05dee;&#x04e0d;&#x05927;&#x03002;&#x0764c;&#x075c7;&#x057fa;&#x056e0;&#x07ec4;&#x056fe;&#x08c31;&#x0ff08;The Cancer Genome Atlas, TCGA&#x0ff09;&#x09879;&#x076ee;&#x05bf9;178&#x04f8b;&#x080ba;&#x09cde;&#x0764c;&#x07684;&#x07efc;&#x05408;&#x057fa;&#x056e0;&#x07ec4;&#x08bc4;&#x04f30;&#x0663e;&#x0793a;BRAF&#x053d8;&#x05f02;&#x053d1;&#x0751f;&#x09891;&#x07387;&#x04e3a;3%<sup>[<xref rid="b30" ref-type="bibr">30</xref>]</sup>&#x0ff0c;&#x04f46;&#x080ba;&#x09cde;&#x0764c;&#x04e2d;&#x07684;BRAF&#x07a81;&#x053d8;&#x04ecd;&#x07136;&#x0662f;&#x07f55;&#x089c1;&#x07684;<sup>[<xref rid="b31" ref-type="bibr">31</xref>,<xref rid="b32" ref-type="bibr">32</xref>]</sup>&#x03002;&#x05728;NSCLC&#x04e2d;&#x0ff0c;BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x04e2d;&#x06700;&#x05e38;&#x089c1;&#x07684;&#x0662f;BRAF V600E&#x0ff0c;&#x053d8;&#x05f02;&#x053d1;&#x0751f;&#x09891;&#x07387;&#x04e3a;1%-2%&#x03002;&#x05438;&#x070df;&#x07684;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x04e2d;&#x0ff0c;BRAF&#x0901a;&#x05e38;&#x04e3a;&#x0975e;V600&#x07a81;&#x053d8;&#x0ff0c;&#x0800c;&#x04e0d;&#x05438;&#x070df;&#x07684;NSCLC&#x060a3;&#x08005;&#x066f4;&#x053ef;&#x080fd;&#x0643a;&#x05e26;V600&#x07a81;&#x053d8;<sup>[<xref rid="b33" ref-type="bibr">33</xref>]</sup>&#x03002;BRAF V600E&#x07a81;&#x053d8;&#x05728;&#x07537;&#x06027;&#x0548c;&#x05973;&#x06027;&#x04e2d;&#x053d1;&#x0751f;&#x07684;&#x09891;&#x07387;&#x076f8;&#x0540c;&#x0ff0c;&#x04f46;&#x05728;&#x08001;&#x05e74;&#x060a3;&#x08005;&#x0ff08;&#x05e74;&#x09f84;&#x0003e;60&#x05c81;&#x0ff09;&#x04e2d;&#x066f4;&#x04e3a;&#x05e38;&#x089c1;<sup>[<xref rid="b34" ref-type="bibr">34</xref>]</sup>&#x03002;&#x06709;&#x07814;&#x07a76;<sup>[<xref rid="b35" ref-type="bibr">35</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;BRAF&#x07a81;&#x053d8;NSCLC&#x060a3;&#x08005;&#x07684;&#x06dcb;&#x05df4;&#x07ed3;&#x08f6c;&#x079fb;&#x053d1;&#x0751f;&#x07387;&#x09ad8;&#x04e8e;&#x0975e;BRAF&#x07a81;&#x053d8;NSCLC&#x060a3;&#x08005;&#x03002;</p><p id="p00070">&#x0643a;&#x05e26;BRAF V600E&#x07a81;&#x053d8;&#x07684;NSCLC&#x0591a;&#x04e3a;&#x0975e;&#x09ecf;&#x06db2;&#x06027;&#x0817a;&#x0764c;&#x0ff0c;&#x0663e;&#x0793a;&#x05b8c;&#x05168;&#x06216;&#x090e8;&#x05206;&#x05fae;&#x04e73;&#x05934;&#x072b6;&#x0751f;&#x0957f;&#x06a21;&#x05f0f;<sup>[<xref rid="b36" ref-type="bibr">36</xref>]</sup> &#x0ff0c;&#x0800c;&#x05177;&#x06709;BRAF&#x0975e;V600E&#x07a81;&#x053d8;&#x07684;NSCLC&#x053ef;&#x080fd;&#x0663e;&#x0793a;&#x05404;&#x079cd;&#x05f62;&#x06001;&#x0ff0c;&#x05305;&#x062ec;&#x09ecf;&#x06db2;&#x06210;&#x05206;<sup>[<xref rid="b7" ref-type="bibr">7</xref>]</sup>&#x03002;&#x053e6;&#x05916;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x0578b;NSCLC&#x04e2d;&#x07a0b;&#x05e8f;&#x06027;&#x07ec6;&#x080de;&#x06b7b;&#x04ea1;&#x0914d;&#x04f53;1&#x0ff08;programmed cell death ligand 1, PD-L1&#x0ff09;&#x07684;&#x08868;&#x08fbe;&#x07565;&#x09ad8;&#x04e8e;&#x091ce;&#x0751f;&#x0578b;<sup>[<xref rid="b37" ref-type="bibr">37</xref>,<xref rid="b38" ref-type="bibr">38</xref>]</sup>&#x0ff0c;&#x04f46;&#x04e5f;&#x06709;&#x07814;&#x07a76;<sup>[<xref rid="b39" ref-type="bibr">39</xref>]</sup>&#x08868;&#x0793a;&#x04e24;&#x08005;&#x04e4b;&#x095f4;&#x07684;PD-L1&#x08868;&#x08fbe;&#x05e76;&#x065e0;&#x05dee;&#x05f02;&#x03002;&#x05728;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x04e2d;&#x080bf;&#x07624;&#x07a81;&#x053d8;&#x08d1f;&#x08377;&#x0ff08;tumor mutational burden, TMB&#x0ff09;&#x08f83;&#x09ad8;&#x0ff0c;&#x04f46;BRAF&#x07a81;&#x053d8;&#x04e0d;&#x05f71;&#x054cd;&#x05fae;&#x0536b;&#x0661f;&#x04e0d;&#x07a33;&#x05b9a;&#x06027;&#x0ff08;microsatellite instability, MSI&#x0ff09;&#x0548c;&#x095f4;&#x08d28;&#x073af;&#x05883;&#x04e2d;&#x07684;&#x0514d;&#x075ab;&#x07ec6;&#x080de;&#x06d78;&#x06da6;&#x06570;&#x091cf;<sup>[<xref rid="b39" ref-type="bibr">39</xref>]</sup>&#x03002;</p></sec><sec id="s2.2"><title>2.2 NSCLC&#x04e2d;BRAF&#x04e0e;&#x05176;&#x04ed6;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x07684;&#x05e76;&#x05b58;&#x072b6;&#x06001;</title><p id="p00075">BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x060a3;&#x08005;&#x053ef;&#x080fd;&#x0540c;&#x065f6;&#x053d1;&#x0751f;&#x05176;&#x04ed6;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x0ff0c;&#x05e76;&#x04e14;&#x05728;BRAF V600E&#x0548c;&#x0975e;V600E&#x075c5;&#x04f8b;&#x04e2d;&#x05171;&#x07a81;&#x053d8;&#x07684;&#x06570;&#x091cf;&#x0548c;&#x07c7b;&#x0578b;&#x05177;&#x06709;&#x05dee;&#x05f02;&#x03002;&#x04e00;&#x09879;&#x05927;&#x0961f;&#x05217;&#x07814;&#x07a76;<sup>[<xref rid="b40" ref-type="bibr">40</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;SMAD4&#x0548c;PIK3CA&#x07684;&#x053d8;&#x05f02;&#x04e0e;BRAF V600E&#x076f8;&#x05173;&#x0ff08;P&#x0003c;0.01&#x0ff09;&#x0ff0c;&#x0800c;KEAP1&#x03001;NF1&#x03001;MET&#x03001;RICTOR&#x03001;KRAS&#x03001;MYC&#x03001;STK11&#x0548c;TP53&#x07684;&#x053d8;&#x05f02;&#x066f4;&#x09891;&#x07e41;&#x05730;&#x053d1;&#x0751f;&#x05728;BRAF&#x0975e;V600E&#x07a81;&#x053d8;&#x080bf;&#x07624;&#x04e2d;&#x0ff08;P&#x0003c;0.05&#x0ff09;&#x03002;&#x0540c;&#x065f6;&#x053d1;&#x0751f;&#x07684;RAS&#x0548c;BRAF V600&#x07a81;&#x053d8;&#x06781;&#x04e3a;&#x07f55;&#x089c1;&#x0ff0c;&#x07814;&#x07a76;<sup>[<xref rid="b41" ref-type="bibr">41</xref>]</sup>&#x08868;&#x0660e;&#x04e0e;BRAF V600&#x07a81;&#x053d8;&#x076f8;&#x06bd4;&#x0ff0c;&#x0643a;&#x05e26;BRAF&#x0975e;V600&#x07a81;&#x053d8;&#x07684;&#x060a3;&#x08005;&#x066f4;&#x053ef;&#x080fd;&#x053d1;&#x0751f;&#x0548c;RAS&#x07684;&#x05171;&#x07a81;&#x053d8;&#x0ff08;P&#x02264;0.001&#x0ff09;&#x03002;</p><p id="p00080">&#x05927;&#x07ea6;3%&#x07684;NSCLC&#x060a3;&#x08005;&#x04e2d;&#x0ff0c;&#x051fa;&#x073b0;&#x0539f;&#x053d1;&#x06027;EGFR&#x0548c;BRAF V600E&#x05171;&#x07a81;&#x053d8;&#x0ff0c;&#x08fd9;&#x05c06;&#x05bfc;&#x081f4;&#x060a3;&#x08005;&#x05bf9;&#x05965;&#x05e0c;&#x066ff;&#x05c3c;&#x0ff08;Osimertinib&#x0ff09;&#x07684;&#x08010;&#x0836f;&#x0ff0c;&#x05c11;&#x06570;&#x060c5;&#x051b5;&#x0662f;&#x06297;EGFR-&#x0916a;&#x06c28;&#x09178;&#x06fc0;&#x09176;&#x06291;&#x05236;&#x05242;&#x0ff08;tyrosine kinase inhibitors, TKIs&#x0ff09;&#x06cbb;&#x07597;&#x0540e;&#x07684;&#x083b7;&#x05f97;&#x06027;&#x07a81;&#x053d8;&#x0ff0c;&#x07136;&#x0800c;&#x076ee;&#x0524d;&#x05bf9;&#x08fd9;&#x07c7b;&#x083b7;&#x05f97;&#x06027;BRAF&#x07a81;&#x053d8;&#x07684;&#x053d1;&#x0751f;&#x0673a;&#x05236;&#x05c1a;&#x04e0d;&#x06e05;&#x0695a;<sup>[<xref rid="b42" ref-type="bibr">42</xref>,<xref rid="b43" ref-type="bibr">43</xref>]</sup>&#x03002;</p></sec><sec id="s2.3"><title>2.3 BRAF&#x04e0e;NSCLC&#x09884;&#x0540e;</title><p id="p00085">BRAF&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x05bf9;NSCLC&#x07684;&#x09884;&#x0540e;&#x0610f;&#x04e49;&#x05c1a;&#x04e0d;&#x06e05;&#x0695a;&#x03002;&#x076ee;&#x0524d;&#x05c0f;&#x0578b;&#x056de;&#x0987e;&#x06027;&#x07814;&#x07a76;<sup>[<xref rid="b44" ref-type="bibr">44</xref>]</sup>&#x062a5;&#x0544a;&#x04e86;&#x076f8;&#x04e92;&#x077db;&#x076fe;&#x07684;&#x07ed3;&#x0679c;&#x0ff0c;&#x090e8;&#x05206;&#x0539f;&#x056e0;&#x053ef;&#x080fd;&#x0662f;BRAF&#x07a81;&#x053d8;&#x07684;&#x053d1;&#x0751f;&#x07387;&#x08f83;&#x04f4e;&#x03002;&#x04e00;&#x09879;17,664&#x04f8b;NSCLC&#x060a3;&#x08005;&#x07684;&#x05206;&#x06790;<sup>[<xref rid="b45" ref-type="bibr">45</xref>]</sup>&#x08868;&#x0793a;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x060a3;&#x08005;&#x05bf9;&#x04e00;&#x07ebf;&#x05316;&#x07597;&#x07684;&#x05ba2;&#x089c2;&#x07f13;&#x089e3;&#x07387;&#x0ff08;objective response rate, ORR&#x0ff09;&#x04f4e;&#x04e8e;&#x05b8c;&#x05168;&#x091ce;&#x0751f;&#x0578b;&#x04eba;&#x07fa4;&#x0ff08;23% vs 32%&#x0ff09;&#x0ff0c;&#x04f46;&#x089c2;&#x05bdf;&#x05230;&#x04e2d;&#x04f4d;&#x065e0;&#x08fdb;&#x05c55;&#x0751f;&#x05b58;&#x0671f;&#x0ff08;progression-free survival, PFS&#x0ff09;&#x0548c;&#x04e2d;&#x04f4d;&#x0603b;&#x0751f;&#x05b58;&#x0671f;&#x0ff08;overall survival, OS&#x0ff09;&#x06ca1;&#x06709;&#x05dee;&#x05f02;&#x0ff08;BRAF&#x07a81;&#x053d8;&#x0578b; vs &#x091ce;&#x0751f;&#x0578b;&#x0ff1a;&#x04e2d;&#x04f4d;PFS&#x04e3a;7.5 vs 7.1&#x04e2a;&#x06708;&#x0ff1b;&#x04e2d;&#x04f4d;OS&#x04e3a;13.8 vs 11.8&#x04e2a;&#x06708;&#x0ff09;&#x03002;</p><p id="p00090">&#x04e00;&#x09879;&#x07814;&#x07a76;<sup>[<xref rid="b41" ref-type="bibr">41</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;236&#x04f8b;&#x088ab;&#x08bca;&#x065ad;&#x04e3a;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x07684;&#x060a3;&#x08005;&#x04e2d;&#x0ff0c;&#x06709;69&#x04f8b;&#x0ff08;29%&#x0ff09;&#x05728;&#x08bca;&#x065ad;&#x065f6;&#x053d1;&#x073b0;&#x04e86;&#x08111;&#x08f6c;&#x079fb;&#x0ff0c;&#x05bf9;&#x05176;&#x08fdb;&#x0884c;&#x056de;&#x0987e;&#x06027;&#x05206;&#x06790;&#x053d1;&#x073b0;&#x0ff0c;&#x04e0e;I&#x07c7b;&#x053d8;&#x05f02;&#x076f8;&#x06bd4;&#x0ff0c;II&#x06216;III&#x07c7b;&#x07a81;&#x053d8;&#x060a3;&#x08005;&#x066f4;&#x053ef;&#x080fd;&#x053d1;&#x0751f;&#x08111;&#x08f6c;&#x079fb;&#x0ff08;P&#x02264;0.01&#x0ff09;&#x03002;&#x0603b;&#x04f53;&#x06765;&#x08bf4;&#x0ff0c;BRAF&#x05728;NSCLC&#x09884;&#x0540e;&#x05f71;&#x054cd;&#x065b9;&#x09762;&#x07684;&#x076f8;&#x05173;&#x07814;&#x07a76;&#x07ed3;&#x0679c;&#x04ecd;&#x05b58;&#x05728;&#x05206;&#x06b67;&#x0ff0c;&#x09700;&#x08981;&#x066f4;&#x0591a;&#x07684;&#x05927;&#x06837;&#x0672c;&#x07814;&#x07a76;&#x06765;&#x063d0;&#x04f9b;&#x089e3;&#x051b3;&#x065b9;&#x06848;&#x03002;</p></sec></sec><sec id="s3"><title>3 BRAF&#x07a81;&#x053d8;&#x06cbb;&#x07597;&#x07b56;&#x07565;</title><sec id="s3.1"><title>3.1 BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x05bf9;&#x05316;&#x07597;&#x04e0d;&#x0654f;&#x0611f;</title><p id="p00095">&#x05316;&#x07597;&#x0662f;NSCLC&#x05e38;&#x07528;&#x07684;&#x06cbb;&#x07597;&#x07b56;&#x07565;&#x04e4b;&#x04e00;&#x0ff0c;&#x0800c;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x04ece;&#x05316;&#x07597;&#x083b7;&#x076ca;&#x06709;&#x09650;&#x03002;&#x065e2;&#x05f80;&#x07814;&#x07a76;<sup>[<xref rid="b46" ref-type="bibr">46</xref>]</sup>&#x053d1;&#x073b0;&#x0ff0c;BRAF&#x07a81;&#x053d8;&#x04e0e;BRAF&#x091ce;&#x0751f;&#x0578b;&#x07684;NSCLC&#x05bf9;&#x094c2;&#x07c7b;&#x08054;&#x05408;&#x05316;&#x07597;&#x07684;&#x04e34;&#x05e8a;&#x07ed3;&#x0679c;&#x05728;PFS&#x0548c;OS&#x065b9;&#x09762;&#x065e0;&#x0663e;&#x08457;&#x05dee;&#x05f02;&#x0ff0c;&#x08868;&#x0660e;BRAF&#x07a81;&#x053d8;&#x04e0e;&#x05316;&#x07597;&#x0654f;&#x0611f;&#x06027;&#x065e0;&#x05173;&#x03002;&#x0800c;BRAF V600E&#x07a81;&#x053d8;&#x07684;NSCLC&#x060a3;&#x08005;&#x094c2;&#x07c7b;&#x08054;&#x05408;&#x05316;&#x07597;&#x06bd4;&#x0975e;V600E&#x07a81;&#x053d8;&#x07684;&#x060a3;&#x08005;&#x05177;&#x06709;&#x066f4;&#x077ed;&#x07684;PFS&#x0ff08;4.1 vs 8.9&#x04e2a;&#x06708;&#x0ff09;&#x0ff0c;&#x08868;&#x0660e;BRAF V600E&#x07a81;&#x053d8;&#x060a3;&#x08005;&#x04e0e;BRAF&#x091ce;&#x0751f;&#x0578b;&#x076f8;&#x06bd4;&#x09884;&#x0540e;&#x08f83;&#x05dee;&#x03002;&#x06765;&#x081ea;&#x06cd5;&#x056fd;&#x07684;&#x04e00;&#x09879;&#x07814;&#x07a76;<sup>[<xref rid="b47" ref-type="bibr">47</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;&#x04ee5;&#x07d2b;&#x06749;&#x09187;&#x04e3a;&#x057fa;&#x07840;&#x07684;&#x05316;&#x07597;&#x05728;&#x04e00;&#x07ebf;&#x06cbb;&#x07597;&#x065b9;&#x06848;&#x04e2d;&#x0663e;&#x0793a;&#x06700;&#x05dee;&#x07684;PFS&#x0ff0c;&#x04e14;&#x05316;&#x07597;&#x065b9;&#x06848;&#x04e0e;&#x09884;&#x0540e;&#x065e0;&#x05173;&#x03002;&#x0867d;&#x07136;&#x04f7f;&#x07528;&#x06807;&#x051c6;&#x05316;&#x07597;&#x06216;&#x05176;&#x04ed6;&#x05316;&#x07597;&#x07684;BRAF&#x07a81;&#x053d8;NSCLC&#x07684;&#x04e34;&#x05e8a;&#x07ed3;&#x0679c;&#x08bc1;&#x0636e;&#x06709;&#x09650;&#x0ff0c;&#x04f46;&#x076ee;&#x0524d;&#x07684;&#x07814;&#x07a76;&#x07ed3;&#x0679c;&#x08868;&#x0660e;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x05bf9;&#x05316;&#x07597;&#x04e0d;&#x0654f;&#x0611f;&#x03002;</p></sec><sec id="s3.2"><title>3.2 BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x05bf9;&#x0514d;&#x075ab;&#x06cbb;&#x07597;&#x07597;&#x06548;&#x06709;&#x09650;</title><p id="p00100">&#x0514d;&#x075ab;&#x068c0;&#x067e5;&#x070b9;&#x06291;&#x05236;&#x05242;&#x0ff08;immune checkpoint inhibitors, ICIs&#x0ff09;&#x06cbb;&#x07597;&#x0662f;&#x053e6;&#x04e00;&#x079cd;&#x09009;&#x062e9;&#x03002;&#x06709;&#x07814;&#x07a76;<sup>[<xref rid="b37" ref-type="bibr">37</xref>]</sup>&#x062a5;&#x09053;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x09ad8;&#x08868;&#x08fbe;PD-L1&#x0ff0c;&#x06240;&#x04ee5;BRAF&#x07a81;&#x053d8;&#x0578b;&#x060a3;&#x08005;&#x05177;&#x06709;ICIs&#x083b7;&#x076ca;&#x07684;&#x053ef;&#x080fd;&#x03002;&#x04f46;&#x06709;&#x07814;&#x07a76;<sup>[<xref rid="b48" ref-type="bibr">48</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;BRAF V600&#x07a81;&#x053d8;&#x0548c;BRAF&#x0975e;V600&#x07a81;&#x053d8;&#x07684;NSCLC&#x060a3;&#x08005;&#x08fdb;&#x0884c;ICIs&#x06cbb;&#x07597;&#x0540e;&#x04e2d;&#x04f4d;PFS&#x05206;&#x0522b;&#x04e3a;5.3&#x0548c;4.9&#x04e2a;&#x06708;&#x0ff0c;6&#x04e2a;&#x06708;PFS&#x07387;&#x05206;&#x0522b;&#x04e3a;48.0%&#x0548c;46.1%&#x0ff0c;12&#x04e2a;&#x06708;PFS&#x07387;&#x05206;&#x0522b;&#x04e3a;39.1%&#x0548c;24.6%&#x03002;&#x08be5;&#x09879;&#x07814;&#x07a76;&#x04e2d;&#x0ff0c;BRAF V600&#x0548c;&#x0975e;V600&#x0961f;&#x05217;&#x07684;&#x06709;&#x06548;&#x07387;&#x05206;&#x0522b;&#x04e3a;26%&#x0548c;35%&#x0ff0c;&#x053e6;&#x04e00;&#x09879;&#x07814;&#x07a76;<sup>[<xref rid="b38" ref-type="bibr">38</xref>]</sup>&#x04e5f;&#x08868;&#x0793a;ICIs&#x06cbb;&#x07597;&#x05728;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x04e2d;&#x07597;&#x06548;&#x06709;&#x09650;&#x03002;</p><p id="p00105">&#x07136;&#x0800c;&#x0ff0c;&#x06709;&#x062a5;&#x09053;<sup>[<xref rid="b49" ref-type="bibr">49</xref>]</sup>&#x053d1;&#x073b0;1&#x04f8b;62&#x05c81;&#x05973;&#x06027;&#x04e0d;&#x05438;&#x070df;NSCLC&#x060a3;&#x08005;&#x04f34;&#x06709;&#x09ad8;PD-L1&#x08868;&#x08fbe;&#x0548c;BRAF V600E&#x07a81;&#x053d8;&#x0ff0c;&#x04f7f;&#x07528;&#x0963f;&#x066ff;&#x05229;&#x073e0;&#x05355;&#x06297;&#x0ff08;Atezolizumab&#x0ff09;&#x08054;&#x05408;&#x094c2;&#x07c7b;&#x05316;&#x07597;&#x07684;PFS&#x04e3a;20&#x04e2a;&#x06708;&#x0ff0c;&#x08868;&#x0660e;&#x08054;&#x05408;&#x0514d;&#x075ab;&#x07597;&#x06cd5;&#x053ef;&#x080fd;&#x0662f;BRAF V600E&#x07a81;&#x053d8;&#x04e0d;&#x05438;&#x070df;NSCLC&#x04f34;&#x06709;&#x09ad8;PD-L1&#x08868;&#x08fbe;&#x07684;&#x04e00;&#x079cd;&#x06cbb;&#x07597;&#x09009;&#x062e9;&#x03002;&#x09700;&#x08981;&#x08fdb;&#x04e00;&#x06b65;&#x07684;&#x04e34;&#x05e8a;&#x08bd5;&#x09a8c;&#x06765;&#x063a2;&#x07a76;&#x05176;&#x07597;&#x06548;&#x03002;</p></sec><sec id="s3.3"><title>3.3 &#x09776;&#x05411;&#x06cbb;&#x07597;</title><p id="p00110">&#x073b0;&#x0884c;&#x07684;&#x056fd;&#x09645;&#x04e0e;&#x056fd;&#x05185;&#x06307;&#x05357;&#x089c4;&#x05b9a;&#x0ff0c;&#x0665a;&#x0671f;NSCLC&#x060a3;&#x08005;&#x05e94;&#x081f3;&#x05c11;&#x08fdb;&#x0884c;EGFR&#x0548c;BRAF&#x07a81;&#x053d8;&#x04ee5;&#x053ca;ALK/ROS1&#x091cd;&#x06392;&#x07684;&#x068c0;&#x06d4b;&#x0ff0c;&#x06765;&#x0786e;&#x05b9a;&#x06b63;&#x0786e;&#x07684;&#x06cbb;&#x07597;&#x07b56;&#x07565;<sup>[<xref rid="b50" ref-type="bibr">50</xref>]</sup>&#x03002;&#x076ee;&#x0524d;&#x06279;&#x051c6;&#x07684;BRAF&#x09a71;&#x052a8;&#x080ba;&#x0764c;&#x09776;&#x05411;&#x06291;&#x05236;&#x05242;&#x05305;&#x062ec;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x0ff08;Dabrafenib&#x0ff09;&#x0548c;&#x07ef4;&#x07f57;&#x0975e;&#x05c3c;&#x0ff08;Vemurafenib&#x0ff09;&#x0ff0c;&#x05b83;&#x04eec;&#x05bf9;&#x07531;&#x06d3b;&#x06027;&#x05355;&#x04f53;&#x0ff08;&#x05373;I&#x07c7b;&#x0ff09;&#x07a81;&#x053d8;&#x04f53;&#x0ff08;&#x04e3b;&#x08981;&#x0662f;&#x05bc6;&#x07801;&#x05b50;V600E&#x07a81;&#x053d8;&#x04f53;&#x0ff09;&#x09a71;&#x052a8;&#x07684;RAS&#x0975e;&#x04f9d;&#x08d56;&#x06027;&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x06709;&#x06548;&#x03002;84&#x04f8b;NSCLC&#x060a3;&#x08005;II&#x0671f;&#x04e34;&#x05e8a;&#x08bd5;&#x09a8c;<sup>[<xref rid="b51" ref-type="bibr">51</xref>]</sup>&#x07ed3;&#x0679c;&#x08868;&#x0660e;&#x0ff1a;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x05bf9;BRAF V600E&#x09633;&#x06027;&#x07684;NSCLC&#x06cbb;&#x07597;&#x06709;&#x06548;&#x0ff0c;&#x0603b;&#x04f53;&#x053cd;&#x05e94;&#x07387;&#x04e3a;33%&#x0ff08;95%CI: 23%-45%&#x0ff09;&#x03002;VE-BASKET&#x07814;&#x07a76;<sup>[<xref rid="b52" ref-type="bibr">52</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;62&#x04f8b;BRAF V600E&#x07a81;&#x053d8;&#x0578b;NSCLC&#x060a3;&#x08005;&#x063a5;&#x053d7;&#x07ef4;&#x07f57;&#x0975e;&#x05c3c;&#x06cbb;&#x07597;&#x07684;ORR&#x04e3a;37.1%&#x0ff08;95%CI: 25.2%-50.3%&#x0ff09;&#x0ff0c;&#x0672a;&#x07ecf;&#x06cbb;&#x07597;&#x07684;&#x060a3;&#x08005;ORR&#x04e3a;37.5%&#x0ff08;95%CI: 8.5%-75.5%&#x0ff09;&#x0ff0c;&#x065e2;&#x05f80;&#x063a5;&#x053d7;&#x08fc7;&#x06cbb;&#x07597;&#x07684;&#x060a3;&#x08005;&#x04e3a;37.0%&#x0ff08;95%CI: 24.3%-51.3%&#x0ff09;&#x03002;&#x04e2d;&#x04f4d;PFS&#x04e3a;6.5&#x04e2a;&#x06708;&#x0ff08;95%CI: 5.2-9.0&#x0ff09;&#x0ff0c;&#x04e2d;&#x04f4d;OS&#x04e3a;15.4&#x04e2a;&#x06708;&#x0ff08;95%CI: 9.6-22.8&#x0ff09;&#x03002;&#x07531;&#x04e8e;&#x05355;&#x04e00;BRAF&#x06291;&#x05236;&#x05242;&#x07684;&#x06d3b;&#x06027;&#x06709;&#x09650;&#x0ff0c;&#x07814;&#x07a76;&#x08005;&#x05f00;&#x059cb;&#x063a2;&#x07d22;&#x08054;&#x05408;&#x06cbb;&#x07597;&#x03002;</p><p id="p00115">NCT01336634&#x08bd5;&#x09a8c;<sup>[<xref rid="b53" ref-type="bibr">53</xref>]</sup>&#x08bc4;&#x04f30;&#x04e86;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x08054;&#x05408;&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x0ff08;Trametinib&#x0ff09;&#x06cbb;&#x07597;&#x065e2;&#x05f80;&#x0672a;&#x07ecf;&#x06cbb;&#x07597;&#x07684;BRAF V600E&#x07a81;&#x053d8;&#x0578b;&#x08f6c;&#x079fb;&#x06027;NSCLC&#x060a3;&#x08005;&#x07684;&#x06d3b;&#x06027;&#x0548c;&#x05b89;&#x05168;&#x06027;&#x03002;&#x08bd5;&#x09a8c;&#x07ed3;&#x0679c;&#x08868;&#x0660e;&#x0ff0c;&#x065e2;&#x05f80;&#x0672a;&#x063a5;&#x053d7;&#x06cbb;&#x07597;&#x07684;&#x060a3;&#x08005;&#x0ff08;n=36&#x0ff09;&#x07684;ORR&#x04e3a;64%&#x0ff08;95%CI: 46%-79%&#x0ff09;&#x0ff0c;&#x04e2d;&#x04f4d;&#x07f13;&#x089e3;&#x065f6;&#x095f4;&#x0ff08;duration of response, DOR&#x0ff09;&#x04e3a;15.2&#x04e2a;&#x06708;&#x0ff08;95%CI: 7.8-23.5&#x0ff09;&#x0ff0c;&#x04e2d;&#x04f4d;PFS&#x04e3a;14.6&#x04e2a;&#x06708;&#x0ff08;95%CI: 7.0-22.1&#x0ff09;&#x03002;&#x08fd9;&#x09879;&#x08bd5;&#x09a8c;&#x04e5f;&#x08868;&#x0660e;&#x0ff0c;&#x05728;&#x063a5;&#x053d7;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x05355;&#x0836f;&#x06cbb;&#x07597;&#x06216;&#x08054;&#x05408;&#x06cbb;&#x07597;&#x0540e;&#x0ff0c;&#x075be;&#x075c5;&#x08fdb;&#x05c55;&#x065f6;&#x095f4;&#x0ff08;time to progression, TTP&#x0ff09;&#x04e0e;&#x08fdb;&#x05c55;&#x0540e;&#x0751f;&#x05b58;&#x065f6;&#x095f4;&#x0ff08;post-progression survival, PPS&#x0ff09;&#x06301;&#x07eed;&#x065f6;&#x095f4;&#x0663e;&#x08457;&#x05ef6;&#x0957f;<sup>[<xref rid="b54" ref-type="bibr">54</xref>]</sup>&#x03002;&#x0968f;&#x08bbf;&#x07ed3;&#x0679c;&#x08868;&#x0660e;&#x0ff0c;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x08054;&#x05408;&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x06cbb;&#x07597;&#x05177;&#x06709;&#x05b9e;&#x08d28;&#x06027;&#x0548c;&#x06301;&#x04e45;&#x07684;&#x04e34;&#x05e8a;&#x076ca;&#x05904;&#x0ff08;&#x065e2;&#x05f80;&#x07ecf;&#x06cbb;&#x07597;&#x060a3;&#x08005;&#x07684;&#x04e2d;&#x04f4d;OS&#x04e3a;18.2&#x04e2a;&#x06708;&#x0ff0c;&#x0521d;&#x06cbb;&#x060a3;&#x08005;&#x04e2d;&#x04f4d;OS&#x04e3a;17.3&#x04e2a;&#x06708;&#x0ff09;&#x0ff0c;&#x04e0d;&#x08bba;&#x060a3;&#x08005;&#x065e2;&#x05f80;&#x0662f;&#x05426;&#x07ecf;&#x08fc7;&#x06cbb;&#x07597;&#x0ff0c;&#x05747;&#x05177;&#x06709;&#x053ef;&#x063a7;&#x07684;&#x05b89;&#x05168;&#x06027;<sup>[<xref rid="b55" ref-type="bibr">55</xref>]</sup>&#x03002;&#x057fa;&#x04e8e;&#x08fd9;&#x04e9b;&#x0826f;&#x0597d;&#x07684;&#x07ed3;&#x0679c;&#x0ff0c;2022&#x05e74;3&#x06708;&#x0ff0c;&#x053cc;&#x09776;&#x06cbb;&#x07597;&#x0ff08;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;+&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x0ff09;&#x05728;&#x04e2d;&#x056fd;&#x083b7;&#x06279;&#x07528;&#x04e8e;&#x06cbb;&#x07597;BRAF V600E&#x07a81;&#x053d8;NSCLC&#x060a3;&#x08005;&#x03002;2023&#x05e74;&#x04e2d;&#x056fd;&#x04e34;&#x05e8a;&#x080bf;&#x07624;&#x05b66;&#x04f1a;&#x0ff08;Chinese Society of Clinical Oncology, CSCO&#x0ff09;&#x06307;&#x05357;<sup>[<xref rid="b56" ref-type="bibr">56</xref>]</sup>&#x05c06;&#x053cc;&#x09776;&#x06cbb;&#x07597;&#x04f5c;&#x04e3a;BRAF V600E&#x0665a;&#x0671f;NSCLC&#x04e00;&#x07ebf;&#x06cbb;&#x07597;I&#x07ea7;&#x063a8;&#x08350;&#x03002;</p><p id="p00120">&#x07f8e;&#x056fd;&#x098df;&#x054c1;&#x0836f;&#x054c1;&#x076d1;&#x07763;&#x07ba1;&#x07406;&#x05c40;&#x0ff08;Food and Drug Administration, FDA&#x0ff09;&#x08fd1;&#x065e5;&#x06279;&#x051c6;&#x05eb7;&#x05948;&#x0975e;&#x05c3c;&#x0ff08;Encorafenib&#x0ff09;&#x08054;&#x05408;&#x08d1d;&#x07f8e;&#x066ff;&#x05c3c;&#x0ff08;Binimetinib&#x0ff09;&#x06cbb;&#x07597;BRAF V600E&#x07a81;&#x053d8;&#x08f6c;&#x079fb;&#x06027;NSCLC&#x03002;II&#x0671f;&#x04e34;&#x05e8a;&#x08bd5;&#x09a8c;<sup>[<xref rid="b57" ref-type="bibr">57</xref>]</sup>&#x062a5;&#x09053;&#x04e86;BRAF V600E&#x07a81;&#x053d8;&#x0578b;NSCLC&#x04e2d;&#x0672a;&#x06cbb;&#x07597;&#x0961f;&#x05217;&#x0ff08;n=59&#x0ff09;&#x04e2d;&#x0ff0c;ORR&#x04e3a;75%&#x0ff08;95%CI: 62%-85%&#x0ff09;&#x0ff0c;&#x04e2d;&#x04f4d;DOR&#x0548c;&#x04e2d;&#x04f4d;PFS&#x04e0d;&#x053ef;&#x04f30;&#x08ba1;&#x0ff08;not estimated, NE&#x0ff09;&#x03002;&#x0800c;&#x05728;&#x065e2;&#x05f80;&#x06cbb;&#x07597;&#x0961f;&#x05217;&#x0ff08;n=39&#x0ff09;&#x04e2d;&#x0ff0c;ORR&#x04e3a;46%&#x0ff08;95%CI: 30%-63%&#x0ff09;&#x0ff0c;&#x04e2d;&#x04f4d;DOR&#x04e3a;16.7&#x04e2a;&#x06708;&#x0ff08;95%CI: 7.4-NE&#x0ff09;&#x0ff0c;&#x04e2d;&#x04f4d;PFS&#x04e3a;9.3&#x04e2a;&#x06708;&#x0ff08;95%CI: 6.2-NE&#x0ff09;&#x03002;&#x08fd9;&#x04e3a;BRAF V600E&#x07a81;&#x053d8;&#x08f6c;&#x079fb;&#x06027;NSCLC&#x07684;&#x06210;&#x05e74;&#x060a3;&#x08005;&#x063d0;&#x04f9b;&#x04e86;&#x04e00;&#x079cd;&#x065b0;&#x07684;&#x04e2a;&#x06027;&#x05316;&#x06cbb;&#x07597;&#x09009;&#x062e9;&#x03002;</p></sec><sec id="s3.4"><title>3.4 BRAF&#x09776;&#x05411;&#x06cbb;&#x07597;&#x07684;&#x0526f;&#x04f5c;&#x07528;</title><p id="p00125">&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x08054;&#x05408;&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x06cbb;&#x07597;&#x05bf9;&#x0591a;&#x079cd;BRAF&#x07a81;&#x053d8;&#x080bf;&#x07624;&#x06709;&#x04e34;&#x05e8a;&#x076ca;&#x05904;&#x0ff0c;&#x04f46;&#x05728;&#x06cbb;&#x07597;&#x0671f;&#x095f4;&#x053ef;&#x089c2;&#x05bdf;&#x05230;&#x05e38;&#x089c1;&#x07684;&#x04e0d;&#x0826f;&#x04e8b;&#x04ef6;&#x0ff0c;&#x05982;&#x053d1;&#x070ed;&#x03001;&#x075b2;&#x052b3;&#x0548c;&#x06076;&#x05fc3;&#x04ee5;&#x053ca;&#x04e00;&#x07cfb;&#x05217;&#x076ae;&#x080a4;&#x075c5;&#x03001;&#x0773c;&#x0775b;&#x06bd2;&#x06027;&#x0548c;&#x051fa;&#x08840;&#x04e8b;&#x04ef6;&#x03002;NCT01336634&#x08bd5;&#x09a8c;<sup>[<xref rid="b58" ref-type="bibr">58</xref>]</sup>&#x04e2d;57&#x04f8b;&#x060a3;&#x08005;&#x04e2d;&#x06709;32&#x04f8b;&#x0ff08;16%&#x0ff09;&#x062a5;&#x0544a;&#x06709;&#x04e25;&#x091cd;&#x04e0d;&#x0826f;&#x04e8b;&#x04ef6;&#x0ff0c;&#x05305;&#x062ec;&#x053d1;&#x070ed;&#x0ff08;16%&#x0ff09;&#x03001;&#x08d2b;&#x08840;&#x0ff08;5%&#x0ff09;&#x03001;&#x07cbe;&#x0795e;&#x072b6;&#x06001;&#x06df7;&#x04e71;&#x0ff08;4%&#x0ff09;&#x03001;&#x098df;&#x06b32;&#x04e0b;&#x0964d;&#x0ff08;4%&#x0ff09;&#x03001;&#x054af;&#x08840;&#x0ff08;4%&#x0ff09;&#x03001;&#x09ad8;&#x09499;&#x08840;&#x075c7;&#x0ff08;4%&#x0ff09;&#x03001;&#x06076;&#x05fc3;&#x0ff08;4%&#x0ff09;&#x053ca;&#x076ae;&#x080a4;&#x09cde;&#x072b6;&#x07ec6;&#x080de;&#x0764c;&#x0ff08;4%&#x0ff09;&#x03002;&#x053e6;&#x04e00;&#x09879;&#x07814;&#x07a76;<sup>[<xref rid="b59" ref-type="bibr">59</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;&#x04f7f;&#x07528;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x08054;&#x05408;&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x06cbb;&#x07597;&#x07684;&#x060a3;&#x08005;&#x0ff0c;61.3%&#x051fa;&#x073b0;&#x053d1;&#x070ed;&#x0ff0c;5.7%&#x051fa;&#x073b0;3/4&#x07ea7;&#x053d1;&#x070ed;&#x0ff0c;15.6%&#x051fa;&#x073b0;&#x065b9;&#x06848;&#x05b9a;&#x04e49;&#x07684;&#x04e25;&#x091cd;&#x053d1;&#x070ed;&#x04e8b;&#x04ef6;&#x0ff0c;&#x053d1;&#x070ed;&#x0901a;&#x05e38;&#x05728;&#x06cbb;&#x07597;&#x065e9;&#x0671f;&#x053d1;&#x0751f;&#x0ff0c;&#x05e76;&#x0968f;&#x07740;&#x06cbb;&#x07597;&#x065f6;&#x095f4;&#x07684;&#x05ef6;&#x0957f;&#x0800c;&#x051cf;&#x05c11;&#x0ff0c;&#x05242;&#x091cf;&#x04e2d;&#x065ad;&#x065f6;&#x053ef;&#x04ee5;&#x063a7;&#x05236;&#x03002;&#x05bf9;&#x04e8e;&#x04e25;&#x091cd;&#x0590d;&#x053d1;&#x06027;&#x053d1;&#x070ed;&#x060a3;&#x08005;&#x0ff0c;&#x04f7f;&#x07528;&#x076ae;&#x08d28;&#x07c7b;&#x056fa;&#x09187;&#x0662f;&#x04e00;&#x079cd;&#x09884;&#x09632;&#x07b56;&#x07565;&#x0ff0c;&#x04ee5;&#x051cf;&#x05c11;&#x04e0d;&#x05fc5;&#x08981;&#x07684;&#x06cbb;&#x07597;&#x04e2d;&#x065ad;<sup>[<xref rid="b60" ref-type="bibr">60</xref>]</sup>&#x03002;</p></sec><sec id="s3.5"><title>3.5 BRAF&#x07a81;&#x053d8;&#x06cbb;&#x07597;&#x08010;&#x0836f;&#x0673a;&#x05236;&#x053ca;&#x05e94;&#x05bf9;&#x07b56;&#x07565;</title><p id="p00130">&#x05c3d;&#x07ba1;BRAF&#x06291;&#x05236;&#x05242;&#x05728;BRAF&#x07a81;&#x053d8;&#x0578b;NSCLC&#x060a3;&#x08005;&#x04e2d;&#x0663e;&#x0793a;&#x051fa;&#x04e34;&#x05e8a;&#x06d3b;&#x06027;&#x0ff0c;&#x04f46;&#x07531;&#x04e8e;MAPK&#x0901a;&#x08def;&#x07684;&#x091cd;&#x065b0;&#x06fc0;&#x06d3b;&#x0ff0c;&#x05927;&#x0591a;&#x06570;&#x060a3;&#x08005;&#x05bf9;&#x08fd9;&#x04e9b;&#x0836f;&#x07269;&#x04ea7;&#x0751f;&#x04e86;&#x08010;&#x0836f;&#x06027;&#x03002;BRAF&#x09776;&#x05411;&#x06cbb;&#x07597;&#x0540e;BRAF&#x0672c;&#x08eab;&#x07684;&#x0878d;&#x05408;&#x03001;&#x06269;&#x0589e;&#x0548c;BRAF&#x04e0a;&#x06e38;&#x06fc0;&#x06d3b;&#x07a81;&#x053d8;[&#x05982;&#x075c5;&#x06bd2;&#x081f4;&#x0764c;&#x057fa;&#x056e0;&#x0540c;&#x06e90;&#x07269;&#x0ff08;neuroblastoma RAS viral oncogene homolog, NRAS&#x0ff09;&#x06216;KRAS&#x07a81;&#x053d8;]&#x03001;&#x04e0b;&#x06e38;MAPK&#x0901a;&#x08def;&#x06539;&#x053d8;&#x0ff08;&#x05982;MEK1/2&#x07a81;&#x053d8;&#x06216;ERK&#x07a81;&#x053d8;&#x0ff09;&#x03001;&#x078f7;&#x08102;&#x09170;&#x0808c;&#x09187;3&#x06fc0;&#x09176;/&#x086cb;&#x0767d;&#x06fc0;&#x09176;B/&#x054fa;&#x04e73;&#x052a8;&#x07269;&#x096f7;&#x05e15;&#x09709;&#x07d20;&#x09776;&#x086cb;&#x0767d;&#x0ff08;phosphatidylinositol-3-kinase/protein kinase B/mammalian target of rapamycin, PI3K/AKT/mTOR&#x0ff09;&#x07b49;&#x065c1;&#x08def;&#x06d3b;&#x05316;&#x04ee5;&#x053ca;&#x053d7;&#x04f53;&#x0916a;&#x06c28;&#x09178;&#x06fc0;&#x09176;&#x0ff08;&#x04f8b;&#x05982;&#x0ff1a;EGFR&#x03001;PDGFR&#x003b2;&#x03001;MET&#x03001;ERBB3&#x03001;IGFR1&#x0ff09;&#x07684;&#x08868;&#x08fbe;&#x0589e;&#x052a0;&#x0ff0c;&#x090fd;&#x04f1a;&#x05bfc;&#x081f4;BRAF&#x09776;&#x05411;&#x06291;&#x05236;&#x05242;&#x07684;&#x08010;&#x0836f;&#x06027;<sup>[<xref rid="b61" ref-type="bibr">61</xref>]</sup>&#x03002;</p><p id="p00135">&#x053cc;&#x09776;&#x06cbb;&#x07597;&#x0901a;&#x08fc7;&#x0963b;&#x065ad;ERK&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x0ff0c;&#x05728;BRAF&#x06291;&#x05236;&#x05242;&#x04e2d;&#x052a0;&#x05165;MEK&#x06291;&#x05236;&#x05242;&#x053ef;&#x04ee5;&#x0901a;&#x08fc7;&#x0963b;&#x065ad;ERK&#x04fe1;&#x053f7;&#x06765;&#x0514b;&#x0670d;&#x06216;&#x05ef6;&#x07f13;BRAF&#x06291;&#x05236;&#x05242;&#x083b7;&#x05f97;&#x06027;&#x062b5;&#x06297;&#x0529b;&#x07684;&#x053d1;&#x05c55;&#x03002;&#x07136;&#x0800c;&#x07814;&#x07a76;<sup>[<xref rid="b62" ref-type="bibr">62</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;&#x04f7f;&#x07528;BRAF&#x06291;&#x05236;&#x05242;&#x06216;&#x08fbe;&#x062c9;&#x083f2;&#x05c3c;&#x0548c;&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x053cc;&#x091cd;&#x0963b;&#x065ad;&#x0540e;&#x07684;&#x06fc0;&#x06d3b;&#x07a81;&#x053d8;&#x05982;KRAS&#x06216;NRAS&#x04e5f;&#x0662f;&#x05f15;&#x08d77;&#x08010;&#x0836f;&#x07684;&#x0539f;&#x056e0;&#x03002;NRAS&#x04e0a;&#x08c03;&#x053ef;&#x080fd;&#x04fc3;&#x08fdb;RAF&#x07684;&#x04e8c;&#x0805a;&#x05316;&#x0ff0c;&#x08fd9;&#x05c06;&#x05bfc;&#x081f4;ERK&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x05bf9;&#x0836f;&#x07269;&#x04e0d;&#x0654f;&#x0611f;&#x0ff0c;&#x05bfc;&#x081f4;&#x080bf;&#x07624;&#x06297;&#x0836f;&#x06027;<sup>[<xref rid="b63" ref-type="bibr">63</xref>]</sup>&#x03002;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x0548c;&#x066f2;&#x07f8e;&#x066ff;&#x05c3c;&#x07684;&#x08054;&#x05408;&#x06cbb;&#x07597;&#x07528;&#x04e8e;&#x06cbb;&#x07597;BRAF V600&#x07a81;&#x053d8;&#x0578b;NSCLC&#x04e2d;&#x0ff0c;EGFR&#x08868;&#x08fbe;&#x04e0a;&#x08c03;&#x05f62;&#x06210;&#x04e86;&#x05bf9;&#x053cc;&#x09776;&#x06cbb;&#x07597;&#x0ff08;BRAF&#x06291;&#x05236;&#x05242;+MEK&#x06291;&#x05236;&#x05242;&#x06216;EGFR&#x06291;&#x05236;&#x05242;&#x0ff09;&#x07684;&#x06297;&#x06027;&#x0ff0c;&#x07814;&#x07a76;<sup>[<xref rid="b64" ref-type="bibr">64</xref>]</sup>&#x0663e;&#x0793a;&#x04f7f;&#x07528;&#x04e09;&#x08054;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x0ff08;BRAF&#x06291;&#x05236;&#x05242;+MEK&#x06291;&#x05236;&#x05242;+EGFR&#x06291;&#x05236;&#x05242;&#x0ff09;&#x053ef;&#x06062;&#x0590d;&#x07ec6;&#x080de;&#x05bf9;&#x06cbb;&#x07597;&#x07684;&#x0654f;&#x0611f;&#x06027;&#x03002;</p><p id="p00140">&#x057fa;&#x056e0;&#x08fdb;&#x05316;&#x07684;&#x0591a;&#x06837;&#x06027;&#x0548c;&#x0968f;&#x0673a;&#x06027;&#x063d0;&#x0793a;&#x06211;&#x04eec;&#x05fc5;&#x0987b;&#x05bf9;&#x053ef;&#x080fd;&#x053d1;&#x0751f;&#x07684;&#x07a81;&#x053d8;&#x08fdb;&#x0884c;&#x05168;&#x09762;&#x05206;&#x06790;&#x0ff0c;&#x04ee5;&#x0786e;&#x08ba4;&#x060a3;&#x08005;&#x07684;&#x083b7;&#x05f97;&#x08010;&#x0836f;&#x06027;&#x0ff0c;&#x05e76;&#x06307;&#x05bfc;&#x079d1;&#x05b66;&#x0754c;&#x08bbe;&#x08ba1;&#x09488;&#x05bf9;&#x07279;&#x05b9a;&#x08010;&#x0836f;&#x06027;&#x07684;&#x04e34;&#x05e8a;&#x08bd5;&#x09a8c;&#x03002;</p></sec><sec id="s3.6"><title>3.6 BRAF&#x0975e;V600E&#x07a81;&#x053d8;&#x07597;&#x06cd5;&#x07814;&#x07a76;</title><p id="p00145">&#x05728;&#x080ba;&#x0764c;&#x060a3;&#x08005;&#x04e2d;&#x0ff0c;&#x05927;&#x07ea6;70%&#x07684;BRAF&#x07a81;&#x053d8;&#x0662f;&#x0975e;V600E&#x07a81;&#x053d8;&#x0ff0c;&#x07136;&#x0800c;&#x0ff0c;&#x076ee;&#x0524d;&#x08fd8;&#x06ca1;&#x06709;&#x09488;&#x05bf9;&#x0643a;&#x05e26;BRAF&#x0975e;V600E&#x07a81;&#x053d8;&#x07684;&#x060a3;&#x08005;&#x07684;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x03002;II&#x07c7b;&#x07a81;&#x053d8;&#x04f53;G469V&#x0548c;G469A&#x0ff0c;&#x0901a;&#x08fc7;&#x05f62;&#x06210;&#x0975e;RAS&#x04f9d;&#x08d56;&#x07684;&#x04e8c;&#x0805a;&#x04f53;&#x06fc0;&#x06d3b;&#x04fe1;&#x053f7;&#x04f20;&#x05bfc;&#x0ff0c;&#x0800c;&#x08fbe;&#x062c9;&#x0975e;&#x05c3c;&#x0548c;&#x07ef4;&#x07f57;&#x0975e;&#x05c3c;&#x053ea;&#x06291;&#x05236;&#x04e8c;&#x0805a;&#x04f53;&#x04e2d;&#x07684;&#x04e00;&#x04e2a;&#x0539f;&#x04f53;&#x0ff0c;&#x06240;&#x04ee5;&#x05bf9;&#x08fd9;&#x04e9b;II&#x07c7b;&#x07a81;&#x053d8;&#x04f53;&#x065e0;&#x06548;<sup>[<xref rid="b25" ref-type="bibr">25</xref>]</sup>&#x03002;PLX8394&#x07834;&#x0574f;BRAF&#x0540c;&#x06e90;&#x04e8c;&#x0805a;&#x04f53;&#x0548c;BRAF/CRAF&#x05f02;&#x06e90;&#x04e8c;&#x0805a;&#x04f53;&#x07684;&#x05f62;&#x06210;&#x0ff0c;&#x04f46;&#x04e0d;&#x07834;&#x0574f;CRAF&#x0540c;&#x06e90;&#x04e8c;&#x0805a;&#x04f53;&#x0ff0c;&#x08868;&#x0660e;&#x05b83;&#x053ef;&#x080fd;&#x06bd4;II&#x0578b;&#x06291;&#x05236;&#x05242;&#x05177;&#x06709;&#x066f4;&#x05e7f;&#x06cdb;&#x07684;&#x06cbb;&#x07597;&#x06307;&#x06570;<sup>[<xref rid="b65" ref-type="bibr">65</xref>,<xref rid="b66" ref-type="bibr">66</xref>]</sup>&#x03002;&#x06700;&#x08fd1;&#x07684;&#x06a21;&#x0578b;&#x05b9e;&#x09a8c;<sup>[<xref rid="b65" ref-type="bibr">65</xref>]</sup>&#x08868;&#x0660e;&#x0ff0c;&#x04e00;&#x04e9b;EGFR-TKIs&#x0ff0c;&#x05982;&#x05409;&#x0975e;&#x066ff;&#x05c3c;&#x03001;&#x0963f;&#x06cd5;&#x066ff;&#x05c3c;&#x0548c;&#x05965;&#x05e0c;&#x066ff;&#x05c3c;&#x0ff0c;&#x053ef;&#x04ee5;&#x0901a;&#x08fc7;&#x076f4;&#x063a5;&#x06291;&#x05236;BRAF G469V&#x07a81;&#x053d8;&#x04f53;&#x06765;&#x06291;&#x05236;&#x080ba;&#x0764c;&#x0751f;&#x0957f;&#x0ff0c;&#x04e34;&#x05e8a;&#x04e0a;&#x06279;&#x051c6;&#x07684;EGFR-TKIs&#x06216;&#x053ef;&#x07528;&#x04e8e;&#x06cbb;&#x07597;&#x0643a;&#x05e26;BRAF G469V&#x07a81;&#x053d8;&#x07684;NSCLC&#x060a3;&#x08005;&#x03002;&#x08fd9;&#x09879;&#x07814;&#x07a76;&#x07ed9;&#x06211;&#x04eec;&#x07684;&#x0542f;&#x0793a;&#x0662f;&#x0ff0c;&#x0867d;&#x07136;&#x07279;&#x05f02;&#x06027;&#x086cb;&#x0767d;&#x06fc0;&#x09176;&#x06291;&#x05236;&#x05242;&#x0662f;&#x0764c;&#x075c7;&#x06cbb;&#x07597;&#x07684;&#x04e3b;&#x08981;&#x07b56;&#x07565;&#x0ff0c;&#x04f46;&#x04e00;&#x04e9b;&#x06fc0;&#x09176;&#x06291;&#x05236;&#x05242;&#x07684;&#x0201c;&#x08131;&#x09776;&#x0201d;&#x06291;&#x05236;&#x04e5f;&#x053ef;&#x080fd;&#x0663e;&#x08457;&#x05f71;&#x054cd;&#x0764c;&#x075c7;&#x06cbb;&#x07597;&#x03002;</p></sec></sec><sec id="s4"><title>4 &#x0603b;&#x07ed3;</title><p id="p00150">BRAF&#x07a81;&#x053d8;&#x0662f;&#x0764c;&#x057fa;&#x056e0;&#x09a71;&#x052a8;&#x07684;NSCLC&#x04e2d;&#x07684;&#x04e00;&#x04e2a;&#x065b0;&#x05174;&#x07684;&#x09776;&#x06807;&#x0ff0c;BRAF&#x057fa;&#x056e0;&#x05bf9;NSCLC&#x07684;&#x053d1;&#x0751f;&#x03001;&#x053d1;&#x05c55;&#x0548c;&#x09884;&#x0540e;&#x08d77;&#x07740;&#x05173;&#x0952e;&#x04f5c;&#x07528;&#x0ff0c;&#x05e2e;&#x052a9;&#x06211;&#x04eec;&#x06df1;&#x05165;&#x07406;&#x089e3;&#x05176;&#x05206;&#x05b50;&#x075c5;&#x07406;&#x0673a;&#x07406;&#x06709;&#x091cd;&#x08981;&#x04ef7;&#x0503c;&#x03002;&#x0968f;&#x07740;&#x080bf;&#x07624;&#x06cbb;&#x07597;&#x06b65;&#x05165;&#x04ee5;&#x05206;&#x05b50;&#x06807;&#x05fd7;&#x07269;&#x04e3a;&#x06cbb;&#x07597;&#x09776;&#x070b9;&#x07684;&#x04e2a;&#x04f53;&#x05316;&#x0533b;&#x07597;&#x065f6;&#x04ee3;&#x0ff0c;&#x07cfb;&#x07edf;&#x06027;&#x05730;&#x05bf9;&#x080bf;&#x07624;&#x0590d;&#x06742;&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x08fdb;&#x0884c;&#x05206;&#x05b50;&#x05206;&#x0578b;&#x0663e;&#x05f97;&#x081f3;&#x05173;&#x091cd;&#x08981;&#x03002;&#x09488;&#x05bf9;BRAF V600E&#x0539f;&#x053d1;&#x07a81;&#x053d8;&#x09776;&#x05411;&#x06cbb;&#x07597;&#x0540e;&#x08010;&#x0836f;&#x03001;EGFR&#x07a81;&#x053d8;&#x07684;NSCLC TKIs&#x06cbb;&#x07597;&#x0540e;BRAF V600E&#x07684;&#x083b7;&#x05f97;&#x06027;&#x07a81;&#x053d8;&#x053ca;BRAF&#x0975e;V600E&#x07a81;&#x053d8;&#x07684;&#x06cbb;&#x07597;&#x07b56;&#x07565;&#x0ff0c;&#x0662f;&#x0672a;&#x06765;&#x08be5;&#x09886;&#x057df;&#x091cd;&#x070b9;&#x08981;&#x089e3;&#x051b3;&#x07684;&#x04e34;&#x05e8a;&#x096be;&#x09898;&#x0ff1b;&#x0540c;&#x065f6;&#x0ff0c;&#x063a2;&#x05bfb;EGFR/BRAF/MEK&#x04fe1;&#x053f7;&#x0901a;&#x08def;&#x04e0a;&#x07684;&#x05176;&#x04ed6;&#x06709;&#x06548;&#x06291;&#x05236;&#x09776;&#x070b9;&#x0ff0c;&#x04ea6;&#x0662f;&#x09488;&#x05bf9;BRAF&#x07a81;&#x053d8;&#x07684;NSCLC&#x04e34;&#x05e8a;&#x07814;&#x07a76;&#x091cd;&#x070b9;&#x03002;</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing interests:</bold> The authors declare that they have no competing interests.</p></fn></fn-group><ref-list><!--
+<mixed-citation publication-type="book" publication-format="print">
+<source>
+<name><surname><given-names><collab>
+<publisher-loc>
+<publisher-name>
+<year><volume><issue><fpage><lpage>
+--><title>&#x053c2; &#x08003; &#x06587; &#x0732e;</title><ref id="b1"><label>1</label><citation-alternatives><mixed-citation publication-type="journal" id="mixed-citation1" xml:lang="en">
+<person-group person-group-type="author">
+<name><surname>Zheng</surname><given-names>RS</given-names></name>,
+<name><surname>Zhang</surname><given-names>SW</given-names></name>,
+<name><surname>Sun</surname><given-names>KX</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Cancer statistics in China, 2016</article-title>.
+<source>Zhonghua Zhongliu Zazhi</source>,
+<year>2023</year>,
+<volume>45</volume>(<issue>3</issue>): <fpage>212</fpage>-<lpage>220</lpage>.
+<pub-id pub-id-type="pmid">36944542</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="mixed-citation2"><person-group person-group-type="author">
+[<string-name>&#x090d1;&#x08363;&#x05bff;</string-name>,
+<string-name>&#x05f20;&#x0601d;&#x07ef4;</string-name>,
+<string-name>&#x05b59;&#x053ef;&#x06b23;</string-name></person-group>,
+<etal>&#x07b49;</etal>.
+<article-title>2016&#x05e74;&#x04e2d;&#x056fd;&#x06076;&#x06027;&#x080bf;&#x07624;&#x06d41;&#x0884c;&#x060c5;&#x051b5;&#x05206;&#x06790;</article-title>.
+<source>&#x04e2d;&#x0534e;&#x080bf;&#x07624;&#x06742;&#x05fd7;</source>,
+<year>2023</year>,
+<volume>45</volume>(<issue>3</issue>): <fpage>212</fpage>-<lpage>220</lpage>.] doi: <pub-id pub-id-type="doi">10.3760/cma.j.cn112152-20220922-00647</pub-id>
+</mixed-citation></citation-alternatives><!--Zheng RS, Zhang SW, Sun KX, et al. Cancer statistics in China, 2016. Zhonghua Zhongliu Zazhi, 2023, 45(3): 212-220. [&#x090d1;&#x08363;&#x05bff;, &#x05f20;&#x0601d;&#x07ef4;, &#x05b59;&#x053ef;&#x06b23;, &#x07b49;. 2016&#x05e74;&#x04e2d;&#x056fd;&#x06076;&#x06027;&#x080bf;&#x07624;&#x06d41;&#x0884c;&#x060c5;&#x051b5;&#x05206;&#x06790;. &#x04e2d;&#x0534e;&#x080bf;&#x07624;&#x06742;&#x05fd7;, 2023, 45(3): 212-220.] doi: 10.3760/cma.j.cn112152-20220922-00647 --></ref><ref id="b2"><label>2</label><citation-alternatives><mixed-citation publication-type="journal" id="mixed-citation3" xml:lang="en">
+<person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>MX</given-names></name>,
+<name><surname>Hu</surname><given-names>C</given-names></name>,
+<name><surname>He</surname><given-names>Y</given-names></name></person-group>.
+<article-title>Correlation of serum tumor markers and incidence of driver gene mutations in non-small cell lung cancer</article-title>.
+<source>Lujun Junyi Daxue Xuebao</source>,
+<year>2022</year>,
+<volume>44</volume>(<issue>24</issue>): <fpage>2465</fpage>-<lpage>2473</lpage>.
+</mixed-citation><mixed-citation publication-type="journal" id="mixed-citation4"><person-group person-group-type="author">
+[<string-name>&#x0795d;&#x068a6;&#x06653;</string-name>,
+<string-name>&#x080e1;&#x06668;</string-name>,
+<string-name>&#x04f55;&#x052c7;</string-name></person-group>.
+<article-title>&#x08840;&#x06e05;&#x080bf;&#x07624;&#x06807;&#x05fd7;&#x07269;&#x04e0e;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x053d1;&#x0751f;&#x07387;&#x07684;&#x076f8;&#x05173;&#x06027;&#x05206;&#x06790;</article-title>.
+<source>&#x09646;&#x0519b;&#x0519b;&#x0533b;&#x05927;&#x05b66;&#x05b66;&#x062a5;</source>,
+<year>2022</year>,
+<volume>44</volume>(<issue>24</issue>): <fpage>2465</fpage>-<lpage>2473</lpage>.] doi: <pub-id pub-id-type="doi">10.16016/j.2097-0927.202209136</pub-id>
+</mixed-citation></citation-alternatives><!--Zhu MX, Hu C, He Y. Correlation of serum tumor markers and incidence of driver gene mutations in non-small cell lung cancer. Lujun Junyi Daxue Xuebao, 2022, 44(24): 2465-2473. [&#x0795d;&#x068a6;&#x06653;, &#x080e1;&#x06668;, &#x04f55;&#x052c7;. &#x08840;&#x06e05;&#x080bf;&#x07624;&#x06807;&#x05fd7;&#x07269;&#x04e0e;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x09a71;&#x052a8;&#x057fa;&#x056e0;&#x07a81;&#x053d8;&#x053d1;&#x0751f;&#x07387;&#x07684;&#x076f8;&#x05173;&#x06027;&#x05206;&#x06790;. &#x09646;&#x0519b;&#x0519b;&#x0533b;&#x05927;&#x05b66;&#x05b66;&#x062a5;, 2022, 44(24): 2465-2473.] doi: 10.16016/j.2097-0927.202209136 --></ref><ref id="b3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Nguyen-Ngoc</surname><given-names>T</given-names></name>,
+<name><surname>Bouchaab</surname><given-names>H</given-names></name>,
+<name><surname>Adjei</surname><given-names>AA</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>BRAF alterations as therapeutic targets in non-small-cell lung cancer</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2015</year>,
+<volume>10</volume>(<issue>10</issue>): <fpage>1396</fpage>-<lpage>1403</lpage>. doi: <pub-id pub-id-type="doi">10.1097/JTO.0000000000000644</pub-id>
+<pub-id pub-id-type="pmid">26301799</pub-id>
+</mixed-citation><!--Nguyen-Ngoc T, Bouchaab H, Adjei AA, et al. BRAF alterations as therapeutic targets in non-small-cell lung cancer. J Thorac Oncol, 2015, 10(10): 1396-1403. doi: 10.1097/JTO.0000000000000644 --></ref><ref id="b4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Singh</surname><given-names>AK</given-names></name>,
+<name><surname>Sonawane</surname><given-names>P</given-names></name>,
+<name><surname>Kumar</surname><given-names>A</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Challenges and opportunities in the crusade of BRAF inhibitors: From 2002 to 2022</article-title>.
+<source>ACS Omega</source>,
+<year>2023</year>,
+<volume>8</volume>(<issue>31</issue>): <fpage>27819</fpage>-<lpage>27844</lpage>. doi: <pub-id pub-id-type="doi">10.1021/acsomega.3c00332</pub-id>
+<pub-id pub-id-type="pmid">37576670</pub-id>
+</mixed-citation><!--Singh AK, Sonawane P, Kumar A, et al. Challenges and opportunities in the crusade of BRAF inhibitors: From 2002 to 2022. ACS Omega, 2023, 8(31): 27819-27844. doi: 10.1021/acsomega.3c00332 --></ref><ref id="b5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Riudavets</surname><given-names>M</given-names></name>,
+<name><surname>Cascetta</surname><given-names>P</given-names></name>,
+<name><surname>Planchard</surname><given-names>D</given-names></name></person-group>.
+<article-title>Targeting BRAF-mutant non-small cell lung cancer: Current status and future directions</article-title>.
+<source>Lung Cancer</source>,
+<year>2022</year>,
+<volume>169</volume>: <fpage>102</fpage>-<lpage>114</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lungcan.2022.05.014</pub-id>
+<pub-id pub-id-type="pmid">35696864</pub-id>
+</mixed-citation><!--Riudavets M, Cascetta P, Planchard D. Targeting BRAF-mutant non-small cell lung cancer: Current status and future directions. Lung Cancer, 2022, 169: 102-114. doi: 10.1016/j.lungcan.2022.05.014 --></ref><ref id="b6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Zhao</surname><given-names>J</given-names></name>,
+<name><surname>Luo</surname><given-names>Z</given-names></name></person-group>.
+<article-title>Discovery of Raf family is a milestone in deciphering the RAS-mediated intracellular signaling pathway</article-title>.
+<source>Int J Mol Sci</source>,
+<year>2022</year>,
+<volume>23</volume>(<issue>9</issue>): <fpage>5158</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijms23095158</pub-id>
+<pub-id pub-id-type="pmid">35563547</pub-id>
+</mixed-citation><!--Zhao J, Luo Z. Discovery of Raf family is a milestone in deciphering the RAS-mediated intracellular signaling pathway. Int J Mol Sci, 2022, 23(9): 5158. doi: 10.3390/ijms23095158 --></ref><ref id="b7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Leonetti</surname><given-names>A</given-names></name>,
+<name><surname>Facchinetti</surname><given-names>F</given-names></name>,
+<name><surname>Rossi</surname><given-names>G</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>BRAF in non-small cell lung cancer (NSCLC): Pickaxing another brick in the wall</article-title>.
+<source>Cancer Treat Rev</source>,
+<year>2018</year>,
+<volume>66</volume>: <fpage>82</fpage>-<lpage>94</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ctrv.2018.04.006</pub-id>
+<pub-id pub-id-type="pmid">29729495</pub-id>
+</mixed-citation><!--Leonetti A, Facchinetti F, Rossi G, et al. BRAF in non-small cell lung cancer (NSCLC): Pickaxing another brick in the wall. Cancer Treat Rev, 2018, 66: 82-94. doi: 10.1016/j.ctrv.2018.04.006 --></ref><ref id="b8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gunderwala</surname><given-names>A</given-names></name>,
+<name><surname>Cope</surname><given-names>N</given-names></name>,
+<name><surname>Wang</surname><given-names>Z</given-names></name></person-group>.
+<article-title>Mechanism and inhibition of BRAF kinase</article-title>.
+<source>Curr Opin Chem Biol</source>,
+<year>2022</year>,
+<volume>71</volume>: <fpage>102205</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cbpa.2022.102205</pub-id>
+<pub-id pub-id-type="pmid">36067564</pub-id>
+</mixed-citation><!--Gunderwala A, Cope N, Wang Z. Mechanism and inhibition of BRAF kinase. Curr Opin Chem Biol, 2022, 71: 102205. doi: 10.1016/j.cbpa.2022.102205 --></ref><ref id="b9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Martinez</surname><given-names>Fiesco JA</given-names></name>,
+<name><surname>Durrant</surname><given-names>DE</given-names></name>,
+<name><surname>Morrison</surname><given-names>DK</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Structural insights into the BRAF monomer-to-dimer transition mediated by RAS binding</article-title>.
+<source>Nat Commun</source>,
+<year>2022</year>,
+<volume>13</volume>(<issue>1</issue>): <fpage>486</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41467-022-28084-3</pub-id>
+<pub-id pub-id-type="pmid">35078985</pub-id>
+</mixed-citation><!--Martinez Fiesco JA, Durrant DE, Morrison DK, et al. Structural insights into the BRAF monomer-to-dimer transition mediated by RAS binding. Nat Commun, 2022, 13(1): 486. doi: 10.1038/s41467-022-28084-3 --></ref><ref id="b10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Degirmenci</surname><given-names>U</given-names></name>,
+<name><surname>Wang</surname><given-names>M</given-names></name>,
+<name><surname>Hu</surname><given-names>J</given-names></name></person-group>.
+<article-title>Targeting aberrant RAS/RAF/MEK/ERK signaling for cancer therapy</article-title>.
+<source>Cells</source>,
+<year>2020</year>,
+<volume>9</volume>(<issue>1</issue>): <fpage>198</fpage>. doi: <pub-id pub-id-type="doi">10.3390/cells9010198</pub-id>
+<pub-id pub-id-type="pmid">31941155</pub-id>
+</mixed-citation><!--Degirmenci U, Wang M, Hu J. Targeting aberrant RAS/RAF/MEK/ERK signaling for cancer therapy. Cells, 2020, 9(1): 198. doi: 10.3390/cells9010198 --></ref><ref id="b11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ullah</surname><given-names>R</given-names></name>,
+<name><surname>Yin</surname><given-names>Q</given-names></name>,
+<name><surname>Snell</surname><given-names>AH</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>RAF-MEK-ERK pathway in cancer evolution and treatment</article-title>.
+<source>Semin Cancer Biol</source>,
+<year>2022</year>,
+<volume>85</volume>: <fpage>123</fpage>-<lpage>154</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.semcancer.2021.05.010</pub-id>
+<pub-id pub-id-type="pmid">33992782</pub-id>
+</mixed-citation><!--Ullah R, Yin Q, Snell AH, et al. RAF-MEK-ERK pathway in cancer evolution and treatment. Semin Cancer Biol, 2022, 85: 123-154. doi: 10.1016/j.semcancer.2021.05.010 --></ref><ref id="b12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>F</given-names></name>,
+<name><surname>Yang</surname><given-names>X</given-names></name>,
+<name><surname>Geng</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Targeting ERK, an Achilles&#x02019; Heel of the MAPK pathway, in cancer therapy</article-title>.
+<source>Acta Pharm Sin B</source>,
+<year>2018</year>,
+<volume>8</volume>(<issue>4</issue>): <fpage>552</fpage>-<lpage>562</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.apsb.2018.01.008</pub-id>
+<pub-id pub-id-type="pmid">30109180</pub-id>
+</mixed-citation><!--Liu F, Yang X, Geng M, et al. Targeting ERK, an Achilles&#x02019; Heel of the MAPK pathway, in cancer therapy. Acta Pharm Sin B, 2018, 8(4): 552-562. doi: 10.1016/j.apsb.2018.01.008 --></ref><ref id="b13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Frisone</surname><given-names>D</given-names></name>,
+<name><surname>Friedlaender</surname><given-names>A</given-names></name>,
+<name><surname>Malapelle</surname><given-names>U</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>A BRAF new world</article-title>.
+<source>Crit Rev Oncol Hematol</source>,
+<year>2020</year>,
+<volume>152</volume>: <fpage>103008</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.critrevonc.2020.103008</pub-id>
+<pub-id pub-id-type="pmid">32485528</pub-id>
+</mixed-citation><!--Frisone D, Friedlaender A, Malapelle U, et al. A BRAF new world. Crit Rev Oncol Hematol, 2020, 152: 103008. doi: 10.1016/j.critrevonc.2020.103008 --></ref><ref id="b14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Davies</surname><given-names>H</given-names></name>,
+<name><surname>Bignell</surname><given-names>GR</given-names></name>,
+<name><surname>Cox</surname><given-names>C</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Mutations of the BRAF gene in human cancer</article-title>.
+<source>Nature</source>,
+<year>2002</year>,
+<volume>417</volume>(<issue>6892</issue>): <fpage>949</fpage>-<lpage>954</lpage>. doi: <pub-id pub-id-type="doi">10.1038/nature00766</pub-id>
+<pub-id pub-id-type="pmid">12068308</pub-id>
+</mixed-citation><!--Davies H, Bignell GR, Cox C, et al. Mutations of the BRAF gene in human cancer. Nature, 2002, 417(6892): 949-954. doi: 10.1038/nature00766 --></ref><ref id="b15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Halle</surname><given-names>BR</given-names></name>,
+<name><surname>Johnson</surname><given-names>DB</given-names></name></person-group>.
+<article-title>Defining and targeting BRAF mutations in solid tumors</article-title>.
+<source>Curr Treat Options Oncol</source>,
+<year>2021</year>,
+<volume>22</volume>(<issue>4</issue>): <fpage>30</fpage>. doi: <pub-id pub-id-type="doi">10.1007/s11864-021-00827-2</pub-id>
+<pub-id pub-id-type="pmid">33641072</pub-id>
+</mixed-citation><!--Halle BR, Johnson DB. Defining and targeting BRAF mutations in solid tumors. Curr Treat Options Oncol, 2021, 22(4): 30. doi: 10.1007/s11864-021-00827-2 --></ref><ref id="b16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>L</given-names></name>,
+<name><surname>Lopez-Beltran</surname><given-names>A</given-names></name>,
+<name><surname>Massari</surname><given-names>F</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Molecular testing for BRAF mutations to inform melanoma treatment decisions: a move toward precision medicine</article-title>.
+<source>Mod Pathol</source>,
+<year>2018</year>,
+<volume>31</volume>(<issue>1</issue>): <fpage>24</fpage>-<lpage>38</lpage>. doi: <pub-id pub-id-type="doi">10.1038/modpathol.2017.104</pub-id>
+<pub-id pub-id-type="pmid">29148538</pub-id>
+</mixed-citation><!--Cheng L, Lopez-Beltran A, Massari F, et al. Molecular testing for BRAF mutations to inform melanoma treatment decisions: a move toward precision medicine. Mod Pathol, 2018, 31(1): 24-38. doi: 10.1038/modpathol.2017.104 --></ref><ref id="b17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Stintzing</surname><given-names>S</given-names></name>,
+<name><surname>Heinrich</surname><given-names>K</given-names></name>,
+<name><surname>Tougeron</surname><given-names>D</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>FOLFOXIRI plus Cetuximab or Bevacizumab as first-line treatment of BRAF(V600E)-mutant metastatic colorectal cancer: the randomized phase II FIRE-4.5 (AIO KRK0116) study</article-title>.
+<source>J Clin Oncol</source>,
+<year>2023</year>,
+<volume>41</volume>(<issue>25</issue>): <fpage>4143</fpage>-<lpage>4153</lpage>. doi: <pub-id pub-id-type="doi">10.1200/JCO.22.01420</pub-id>
+<pub-id pub-id-type="pmid">37352476</pub-id>
+</mixed-citation><!--Stintzing S, Heinrich K, Tougeron D, et al. FOLFOXIRI plus Cetuximab or Bevacizumab as first-line treatment of BRAF(V600E)-mutant metastatic colorectal cancer: the randomized phase II FIRE-4.5 (AIO KRK0116) study. J Clin Oncol, 2023, 41(25): 4143-4153. doi: 10.1200/JCO.22.01420 --></ref><ref id="b18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sorbye</surname><given-names>H</given-names></name>,
+<name><surname>Dragomir</surname><given-names>A</given-names></name>,
+<name><surname>Sundstrom</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>High BRAF mutation frequency and marked survival differences in subgroups according to KRAS/BRAF mutation status and tumor tissue availability in a prospective population-based metastatic colorectal cancer cohort</article-title>.
+<source>PLoS One</source>,
+<year>2015</year>,
+<volume>10</volume>(<issue>6</issue>): <fpage>e0131046</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0131046</pub-id>
+<pub-id pub-id-type="pmid">26121270</pub-id>
+</mixed-citation><!--Sorbye H, Dragomir A, Sundstrom M, et al. High BRAF mutation frequency and marked survival differences in subgroups according to KRAS/BRAF mutation status and tumor tissue availability in a prospective population-based metastatic colorectal cancer cohort. PLoS One, 2015, 10(6): e0131046. doi: 10.1371/journal.pone.0131046 --></ref><ref id="b19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Califano</surname><given-names>I</given-names></name>,
+<name><surname>Smulever</surname><given-names>A</given-names></name>,
+<name><surname>Jerkovich</surname><given-names>F</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Advances in the management of anaplastic thyroid carcinoma: transforming a life-threatening condition into a potentially treatable disease</article-title>.
+<source>Rev Endocr Metab Disord</source>,
+<year>2023</year>. doi: <pub-id pub-id-type="doi">10.1007/s11154-023-09833-1</pub-id>
+</mixed-citation><!--Califano I, Smulever A, Jerkovich F, et al. Advances in the management of anaplastic thyroid carcinoma: transforming a life-threatening condition into a potentially treatable disease. Rev Endocr Metab Disord, 2023. doi: 10.1007/s11154-023-09833-1 --></ref><ref id="b20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Van</surname><given-names>den Bent MJ</given-names></name>,
+<name><surname>Geurts</surname><given-names>M</given-names></name>,
+<name><surname>French</surname><given-names>PJ</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Primary brain tumours in adults</article-title>.
+<source>Lancet</source>,
+<year>2023</year>,
+<volume>402</volume>(<issue>10412</issue>): <fpage>1564</fpage>-<lpage>1579</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(23)01054-1</pub-id>
+<pub-id pub-id-type="pmid">37738997</pub-id>
+</mixed-citation><!--Van den Bent MJ, Geurts M, French PJ, et al. Primary brain tumours in adults. Lancet, 2023, 402(10412): 1564-1579. doi: 10.1016/S0140-6736(23)01054-1 --></ref><ref id="b21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tang</surname><given-names>TY</given-names></name>,
+<name><surname>Nichetti</surname><given-names>F</given-names></name>,
+<name><surname>Kaplan</surname><given-names>B</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Comparative genomic analysis and clinical outcomes of BRAF-mutated advanced biliary tract cancers</article-title>.
+<source>Clin Cancer Res</source>,
+<year>2023</year>,
+<volume>29</volume>(<issue>23</issue>): <fpage>4853</fpage>-<lpage>4862</lpage>. doi: <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-23-1926</pub-id>
+<pub-id pub-id-type="pmid">37773629</pub-id>
+</mixed-citation><!--Tang TY, Nichetti F, Kaplan B, et al. Comparative genomic analysis and clinical outcomes of BRAF-mutated advanced biliary tract cancers. Clin Cancer Res, 2023, 29(23): 4853-4862. doi: 10.1158/1078-0432.CCR-23-1926 --></ref><ref id="b22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Acosta-Medina</surname><given-names>AA</given-names></name>,
+<name><surname>Kemps</surname><given-names>PG</given-names></name>,
+<name><surname>Zondag</surname><given-names>TCE</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>BRAF V600E is associated with higher incidence of second cancers in adults with Langerhans cell histiocytosis</article-title>.
+<source>Blood</source>,
+<year>2023</year>,
+<volume>142</volume>(<issue>18</issue>): <fpage>1570</fpage>-<lpage>1575</lpage>. doi: <pub-id pub-id-type="doi">10.1182/blood.2023021212</pub-id>
+<pub-id pub-id-type="pmid">37595284</pub-id>
+</mixed-citation><!--Acosta-Medina AA, Kemps PG, Zondag TCE, et al. BRAF V600E is associated with higher incidence of second cancers in adults with Langerhans cell histiocytosis. Blood, 2023, 142(18): 1570-1575. doi: 10.1182/blood.2023021212 --></ref><ref id="b23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Puri</surname><given-names>M</given-names></name>,
+<name><surname>Gawri</surname><given-names>K</given-names></name>,
+<name><surname>Dawar</surname><given-names>R</given-names></name></person-group>.
+<article-title>Therapeutic strategies for BRAF mutation in non-small cell lung cancer: a review</article-title>.
+<source>Front Oncol</source>,
+<year>2023</year>,
+<volume>13</volume>: <fpage>1141876</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fonc.2023.1141876</pub-id>
+<pub-id pub-id-type="pmid">37645429</pub-id>
+</mixed-citation><!--Puri M, Gawri K, Dawar R. Therapeutic strategies for BRAF mutation in non-small cell lung cancer: a review. Front Oncol, 2023, 13: 1141876. doi: 10.3389/fonc.2023.1141876 --></ref><ref id="b24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tabbo</surname><given-names>F</given-names></name>,
+<name><surname>Pisano</surname><given-names>C</given-names></name>,
+<name><surname>Mazieres</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>How far we have come targeting BRAF-mutant non-small cell lung cancer (NSCLC)</article-title>.
+<source>Cancer Treat Rev</source>,
+<year>2022</year>,
+<volume>103</volume>: <fpage>102335</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ctrv.2021.102335</pub-id>
+<pub-id pub-id-type="pmid">35033867</pub-id>
+</mixed-citation><!--Tabbo F, Pisano C, Mazieres J, et al. How far we have come targeting BRAF-mutant non-small cell lung cancer (NSCLC). Cancer Treat Rev, 2022, 103: 102335. doi: 10.1016/j.ctrv.2021.102335 --></ref><ref id="b25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mazieres</surname><given-names>J</given-names></name>,
+<name><surname>Cropet</surname><given-names>C</given-names></name>,
+<name><surname>Montane</surname><given-names>L</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Vemurafenib in non-small-cell lung cancer patients with BRAF(V600) and BRAF(nonV600) mutations</article-title>.
+<source>Ann Oncol</source>,
+<year>2020</year>,
+<volume>31</volume>(<issue>2</issue>): <fpage>289</fpage>-<lpage>294</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.annonc.2019.10.022</pub-id>
+<pub-id pub-id-type="pmid">31959346</pub-id>
+</mixed-citation><!--Mazieres J, Cropet C, Montane L, et al. Vemurafenib in non-small-cell lung cancer patients with BRAF(V600) and BRAF(nonV600) mutations. Ann Oncol, 2020, 31(2): 289-294. doi: 10.1016/j.annonc.2019.10.022 --></ref><ref id="b26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cai</surname><given-names>J</given-names></name>,
+<name><surname>Jiang</surname><given-names>H</given-names></name>,
+<name><surname>Li</surname><given-names>S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>The landscape of actionable genomic alterations by next-generation sequencing in tumor tissue versus circulating tumor DNA in Chinese patients with non-small cell lung cancer</article-title>.
+<source>Front Oncol</source>,
+<year>2021</year>,
+<volume>11</volume>: <fpage>751106</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fonc.2021.751106</pub-id>
+<pub-id pub-id-type="pmid">35273907</pub-id>
+</mixed-citation><!--Cai J, Jiang H, Li S, et al. The landscape of actionable genomic alterations by next-generation sequencing in tumor tissue versus circulating tumor DNA in Chinese patients with non-small cell lung cancer. Front Oncol, 2021, 11: 751106. doi: 10.3389/fonc.2021.751106 --></ref><ref id="b27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ahn</surname><given-names>HY</given-names></name>,
+<name><surname>Lee</surname><given-names>CH</given-names></name>,
+<name><surname>Lee</surname><given-names>MK</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>BRAF V600E mutation of non-small cell lung cancer in Korean patients</article-title>.
+<source>Medicina (Kaunas)</source>,
+<year>2023</year>,
+<volume>59</volume>(<issue>6</issue>): <fpage>1085</fpage>. doi: <pub-id pub-id-type="doi">10.3390/medicina59061085</pub-id>
+<pub-id pub-id-type="pmid">37374289</pub-id>
+</mixed-citation><!--Ahn HY, Lee CH, Lee MK, et al. BRAF V600E mutation of non-small cell lung cancer in Korean patients. Medicina (Kaunas), 2023, 59(6): 1085. doi: 10.3390/medicina59061085 --></ref><ref id="b28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lim</surname><given-names>GHT</given-names></name>,
+<name><surname>Balbi</surname><given-names>KJ</given-names></name>,
+<name><surname>Poskitt</surname><given-names>B</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Prevalence and breakdown of non-small cell lung cancer BRAF driver mutations in a large UK cohort</article-title>.
+<source>Lung Cancer</source>,
+<year>2022</year>,
+<volume>173</volume>: <fpage>71</fpage>-<lpage>74</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lungcan.2022.09.008</pub-id>
+<pub-id pub-id-type="pmid">36156323</pub-id>
+</mixed-citation><!--Lim GHT, Balbi KJ, Poskitt B, et al. Prevalence and breakdown of non-small cell lung cancer BRAF driver mutations in a large UK cohort. Lung Cancer, 2022, 173: 71-74. doi: 10.1016/j.lungcan.2022.09.008 --></ref><ref id="b29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Overbeck</surname><given-names>TR</given-names></name>,
+<name><surname>Reiffert</surname><given-names>A</given-names></name>,
+<name><surname>Schmitz</surname><given-names>K</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>NTRK gene fusions in non-small-cell lung cancer: real-world screening data of 1068 unselected patients</article-title>.
+<source>Cancers (Basel)</source>,
+<year>2023</year>,
+<volume>15</volume>(<issue>11</issue>): <fpage>2966</fpage>. doi: <pub-id pub-id-type="doi">10.3390/cancers15112966</pub-id>
+<pub-id pub-id-type="pmid">37296928</pub-id>
+</mixed-citation><!--Overbeck TR, Reiffert A, Schmitz K, et al. NTRK gene fusions in non-small-cell lung cancer: real-world screening data of 1068 unselected patients. Cancers (Basel), 2023, 15(11): 2966. doi: 10.3390/cancers15112966 --></ref><ref id="b30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<collab>Cancer Genome Atlas Research Network</collab></person-group>.
+<article-title>Comprehensive genomic characterization of squamous cell lung cancers</article-title>.
+<source>Nature</source>,
+<year>2012</year>,
+<volume>489</volume>(<issue>7417</issue>): <fpage>519</fpage>-<lpage>525</lpage>. doi: <pub-id pub-id-type="doi">10.1038/nature11404</pub-id>
+<pub-id pub-id-type="pmid">22960745</pub-id>
+</mixed-citation><!--Cancer Genome Atlas Research Network. Comprehensive genomic characterization of squamous cell lung cancers. Nature, 2012, 489(7417): 519-525. doi: 10.1038/nature11404 --></ref><ref id="b31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Alrifai</surname><given-names>D</given-names></name>,
+<name><surname>Popat</surname><given-names>S</given-names></name>,
+<name><surname>Ahmed</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>A rare case of squamous cell carcinoma of the lung harbouring ALK and BRAF activating mutations</article-title>.
+<source>Lung Cancer</source>,
+<year>2013</year>,
+<volume>80</volume>(<issue>3</issue>): <fpage>339</fpage>-<lpage>340</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lungcan.2013.02.002</pub-id>
+<pub-id pub-id-type="pmid">23499398</pub-id>
+</mixed-citation><!--Alrifai D, Popat S, Ahmed M, et al. A rare case of squamous cell carcinoma of the lung harbouring ALK and BRAF activating mutations. Lung Cancer, 2013, 80(3): 339-340. doi: 10.1016/j.lungcan.2013.02.002 --></ref><ref id="b32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marchetti</surname><given-names>A</given-names></name>,
+<name><surname>Felicioni</surname><given-names>L</given-names></name>,
+<name><surname>Malatesta</surname><given-names>S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Clinical features and outcome of patients with non-small-cell lung cancer harboring BRAF mutations</article-title>.
+<source>J Clin Oncol</source>,
+<year>2011</year>,
+<volume>29</volume>(<issue>26</issue>): <fpage>3574</fpage>-<lpage>3579</lpage>. doi: <pub-id pub-id-type="doi">10.1200/JCO.2011.35.9638</pub-id>
+<pub-id pub-id-type="pmid">21825258</pub-id>
+</mixed-citation><!--Marchetti A, Felicioni L, Malatesta S, et al. Clinical features and outcome of patients with non-small-cell lung cancer harboring BRAF mutations. J Clin Oncol, 2011, 29(26): 3574-3579. doi: 10.1200/JCO.2011.35.9638 --></ref><ref id="b33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Litvak</surname><given-names>AM</given-names></name>,
+<name><surname>Paik</surname><given-names>PK</given-names></name>,
+<name><surname>Woo</surname><given-names>KM</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Clinical characteristics and course of 63 patients with BRAF mutant lung cancers</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2014</year>,
+<volume>9</volume>(<issue>11</issue>): <fpage>1669</fpage>-<lpage>1674</lpage>. doi: <pub-id pub-id-type="doi">10.1097/JTO.0000000000000344</pub-id>
+<pub-id pub-id-type="pmid">25436800</pub-id>
+</mixed-citation><!--Litvak AM, Paik PK, Woo KM, et al. Clinical characteristics and course of 63 patients with BRAF mutant lung cancers. J Thorac Oncol, 2014, 9(11): 1669-1674. doi: 10.1097/JTO.0000000000000344 --></ref><ref id="b34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Khunger</surname><given-names>A</given-names></name>,
+<name><surname>Khunger</surname><given-names>M</given-names></name>,
+<name><surname>Velcheti</surname><given-names>V</given-names></name></person-group>.
+<article-title>Dabrafenib in combination with trametinib in the treatment of patients with BRAF V600-positive advanced or metastatic non-small cell lung cancer: clinical evidence and experience</article-title>.
+<source>Ther Adv Respir Dis</source>,
+<year>2018</year>,
+<volume>12</volume>: <fpage>1753466618767611</fpage>. doi: <pub-id pub-id-type="doi">10.1177/1753466618767611</pub-id>
+<pub-id pub-id-type="pmid">29595366</pub-id>
+</mixed-citation><!--Khunger A, Khunger M, Velcheti V. Dabrafenib in combination with trametinib in the treatment of patients with BRAF V600-positive advanced or metastatic non-small cell lung cancer: clinical evidence and experience. Ther Adv Respir Dis, 2018, 12: 1753466618767611. doi: 10.1177/1753466618767611 --></ref><ref id="b35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>McEvoy</surname><given-names>SH</given-names></name>,
+<name><surname>Halpenny</surname><given-names>DF</given-names></name>,
+<name><surname>Viteri-Jusue</surname><given-names>A</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Investigation of patterns of nodal metastases in BRAF mutant lung cancer</article-title>.
+<source>Lung Cancer</source>,
+<year>2017</year>,
+<volume>108</volume>: <fpage>62</fpage>-<lpage>65</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.lungcan.2017.02.024</pub-id>
+<pub-id pub-id-type="pmid">28625649</pub-id>
+</mixed-citation><!--McEvoy SH, Halpenny DF, Viteri-Jusue A, et al. Investigation of patterns of nodal metastases in BRAF mutant lung cancer. Lung Cancer, 2017, 108: 62-65. doi: 10.1016/j.lungcan.2017.02.024 --></ref><ref id="b36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hwang</surname><given-names>I</given-names></name>,
+<name><surname>Choi</surname><given-names>YL</given-names></name>,
+<name><surname>Lee</surname><given-names>H</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Selection strategies and practical application of BRAF V600E-mutated non-small cell lung carcinoma</article-title>.
+<source>Cancer Res Treat</source>,
+<year>2022</year>,
+<volume>54</volume>(<issue>3</issue>): <fpage>782</fpage>-<lpage>792</lpage>. doi: <pub-id pub-id-type="doi">10.4143/crt.2021.843</pub-id>
+<pub-id pub-id-type="pmid">34844291</pub-id>
+</mixed-citation><!--Hwang I, Choi YL, Lee H, et al. Selection strategies and practical application of BRAF V600E-mutated non-small cell lung carcinoma. Cancer Res Treat, 2022, 54(3): 782-792. doi: 10.4143/crt.2021.843 --></ref><ref id="b37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Chu</surname><given-names>CH</given-names></name>,
+<name><surname>Huang</surname><given-names>YH</given-names></name>,
+<name><surname>Lee</surname><given-names>PH</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Various impacts of driver mutations on the PD-L 1 expression of NSCLC</article-title>.
+<source>PLoS One</source>,
+<year>2022</year>,
+<volume>17</volume>(<issue>8</issue>): e0273207. doi: <pub-id pub-id-type="doi">10.1371/journal.pone.0273207</pub-id>
+</mixed-citation><!--Chu CH, Huang YH, Lee PH, et al. Various impacts of driver mutations on the PD-L1 expression of NSCLC. PLoS One, 2022, 17(8): e0273207. doi: 10.1371/journal.pone.0273207 --></ref><ref id="b38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dudnik</surname><given-names>E</given-names></name>,
+<name><surname>Peled</surname><given-names>N</given-names></name>,
+<name><surname>Nechushtan</surname><given-names>H</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>BRAF mutant lung cancer: programmed death ligand 1 expression, tumor mutational burden, microsatellite instability status, and response to immune check-point inhibitors</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2018</year>,
+<volume>13</volume>(<issue>8</issue>): <fpage>1128</fpage>-<lpage>1137</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jtho.2018.04.024</pub-id>
+<pub-id pub-id-type="pmid">29723688</pub-id>
+</mixed-citation><!--Dudnik E, Peled N, Nechushtan H, et al. BRAF mutant lung cancer: programmed death ligand 1 expression, tumor mutational burden, microsatellite instability status, and response to immune check-point inhibitors. J Thorac Oncol, 2018, 13(8): 1128-1137. doi: 10.1016/j.jtho.2018.04.024 --></ref><ref id="b39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>H</given-names></name>,
+<name><surname>Zhang</surname><given-names>Y</given-names></name>,
+<name><surname>Xu</surname><given-names>Y</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Tumor immune microenvironment and immunotherapy efficacy in BRAF mutation non-small-cell lung cancer</article-title>.
+<source>Cell Death Dis</source>,
+<year>2022</year>,
+<volume>13</volume>(<issue>12</issue>): <fpage>1064</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41419-022-05510-4</pub-id>
+<pub-id pub-id-type="pmid">36543792</pub-id>
+</mixed-citation><!--Li H, Zhang Y, Xu Y, et al. Tumor immune microenvironment and immunotherapy efficacy in BRAF mutation non-small-cell lung cancer. Cell Death Dis, 2022, 13(12): 1064. doi: 10.1038/s41419-022-05510-4 --></ref><ref id="b40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sheikine</surname><given-names>Y</given-names></name>,
+<name><surname>Pavlick</surname><given-names>D</given-names></name>,
+<name><surname>Klempner</surname><given-names>SJ</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>BRAF in lung cancers: Analysis of patient cases reveals recurrent BRAF mutations, fusions, kinase duplications, and concurrent alterations</article-title>.
+<source>JCO Precis Oncol</source>,
+<year>2018</year>,
+<volume>2</volume>: PO.17.00172. doi: <pub-id pub-id-type="doi">10.1200/PO.17.00172</pub-id>
+</mixed-citation><!--Sheikine Y, Pavlick D, Klempner SJ, et al. BRAF in lung cancers: Analysis of patient cases reveals recurrent BRAF mutations, fusions, kinase duplications, and concurrent alterations. JCO Precis Oncol, 2018, 2: PO.17.00172. doi: 10.1200/PO.17.00172 --></ref><ref id="b41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dagogo-Jack</surname><given-names>I</given-names></name>,
+<name><surname>Martinez</surname><given-names>P</given-names></name>,
+<name><surname>Yeap</surname><given-names>BY</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Impact of BRAF mutation class on disease characteristics and clinical outcomes in BRAF-mutant lung cancer</article-title>.
+<source>Clin Cancer Res</source>,
+<year>2019</year>,
+<volume>25</volume>(<issue>1</issue>): <fpage>158</fpage>-<lpage>165</lpage>. doi: <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-18-2062</pub-id>
+<pub-id pub-id-type="pmid">30224342</pub-id>
+</mixed-citation><!--Dagogo-Jack I, Martinez P, Yeap BY, et al. Impact of BRAF mutation class on disease characteristics and clinical outcomes in BRAF-mutant lung cancer. Clin Cancer Res, 2019, 25(1): 158-165. doi: 10.1158/1078-0432.CCR-18-2062 --></ref><ref id="b42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Aboubakar</surname><given-names>Nana F</given-names></name>,
+<name><surname>Ocak</surname><given-names>S</given-names></name></person-group>.
+<article-title>Targeting BRAF activation as acquired resistance mechanism to EGFR tyrosine kinase inhibitors in EGFR-mutant non-small-cell lung cancer</article-title>.
+<source>Pharmaceutics</source>,
+<year>2021</year>,
+<volume>13</volume>(<issue>9</issue>): <fpage>1478</fpage>. doi: <pub-id pub-id-type="doi">10.3390/pharmaceutics13091478</pub-id>
+<pub-id pub-id-type="pmid">34575554</pub-id>
+</mixed-citation><!--Aboubakar Nana F, Ocak S. Targeting BRAF activation as acquired resistance mechanism to EGFR tyrosine kinase inhibitors in EGFR-mutant non-small-cell lung cancer. Pharmaceutics, 2021, 13(9): 1478. doi: 10.3390/pharmaceutics13091478 --></ref><ref id="b43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schaufler</surname><given-names>D</given-names></name>,
+<name><surname>Ast</surname><given-names>DF</given-names></name>,
+<name><surname>Tumbrink</surname><given-names>HL</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Clonal dynamics of BRAF-driven drug resistance in EGFR-mutant lung cancer</article-title>.
+<source>NPJ Precis Oncol</source>,
+<year>2021</year>,
+<volume>5</volume>(<issue>1</issue>): <fpage>102</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41698-021-00241-9</pub-id>
+<pub-id pub-id-type="pmid">34921211</pub-id>
+</mixed-citation><!--Schaufler D, Ast DF, Tumbrink HL, et al. Clonal dynamics of BRAF-driven drug resistance in EGFR-mutant lung cancer. NPJ Precis Oncol, 2021, 5(1): 102. doi: 10.1038/s41698-021-00241-9 --></ref><ref id="b44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dankner</surname><given-names>M</given-names></name>,
+<name><surname>Rose</surname><given-names>AAN</given-names></name>,
+<name><surname>Rajkumar</surname><given-names>S</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Classifying BRAF alterations in cancer: new rational therapeutic strategies for actionable mutations</article-title>.
+<source>Oncogene</source>,
+<year>2018</year>,
+<volume>37</volume>(<issue>24</issue>): <fpage>3183</fpage>-<lpage>3199</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41388-018-0171-x</pub-id>
+<pub-id pub-id-type="pmid">29540830</pub-id>
+</mixed-citation><!--Dankner M, Rose AAN, Rajkumar S, et al. Classifying BRAF alterations in cancer: new rational therapeutic strategies for actionable mutations. Oncogene, 2018, 37(24): 3183-3199. doi: 10.1038/s41388-018-0171-x --></ref><ref id="b45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Barlesi</surname><given-names>F</given-names></name>,
+<name><surname>Mazieres</surname><given-names>J</given-names></name>,
+<name><surname>Merlio</surname><given-names>JP</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Routine molecular profiling of patients with advanced non-small-cell lung cancer: results of a 1-year nationwide programme of the French Cooperative Thoracic Intergroup (IFCT)</article-title>.
+<source>Lancet</source>,
+<year>2016</year>,
+<volume>387</volume>(<issue>10026</issue>): <fpage>1415</fpage>-<lpage>1426</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(16)00004-0</pub-id>
+<pub-id pub-id-type="pmid">26777916</pub-id>
+</mixed-citation><!--Barlesi F, Mazieres J, Merlio JP, et al. Routine molecular profiling of patients with advanced non-small-cell lung cancer: results of a 1-year nationwide programme of the French Cooperative Thoracic Intergroup (IFCT). Lancet, 2016, 387(10026): 1415-1426. doi: 10.1016/S0140-6736(16)00004-0 --></ref><ref id="b46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cardarella</surname><given-names>S</given-names></name>,
+<name><surname>Ogino</surname><given-names>A</given-names></name>,
+<name><surname>Nishino</surname><given-names>M</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Clinical, pathologic, and biologic features associated with BRAF mutations in non-small cell lung cancer</article-title>.
+<source>Clin Cancer Res</source>,
+<year>2013</year>,
+<volume>19</volume>(<issue>16</issue>): <fpage>4532</fpage>-<lpage>4540</lpage>. doi: <pub-id pub-id-type="doi">10.1158/1078-0432.CCR-13-0657</pub-id>
+<pub-id pub-id-type="pmid">23833300</pub-id>
+</mixed-citation><!--Cardarella S, Ogino A, Nishino M, et al. Clinical, pathologic, and biologic features associated with BRAF mutations in non-small cell lung cancer. Clin Cancer Res, 2013, 19(16): 4532-4540. doi: 10.1158/1078-0432.CCR-13-0657 --></ref><ref id="b47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Couraud</surname><given-names>S</given-names></name>,
+<name><surname>Barlesi</surname><given-names>F</given-names></name>,
+<name><surname>Fontaine-Deraluelle</surname><given-names>C</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Clinical outcomes of non-small-cell lung cancer patients with BRAF mutations: results from the French Cooperative Thoracic Intergroup biomarkers France study</article-title>.
+<source>Eur J Cancer</source>,
+<year>2019</year>,
+<volume>116</volume>: <fpage>86</fpage>-<lpage>97</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ejca.2019.04.016</pub-id>
+<pub-id pub-id-type="pmid">31181537</pub-id>
+</mixed-citation><!--Couraud S, Barlesi F, Fontaine-Deraluelle C, et al. Clinical outcomes of non-small-cell lung cancer patients with BRAF mutations: results from the French Cooperative Thoracic Intergroup biomarkers France study. Eur J Cancer, 2019, 116: 86-97. doi: 10.1016/j.ejca.2019.04.016 --></ref><ref id="b48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Guisier</surname><given-names>F</given-names></name>,
+<name><surname>Dubos-Arvis</surname><given-names>C</given-names></name>,
+<name><surname>Vinas</surname><given-names>F</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Efficacy and safety of anti-PD-1 immunotherapy in patients with advanced NSCLC with BRAF, HER2, or MET mutations or RET translocation: GFPC 01-2018</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2020</year>,
+<volume>15</volume>(<issue>4</issue>): <fpage>628</fpage>-<lpage>636</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jtho.2019.12.129</pub-id>
+<pub-id pub-id-type="pmid">31945494</pub-id>
+</mixed-citation><!--Guisier F, Dubos-Arvis C, Vinas F, et al. Efficacy and safety of anti-PD-1 immunotherapy in patients with advanced NSCLC with BRAF, HER2, or MET mutations or RET translocation: GFPC 01-2018. J Thorac Oncol, 2020, 15(4): 628-636. doi: 10.1016/j.jtho.2019.12.129 --></ref><ref id="b49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Niu</surname><given-names>X</given-names></name>,
+<name><surname>Sun</surname><given-names>Y</given-names></name>,
+<name><surname>Planchard</surname><given-names>D</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Durable response to the combination of Atezolizumab with Platinum-based chemotherapy in an untreated non-smoking lung adenocarcinoma patient with BRAF V600E mutation: A case report</article-title>.
+<source>Front Oncol</source>,
+<year>2021</year>,
+<volume>11</volume>: <fpage>634920</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fonc.2021.634920</pub-id>
+<pub-id pub-id-type="pmid">34178624</pub-id>
+</mixed-citation><!--Niu X, Sun Y, Planchard D, et al. Durable response to the combination of Atezolizumab with Platinum-based chemotherapy in an untreated non-smoking lung adenocarcinoma patient with BRAF V600E mutation: A case report. Front Oncol, 2021, 11: 634920. doi: 10.3389/fonc.2021.634920 --></ref><ref id="b50"><label>50</label><citation-alternatives><mixed-citation publication-type="journal" id="mixed-citation52" xml:lang="en">
+<person-group person-group-type="author">
+<collab>Lung Cancer Professional Committee of China Anti-Cancer Association</collab></person-group>.
+<article-title>Expert consensus on the diagnosis and treatment of BRAF mutations in advanced non-small cell lung cancer in China</article-title>.
+<source>Zhonghua Zhongliu Zazhi</source>,
+<year>2023</year>,
+<volume>45</volume>(<issue>4</issue>): <fpage>279</fpage>-<lpage>290</lpage>.
+<pub-id pub-id-type="pmid">37078209</pub-id>
+</mixed-citation><mixed-citation publication-type="journal" id="mixed-citation53"><person-group person-group-type="author">
+[<collab>&#x04e2d;&#x056fd;&#x06297;&#x0764c;&#x0534f;&#x04f1a;&#x080ba;&#x0764c;&#x04e13;&#x04e1a;&#x059d4;&#x05458;&#x04f1a;</collab></person-group>.
+<article-title>&#x04e2d;&#x056fd;&#x0665a;&#x0671f;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;BRAF&#x07a81;&#x053d8;&#x08bca;&#x07597;&#x04e13;&#x05bb6;&#x05171;&#x08bc6;</article-title>.
+<source>&#x04e2d;&#x0534e;&#x080bf;&#x07624;&#x06742;&#x05fd7;</source>,
+<year>2023</year>,
+<volume>45</volume>(<issue>4</issue>): <fpage>279</fpage>-<lpage>290</lpage>.] doi: <pub-id pub-id-type="doi">10.3760/cma.j.cn112152-20230117-00030</pub-id>
+</mixed-citation></citation-alternatives><!--Lung Cancer Professional Committee of China Anti-Cancer Association. Expert consensus on the diagnosis and treatment of BRAF mutations in advanced non-small cell lung cancer in China. Zhonghua Zhongliu Zazhi, 2023, 45(4): 279-290. [&#x04e2d;&#x056fd;&#x06297;&#x0764c;&#x0534f;&#x04f1a;&#x080ba;&#x0764c;&#x04e13;&#x04e1a;&#x059d4;&#x05458;&#x04f1a;. &#x04e2d;&#x056fd;&#x0665a;&#x0671f;&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;BRAF&#x07a81;&#x053d8;&#x08bca;&#x07597;&#x04e13;&#x05bb6;&#x05171;&#x08bc6;. &#x04e2d;&#x0534e;&#x080bf;&#x07624;&#x06742;&#x05fd7;, 2023, 45(4): 279-290.] doi: 10.3760/cma.j.cn112152-20230117-00030 --></ref><ref id="b51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Planchard</surname><given-names>D</given-names></name>,
+<name><surname>Kim</surname><given-names>TM</given-names></name>,
+<name><surname>Mazieres</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Dabrafenib in patients with BRAF (V600E)-positive advanced non-small-cell lung cancer: a single-arm, multicentre, open-label, phase 2 trial</article-title>.
+<source>Lancet Oncol</source>,
+<year>2016</year>, 17(5): <fpage>642</fpage>-<lpage>650</lpage>. doi: 10.1016/S1470-
+<volume>2045</volume>(<issue>16</issue>)<fpage>00077</fpage>-<lpage>2</lpage>
+</mixed-citation><!--Planchard D, Kim TM, Mazieres J, et al. Dabrafenib in patients with BRAF(V600E)-positive advanced non-small-cell lung cancer: a single-arm, multicentre, open-label, phase 2 trial. Lancet Oncol, 2016, 17(5): 642-650. doi: 10.1016/S1470-2045(16)00077-2 --></ref><ref id="b52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Subbiah</surname><given-names>V</given-names></name>,
+<name><surname>Gervais</surname><given-names>R</given-names></name>,
+<name><surname>Riely</surname><given-names>G</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Efficacy of Vemurafenib in patients with non-small-cell lung cancer with BRAF V600 mutation: An open-label, single-arm cohort of the histology-independent VE-BASKET study</article-title>.
+<source>JCO Precis Oncol</source>,
+<year>2019</year>,
+<volume>3</volume>: PO.18.00266. doi: <pub-id pub-id-type="doi">10.1200/PO.18.00266</pub-id>
+</mixed-citation><!--Subbiah V, Gervais R, Riely G, et al. Efficacy of Vemurafenib in patients with non-small-cell lung cancer with BRAF V600 mutation: An open-label, single-arm cohort of the histology-independent VE-BASKET study. JCO Precis Oncol, 2019, 3: PO.18.00266. doi: 10.1200/PO.18.00266 --></ref><ref id="b53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Planchard</surname><given-names>D</given-names></name>,
+<name><surname>Smit</surname><given-names>EF</given-names></name>,
+<name><surname>Groen</surname><given-names>HJM</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Dabrafenib plus trametinib in patients with previously untreated BRAF (V600E)-mutant metastatic non-small-cell lung cancer: an open-label, phase 2 trial</article-title>.
+<source>Lancet Oncol</source>,
+<year>2017</year>, 18(10): <fpage>1307</fpage>-<lpage>1316</lpage>. doi: 10.1016/S1470-
+<volume>2045</volume>(<issue>17</issue>)<fpage>30679</fpage>-<lpage>4</lpage>
+</mixed-citation><!--Planchard D, Smit EF, Groen HJM, et al. Dabrafenib plus trametinib in patients with previously untreated BRAF(V600E)-mutant metastatic non-small-cell lung cancer: an open-label, phase 2 trial. Lancet Oncol, 2017, 18(10): 1307-1316. doi: 10.1016/S1470-2045(17)30679-4 --></ref><ref id="b54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Li</surname><given-names>J</given-names></name>,
+<name><surname>Sasane</surname><given-names>M</given-names></name>,
+<name><surname>Zhang</surname><given-names>J</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Is time to progression associated with post-progression survival in previously treated metastatic non-small cell lung cancer with BRAF V600E mutation? A secondary analysis of phase II clinical trial data</article-title>.
+<source>BMJ Open</source>,
+<year>2018</year>,
+<volume>8</volume>(<issue>8</issue>): <fpage>e021642</fpage>. doi: <pub-id pub-id-type="doi">10.1136/bmjopen-2018-021642</pub-id>
+</mixed-citation><!--Li J, Sasane M, Zhang J, et al. Is time to progression associated with post-progression survival in previously treated metastatic non-small cell lung cancer with BRAF V600E mutation? A secondary analysis of phase II clinical trial data. BMJ Open, 2018, 8(8): e021642. doi: 10.1136/bmjopen-2018-021642 --></ref><ref id="b55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Planchard</surname><given-names>D</given-names></name>,
+<name><surname>Besse</surname><given-names>B</given-names></name>,
+<name><surname>Groen</surname><given-names>HJM</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Phase 2 study of Dabrafenib plus Trametinib in patients with BRAF V600E-mutant metastatic NSCLC: Updated 5-year survival rates and genomic analysis</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2022</year>,
+<volume>17</volume>(<issue>1</issue>): <fpage>103</fpage>-<lpage>115</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jtho.2021.08.011</pub-id>
+<pub-id pub-id-type="pmid">34455067</pub-id>
+</mixed-citation><!--Planchard D, Besse B, Groen HJM, et al. Phase 2 study of Dabrafenib plus Trametinib in patients with BRAF V600E-mutant metastatic NSCLC: Updated 5-year survival rates and genomic analysis. J Thorac Oncol, 2022, 17(1): 103-115. doi: 10.1016/j.jtho.2021.08.011 --></ref><ref id="b56"><label>56</label><citation-alternatives><mixed-citation publication-type="book" id="mixed-citation59" xml:lang="en">
+<person-group person-group-type="author">
+<collab>Guidelines Working Committee of the Chinese Clinical Oncology Society</collab></person-group>.
+<source>Chinese Society of Clinical Oncology (CSCO) guidelines for the diagnosis and treatment of non-small cell lung cancer, 2023</source>.
+<publisher-loc>Beijing</publisher-loc>:
+<publisher-name>People&#x02019;s Health Publishing House</publisher-name>, <fpage>2023</fpage>.
+</mixed-citation><mixed-citation publication-type="book" id="mixed-citation60"><person-group person-group-type="author">
+[<collab>&#x04e2d;&#x056fd;&#x04e34;&#x05e8a;&#x080bf;&#x07624;&#x05b66;&#x04f1a;&#x06307;&#x05357;&#x05de5;&#x04f5c;&#x059d4;&#x05458;&#x04f1a;</collab></person-group>.
+<source>&#x04e2d;&#x056fd;&#x04e34;&#x05e8a;&#x080bf;&#x07624;&#x05b66;&#x04f1a;(CSCO)&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x08bca;&#x07597;&#x06307;&#x05357;2023</source>.
+<publisher-loc>&#x05317;&#x04eac;</publisher-loc>:
+<publisher-name>&#x04eba;&#x06c11;&#x0536b;&#x0751f;&#x051fa;&#x07248;&#x0793e;</publisher-name>,
+<year>2023</year>.]</mixed-citation></citation-alternatives><!--Guidelines Working Committee of the Chinese Clinical Oncology Society. Chinese Society of Clinical Oncology (CSCO) guidelines for the diagnosis and treatment of non-small cell lung cancer, 2023. Beijing: People&#x02019;s Health Publishing House, 2023. [&#x04e2d;&#x056fd;&#x04e34;&#x05e8a;&#x080bf;&#x07624;&#x05b66;&#x04f1a;&#x06307;&#x05357;&#x05de5;&#x04f5c;&#x059d4;&#x05458;&#x04f1a;. &#x04e2d;&#x056fd;&#x04e34;&#x05e8a;&#x080bf;&#x07624;&#x05b66;&#x04f1a;(CSCO)&#x0975e;&#x05c0f;&#x07ec6;&#x080de;&#x080ba;&#x0764c;&#x08bca;&#x07597;&#x06307;&#x05357;2023. &#x05317;&#x04eac;: &#x04eba;&#x06c11;&#x0536b;&#x0751f;&#x051fa;&#x07248;&#x0793e;, 2023.] --></ref><ref id="b57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Riely</surname><given-names>GJ</given-names></name>,
+<name><surname>Smit</surname><given-names>EF</given-names></name>,
+<name><surname>Ahn</surname><given-names>MJ</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Phase II, open-label study of Encorafenib plus Binimetinib in patients with BRAF(V600)-mutant metastatic non-small-cell lung cancer</article-title>.
+<source>J Clin Oncol</source>,
+<year>2023</year>,
+<volume>41</volume>(<issue>21</issue>): <fpage>3700</fpage>-<lpage>3711</lpage>. doi: <pub-id pub-id-type="doi">10.1200/JCO.23.00774</pub-id>
+<pub-id pub-id-type="pmid">37270692</pub-id>
+</mixed-citation><!--Riely GJ, Smit EF, Ahn MJ, et al. Phase II, open-label study of Encorafenib plus Binimetinib in patients with BRAF(V600)-mutant metastatic non-small-cell lung cancer. J Clin Oncol, 2023, 41(21): 3700-3711. doi: 10.1200/JCO.23.00774 --></ref><ref id="b58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Planchard</surname><given-names>D</given-names></name>,
+<name><surname>Besse</surname><given-names>B</given-names></name>,
+<name><surname>Groen</surname><given-names>HJM</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Dabrafenib plus trametinib in patients with previously treated BRAF (V600E)-mutant metastatic non-small cell lung cancer: an open-label, multicentre phase 2 trial</article-title>.
+<source>Lancet Oncol</source>,
+<year>2016</year>,
+<volume>17</volume>(<issue>7</issue>): <fpage>984</fpage>-<lpage>993</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1470-2045(16)30146-2</pub-id>
+<pub-id pub-id-type="pmid">27283860</pub-id>
+</mixed-citation><!--Planchard D, Besse B, Groen HJM, et al. Dabrafenib plus trametinib in patients with previously treated BRAF(V600E)-mutant metastatic non-small cell lung cancer: an open-label, multicentre phase 2 trial. Lancet Oncol, 2016, 17(7): 984-993. doi: 10.1016/S1470-2045(16)30146-2 --></ref><ref id="b59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schadendorf</surname><given-names>D</given-names></name>,
+<name><surname>Robert</surname><given-names>C</given-names></name>,
+<name><surname>Dummer</surname><given-names>R</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Pyrexia in patients treated with dabrafenib plus trametinib across clinical trials in BRAF-mutant cancers</article-title>.
+<source>Eur J Cancer</source>,
+<year>2021</year>,
+<volume>153</volume>: <fpage>234</fpage>-<lpage>241</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ejca.2021.05.005</pub-id>
+<pub-id pub-id-type="pmid">34225229</pub-id>
+</mixed-citation><!--Schadendorf D, Robert C, Dummer R, et al. Pyrexia in patients treated with dabrafenib plus trametinib across clinical trials in BRAF-mutant cancers. Eur J Cancer, 2021, 153: 234-241. doi: 10.1016/j.ejca.2021.05.005 --></ref><ref id="b60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Atkinson</surname><given-names>V</given-names></name>,
+<name><surname>Long</surname><given-names>GV</given-names></name>,
+<name><surname>Menzies</surname><given-names>AM</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Optimizing combination dabrafenib and trametinib therapy in BRAF mutation-positive advanced melanoma patients: Guidelines from Australian melanoma medical oncologists</article-title>.
+<source>Asia Pac J Clin Oncol</source>,
+<year>2016</year>,
+<volume>12</volume>(<issue>Suppl 7</issue>): <fpage>5</fpage>-<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.1111/ajco.12656</pub-id>
+</mixed-citation><!--Atkinson V, Long GV, Menzies AM, et al. Optimizing combination dabrafenib and trametinib therapy in BRAF mutation-positive advanced melanoma patients: Guidelines from Australian melanoma medical oncologists. Asia Pac J Clin Oncol, 2016, 12(Suppl 7): 5-12. doi: 10.1111/ajco.12656 --></ref><ref id="b61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Subbiah</surname><given-names>V</given-names></name>,
+<name><surname>Baik</surname><given-names>C</given-names></name>,
+<name><surname>Kirkwood</surname><given-names>JM</given-names></name></person-group>.
+<article-title>Clinical development of BRAF plus MEK inhibitor combinations</article-title>.
+<source>Trends Cancer</source>,
+<year>2020</year>,
+<volume>6</volume>(<issue>9</issue>): <fpage>797</fpage>-<lpage>810</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.trecan.2020.05.009</pub-id>
+<pub-id pub-id-type="pmid">32540454</pub-id>
+</mixed-citation><!--Subbiah V, Baik C, Kirkwood JM. Clinical development of BRAF plus MEK inhibitor combinations. Trends Cancer, 2020, 6(9): 797-810. doi: 10.1016/j.trecan.2020.05.009 --></ref><ref id="b62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Rudin</surname><given-names>CM</given-names></name>,
+<name><surname>Hong</surname><given-names>K</given-names></name>,
+<name><surname>Streit</surname><given-names>M</given-names></name></person-group>.
+<article-title>Molecular characterization of acquired resistance to the BRAF inhibitor dabrafenib in a patient with BRAF-mutant non-small-cell lung cancer</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2013</year>,
+<volume>8</volume>(<issue>5</issue>): <fpage>e41</fpage>-<lpage>e42</lpage>. doi: <pub-id pub-id-type="doi">10.1097/JTO</pub-id>.0b013e31828bb1b3
+<pub-id pub-id-type="pmid">23524406</pub-id>
+</mixed-citation><!--Rudin CM, Hong K, Streit M. Molecular characterization of acquired resistance to the BRAF inhibitor dabrafenib in a patient with BRAF-mutant non-small-cell lung cancer. J Thorac Oncol, 2013, 8(5): e41-e42. doi: 10.1097/JTO.0b013e31828bb1b3 --></ref><ref id="b63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Poulikakos</surname><given-names>PI</given-names></name>,
+<name><surname>Rosen</surname><given-names>N</given-names></name></person-group>.
+<article-title>Mutant BRAF melanomas--dependence and resistance</article-title>.
+<source>Cancer Cell</source>,
+<year>2011</year>,
+<volume>19</volume>(<issue>1</issue>): <fpage>11</fpage>-<lpage>15</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ccr.2011.01.008</pub-id>
+<pub-id pub-id-type="pmid">21251612</pub-id>
+</mixed-citation><!--Poulikakos PI, Rosen N. Mutant BRAF melanomas- -dependence and resistance. Cancer Cell, 2011, 19(1): 11-15. doi: 10.1016/j.ccr.2011.01.008 --></ref><ref id="b64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oddo</surname><given-names>D</given-names></name>,
+<name><surname>Sennott</surname><given-names>EM</given-names></name>,
+<name><surname>Barault</surname><given-names>L</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Molecular landscape of acquired resistance to targeted therapy combinations in BRAF-mutant colorectal cancer</article-title>.
+<source>Cancer Res</source>,
+<year>2016</year>,
+<volume>76</volume>(<issue>15</issue>): <fpage>4504</fpage>-<lpage>4515</lpage>. doi: <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-16-0396</pub-id>
+<pub-id pub-id-type="pmid">27312529</pub-id>
+</mixed-citation><!--Oddo D, Sennott EM, Barault L, et al. Molecular landscape of acquired resistance to targeted therapy combinations in BRAF-mutant colorectal cancer. Cancer Res, 2016, 76(15): 4504-4515. doi: 10.1158/0008-5472.CAN-16-0396 --></ref><ref id="b65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Huo</surname><given-names>KG</given-names></name>,
+<name><surname>Notsuda</surname><given-names>H</given-names></name>,
+<name><surname>Fang</surname><given-names>Z</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>Lung cancer driven by BRAF(G469V) mutation is targetable by EGFR kinase inhibitors</article-title>.
+<source>J Thorac Oncol</source>,
+<year>2022</year>,
+<volume>17</volume>(<issue>2</issue>): <fpage>277</fpage>-<lpage>288</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jtho.2021.09.008</pub-id>
+<pub-id pub-id-type="pmid">34648945</pub-id>
+</mixed-citation><!--Huo KG, Notsuda H, Fang Z, et al. Lung cancer driven by BRAF(G469V) mutation is targetable by EGFR kinase inhibitors. J Thorac Oncol, 2022, 17(2): 277-288. doi: 10.1016/j.jtho.2021.09.008 --></ref><ref id="b66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Yao</surname><given-names>Z</given-names></name>,
+<name><surname>Gao</surname><given-names>Y</given-names></name>,
+<name><surname>Su</surname><given-names>W</given-names></name></person-group>,
+<etal>et al</etal>.
+<article-title>RAF inhibitor PLX8394 selectively disrupts BRAF dimers and RAS-independent BRAF-mutant-driven signaling</article-title>.
+<source>Nat Med</source>,
+<year>2019</year>,
+<volume>25</volume>(<issue>2</issue>): <fpage>284</fpage>-<lpage>291</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41591-018-0274-5</pub-id>
+<pub-id pub-id-type="pmid">30559419</pub-id>
+</mixed-citation><!--Yao Z, Gao Y, Su W, et al. RAF inhibitor PLX8394 selectively disrupts BRAF dimers and RAS-independent BRAF-mutant-driven signaling. Nat Med, 2019, 25(2): 284-291. doi: 10.1038/s41591-018-0274-5 --></ref></ref-list></back></article>

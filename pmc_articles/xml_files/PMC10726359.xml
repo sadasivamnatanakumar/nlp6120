@@ -1,0 +1,505 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38037745</article-id><article-id pub-id-type="pmc">PMC10726359</article-id>
+<article-id pub-id-type="doi">10.1021/acs.jpclett.3c03062</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Hysteresis in
+Organic Electrochemical Transistors:
+Distinction of Capacitive and Inductive Effects</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-4987-4887</contrib-id><name><surname>Bisquert</surname><given-names>Juan</given-names></name><xref rid="cor1" ref-type="other">*</xref></contrib><aff id="aff1">Institute of Advanced Materials
+(INAM), <institution>Universitat Jaume I</institution>, 12006 Castell&#x000f3;, <country>Spain</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label><email>bisquert@uji.es</email></corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><volume>14</volume><issue>49</issue><fpage>10951</fpage><lpage>10958</lpage><history><date date-type="received"><day>31</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>28</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>21</day><month>11</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Author. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Author</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_0005" id="ab-tgr1"/></p><p>Organic electrochemical transistors (OECTs) are effective
+devices
+for neuromorphic applications, bioelectronics, and sensors. Numerous
+reports in the literature show persistent dynamical hysteresis effects
+in the current&#x02013;voltage curves, attributed to the slow ionic
+charging of the channel under the applied gate voltage. Here we present
+a model that considers the dominant electrical and electrochemical
+operation aspects of the device based on a thermodynamic function
+of ion insertion. We identify the volume capacitance as the derivative
+of the thermodynamic function, associated with the chemical capacitance
+of the ionic&#x02013;electronic film. The dynamical analysis shows
+that the system contains both capacitive and inductive hysteresis
+effects. The inductor response, which can be observed in impedance
+spectroscopy, is associated with ionic diffusion from the surface
+to fill the channel up to the equilibrium value. The model reveals
+the multiple dynamical features associated with specific kinetic relaxations
+that control the transient and impedance response of the OCET.</p></abstract><funding-group><award-group><funding-source><institution-wrap><institution>European Research Council</institution><institution-id institution-id-type="doi">10.13039/501100000781</institution-id></institution-wrap></funding-source><award-id>101097688</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz3c03062</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz3c03062</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Organic electrochemical transistors
+(OECTs) have gained considerable attention due to their unique capability
+to transduce both electronic and ionic signals,<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> making
+them well-suited for various applications in the realms of neuromorphic
+systems,<sup><xref ref-type="bibr" rid="ref3">3</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> bioelectronics,<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> and sensors.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> These versatile three-terminal devices consist of an organic
+mixed ionic electronic conductor (OMIEC)<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> serving as the channel connecting the source and drain electrodes.
+An electrolyte functions as the ion reservoir positioned between the
+channel and the gate electrode.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup></p><p>In OECTs, the control of the drain&#x02013;source bias (<italic>u</italic><sub><italic>d</italic></sub>) remains constant, while
+variations in the gate&#x02013;source voltage (<italic>V</italic>)
+govern the flow of mobile ions between the OMIEC channel and the electrolyte.
+This modulation of the ions leads to changes in the doping states
+and the conductivity of the OMIEC channel. Consequently, OECTs are
+volumetric devices, endowing them with high transconductance, which
+results in substantial amplification capabilities and enables them
+to operate effectively at relatively low voltages.</p><p>To measure
+the current&#x02013;voltage characteristics a voltage
+scan of the form<disp-formula id="eq1"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m001" position="anchor"/><label>1</label></disp-formula>is applied. The parameter <italic>v</italic><sub><italic>r</italic></sub> is the voltage sweep velocity, and <italic>V</italic><sub>0</sub> is the initial voltage. One considers a negative
+(reverse, <italic>v</italic><sub><italic>r</italic></sub> &#x0003c; 0)
+sweep followed by a positive sweep (forward, <italic>v</italic><sub><italic>r</italic></sub> &#x0003e; 0) that returns to the starting voltage.
+Characteristic results by Leo and co-workers are shown in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> An important hysteresis effect is observed, i.e., a mismatch
+between the forward and backward scans in the transfer curves. Hysteresis
+has been reported widely in OECTs<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> and attributed to a delay of ion charging.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>(a) Bias stress stability measurement in an OECT where
+the PEDOT:Tos
+film is annealed for 1 h at 70 &#x000b0;C. The measurement spans approximately
+6 h, with a recovery measurement showing no evidence of device degradation.
+(b) Demonstration of a scan-rate-dependent transfer curve measurement
+where the inlet shows the hysteresis strength &#x003c8;. The channel
+width (<italic>w</italic>), length (<italic>L</italic>), and gate
+distance are 150, 150, and 50 &#x003bc;m, respectively. The film thickness
+(<italic>d</italic>) for the bias stress measurement is 80 nm and
+for the scan-rate-dependent measurement is 119 nm. The drain&#x02013;source
+voltage (VDS) is kept constant at &#x02212;0.2 V. The scan speed for
+bias stress measurement is &#x0223c;180 mV s<sup>&#x02013;1</sup>. Reproduced
+with permission from Shameem, R.; Bongartz, L. M.; Weissbach, A.;
+Kleemann, H.; Leo, K. <italic>Applied Sciences</italic><bold>2023</bold>, 13, 5754; licensed under a Creative Commons Attribution (CC BY
+4.0) license.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup></p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_0001" id="gr1" position="float"/></fig><p>In this work, we present a model that accounts
+quantitatively for
+different hysteresis effects in OECTs. We start from the basic framework
+for the transistor current established by Bernards and Malliaras,<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> and we consider some additional key aspects.
+First, disorder produces a broad density of states (DOS) in the OMIEC,
+which can be treated experimentally from the properties of the chemical
+capacitance.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> In addition, we use previous
+insights on the characterization of inductive and capacitive hysteresis
+that have been described for perovskite solar cells and memristors.<sup><xref ref-type="bibr" rid="ref19">19</xref>&#x02212;<xref ref-type="bibr" rid="ref22">22</xref></sup> This model allows us to classify different types of hysteresis under
+forward and back sweep cycles. In addition, we develop the associated
+model of impedance spectroscopy that produces a complete diagnosis
+of the inductive features due to transport effects. We assume <italic>u</italic><sub><italic>d</italic></sub> is small, enabling essentially
+uniform hole carrier density <italic>p</italic> in the channel. A
+number of advanced modeling methods can be applied to simulate realistic
+transistor measurements (inhomogeneous carrier distributions, depletion,
+saturation current, lateral currents, traps, swelling, and so forth),<sup><xref ref-type="bibr" rid="ref23">23</xref>&#x02212;<xref ref-type="bibr" rid="ref26">26</xref></sup> but here we reduce the geometrical features to the simplest situation
+in order to obtain the main physical causes of the transient dynamics
+inherent to the OECT configuration.</p><p>We remark that <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> shows two distinct
+types of hysteresis. Kinetic hysteresis
+depends on the scan rate, and the extent of hysteresis is enhanced
+for faster scans. This behavior is the topic of this Letter. On the
+other hand at slow scan rates there is a bistable behavior that will
+not be considered here.</p><p>According to the scheme in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref> there are two components
+of the current.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> The first is the hole
+current across the channel<disp-formula id="eq2"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m002" position="anchor"/><label>2</label></disp-formula>Here <italic>q</italic> is the elementary
+charge and &#x003bc;<sub><italic>p</italic></sub> is the mobility. The
+density of holes is produced by the insertion of anions with volume
+density <italic>X</italic>; hence<disp-formula id="eq3"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m003" position="anchor"/><label>3</label></disp-formula>where we have defined<disp-formula id="eq4"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m004" position="anchor"/><label>4</label></disp-formula></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Scheme of the operation of the OECT. The green
+zone is the electrolyte,
+the gray zone is the OMIEC layer, and the yellow zones are the gate
+(G), source (S), and drain (D) electrodes. The anions inserted into
+the film are the source of electronic holes that carry the current.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_0002" id="gr2" position="float"/></fig><p>The second component of the current is caused by
+the insertion
+of cations from the electrolyte by the gate voltage that produces
+the entrance of the same number of holes from the S electrode<disp-formula id="eq5"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m005" position="anchor"/><label>5</label></disp-formula></p><p>In total we have the conduction current<disp-formula id="eq6"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m006" position="anchor"/><label>6</label></disp-formula>where <italic>Q</italic><sub><italic>v</italic></sub> = <italic>wLdq</italic>. <xref rid="eq6" ref-type="disp-formula">Equation <xref rid="eq6" ref-type="disp-formula">6</xref></xref> is equivalent to that formulated by Bernard
+and Malliaras.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup></p><p>Another important effect is the role of the electrolyte. The applied
+voltage <italic>V</italic> is divided into two components<disp-formula id="eq7"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m007" position="anchor"/><label>7</label></disp-formula><italic>R</italic><sub><italic>s</italic></sub> is the series resistance of the solution, and <italic>u</italic><sub><italic>g</italic></sub> is the voltage applied to the organic
+film, which causes a change of the Fermi level (electrochemical potential).
+The total current is<disp-formula id="eq8"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m008" position="anchor"/><label>8</label></disp-formula>Here we have added to <italic>I</italic><sub><italic>c</italic></sub> the capacitive current due to the charging
+of the capacitance <italic>C</italic><sub><italic>S</italic></sub> at the solution/film interface, which has a constant capacitance
+similar to a Helmholtz capacitance.</p><p>As mentioned, a change in <italic>u</italic><sub><italic>g</italic></sub> modifies the amount of inserted
+anions. In equilibrium, there
+is the thermodynamic function <italic>X</italic><sub><italic>eq</italic></sub>(<italic>u</italic><sub><italic>g</italic></sub>) that states
+the extent of intercalation of ions according to the voltage in the
+film. This function can be obtained by different electrochemical methods,<sup><xref ref-type="bibr" rid="ref27">27</xref></sup> and it has been amply studied for conducting
+polymers (with the statistics of polarons and bipolarons)<sup><xref ref-type="bibr" rid="ref28">28</xref>,<xref ref-type="bibr" rid="ref29">29</xref></sup> and organic transistors.<sup><xref ref-type="bibr" rid="ref30">30</xref>,<xref ref-type="bibr" rid="ref31">31</xref></sup> As a significant example
+of the ionic thermodynamic function we recall the Frumkin function
+that has been widely used in Li intercalation studies:<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup><disp-formula id="eq9"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m009" position="anchor"/><label>9</label></disp-formula>Here <italic>k</italic><sub><italic>B</italic></sub><italic>T</italic> is the thermal energy and <italic>g</italic> is the adimensional interaction parameter that accounts for the
+interactions between intercalated ions in the mean field approximation.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup></p><p>Another quantity of great significance
+for the charging properties
+is the chemical capacitance of the ions.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> This is obtained by the derivative of the thermodynamic function,
+with respect to the electrochemical potential.<disp-formula id="eq10"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m010" position="anchor"/><label>10</label></disp-formula>For example, the Frumkin model of <xref rid="eq9" ref-type="disp-formula">eq <xref rid="eq9" ref-type="disp-formula">9</xref></xref> gives the following result<disp-formula id="eq11"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m011" position="anchor"/><label>11</label></disp-formula>The quantity <italic>c</italic><sub>&#x003bc;</sub> is a volumetric density, and the total chemical capacitance is<disp-formula id="eq12"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m012" position="anchor"/><label>12</label></disp-formula></p><p>The chemical capacitance is readily
+measured by voltammetry or
+impedance spectroscopy.<sup><xref ref-type="bibr" rid="ref35">35</xref>&#x02212;<xref ref-type="bibr" rid="ref37">37</xref></sup> Indeed, the extent of charging
+of electrochemical transistors is usually obtained by an integration
+of the chemical capacitance, as follows<disp-formula id="eq13"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m013" position="anchor"/><label>13</label></disp-formula>On the other hand, the charging of the polymer
+film can be stated in terms of the DOS <italic>g</italic>(<italic>E</italic>) as a function of energy <italic>E</italic><disp-formula id="eq14"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m014" position="anchor"/><label>14</label></disp-formula>where <italic>F</italic>(<italic>E</italic>, <italic>qu</italic><sub><italic>g</italic></sub>) is the Fermi&#x02013;Dirac
+thermal occupation function for electrochemical potential <italic>E</italic><sub><italic>F</italic></sub> = <italic>qu</italic><sub><italic>g</italic></sub>. Applying <xref rid="eq10" ref-type="disp-formula">eq <xref rid="eq10" ref-type="disp-formula">10</xref></xref>, it is obtained<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup><disp-formula id="eq15"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m015" position="anchor"/><label>15</label></disp-formula>Therefore, the chemical capacitance provides
+a direct measure of the DOS. Usually in organic conductors the measured
+capacitance shows very broad features.<sup><xref ref-type="bibr" rid="ref35">35</xref>,<xref ref-type="bibr" rid="ref38">38</xref></sup> The dispersion
+of the DOS is attributable to disorder in the form of Gaussian functions
+and additional features.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref37">37</xref>,<xref ref-type="bibr" rid="ref39">39</xref></sup> It has been well-recognized that
+the volume capacitance <italic>C</italic>* used in OECT is a strong
+function of the gate voltage, often displaying peak values.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup> This is an intrinsic property of the chemical
+capacitance simply due to the thermodynamic function, e.g., see <xref rid="eq11" ref-type="disp-formula">eq <xref rid="eq11" ref-type="disp-formula">11</xref></xref>.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> It is only natural to identify the volumetric capacitance <italic>C</italic>* to the more general concept of chemical capacitance <italic>C</italic><sub>&#x003bc;</sub>.</p><p>The next aspect of the transient
+current is the transport of ions
+from the insertion at the solid/electrolyte interface until the organic
+layer is homogeneously filled according to the potential <italic>u</italic><sub><italic>g</italic></sub> in the film. Here we assume that the
+determinant process is the diffusion of ions with a chemical diffusion
+coefficient <italic>D</italic><sub><italic>X</italic></sub>.<sup><xref ref-type="bibr" rid="ref40">40</xref></sup> According to Fick&#x02019;s law and the conservation
+equation, for a species of concentration <italic>n</italic> we have<disp-formula id="eq16"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m016" position="anchor"/><label>16</label></disp-formula></p><p>Instead of solving the full transport
+model, we use the approximation
+to <xref rid="eq16" ref-type="disp-formula">eq <xref rid="eq16" ref-type="disp-formula">16</xref></xref> that contains
+the main dynamical properties:<disp-formula id="eq17"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m017" position="anchor"/><label>17</label></disp-formula>The charging process will be complete when <italic>X</italic> = <italic>X</italic><sub><italic>eq</italic></sub> is
+everywhere in the organic layer. We express <xref rid="eq17" ref-type="disp-formula">eq <xref rid="eq17" ref-type="disp-formula">17</xref></xref> as<disp-formula id="eq18"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m018" position="anchor"/><label>18</label></disp-formula>where<disp-formula id="eq19"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m019" position="anchor"/><label>19</label></disp-formula>is the characteristic time for vertical ionic
+diffusion along the film thickness.</p><p>During the diffusive charging,
+the concentration is inhomogeneous
+in the vertical direction. Bernard and Malliaras<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> introduce a factor <italic>f</italic> &#x02248; 1/2 that
+gives the average of the mobile charge along the film thickness. However,
+since the problem can be solved rigorously by using <xref rid="eq16" ref-type="disp-formula">eq <xref rid="eq16" ref-type="disp-formula">16</xref></xref>, we do not introduce such a factor.</p><p>Now <xref rid="eq7" ref-type="disp-formula">eqs <xref rid="eq7" ref-type="disp-formula">7</xref></xref>, <xref rid="eq8" ref-type="disp-formula">8</xref>, and <xref rid="eq18" ref-type="disp-formula">18</xref> form a complete system
+that can describe the transient behavior of the organic transistor
+in the the measurement conditions that have been commented in the
+introduction. We remark that <xref rid="eq18" ref-type="disp-formula">eq <xref rid="eq18" ref-type="disp-formula">18</xref></xref> has the structure of a chemical inductor.<sup><xref ref-type="bibr" rid="ref41">41</xref></sup> When combined, <xref rid="eq8" ref-type="disp-formula">eq <xref rid="eq8" ref-type="disp-formula">8</xref></xref> and <xref rid="eq18" ref-type="disp-formula">18</xref> form a system that has
+been described for the hysteresis properties of halide perovskite
+devices.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p><p>In order to illustrate
+the dynamical properties of the model we
+choose the following form for the equilibrium function:<disp-formula id="eq20"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m020" position="anchor"/><label>20</label></disp-formula>Here, <italic>X</italic><sub>0</sub> is a
+maximal density and<disp-formula id="eq21"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m021" position="anchor"/><label>21</label></disp-formula>is a function that varies between 0 and 1. <italic>u</italic><sub>0</sub> is the voltage of half occupancy, and <italic>V</italic><sub><italic>m</italic></sub> is a voltage that indicates
+broadening of the distribution. This function is chosen for convenience,
+to show the dynamical properties of the model. For the realistic thermodynamic
+functions we refer the reader to the literature mentioned above.</p><p>Having set the form of the thermodynamic function, we can illustrate
+the different properties of the model. First, we note that the equilibrium
+current is<disp-formula id="eq22"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m022" position="anchor"/><label>22</label></disp-formula>This is shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a. In the simulations, we use numbers without
+units since the point of the study is to establish the main classes
+of hysteresis. The calculation of the chemical capacitance provides
+the result<disp-formula id="eq23"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m023" position="anchor"/><label>23</label></disp-formula>This is shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b. The shape is a peak that approximates
+the characteristic behavior of capacitance in OCETs.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup></p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Current&#x02013;voltage curve and (b) chemical capacitance.
+Parameters: <italic>L</italic> = 10, <italic>d</italic> = 0.1, <italic>w</italic> = 1, <italic>X</italic><sub>0</sub> = 100, <italic>u</italic><sub>0</sub> = 0, <italic>V</italic><sub><italic>m</italic></sub> = 0.2, <italic>q&#x003bc;</italic><sub><italic>p</italic></sub><italic>u</italic><sub><italic>d</italic></sub> = 1. Panels c&#x02013;f show
+current&#x02013;voltage curves at different voltage sweep rates (<italic>v</italic><sub><italic>r</italic></sub>) and the reference equilibrium
+curve as in panel a. (c) Hysteresis due to series resistance, <italic>R</italic><sub><italic>s</italic></sub> = 1, <italic>C</italic><sub><italic>s</italic></sub> = 1000, <italic>X</italic> = <italic>X</italic><sub><italic>eq</italic></sub>. (d) Hysteresis due to constant capacitance, <italic>R</italic><sub><italic>s</italic></sub> = 0.1, <italic>C</italic><sub><italic>s</italic></sub> = 100, <italic>X</italic> = <italic>X</italic><sub><italic>eq</italic></sub>. (e) Hysteresis due to chemical
+capacitance, <italic>R</italic><sub><italic>s</italic></sub> = 0.1, <italic>C</italic><sub><italic>s</italic></sub> = 1, &#x003c4;<sub><italic>d</italic></sub> &#x02248; 0. (f) Hysteresis due to inductive effect
+of ions, <italic>R</italic><sub><italic>s</italic></sub> = 0.1, <italic>C</italic><sub><italic>s</italic></sub> = 1, &#x003c4;<sub><italic>d</italic></sub> = 100.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_0003" id="gr3" position="float"/></fig><p>We remark that for any form of the <italic>X</italic><sub><italic>eq</italic></sub>(<italic>u</italic><sub><italic>g</italic></sub>), the number of carrier increases with the voltage, due to <xref rid="eq13" ref-type="disp-formula">eq <xref rid="eq13" ref-type="disp-formula">13</xref></xref>, and the equilibrium
+current increases with the voltage, as found also in most literature
+reports such as those of <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>.<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref14">14</xref></sup> However, it has also been reported
+in the literature that the current decreases with the voltage,<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> causing a negative resistance that is important
+for artificial neuron systems.<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> This effect is often
+due to a mobility that depends on the voltage (or the carrier concentration)<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref18">18</xref>,<xref ref-type="bibr" rid="ref29">29</xref>,<xref ref-type="bibr" rid="ref44">44</xref></sup> and will not be further considered here, as we restrict our attention
+to a system with constant hole mobility, &#x003bc;<sub><italic>p</italic></sub>.</p><p>Based on the general equations of the model, we explore
+the different
+causes of hysteresis.</p><p>We first assume that ion charging is fast
+so that <italic>X</italic> &#x02248; <italic>X</italic><sub><italic>eq</italic></sub> and neglect
+the series resistance. Then we have<disp-formula id="eq24"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m024" position="anchor"/><label>24</label></disp-formula>This result shows two terms of purely capacitive
+hysteresis. The current is higher than equilibrium current for the
+forward sweep and lower for the reverse sweep. For the constant capacitance
+the current is shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>d. On the other hand the capacitive current due to charging
+the chemical capacitance is shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e. We observe that the voltammetry records
+the DOS of <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b. This result is amply reported in the literature as commented before.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> In <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e the capacitive current is added to the drift current.
+To measure the chemical capacitance alone, we can simply set <italic>u</italic><sub><italic>d</italic></sub> = 0 to suppress the lateral
+current. It is also important to remark that capacitive current is
+proportional to the scan rate, as is well-known in electrochemistry.<sup><xref ref-type="bibr" rid="ref45">45</xref></sup></p><p>Next we ignore the capacitive effect but
+introduce a considerable
+series resistance. By <xref rid="eq7" ref-type="disp-formula">eqs <xref rid="eq7" ref-type="disp-formula">7</xref></xref> and <xref rid="eq8" ref-type="disp-formula">8</xref> we obtain<disp-formula id="eq25"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m025" position="anchor"/><label>25</label></disp-formula>Here we have defined the time<disp-formula id="eq26"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m026" position="anchor"/><label>26</label></disp-formula><xref rid="eq25" ref-type="disp-formula">Equation <xref rid="eq25" ref-type="disp-formula">25</xref></xref> indicates that the current requires a time &#x003c4;<sub><italic>s</italic></sub> to obtain stationary value <italic>I</italic><sub><italic>eq</italic></sub>. The resulting hysteresis behavior
+is shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c. We remark that hysteresis is inverted with respect to capacitive
+hysteresis, with the forward current being smaller than the reverse
+current.</p><p>Finally we consider the effect of all the terms, including
+ion
+diffusion, so that <italic>X</italic> is a variable now. The current
+equation under constant sweep rate is<disp-formula id="eq27"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m027" position="anchor"/><label>27</label></disp-formula>Here we have introduced the time<disp-formula id="eq28"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m028" position="anchor"/><label>28</label></disp-formula>Clearly &#x003c4;<sub><italic>u</italic></sub> is a transit time of the lateral drift transport of holes along
+the channel distance <italic>L</italic>. The diffusion <xref rid="eq18" ref-type="disp-formula">eq <xref rid="eq18" ref-type="disp-formula">18</xref></xref> becomes<disp-formula id="eq29"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m029" position="anchor"/><label>29</label></disp-formula>This equation has the same form of <xref rid="eq25" ref-type="disp-formula">eq <xref rid="eq25" ref-type="disp-formula">25</xref></xref>, and the hysteresis
+effect shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>f is similar to that in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c. The chemical inductor structure in <xref rid="eq29" ref-type="disp-formula">eq <xref rid="eq29" ref-type="disp-formula">29</xref></xref> has been used to explain the inverted
+hysteresis<sup><xref ref-type="bibr" rid="ref46">46</xref></sup> and time transient responses
+in halide perovskite devices such as solar cells and memristors.<sup><xref ref-type="bibr" rid="ref20">20</xref>,<xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> We remark that the dynamic hysteresis observed in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a is clearly an inverted hysteresis.
+This confirms that hysteresis is due to delay of ion charging as noted
+in the literature.<sup><xref ref-type="bibr" rid="ref15">15</xref></sup></p><p>According to <xref rid="eq27" ref-type="disp-formula">eq <xref rid="eq27" ref-type="disp-formula">27</xref></xref> if the scan rate velocity
+is very small, the inverted hysteresis
+is not onset and the system remains in quasiequilibrium as it is being
+charged. Quantitatively the onset of inductive hysteresis depends
+on the parameters <italic>v</italic><sub><italic>r</italic></sub>,
+&#x003c4;<sub><italic>d</italic></sub>, and <italic>V</italic><sub><italic>m</italic></sub> as described in ref (<xref ref-type="bibr" rid="ref19">19</xref>). To evaluate the relationship, consider the
+following version of <xref rid="eq29" ref-type="disp-formula">eq <xref rid="eq29" ref-type="disp-formula">29</xref></xref>, valid for the tail of the distribution at <italic>u</italic><sub><italic>g</italic></sub> &#x0226b; <italic>u</italic><sub>0</sub>:<disp-formula id="eq30"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m030" position="anchor"/><label>30</label></disp-formula></p><p>The solution is <italic>X</italic>(<italic>u</italic><sub><italic>g</italic></sub>) = <italic>X</italic><sub><italic>eq</italic></sub> + &#x00394;<italic>X</italic> where<disp-formula id="eq31"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m031" position="anchor"/><label>31</label></disp-formula>The dynamical &#x00394;<italic>X</italic> and
+consequently the inductive hysteresis become significant when the
+scan rate velocity is larger than <italic>V</italic><sub><italic>m</italic></sub>/&#x003c4;<sub><italic>d</italic></sub>.</p><p>However, we have
+shown that the series resistance of the electrolyte
+can produce a hysteresis effect similar to that of ion diffusion
+in the film. To distinguish these features, we can use other measurement
+techniques where the effects respond in different fashion. Here we
+discuss briefly the application of impedance spectroscopy for the
+characterization of the dynamic effects of the OECT.</p><p>To obtain
+the impedance response, we calculate the small signal
+expansion of the model <xref rid="eq8" ref-type="disp-formula">eqs <xref rid="eq8" ref-type="disp-formula">8</xref></xref> and <xref rid="eq18" ref-type="disp-formula">18</xref>, and we apply the Laplace transform,
+d/d<italic>t</italic> &#x02192; <italic>s</italic>, where <italic>s</italic> = <italic>i&#x003c9;</italic> in terms of the angular frequency &#x003c9;.
+The result is formed by the system<disp-formula id="eq32"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m032" position="anchor"/><label>32</label></disp-formula><disp-formula id="eq33"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m033" position="anchor"/><label>33</label></disp-formula>Here the circumflex over <italic>&#x00177;</italic> denotes a small perturbation of any quantity <italic>y</italic>.
+The calculation is described in ref (<xref ref-type="bibr" rid="ref42">42</xref>). The impedance function takes the form<disp-formula id="eq34"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m034" position="anchor"/><label>34</label></disp-formula>This last function can be represented as the
+equivalent circuit model of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e, where the circuit elements in <xref rid="eq34" ref-type="disp-formula">eq <xref rid="eq34" ref-type="disp-formula">34</xref></xref> have the expressions<disp-formula id="eq35"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m035" position="anchor"/><label>35</label></disp-formula><disp-formula id="eq36"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m036" position="anchor"/><label>36</label></disp-formula><disp-formula id="eq37"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_m037" position="anchor"/><label>37</label></disp-formula></p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Impedance spectra for different sets of parameters. <italic>R</italic><sub><italic>s</italic></sub> = 0.25, <italic>C</italic><sub><italic>s</italic></sub> = 1, and the cases (a) <italic>R</italic><sub><italic>a</italic></sub> = 5, <italic>L</italic><sub><italic>a</italic></sub> = 0.1, <italic>R</italic><sub><italic>B</italic></sub> = 5, <italic>C</italic><sub>&#x003bc;</sub> = 10; (b) <italic>R</italic><sub><italic>a</italic></sub> = 1, <italic>L</italic><sub><italic>a</italic></sub> = 10, <italic>R</italic><sub><italic>B</italic></sub> = 3, <italic>C</italic><sub>&#x003bc;</sub> = 100; (c) <italic>R</italic><sub><italic>a</italic></sub> = 1, <italic>L</italic><sub><italic>a</italic></sub> = 100, <italic>R</italic><sub><italic>B</italic></sub> = 3, <italic>C</italic><sub>&#x003bc;</sub> = 10; (d) <italic>R</italic><sub><italic>a</italic></sub> = 1, <italic>L</italic><sub><italic>a</italic></sub> = 3, <italic>R</italic><sub><italic>B</italic></sub> = 1, <italic>C</italic><sub>&#x003bc;</sub> = 10. The indicated
+vectors are the
+time constants (<italic>R</italic><sub arrange="stack"><italic>a</italic></sub><sup arrange="stack">&#x02013;1</sup> + <italic>R</italic><sub arrange="stack"><italic>B</italic></sub><sup arrange="stack">&#x02013;1</sup>)<sup>&#x02212;1</sup><italic>C</italic><sub><italic>s</italic></sub>, <italic>R</italic><sub><italic>B</italic></sub><italic>C</italic><sub>&#x003bc;</sub>, <italic>L</italic><sub><italic>a</italic></sub>/<italic>R</italic><sub><italic>a</italic></sub>. (e) Equivalent
+circuit model.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_0004" id="gr4" position="float"/></fig><p>We observe that <italic>R</italic><sub><italic>a</italic></sub> is the reciprocal of the transconductance, containing
+the figure
+of merit <italic>C</italic><sub>&#x003bc;</sub>&#x003bc;<sub><italic>p</italic></sub>.<sup><xref ref-type="bibr" rid="ref2">2</xref></sup><italic>R</italic><sub><italic>a</italic></sub> is associated with fully electronic transport, while <italic>R</italic><sub><italic>B</italic></sub> is a diffusion resistance
+of the ions. The impedance model separates the electronic transport
+branch (<italic>R</italic><sub><italic>a</italic></sub>, <italic>L</italic><sub><italic>a</italic></sub>), which is inductive, and the ionic
+branch (<italic>R</italic><sub><italic>B</italic></sub>, <italic>C</italic><sub>&#x003bc;</sub>) that charges the chemical capacitance. The inductor
+element <italic>L</italic><sub><italic>a</italic></sub> provides the
+coupling of ionic&#x02013;electronic transport, as <xref rid="eq37" ref-type="disp-formula">eq <xref rid="eq37" ref-type="disp-formula">37</xref></xref> contains both the kinetic transport
+constants for both ions (<italic>D</italic><sub><italic>X</italic></sub>) and holes (&#x003bc;<sub><italic>p</italic></sub>). This is
+because the inductor tracks the fact that if you wish to increase
+the lateral current by enhancing the hole density, it is actually
+necessary to pull the ions from the solution.</p><p>The classification
+of impedance spectroscopy spectra enables us
+to determine important parameters for hysteresis and time transient
+response. The effect of the series resistance <italic>R</italic><sub><italic>s</italic></sub> is simply a lateral displacement of the
+spectra as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a. The double arc spectrum of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a is formed by a combination of the resistances
+and capacitors of the model. The rest of the spectra (panels b&#x02013;d)
+show the negative capacitance features (i.e., the spectra move into
+the fourth quadrant)<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref49">49</xref>&#x02212;<xref ref-type="bibr" rid="ref51">51</xref></sup> that are generated
+by the inductor element. Different cases occur according to the ordering
+of the characteristic times:<sup><xref ref-type="bibr" rid="ref42">42</xref>,<xref ref-type="bibr" rid="ref47">47</xref></sup> (b) double curling,
+(c) large chemical inductor,<sup><xref ref-type="bibr" rid="ref52">52</xref></sup> and (d)
+intermediate loop. These inductive patterns have been recently reported
+in impedance measurement of organic transistors.<sup><xref ref-type="bibr" rid="ref53">53</xref>,<xref ref-type="bibr" rid="ref54">54</xref></sup> We suggest that the inductive effects play a dominant role in the
+OECT and need to be systematically investigated by a combination of
+time domain and frequency techniques.</p><p>The impedance spectroscopy
+is a small perturbation measurement
+around a steady state, while the current measurement under cycling
+of the voltage produces a large voltage excursion. Despite the significant
+differences, the separation of the fundamental processes into equivalent
+circuit elements provides significant insight about hysteresis characteristics.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup> In total, we note four relaxation phenomena
+that can be observed in the hysteresis equations (<xref rid="eq27" ref-type="disp-formula">eqs <xref rid="eq27" ref-type="disp-formula">27</xref></xref> and <xref rid="eq29" ref-type="disp-formula">29</xref>)
+and correspondingly in the equivalent circuit of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e:<list id="list1" list-type="simple"><list-item><label>(a)</label><p>(<italic>R</italic><sub><italic>s</italic></sub>, <italic>C</italic><sub><italic>s</italic></sub>) produces
+the time constant &#x003c4;<sub><italic>s</italic></sub>.</p></list-item><list-item><label>(b)</label><p>The branch (<italic>R</italic><sub><italic>B</italic></sub>, <italic>C</italic><sub>&#x003bc;</sub>) has
+the time &#x003c4;<sub><italic>d</italic></sub> of vertical diffusion
+(<xref rid="eq19" ref-type="disp-formula">eq <xref rid="eq19" ref-type="disp-formula">19</xref></xref>).</p></list-item><list-item><label>(c)</label><p>The inductive branch (<italic>R</italic><sub><italic>a</italic></sub>, <italic>L</italic><sub><italic>a</italic></sub>) has the same diffusion time &#x003c4;<sub><italic>d</italic></sub>.<sup><xref ref-type="bibr" rid="ref42">42</xref></sup></p></list-item><list-item><label>(d)</label><p>Additionally we observe that the cross
+coupling (<italic>R</italic><sub><italic>a</italic></sub>, <italic>C</italic><sub>&#x003bc;</sub>) gives the transit time &#x003c4;<sub><italic>u</italic></sub> of lateral transport (<xref rid="eq28" ref-type="disp-formula">eq <xref rid="eq28" ref-type="disp-formula">28</xref></xref>).</p></list-item></list></p><p>These characteristic relaxation times can also explain
+different
+features of transient phenomena in response to voltage steps,<sup><xref ref-type="bibr" rid="ref47">47</xref>,<xref ref-type="bibr" rid="ref48">48</xref></sup> but this analysis is left for a future work. The equivalent circuit
+of <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>e is inherent
+to the operation of the OECT, so that it forms a &#x0201c;minimal model&#x0201d;
+that can be complemented with additional effects as mentioned in the
+introduction. For example, in the case that Warburg impedances are
+observed, the impedance model has to be extended including spatial
+diffusion by solving <xref rid="eq16" ref-type="disp-formula">eq <xref rid="eq16" ref-type="disp-formula">16</xref></xref>.<sup><xref ref-type="bibr" rid="ref55">55</xref>,<xref ref-type="bibr" rid="ref56">56</xref></sup></p><p>In summary, the hysteresis and more
+generally the time transient
+and impedance characteristics of the OECT have been described based
+on a simple model that takes into account several effects: the transversal
+electronic and vertical ionic currents, leading to charging of the
+film and ion diffusion; the electrolyte resistance and surface capacitance
+of the film; and the disorder effects that produce a specific form
+of the chemical capacitance. By combining these factors, we can classify
+different types of hysteresis, either capacitive or inductive, associated
+with the chemical inductor effect of ion diffusion in the organic
+film. Inductive hysteresis produces clockwise loops and capacitive
+hysteresis creates counterclockwise loops in the transfer current.
+The corresponding impedance spectra provide a valuable tool for the
+classification of the dominant relaxation phenomena that create the
+dynamical hysteresis effects.</p></body><back><notes id="NOTES-d14e2647-autogenerated" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is available
+free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03062?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03062</ext-link>.<list id="silist" list-type="simple"><list-item><p>Transparent Peer Review report available (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.3c03062/suppl_file/jz3c03062_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz3c03062_si_001.pdf"><caption><p>jz3c03062_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="COI-statement" id="NOTES-d14e2660-autogenerated"><p>The
+author declares no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work is funded by the European Research Council
+(ERC) via Advanced Grant 101097688 (PeroSpiker).</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Rivnay</surname><given-names>J.</given-names></name>; <name><surname>Inal</surname><given-names>S.</given-names></name>; <name><surname>Salleo</surname><given-names>A.</given-names></name>; <name><surname>Owens</surname><given-names>R. M.</given-names></name>; <name><surname>Berggren</surname><given-names>M.</given-names></name>; <name><surname>Malliaras</surname><given-names>G. G.</given-names></name>
+<article-title>Organic electrochemical transistors</article-title>. <source>Nat. Rev. Mater.</source>
+<year>2018</year>, <volume>3</volume>, <fpage>17086</fpage><pub-id pub-id-type="doi">10.1038/natrevmats.2017.86</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Inal</surname><given-names>S.</given-names></name>; <name><surname>Malliaras</surname><given-names>G. G.</given-names></name>; <name><surname>Rivnay</surname><given-names>J.</given-names></name>
+<article-title>Benchmarking organic mixed conductors
+for transistors</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>1767</fpage><pub-id pub-id-type="doi">10.1038/s41467-017-01812-w</pub-id>.<pub-id pub-id-type="pmid">29176599</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Gkoupidenis</surname><given-names>P.</given-names></name>; <name><surname>Schaefer</surname><given-names>N.</given-names></name>; <name><surname>Garlan</surname><given-names>B.</given-names></name>; <name><surname>Malliaras</surname><given-names>G. G.</given-names></name>
+<article-title>Neuromorphic
+functions in PEDOT:PSS organic electrochemical transistors</article-title>. <source>Adv. Mater.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>7176</fpage>&#x02013;<lpage>7180</lpage>. <pub-id pub-id-type="doi">10.1002/adma.201503674</pub-id>.<pub-id pub-id-type="pmid">26456708</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Ling</surname><given-names>H.</given-names></name>; <name><surname>Koutsouras</surname><given-names>D. A.</given-names></name>; <name><surname>Kazemzadeh</surname><given-names>S.</given-names></name>; <name><surname>van de Burgt</surname><given-names>Y.</given-names></name>; <name><surname>Yan</surname><given-names>F.</given-names></name>; <name><surname>Gkoupidenis</surname><given-names>P.</given-names></name>
+<article-title>Electrolyte-gated transistors for synaptic electronics,
+neuromorphic computing, and adaptable biointerfacing</article-title>. <source>Appl. Phys. Rev.</source>
+<year>2020</year>, <volume>7</volume>, <fpage>011307</fpage><pub-id pub-id-type="doi">10.1063/1.5122249</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Harikesh</surname><given-names>P.
+C.</given-names></name>; <name><surname>Yang</surname><given-names>C.-Y.</given-names></name>; <name><surname>Wu</surname><given-names>H.-Y.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Donahue</surname><given-names>M. J.</given-names></name>; <name><surname>Caravaca</surname><given-names>A. S.</given-names></name>; <name><surname>Huang</surname><given-names>J.-D.</given-names></name>; <name><surname>Olofsson</surname><given-names>P. S.</given-names></name>; <name><surname>Berggren</surname><given-names>M.</given-names></name>; <name><surname>Tu</surname><given-names>D.</given-names></name>; <name><surname>Fabiano</surname><given-names>S.</given-names></name>
+<article-title>Ion-tunable antiambipolarity in mixed ion&#x02013;electron
+conducting polymers enables biorealistic organic electrochemical neurons</article-title>. <source>Nat. Mater.</source>
+<year>2023</year>, <volume>22</volume>, <fpage>242</fpage><pub-id pub-id-type="doi">10.1038/s41563-022-01450-8</pub-id>.<pub-id pub-id-type="pmid">36635590</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Harikesh</surname><given-names>P. C.</given-names></name>; <name><surname>Yang</surname><given-names>C.-Y.</given-names></name>; <name><surname>Tu</surname><given-names>D.</given-names></name>; <name><surname>Gerasimov</surname><given-names>J. Y.</given-names></name>; <name><surname>Dar</surname><given-names>A. M.</given-names></name>; <name><surname>Armada-Moreira</surname><given-names>A.</given-names></name>; <name><surname>Massetti</surname><given-names>M.</given-names></name>; <name><surname>Kroon</surname><given-names>R.</given-names></name>; <name><surname>Bliman</surname><given-names>D.</given-names></name>; <name><surname>Olsson</surname><given-names>R.</given-names></name>; <name><surname>Stavrinidou</surname><given-names>E.</given-names></name>; <name><surname>Berggren</surname><given-names>M.</given-names></name>; <name><surname>Fabiano</surname><given-names>S.</given-names></name>
+<article-title>Organic electrochemical
+neurons and
+synapses with ion mediated spiking</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>901</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-28483-6</pub-id>.<pub-id pub-id-type="pmid">35194026</pub-id>
+</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Rashid</surname><given-names>R. B.</given-names></name>; <name><surname>Ji</surname><given-names>X.</given-names></name>; <name><surname>Rivnay</surname><given-names>J.</given-names></name>
+<article-title>Organic electrochemical
+transistors in bioelectronic
+circuits</article-title>. <source>Biosens. Bioelectron.</source>
+<year>2021</year>, <volume>190</volume>, <fpage>113461</fpage><pub-id pub-id-type="doi">10.1016/j.bios.2021.113461</pub-id>.<pub-id pub-id-type="pmid">34197997</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Lanzani</surname><given-names>G.</given-names></name>
+<article-title>Organic electronics
+meets biology</article-title>. <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>775</fpage>&#x02013;<lpage>776</lpage>. <pub-id pub-id-type="doi">10.1038/nmat4021</pub-id>.<pub-id pub-id-type="pmid">24952749</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Bonaf&#x000e8;</surname><given-names>F.</given-names></name>; <name><surname>Decataldo</surname><given-names>F.</given-names></name>; <name><surname>Zironi</surname><given-names>I.</given-names></name>; <name><surname>Remondini</surname><given-names>D.</given-names></name>; <name><surname>Cramer</surname><given-names>T.</given-names></name>; <name><surname>Fraboni</surname><given-names>B.</given-names></name>
+<article-title>AC amplification
+gain in organic
+electrochemical transistors for impedance-based single cell sensors</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>5423</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-33094-2</pub-id>.<pub-id pub-id-type="pmid">36109508</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Paulsen</surname><given-names>B. D.</given-names></name>; <name><surname>Tybrandt</surname><given-names>K.</given-names></name>; <name><surname>Stavrinidou</surname><given-names>E.</given-names></name>; <name><surname>Rivnay</surname><given-names>J.</given-names></name>
+<article-title>Organic mixed ionic&#x02013;electronic
+conductors</article-title>. <source>Nat. Mater.</source>
+<year>2020</year>, <volume>19</volume>, <fpage>13</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1038/s41563-019-0435-z</pub-id>.<pub-id pub-id-type="pmid">31427743</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Ohayon</surname><given-names>D.</given-names></name>; <name><surname>Druet</surname><given-names>V.</given-names></name>; <name><surname>Inal</surname><given-names>S.</given-names></name>
+<article-title>A guide for
+the characterization
+of organic electrochemical transistors and channel materials</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2023</year>, <volume>52</volume>, <fpage>1001</fpage>&#x02013;<lpage>1023</lpage>. <pub-id pub-id-type="doi">10.1039/D2CS00920J</pub-id>.<pub-id pub-id-type="pmid">36637165</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Shameem</surname><given-names>R.</given-names></name>; <name><surname>Bongartz</surname><given-names>L. M.</given-names></name>; <name><surname>Weissbach</surname><given-names>A.</given-names></name>; <name><surname>Kleemann</surname><given-names>H.</given-names></name>; <name><surname>Leo</surname><given-names>K.</given-names></name>
+<article-title>Hysteresis
+in Organic Electrochemical Transistors: Relation to the electrochemical
+properties of the semiconductor</article-title>. <source>Applied Sciences</source>
+<year>2023</year>, <volume>13</volume>, <fpage>5754</fpage><pub-id pub-id-type="doi">10.3390/app13095754</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Weissbach</surname><given-names>A.</given-names></name>; <name><surname>Bongartz</surname><given-names>L. M.</given-names></name>; <name><surname>Cucchi</surname><given-names>M.</given-names></name>; <name><surname>Tseng</surname><given-names>H.</given-names></name>; <name><surname>Leo</surname><given-names>K.</given-names></name>; <name><surname>Kleemann</surname><given-names>H.</given-names></name>
+<article-title>Photopatternable solid
+electrolyte for integrable organic
+electrochemical transistors: operation and hysteresis</article-title>. <source>J. Mater. Chem. C</source>
+<year>2022</year>, <volume>10</volume>, <fpage>2656</fpage>&#x02013;<lpage>2662</lpage>. <pub-id pub-id-type="doi">10.1039/D1TC04230K</pub-id>.</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Koch</surname><given-names>M.</given-names></name>; <name><surname>Tseng</surname><given-names>H.</given-names></name>; <name><surname>Weissbach</surname><given-names>A.</given-names></name>; <name><surname>Iniguez</surname><given-names>B.</given-names></name>; <name><surname>Leo</surname><given-names>K.</given-names></name>; <name><surname>Kloes</surname><given-names>A.</given-names></name>; <name><surname>Kleemann</surname><given-names>H.</given-names></name>; <name><surname>Darbandy</surname><given-names>G.</given-names></name>
+<article-title>Device Physics, Modeling
+and simulation of organic electrochemical transistors</article-title>. <source>IEEE Journal of the Electron Devices Society</source>
+<year>2023</year>, <fpage>1</fpage><pub-id pub-id-type="doi">10.1109/JEDS.2023.3263278</pub-id>.</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kaphle</surname><given-names>V.</given-names></name>; <name><surname>Liu</surname><given-names>S.</given-names></name>; <name><surname>Keum</surname><given-names>C.-M.</given-names></name>; <name><surname>L&#x000fc;ssem</surname><given-names>B.</given-names></name>
+<article-title>Organic Electrochemical
+transistors
+based on room temperature ionic liquids: Performance and stability</article-title>. <source>Physica Status Solidi (a)</source>
+<year>2018</year>, <volume>215</volume>, <fpage>1800631</fpage><pub-id pub-id-type="doi">10.1002/pssa.201800631</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Bernards</surname><given-names>D. A.</given-names></name>; <name><surname>Malliaras</surname><given-names>G. G.</given-names></name>
+<article-title>Steady-state and transient behavior of organic electrochemical
+transistors</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2007</year>, <volume>17</volume>, <fpage>3538</fpage>&#x02013;<lpage>3544</lpage>. <pub-id pub-id-type="doi">10.1002/adfm.200601239</pub-id>.</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Gracia</surname><given-names>L.</given-names></name>; <name><surname>Garc&#x000ed;a-Ca&#x000f1;adas</surname><given-names>J.</given-names></name>; <name><surname>Garcia-Belmonte</surname><given-names>G.</given-names></name>; <name><surname>Beltr&#x000e1;n</surname><given-names>A.</given-names></name>; <name><surname>Andr&#x000e9;s</surname><given-names>J.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Composition dependence
+of the energy barrier for lithium diffusion in WO3</article-title>. <source>Electrochemistry and Solid State Letters</source>
+<year>2005</year>, <volume>8</volume>, <fpage>J21</fpage><pub-id pub-id-type="doi">10.1149/1.2008868</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Physical electrochemistry
+of nanostructured devices</article-title>. <source>Phys. Chem. Chem.
+Phys.</source>
+<year>2008</year>, <volume>10</volume>, <fpage>49</fpage>&#x02013;<lpage>72</lpage>. <pub-id pub-id-type="doi">10.1039/B709316K</pub-id>.<pub-id pub-id-type="pmid">18075682</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Guerrero</surname><given-names>A.</given-names></name>; <name><surname>Gonzales</surname><given-names>C.</given-names></name>
+<article-title>Theory of
+hysteresis in halide perovskites
+by integration of the equivalent circuit</article-title>. <source>ACS
+Phys. Chem. Au</source>
+<year>2021</year>, <volume>1</volume>, <fpage>25</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1021/acsphyschemau.1c00009</pub-id>.<pub-id pub-id-type="pmid">36855663</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Gonzales</surname><given-names>C.</given-names></name>; <name><surname>Guerrero</surname><given-names>A.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Transition from capacitive to inductive
+hysteresis: A neuron-style model to correlate I-V curves to impedances
+of metal halide perovskites</article-title>. <source>J. Phys. Chem.
+C</source>
+<year>2022</year>, <volume>126</volume>, <fpage>13560</fpage>&#x02013;<lpage>13578</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpcc.2c02729</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Munoz-Diaz</surname><given-names>L.</given-names></name>; <name><surname>Rosa</surname><given-names>A. J.</given-names></name>; <name><surname>Bou</surname><given-names>A.</given-names></name>; <name><surname>Sanchez</surname><given-names>R. S.</given-names></name>; <name><surname>Romero</surname><given-names>B.</given-names></name>; <name><surname>John</surname><given-names>R. A.</given-names></name>; <name><surname>Kovalenko</surname><given-names>M. V.</given-names></name>; <name><surname>Guerrero</surname><given-names>A.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Inductive
+and capacitive hysteresis of halide perovskite solar cells and memristors
+Under Illumination</article-title>. <source>Frontiers in Energy Research</source>
+<year>2022</year>, <volume>10</volume>, <fpage>914115</fpage><pub-id pub-id-type="doi">10.3389/fenrg.2022.914115</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Current-controlled
+memristors: resistive switching systems with negative capacitance
+and inverted hysteresis</article-title>. <source>Phys. Rev. Appl.</source>
+<year>2023</year>, <fpage>044022</fpage><pub-id pub-id-type="doi">10.1103/PhysRevApplied.20.044022</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Friedlein</surname><given-names>J. T.</given-names></name>; <name><surname>Shaheen</surname><given-names>S. E.</given-names></name>; <name><surname>Malliaras</surname><given-names>G. G.</given-names></name>; <name><surname>McLeod</surname><given-names>R. R.</given-names></name>
+<article-title>Optical measurements
+revealing nonuniform hole mobility in organic electrochemical transistors</article-title>. <source>Adv. Electron. Mater.</source>
+<year>2015</year>, <volume>1</volume>, <fpage>1500189</fpage><pub-id pub-id-type="doi">10.1002/aelm.201500189</pub-id>.</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Faria</surname><given-names>G. C.</given-names></name>; <name><surname>Duong</surname><given-names>D. T.</given-names></name>; <name><surname>Salleo</surname><given-names>A.</given-names></name>
+<article-title>On the transient response of organic
+electrochemical transistors</article-title>. <source>Org. Electron.</source>
+<year>2017</year>, <volume>45</volume>, <fpage>215</fpage>&#x02013;<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1016/j.orgel.2017.03.021</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Paudel</surname><given-names>P. R.</given-names></name>; <name><surname>Kaphle</surname><given-names>V.</given-names></name>; <name><surname>Dahal</surname><given-names>D.</given-names></name>; <name><surname>Radha Krishnan</surname><given-names>R. K.</given-names></name>; <name><surname>L&#x000fc;ssem</surname><given-names>B.</given-names></name>
+<article-title>Tuning the transconductance of organic
+electrochemical
+transistors</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2021</year>, <volume>31</volume>, <fpage>2004939</fpage><pub-id pub-id-type="doi">10.1002/adfm.202004939</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Kaphle</surname><given-names>V.</given-names></name>; <name><surname>Paudel</surname><given-names>P. R.</given-names></name>; <name><surname>Dahal</surname><given-names>D.</given-names></name>; <name><surname>Radha Krishnan</surname><given-names>R. K.</given-names></name>; <name><surname>L&#x000fc;ssem</surname><given-names>B.</given-names></name>
+<article-title>Finding the equilibrium of organic
+electrochemical
+transistors</article-title>. <source>Nat. Commun.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>2515</fpage><pub-id pub-id-type="doi">10.1038/s41467-020-16252-2</pub-id>.<pub-id pub-id-type="pmid">32433542</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Levi</surname><given-names>M. D.</given-names></name>; <name><surname>Salitra</surname><given-names>G.</given-names></name>; <name><surname>Markovsky</surname><given-names>B.</given-names></name>; <name><surname>Teller</surname><given-names>H.</given-names></name>; <name><surname>Aurbach</surname><given-names>D.</given-names></name>; et al. <article-title>Solid-sate electrochemical
+kinetics of Li-ion intercalation into
+Li<sub>1-x</sub>CoO<sub>2</sub>: simultaneous application of
+electroanalytical techniques SSCV,PITT, and EIS</article-title>. <source>J. Electrochem. Soc.</source>
+<year>1999</year>, <volume>146</volume>, <fpage>1279</fpage>&#x02013;<lpage>1289</lpage>. <pub-id pub-id-type="doi">10.1149/1.1391759</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Garcia-Belmonte</surname><given-names>G.</given-names></name>; <name><surname>Garc&#x000ed;a-Ca&#x000f1;adas</surname><given-names>J.</given-names></name>
+<article-title>Effects of
+the Gaussian energy dispersion on the statistics of polarons and bipolarons
+in conducting polymers</article-title>. <source>J. Chem. Phys.</source>
+<year>2004</year>, <volume>120</volume>, <fpage>6726</fpage><pub-id pub-id-type="doi">10.1063/1.1665781</pub-id>.<pub-id pub-id-type="pmid">15267566</pub-id>
+</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Pomerantz</surname><given-names>Z.</given-names></name>; <name><surname>Zaban</surname><given-names>A.</given-names></name>; <name><surname>Ghosh</surname><given-names>S.</given-names></name>; <name><surname>Lellouche</surname><given-names>J.-P.</given-names></name>; <name><surname>Garcia-Belmonte</surname><given-names>G.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Capacitance, spectroelectrochemistry
+and conductivity of polarons and bipolarons in a polydicarbazole based
+conducting polymer</article-title>. <source>J. Electroanal. Chem.</source>
+<year>2008</year>, <volume>614</volume>, <fpage>49</fpage>&#x02013;<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1016/j.jelechem.2007.11.005</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Cucchi</surname><given-names>M.</given-names></name>; <name><surname>Weissbach</surname><given-names>A.</given-names></name>; <name><surname>Bongartz</surname><given-names>L. M.</given-names></name>; <name><surname>Kantelberg</surname><given-names>R.</given-names></name>; <name><surname>Tseng</surname><given-names>H.</given-names></name>; <name><surname>Kleemann</surname><given-names>H.</given-names></name>; <name><surname>Leo</surname><given-names>K.</given-names></name>
+<article-title>Thermodynamics of organic
+electrochemical transistors</article-title>. <source>Nat. Commun.</source>
+<year>2022</year>, <volume>13</volume>, <fpage>4514</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-32182-7</pub-id>.<pub-id pub-id-type="pmid">35922437</pub-id>
+</mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Hulea</surname><given-names>I. N.</given-names></name>; <name><surname>Brom</surname><given-names>H. B.</given-names></name>; <name><surname>Houtepen</surname><given-names>A. J.</given-names></name>; <name><surname>Vanmaekelbergh</surname><given-names>D.</given-names></name>; <name><surname>Kelly</surname><given-names>J. J.</given-names></name>; <name><surname>Meulenkamp</surname><given-names>E. A.</given-names></name>
+<article-title>Wide energy-window
+view on the density
+of states and hole mobility in poly(p-phenylene vinylene)</article-title>. <source>Phys. Rev. Lett.</source>
+<year>2004</year>, <volume>93</volume>, <fpage>166601</fpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.93.166601</pub-id>.<pub-id pub-id-type="pmid">15525017</pub-id>
+</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Levi</surname><given-names>M. D.</given-names></name>; <name><surname>Aurbach</surname><given-names>D.</given-names></name>
+<article-title>Frumkin intercalation isotherm - a tool for the elucidation
+of Li ion solid state diffusion into host materials and charge transfer
+kinetics. A review</article-title>. <source>Electrochim. Acta</source>
+<year>1999</year>, <volume>45</volume>, <fpage>167</fpage>&#x02013;<lpage>185</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(99)00202-9</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Vikhrenko</surname><given-names>V. S.</given-names></name>
+<article-title>Analysis
+of the kinetics of ion intercalation. Two
+state model describing the coupling of solid state ion diffusion and
+ion binding processes</article-title>. <source>Electrochim. Acta</source>
+<year>2002</year>, <volume>47</volume>, <fpage>3977</fpage>&#x02013;<lpage>3988</lpage>. <pub-id pub-id-type="doi">10.1016/S0013-4686(02)00372-9</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Str&#x000f8;mme
+Mattsson</surname><given-names>M.</given-names></name>
+<article-title>Cation intercalation in sputter-deposited W oxide films</article-title>. <source>Phys. Rev. B</source>
+<year>1998</year>, <volume>58</volume>, <fpage>11015</fpage>&#x02013;<lpage>11022</lpage>. <pub-id pub-id-type="doi">10.1103/PhysRevB.58.11015</pub-id>.</mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Vanmaekelbergh</surname><given-names>D.</given-names></name>; <name><surname>Houtepen</surname><given-names>A. J.</given-names></name>; <name><surname>Kelly</surname><given-names>J. J.</given-names></name>
+<article-title>Electrochemical
+gating: A method
+to tune and monitor the (opto)electronic properties of functional
+materials</article-title>. <source>Electrochim. Acta</source>
+<year>2007</year>, <volume>53</volume>, <fpage>1140</fpage>&#x02013;<lpage>1149</lpage>. <pub-id pub-id-type="doi">10.1016/j.electacta.2007.02.045</pub-id>.</mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="book" id="cit36"><person-group person-group-type="allauthors"><name><surname>Bisquert</surname><given-names>J.</given-names></name></person-group><source>The Physics of Solar
+Energy Conversion</source>; <publisher-name>CRC Press</publisher-name>: <publisher-loc>Boca Raton, FL</publisher-loc>, <year>2020</year>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Garc&#x000ed;a-Ca&#x000f1;adas</surname><given-names>J.</given-names></name>; <name><surname>Fabregat-Santiago</surname><given-names>F.</given-names></name>; <name><surname>Bolink</surname><given-names>H.</given-names></name>; <name><surname>Palomares</surname><given-names>E.</given-names></name>; <name><surname>Garcia-Belmonte</surname><given-names>G.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Determination of electron and hole
+energy levels in mesoporous nanocrystalline TiO<sub>2</sub> solid-state
+dye solar cell</article-title>. <source>Synthetic Metalls</source>
+<year>2006</year>, <volume>156</volume>, <fpage>944</fpage><pub-id pub-id-type="doi">10.1016/j.synthmet.2006.06.006</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Paulsen</surname><given-names>B. D.</given-names></name>; <name><surname>Frisbie</surname><given-names>C. D.</given-names></name>
+<article-title>Dependence of conductivity
+on charge density and electrochemical
+potential in polymer semiconductors gated with ionic liquids</article-title>. <source>J. Phys. Chem. C</source>
+<year>2012</year>, <volume>116</volume>, <fpage>3132</fpage>&#x02013;<lpage>3141</lpage>. <pub-id pub-id-type="doi">10.1021/jp2093934</pub-id>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Kirkpatrick</surname><given-names>J.</given-names></name>; <name><surname>Nelson</surname><given-names>J.</given-names></name>
+<article-title>Theoretical study of the transfer integral and density
+of states in spiro-linked triphenylamine derivatives</article-title>. <source>J. Chem. Phys.</source>
+<year>2005</year>, <volume>123</volume>, <fpage>084703</fpage><pub-id pub-id-type="doi">10.1063/1.1993560</pub-id>.<pub-id pub-id-type="pmid">16164317</pub-id>
+</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Vikhrenko</surname><given-names>V. S.</given-names></name>
+<article-title>Interpretation
+of the time constants measured by kinetic
+techniques in nanostructured semiconductor electrodes and dye-sensitized
+solar cells</article-title>. <source>J. Phys. Chem. B</source>
+<year>2004</year>, <volume>108</volume>, <fpage>2313</fpage>&#x02013;<lpage>2322</lpage>. <pub-id pub-id-type="doi">10.1021/jp035395y</pub-id>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Guerrero</surname><given-names>A.</given-names></name>
+<article-title>chemical inductor</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2022</year>, <volume>144</volume>, <fpage>5996</fpage>&#x02013;<lpage>6009</lpage>. <pub-id pub-id-type="doi">10.1021/jacs.2c00777</pub-id>.<pub-id pub-id-type="pmid">35316040</pub-id>
+</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Electrical
+charge coupling dominates the hysteresis effect of halide perovskite
+devices</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2023</year>, <volume>14</volume>, <fpage>1014</fpage>&#x02013;<lpage>1021</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.2c03812</pub-id>.<pub-id pub-id-type="pmid">36693135</pub-id>
+</mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Device physics
+recipe to make spiking neurons</article-title>. <source>Chemical Physics
+Reviews</source>
+<year>2023</year>, <volume>4</volume>, <fpage>031313</fpage><pub-id pub-id-type="doi">10.1063/5.0145391</pub-id>.</mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Interpretation
+of electron diffusion coefficient in organic and inorganic semiconductors
+with broad distributions of states</article-title>. <source>Phys. Chem.
+Chem. Phys.</source>
+<year>2008</year>, <volume>10</volume>, <fpage>3175</fpage>&#x02013;<lpage>3194</lpage>. <pub-id pub-id-type="doi">10.1039/b719943k</pub-id>.<pub-id pub-id-type="pmid">18500394</pub-id>
+</mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Nikiforidis</surname><given-names>G.</given-names></name>; <name><surname>Wustoni</surname><given-names>S.</given-names></name>; <name><surname>Ohayon</surname><given-names>D.</given-names></name>; <name><surname>Druet</surname><given-names>V.</given-names></name>; <name><surname>Inal</surname><given-names>S.</given-names></name>
+<article-title>A self-standing
+organic supercapacitor to power bioelectronic devices</article-title>. <source>ACS Appl. Ener. Mater.</source>
+<year>2020</year>, <volume>3</volume>, <fpage>7896</fpage>&#x02013;<lpage>7907</lpage>. <pub-id pub-id-type="doi">10.1021/acsaem.0c01299</pub-id>.</mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Tress</surname><given-names>W.</given-names></name>; <name><surname>Correa Baena</surname><given-names>J. P.</given-names></name>; <name><surname>Saliba</surname><given-names>M.</given-names></name>; <name><surname>Abate</surname><given-names>A.</given-names></name>; <name><surname>Graetzel</surname><given-names>M.</given-names></name>
+<article-title>Inverted current&#x02013;voltage
+hysteresis in mixed perovskite solar cells: polarization, energy barriers,
+and defect recombination</article-title>. <source>Adv. Energy Mater.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>1600396</fpage><pub-id pub-id-type="doi">10.1002/aenm.201600396</pub-id>.</mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Hernandez-Balaguera</surname><given-names>E.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Time transients with
+inductive loop traces in metal
+halide perovskites</article-title>. <source>Adv. Funct. Mater.</source>
+<year>2023</year>, <fpage>2308678</fpage><pub-id pub-id-type="doi">10.1002/adfm.202308678</pub-id>.</mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Bou</surname><given-names>A.</given-names></name>; <name><surname>Guerrero</surname><given-names>A.</given-names></name>; <name><surname>Hern&#x000e1;ndez-Balaguera</surname><given-names>E.</given-names></name>
+<article-title>Resistance transient
+dynamics in switchable perovskite memristors</article-title>. <source>APL Machine Learning</source>
+<year>2023</year>, <volume>1</volume>, <fpage>036101</fpage><pub-id pub-id-type="doi">10.1063/5.0153289</pub-id>.</mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Ehrenfreund</surname><given-names>E.</given-names></name>; <name><surname>Lungenschmied</surname><given-names>C.</given-names></name>; <name><surname>Dennler</surname><given-names>G.</given-names></name>; <name><surname>Neugebauer</surname><given-names>H.</given-names></name>; <name><surname>Sariciftci</surname><given-names>N. S.</given-names></name>
+<article-title>Negative
+capacitance in organic semiconductor devices:
+Bipolar injection and charge recombination mechanism</article-title>. <source>Appl. Phys. Lett.</source>
+<year>2007</year>, <volume>91</volume>, <fpage>012112</fpage><pub-id pub-id-type="doi">10.1063/1.2752024</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Mora-Ser&#x000f3;</surname><given-names>I.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Fabregat-Santiago</surname><given-names>F.</given-names></name>; <name><surname>Garcia-Belmonte</surname><given-names>G.</given-names></name>; <name><surname>Zoppi</surname><given-names>G.</given-names></name>; <name><surname>Durose</surname><given-names>K.</given-names></name>; <name><surname>Proskuryakov</surname><given-names>Y. Y.</given-names></name>; <name><surname>Oja</surname><given-names>I.</given-names></name>; <name><surname>Belaidi</surname><given-names>A.</given-names></name>; <name><surname>Dittrich</surname><given-names>T.</given-names></name>; <name><surname>Tena-Zaera</surname><given-names>R.</given-names></name>; <name><surname>Katty</surname><given-names>A.</given-names></name>; <name><surname>L&#x000e9;vy-Clement</surname><given-names>C.</given-names></name>; <name><surname>Barrioz</surname><given-names>V.</given-names></name>; <name><surname>Irvine</surname><given-names>S. J. C.</given-names></name>
+<article-title>Implications
+of the negative capacitance observed at forward bias in nanocomposite
+and polycrystalline solar cells</article-title>. <source>Nano Lett.</source>
+<year>2006</year>, <volume>6</volume>, <fpage>640</fpage>&#x02013;<lpage>650</lpage>. <pub-id pub-id-type="doi">10.1021/nl052295q</pub-id>.<pub-id pub-id-type="pmid">16608258</pub-id>
+</mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Alvarez</surname><given-names>A. O.</given-names></name>; <name><surname>Arcas</surname><given-names>R.</given-names></name>; <name><surname>Aranda</surname><given-names>C. A.</given-names></name>; <name><surname>Bethencourt</surname><given-names>L.</given-names></name>; <name><surname>Mas-Marz&#x000e1;</surname><given-names>E.</given-names></name>; <name><surname>Saliba</surname><given-names>M.</given-names></name>; <name><surname>Fabregat-Santiago</surname><given-names>F.</given-names></name>
+<article-title>Negative capacitance
+and inverted hysteresis: matching features in perovskite solar cells</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2020</year>, <volume>11</volume>, <fpage>8417</fpage>&#x02013;<lpage>8423</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jpclett.0c02331</pub-id>.<pub-id pub-id-type="pmid">32903005</pub-id>
+</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Berruet</surname><given-names>M.</given-names></name>; <name><surname>P&#x000e9;rez-Mart&#x000ed;nez</surname><given-names>J. C.</given-names></name>; <name><surname>Romero</surname><given-names>B.</given-names></name>; <name><surname>Gonzales</surname><given-names>C.</given-names></name>; <name><surname>Al-Mayouf</surname><given-names>A. M.</given-names></name>; <name><surname>Guerrero</surname><given-names>A.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Physical model for
+the current-voltage hysteresis and impedance of halide perovskite
+memristors</article-title>. <source>ACS Energy Lett.</source>
+<year>2022</year>, <volume>7</volume>, <fpage>1214</fpage>&#x02013;<lpage>1222</lpage>. <pub-id pub-id-type="doi">10.1021/acsenergylett.2c00121</pub-id>.</mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Pecqueur</surname><given-names>S.</given-names></name>; <name><surname>Lon&#x0010d;ari&#x00107;</surname><given-names>I.</given-names></name>; <name><surname>Zlati&#x00107;</surname><given-names>V.</given-names></name>; <name><surname>Vuillaume</surname><given-names>D.</given-names></name>; <name><surname>Crljen</surname><given-names>&#x0017d;.</given-names></name>
+<article-title>The non-ideal
+organic electrochemical
+transistors impedance</article-title>. <source>Org. Electron.</source>
+<year>2019</year>, <volume>71</volume>, <fpage>14</fpage>&#x02013;<lpage>23</lpage>. <pub-id pub-id-type="doi">10.1016/j.orgel.2019.05.001</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Bausells</surname><given-names>J.</given-names></name>; <name><surname>Ben Halima</surname><given-names>H.</given-names></name>; <name><surname>Bellagambi</surname><given-names>F. G.</given-names></name>; <name><surname>Alcacer</surname><given-names>A.</given-names></name>; <name><surname>Pfeiffer</surname><given-names>N.</given-names></name>; <name><surname>Hangou&#x000eb;t</surname><given-names>M.</given-names></name>; <name><surname>Zine</surname><given-names>N.</given-names></name>; <name><surname>Errachid</surname><given-names>A.</given-names></name>
+<article-title>On the impedance spectroscopy
+of field-effect biosensors</article-title>. <source>Electrochemical
+Science Advances</source>
+<year>2022</year>, <volume>2</volume>, <elocation-id>e2100138</elocation-id><pub-id pub-id-type="doi">10.1002/elsa.202100138</pub-id>.</mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Janssen</surname><given-names>M.</given-names></name>; <name><surname>Bisquert</surname><given-names>J.</given-names></name>
+<article-title>Locating the frequency of turnover in the thin-film
+diffusion impedance</article-title>. <source>J. Phys. Chem. C</source>
+<year>2021</year>, <volume>125</volume>, <fpage>15737</fpage><pub-id pub-id-type="doi">10.1021/acs.jpcc.1c04572</pub-id>.</mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Bisquert</surname><given-names>J.</given-names></name>; <name><surname>Compte</surname><given-names>A.</given-names></name>
+<article-title>Theory of the electrochemical
+impedance of anomalous
+diffusion</article-title>. <source>J. Electroanal. Chem.</source>
+<year>2001</year>, <volume>499</volume>, <fpage>112</fpage>&#x02013;<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-0728(00)00497-6</pub-id>.</mixed-citation></ref></ref-list></back></article>

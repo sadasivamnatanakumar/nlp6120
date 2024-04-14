@@ -1,0 +1,461 @@
+<!DOCTYPE article
+PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.3 20210610//EN" "JATS-archivearticle1-3-mathml3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" xml:lang="EN" article-type="rapid-communication"><?properties open_access?><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Med Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">ACS Med Chem Lett</journal-id><journal-id journal-id-type="publisher-id">ml</journal-id><journal-id journal-id-type="coden">amclct</journal-id><journal-title-group><journal-title>ACS Medicinal Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-5875</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">PMC10726451</article-id><article-id pub-id-type="doi">10.1021/acsmedchemlett.3c00369</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>MAIP: An
+Open-Source Tool to Enrich High-Throughput
+Screening Output and Identify Novel, Druglike Molecules with Antimalarial
+Activity</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3562-1328</contrib-id><name><surname>Bosc</surname><given-names>Nicolas</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5512-6810</contrib-id><name><surname>Felix</surname><given-names>Eloy</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9322-1181</contrib-id><name><surname>Gardner</surname><given-names>J. Mark F.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath4"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-2567-3872</contrib-id><name><surname>Mills</surname><given-names>James</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Timmerman</surname><given-names>Martijn</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath6"><name><surname>Asveld</surname><given-names>Dennis</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Rensen</surname><given-names>Kim</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Mukherjee</surname><given-names>Partha</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Das</surname><given-names>Rishi</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Chenu</surname><given-names>Elodie</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Besson</surname><given-names>Dominique</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath12"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8448-6068</contrib-id><name><surname>Burrows</surname><given-names>Jeremy N.</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-9447-8982</contrib-id><name><surname>Duffy</surname><given-names>James</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath14"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-7530-2113</contrib-id><name><surname>Laleu</surname><given-names>Beno&#x000ee;t</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath15"><name><surname>Guantai</surname><given-names>Eric M.</given-names></name><xref rid="aff7" ref-type="aff">&#x000b6;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath16"><name><surname>Leach</surname><given-names>Andrew R.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>European
+Molecular Biology Laboratory, <institution>European Bioinformatics
+Institute (EMBL-EBI)</institution>, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, <country>United Kingdom</country></aff><aff id="aff2"><label>&#x02021;</label><institution>AMG
+Consultants Ltd</institution>, Discovery
+Park House, Discovery Park, Sandwich, Kent CT13 9ND, <country>United Kingdom</country></aff><aff id="aff3"><label>&#x000a7;</label><institution>Sandexis
+Medicinal Chemistry Ltd</institution>, Innovation House, Discovery Park, Sandwich, Kent CT13 9FF, <country>United Kingdom</country></aff><aff id="aff4"><label>&#x02225;</label><institution>Pivot
+Park Screening Centre</institution>, Pivot Park (Frederick Banting Building), Kloosterstraat 9, 5349 AB Oss, <country>The Netherlands</country></aff><aff id="aff5"><label>&#x022a5;</label><institution>TCG
+Life Sciences, Bengal Intelligent Park Limited</institution>, Block EP &#x00026; GP, Salt Lake Electronics
+Complex, Sector V, Kolkata, West Bengal 700091, <country>India</country></aff><aff id="aff6"><label>#</label><institution>Medicines
+for Malaria Ventures</institution>, 1215 Geneva, <country>Switzerland</country></aff><aff id="aff7"><label>&#x000b6;</label>Department
+of Pharmacy, Faculty of Health Sciences, <institution>University of Nairobi</institution>, 00202 Nairobi, <country>Kenya</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Email: <email>duffyj@mmv.org</email>.</corresp><corresp id="cor2"><label>*</label>Email: <email>arl@ebi.ac.uk</email>.</corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>11</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>14</day><month>12</month><year>2023</year></pub-date><pub-date pub-type="pmc-release"><day>20</day><month>11</month><year>2023</year></pub-date><volume>14</volume><issue>12</issue><fpage>1733</fpage><lpage>1741</lpage><history><date date-type="received"><day>29</day><month>08</month><year>2023</year></date><date date-type="accepted"><day>06</day><month>11</month><year>2023</year></date><date date-type="rev-recd"><day>30</day><month>10</month><year>2023</year></date></history><permissions><copyright-statement>&#x000a9; 2023 The Authors. Published by American Chemical Society</copyright-statement><copyright-year>2023</copyright-year><copyright-holder>The Authors</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>Permits the broadest form of re-use including for commercial purposes, provided that author attribution and integrity are maintained (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_0006" id="ab-tgr1"/></p><p>Efforts to tackle malaria must continue for a disease
+that threatens
+half of the global population. Parasite resistance to current therapies
+requires new chemotypes that are able to demonstrate effectiveness
+and safety. Previously, we developed a machine-learning-based approach
+to predict compound antimalarial activity, which was trained on the
+compound collections of several organizations. The resulting prediction
+platform, MAIP, was made freely available to the scientific community
+and offers a solution to prioritize molecules of interest in virtual
+screening and hit-to-lead optimization. Here, we experimentally validate
+MAIP and demonstrate how the approach was used in combination with
+a robust compound selection workflow and a recently introduced innovative
+high-throughput screening (HTS) cascade to select and purchase compounds
+from a public library for subsequent experimental screening. We observed
+a 12-fold enrichment compared with a randomly selected set of molecules,
+and the eight hits we ultimately selected exhibit good potency and
+absorption, distribution, metabolism, and excretion (ADME) profiles.</p></abstract><kwd-group><kwd>Malaria</kwd><kwd>Antimalarial Drug Discovery</kwd><kwd>QSAR</kwd><kwd>High-Throughput Screening</kwd><kwd>Screening Cascade</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution>Bill and Melinda Gates Foundation</institution><institution-id institution-id-type="doi">10.13039/100000865</institution-id></institution-wrap></funding-source><award-id>INV-007155</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution>European Molecular Biology Laboratory</institution><institution-id institution-id-type="doi">10.13039/100013060</institution-id></institution-wrap></funding-source><award-id>NA</award-id></award-group></funding-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>ml3c00369</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>ml3c00369</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta><notes id="NOTES-d14e310-autogenerated"><fn-group><fn fn-type="after-asap" id="d33e202"><p>This paper was published ASAP on
+November 23, 2023, with a duplicate of reference 22. The corrected
+version was reposted November 27, 2023.</p></fn></fn-group></notes></front><body><p>Malaria is a life-threatening
+infectious disease caused by parasites of the <italic>Plasmodium</italic> genus that are transmitted to people through the bites of infected
+female <italic>Anopheles</italic> mosquitoes. Despite considerable
+progress with prevention and treatment interventions, half of the
+world&#x02019;s population is still threatened by malaria, mainly in
+Africa but also in Southeast Asia and Central and South America.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> There is growing evidence that the effect of artemisinin-based combination
+therapies (ACTs) is being diminished by decreasing parasite clearance
+rates of artemisinin derivatives and also partner drug resistance.<sup><xref ref-type="bibr" rid="ref3">3</xref></sup><italic>De novo</italic> artemisinin partial
+resistance has now also been observed in Africa, though ACTs remain
+effective.<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> Consequently, there is a focus on the delivery
+of new, efficacious, affordable, and safe medicines with multiple
+key objectives that include overcoming future ACT resistance;<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> blocking the parasite life cycle by interrupting
+transmission from vector to host and <italic>vice versa</italic>;
+and targeting malaria species that remain dormant in the liver.</p><p>In parallel, a promising vaccine (RTS,S/AS01) has recently been
+recommended by the World Health Organization (WHO) for children from
+5 months of age on the basis of previous encouraging results in several
+clinical trials.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> A new vaccine candidate
+(R21/MatrixM) is also demonstrating high-level efficacy in combination
+with seasonal malaria chemoprevention and standard measures.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Hence, chemoprevention remains an important tool
+in the prevention of malaria and enhancement of malaria control.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> The past two decades have seen significant collaboration
+and open science activity in tackling the malaria challenge. One such
+innovation involves screening large compound libraries in highly efficient
+high-throughput screening platforms and then making the results freely
+available in the literature.<sup><xref ref-type="bibr" rid="ref9">9</xref>&#x02212;<xref ref-type="bibr" rid="ref11">11</xref></sup> Phenotypic whole-cell assays
+have been widely used to identify compounds that affect parasite growth
+and viability during the asexual blood stage of the <italic>Plasmodium</italic> spp. infection. These efforts have led to the identification of
+multiple candidate drugs that have progressed to clinical development.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup></p><p>Quantitative structure&#x02013;activity
+relationship (QSAR) modeling
+and, more generally, machine learning techniques are widely used in
+drug discovery.<sup><xref ref-type="bibr" rid="ref13">13</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup> In the context of high-throughput screening, these
+methods enable the virtual screening of large collections of compounds
+to quickly assess their therapeutic potential and prioritize for experimental
+validation. Unsurprisingly, antimalaria drug discovery is making extensive
+use of machine learning. For example, methods such as deep learning
+can be employed to identify novel antimalarial molecules.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Similar techniques, together with more conventional
+QSAR models, have also been used recently in an open competition to
+predict new malaria inhibitors, sometimes exhibiting unusual chemical
+motifs.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup></p><p>The work described here
+builds on a collaboration between large
+pharmaceutical companies and not-for-profit organizations to deliver
+a consensus modeling approach in which multiple proprietary compound
+libraries were combined without ever sharing structures of the actual
+molecules.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> This partnership resulted
+in the open MAlaria Inhibitor Prediction (MAIP) web platform, which
+scores compounds using a consensus model derived from 6.5 million
+malaria bioactivity values from 11 compound collections.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Hosted by the European Bioinformatics Institute
+(EMBL-EBI), this free tool was assessed by predicting three diverse
+validation sets showing hit rate enrichment &#x0003e; 2 in each case. However,
+to date, no prospective experimental validation has been published
+that demonstrates the ability of MAIP in prioritizing new potent malaria
+inhibitors.</p><p>Herein, we aim to address this point by presenting
+a large-scale
+computational and experimental project to validate MAIP and the related
+modeling consensus approaches that were developed in parallel.</p><p>We used the previously introduced MAIP platform to predict the
+whole 7.6 M compound collection from MolPort (accessed in November
+2019).<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> A brief description of the modeling
+approach is available in the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00369/suppl_file/ml3c00369_si_001.pdf">Supporting Information</ext-link>. The molecules were predicted using the MAIP platform in addition
+to two derived consensus approaches. The resulting scores for the
+three methods (MaxScore, MinRank, and MetaModel) were used to select
+166&#x0202f;000 unique compounds by combining the top 80&#x0202f;000
+from each of them. To focus the library on potential novel hits, we
+applied an exclusion protocol on the basis of several criteria. Compounds
+similar to existing antimalarial compounds from the Medicines for
+Malaria Venture (MMV) collections were removed. Compounds containing
+unwanted moieties (PAINS,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> toxicophores,
+etc.) were filtered out. To focus the collection in druglike chemical
+space, a molecular weight between 200 and 550 and a clogP between
+0 and 5.5 were considered as prerequisites for the compounds. To further
+reduce the size of the collection while preserving structural diversity,
+we performed unsupervised clustering by selecting up to three compounds
+per cluster. In parallel, to assess the performance of the compound
+scoring, 45&#x0202f;000 compounds were randomly picked from the three
+prediction methods disregarding their antimalarial scores, and the
+same protocol was applied.</p><p>The total selection of about 20&#x0202f;700
+compounds (scored +
+randomly selected) was evaluated for commercial availability for the
+acquisition of 2 &#x003bc;mol of samples to be delivered within 4 weeks
+to the MMV compound management partner. About 19&#x0202f;750 of the
+listed molecules could be delivered within the required timeline and
+met the expected minimum 90% purity criterion.</p><p>To further reduce
+the list of compounds for acquisition, we performed
+a multiparameter optimization on the basis of the similarity, the
+price, and the vendors to prioritize 6000 of them where 4730 resulted
+from the scored compounds and 1270 from the randomly selected set.
+A total of 5930 commercially available molecules were purchased with
+a ratio of scored versus randomly selected molecules maintained at
+3.95:1. Ultimately 5850 samples were delivered to the MMV compound
+management partner. The 80 undelivered samples were found to be out
+of stock at the time of acquisition.</p><p>This collection is termed
+the ChEMBL QSAR Library (CQL). Its molecular
+property profile shows a focus on drug likeness (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> A&#x02013;H). After the selection,
+we observed that the majority of compounds were selected from the
+MetaModel scoring, followed by MaxScore, NoScore (random selection),
+and MinRank (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref> I). The MetaModel consensus has already been implemented in the
+MAIP web platform (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.ebi.ac.uk/chembl/maip/">www.ebi.ac.uk/chembl/maip/</uri>).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>CQL molecular property profiles. Ideal values for each criterion
+are depicted in green, acceptable ones in orange, and nonideal ones
+in red. (A) Molecular weight (MW); (B) log of the coefficient of partition
+between octanol and water (LogP); (C) number of structural alerts;
+(D) number of hydrogen bond donors (HBD); (E) number of hydrogen bond
+acceptors (HBA); (F) number of rotatable bonds; (G) multiparameter
+optimization (MPO) score; (H) molecular class; and (I) CQL breakdown
+on the basis of the compound selection reason.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_0001" id="gr1" position="float"/></fig><p>All the training sets used to develop the predictive
+models remained
+undisclosed, thereby making it impossible to determine if the selected
+compounds had already been tested for antimalarial activity by our
+previous project partners. However, our model consensus approaches
+were already assessed using three different validation sets.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Comparing the chemical spaces of these libraries
+with the CQL, we can see how similar they are. Therefore, we visualized
+the chemical space represented by the CQL using the t-distributed
+Stochastic Neighbor Embedding (t-SNE) algorithm<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> and superimposed this onto the chemical space of the data
+sets previously used to validate our modeling approach (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>). For details on the usage
+of the t-SNE method and the validation sets, the reader is invited
+to refer to our previous work.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup></p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>t-distributed
+Stochastic Neighbor Embedding representation showing
+the chemical space of the CQL library and comparing it with the chemical
+space of the three validation sets used to validate MAIP. St. Jude
+Screening Set: inactive compounds, light green; active compounds,
+green. PubChem: inactive compounds, light red; active compounds, red.
+MMV test set: inactive compounds, light blue; active compounds, blue;
+selected compounds for this study, yellow; active experimentally validated,
+black.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_0002" id="gr2" position="float"/></fig><p>The CQL chemical space broadly overlaps with the
+St. Jude Screening
+set for both active and inactive compounds. In the validation stage
+of our consensus approaches, we observed it was the validation set
+with the highest ROC AUC scores (0.82, 0,79, and 0.73 for the MetaModel,
+MaxScore, and MinRank consensus, respectively). It also overlaps locally
+with the chemical spaces of the MMV and PubChem sets. These results
+suggest that the CQL remains in a chemical space relatively close
+to that observed and validated. This is not necessarily unexpected
+nor a limitation, as predictive models are well known to be better
+at predicting compounds in their domain of applicability. Nevertheless,
+this will be relevant to subsequent work to analyze the novelty of
+our hit molecules, which are described in more detail below.</p><p>The MMV&#x02019;s <italic>Plasmodium falciparum</italic> (<italic>P. falciparum</italic>) asexual blood stage phenotypic screening
+cascade was developed to identify and prioritize novel, high-quality
+compounds with potential as start points for further development in
+antimalarial drug discovery projects. The high-throughput screening
+(HTS) cascade contains orthogonal efficacy and cytotoxicity assays.
+A recent report describes the use of this screening cascade to screen
+141&#x0202f;786 compounds from which 33 antimalarial molecules with
+a robust data package and potential for further development (&#x0201c;Confirmed
+Actives&#x0201d;) were identified.<sup><xref ref-type="bibr" rid="ref22">22</xref></sup></p><p>Here, this state of the art screening platform was applied to CQL
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>). During
+solubilization and reformatting activities, 40 samples were identified
+with solubility issues and removed from the screening set, thereby
+leaving 5810 compounds (4623 scored + 1187 randomly selected). A primary
+screen was conducted at a single concentration (2 &#x003bc;M) against <italic>P. falciparum</italic> NF54 (nanoGlo readout over 72 h incubation).
+A total of 223 compounds (215 predicted active, eight randomly selected,
+equivalent to a 7-fold enrichment of hit rate for the predicted active
+compounds compared with the random compounds) had a <italic>Z</italic>-score lower or equal to the cutoff value of &#x02212;4 and were further
+retested in two confirmatory orthogonal <italic>P. falciparum</italic> NF54 assays (nanoGlo and pLDH readouts over 72 h incubation). A
+total of 145 (142 + 3 12-fold enrichment) compounds showed a growth
+inhibition activity greater than 30% in at least one of the two assays.
+These compounds were then tested in five-point dose&#x02013;response
+curve (DRC) assays, each of which provides key information to decide
+which compound(s) to progress (highlighted in blue). Five different
+assays were carried out, including three parasite growth assays over
+72 h of incubation (<italic>P. falciparum</italic> NF54 in both nanoGlo
+and pLDH read-outs and <italic>P. falciparum</italic> Dd2 in pLDH
+read-out), one parasite growth assay over 12 h of incubation (<italic>P. falciparum</italic> NF54 in nanoGlo read-out) in order to evaluate
+the speed of action, and a cytotoxicity assay against human HepG2
+cells over 72 h of incubation. Out of 36 screening active compounds
+(36 + 0) fulfilling all of the ideal criteria, 12 were deemed attractive
+in terms of chemical novelty and diversity for further progression
+and evaluation. This set of compounds was further complemented with
+others that passed at least three of the five DRC criteria, together
+with assessments of chemical novelty and diversity, which led to 33
+selected compounds. Twenty-two compounds (those still available from
+commercial suppliers) were repurchased, and the compound efficacy
+was retested against <italic>P. falciparum</italic> 3D7 (pLDH readout
+over 72 h incubation) and human HepG2 cells over 72 h of incubation
+at a different testing center. This stringent cascade resulted in
+the identification of eight compounds with an IC<sub>50</sub> lower
+than 2 &#x003bc;M in <italic>P. falciparum</italic> 3D7, higher than
+10 &#x003bc;M in HepG2, and fulfilling the MMV Confirmed Active criteria
+(<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.mmv.org/frontrunner-templates">https://www.mmv.org/frontrunner-templates</uri>), as determined in two independent test centers (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>).</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Identification and prioritization
+of hits from the ChEMBL QSAR
+library (CQL). Strict selection criteria are depicted in green, and
+ideal ones are in blue. For each step, the number of scored compounds
+is indicated in red. In black is the number of compounds randomly
+selected.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_0003" id="gr3" position="float"/></fig><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Structures of the eight Confirmed Actives identified with
+the MMV&#x02019;s <italic>P. falciparum</italic> asexual blood stage
+phenotypic screening platform.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_0004" id="gr4" position="float"/></fig><p>As a result of the selection criteria, the eight
+Confirmed Actives
+have attractive physicochemical and biological properties and are
+suitable for further optimization (<xref rid="tbl1" ref-type="other">Table <xref rid="tbl1" ref-type="other">1</xref></xref>). All compounds have equivalent potency
+(within 3-fold) between the drug-sensitive (<italic>P. falciparum</italic> 3D7) and drug-resistant (Dd2) strains. Importantly, the results
+in HepG2 cell viability assays performed in two different laboratories
+confirm the lack of cytotoxicity of these compounds, and no structural
+features likely to be associated with toxicity or assay interference
+were found.</p><table-wrap id="tbl1" position="float"><label>Table 1</label><caption><title>Confirmed Actives: Calculated Physicochemical
+Properties, Potency (<italic>P. falciparum</italic> 3D7), and Cell
+Viability (HepG2)</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">compound ID</th><th style="border:none;" align="center" char=".">MW</th><th style="border:none;" align="center" char=".">LogP</th><th style="border:none;" align="center" char=".">3D7 LDH (72&#x000a0;h) IC50 (&#x003bc;M)</th><th style="border:none;" align="center" char=".">Dd2 LDH (72&#x000a0;h) IC50 (&#x003bc;M)</th><th style="border:none;" align="center" char=".">HepG2 (72&#x000a0;h) IC<sub>50</sub> (&#x003bc;M)</th></tr></thead><tbody><tr><td style="border:none;" align="left">MMV1797331</td><td style="border:none;" align="char" char=".">357</td><td style="border:none;" align="char" char=".">2.0</td><td style="border:none;" align="char" char=".">1.9</td><td style="border:none;" align="char" char=".">2.0</td><td style="border:none;" align="char" char=".">21.6</td></tr><tr><td style="border:none;" align="left">MMV1797658</td><td style="border:none;" align="char" char=".">335</td><td style="border:none;" align="char" char=".">3.2</td><td style="border:none;" align="char" char=".">0.78</td><td style="border:none;" align="char" char=".">1.5</td><td style="border:none;" align="char" char=".">22.1</td></tr><tr><td style="border:none;" align="left">MMV1797951</td><td style="border:none;" align="char" char=".">371</td><td style="border:none;" align="char" char=".">3.1</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">0.98</td><td style="border:none;" align="char" char=".">13.8</td></tr><tr><td style="border:none;" align="left">MMV1798925</td><td style="border:none;" align="char" char=".">342</td><td style="border:none;" align="char" char=".">3.4</td><td style="border:none;" align="char" char=".">1.1</td><td style="border:none;" align="char" char=".">1.5</td><td style="border:none;" align="char" char=".">19.1</td></tr><tr><td style="border:none;" align="left">MMV1798946</td><td style="border:none;" align="char" char=".">427</td><td style="border:none;" align="char" char=".">2.5</td><td style="border:none;" align="char" char=".">0.75</td><td style="border:none;" align="char" char=".">2.0</td><td style="border:none;" align="char" char=".">&#x0003e;25</td></tr><tr><td style="border:none;" align="left">MMV1799348</td><td style="border:none;" align="char" char=".">397</td><td style="border:none;" align="char" char=".">2.8</td><td style="border:none;" align="char" char=".">1.1</td><td style="border:none;" align="char" char=".">2.7</td><td style="border:none;" align="char" char=".">&#x0003e;25</td></tr><tr><td style="border:none;" align="left">MMV1801316</td><td style="border:none;" align="char" char=".">359</td><td style="border:none;" align="char" char=".">3.6</td><td style="border:none;" align="char" char=".">1.5</td><td style="border:none;" align="char" char=".">3.6</td><td style="border:none;" align="char" char=".">&#x0003e;25</td></tr><tr><td style="border:none;" align="left">MMV1802771</td><td style="border:none;" align="char" char=".">424</td><td style="border:none;" align="char" char=".">3.0</td><td style="border:none;" align="char" char=".">0.81</td><td style="border:none;" align="char" char=".">1.1</td><td style="border:none;" align="char" char=".">20.0</td></tr></tbody></table></table-wrap><p>As part of the Confirmed Active data profiling, the
+eight compounds
+were tested in an early absorption, distribution, metabolism, and
+excretion (ADME) package (LogD, aqueous solubility, human microsomal
+stability, and rat hepatocytes stability) (<xref rid="tbl2" ref-type="other">Table <xref rid="tbl2" ref-type="other">2</xref></xref>). The ADME data generated are not used as
+strict selection criteria but as a guide for hit validation and to
+flag potential issues that may need to be addressed early in the project
+as part of the hit-to-lead optimization process. As a result of the
+CQL library design process, the compounds have acceptable lipophilicity
+with no compound with a LogD &#x0003e; 4 and several in the range (LogD
+=
+1&#x02013;3) usually associated with good oral bioavailability. Encouragingly,
+the compounds have low to moderate clearance in both human liver microsomes
+and rat hepatocytes, thereby indicating that the scaffolds are not
+inherently unstable and that they have potential to be optimized into
+drug leads with the long duration required for single-dose antimalarial
+treatment or prophylaxis. In addition, as stated earlier, these eight
+compounds do not interfere with hepatic cell viability.</p><table-wrap id="tbl2" position="float"><label>Table 2</label><caption><title>ADME Properties of the Eight Confirmed
+Actives</title></caption><table frame="hsides" rules="groups" border="0"><colgroup><col align="left"/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/><col align="char" char="."/></colgroup><thead><tr><th style="border:none;" align="center">compound ID</th><th style="border:none;" align="center" char=".">LogD
+pH 7.4</th><th style="border:none;" align="center" char=".">kinetic solubility (&#x003bc;M)</th><th style="border:none;" align="center" char=".">human liver microsomes CLint (&#x003bc;L/min/mg)</th><th style="border:none;" align="center" char=".">rat
+hepatocytes CLint (&#x003bc;L/min/10<sup>6</sup>&#x000a0;cells)</th></tr></thead><tbody><tr><td style="border:none;" align="left">MMV1797331</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">200</td><td style="border:none;" align="char" char=".">3.7</td><td style="border:none;" align="char" char=".">1.9</td></tr><tr><td style="border:none;" align="left">MMV1797658</td><td style="border:none;" align="char" char=".">0.5</td><td style="border:none;" align="char" char=".">200</td><td style="border:none;" align="char" char=".">3.5</td><td style="border:none;" align="char" char=".">7.2</td></tr><tr><td style="border:none;" align="left">MMV1797951</td><td style="border:none;" align="char" char=".">&#x02013;0.2</td><td style="border:none;" align="char" char=".">200</td><td style="border:none;" align="char" char=".">8.3</td><td style="border:none;" align="char" char=".">1.4</td></tr><tr><td style="border:none;" align="left">MMV1798925</td><td style="border:none;" align="char" char=".">0.3</td><td style="border:none;" align="char" char=".">173</td><td style="border:none;" align="char" char=".">3.5</td><td style="border:none;" align="char" char=".">7.2</td></tr><tr><td style="border:none;" align="left">MMV1798946</td><td style="border:none;" align="char" char=".">2.9</td><td style="border:none;" align="char" char=".">170</td><td style="border:none;" align="char" char=".">14</td><td style="border:none;" align="char" char=".">2</td></tr><tr><td style="border:none;" align="left">MMV1799348</td><td style="border:none;" align="char" char=".">1.2</td><td style="border:none;" align="char" char=".">198</td><td style="border:none;" align="char" char=".">3.5</td><td style="border:none;" align="char" char=".">1.2</td></tr><tr><td style="border:none;" align="left">MMV1801316</td><td style="border:none;" align="char" char=".">2.8</td><td style="border:none;" align="char" char=".">86</td><td style="border:none;" align="char" char=".">24.1</td><td style="border:none;" align="char" char=".">2.7</td></tr><tr><td style="border:none;" align="left">MMV1802771</td><td style="border:none;" align="char" char=".">1.0</td><td style="border:none;" align="char" char=".">100</td><td style="border:none;" align="char" char=".">11</td><td style="border:none;" align="char" char=".">2.6</td></tr></tbody></table></table-wrap><p>Machine learning and artificial intelligence models
+can be criticized
+for not being able to predict compounds far enough from the chemical
+space they are trained on.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> This can lead to the discovery of &#x0201c;new&#x0201d; compounds
+too close to existing drugs and showing similar modes of action but
+also adverse events. In the research for new leads to fight ACT resistance,
+new chemotypes are a prerequisite for killing the parasite.</p><p>In the absence of knowledge regarding the model training sets due
+to confidentiality reasons, we were able to directly compare only
+the eight Confirmed Actives with the MMV compound library. Similar
+compounds in the 80%&#x02013;90% window were found only for MMV1797951
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00369/suppl_file/ml3c00369_si_001.pdf">Table S1</ext-link>).</p><p>Additionally we ran a
+comparison against the ChEMBL database to
+determine, first, if these compounds are chemically close to already
+published molecules and, second, if these similar compounds have been
+tested on <italic>P. falciparum</italic>.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> Using the Python package FPsim2 with Morgan fingerprints, radius
+2, 2048 bits, and enabled features, we measured the Tversky similarity
+between the eight hits and the whole ChEMBL database (version 32).</p><p>Among the two hits with similar ChEMBL compounds in the 70%&#x02013;80%
+and 80%&#x02013;90% ranges, there was no evidence of any antimalarial
+activity for the compounds related to MMV1797331 (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). However, moderately similar
+compounds to MMV1799348 were found to be active on <italic>P. falciparum</italic> 3D7. Five other hits have similar ChEMBL compounds only in the 70%&#x02013;80%
+range, MMV1802771, MMV1798925, MMV1797951, MMV1801316, and MMV1798946,
+for which moderate biological activities in <italic>P. falciparum</italic> phenotypic assays were found for the first four of them (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>). When looking closely
+at MMV1801316 and its similar compound CHEMBL3476473, we observed
+they differ only by two atoms with a methylindole rather than a hydroxyquinoline,
+a difference that may nevertheless be significant in medicinal chemistry.
+Finally, we did not retrieve any similar compounds for MMV1797658.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Examples
+of similar compounds found in ChEMBL tested against <italic>P. falciparum</italic> and binned by the Tversky similarity ranges.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_0005" id="gr5" position="float"/></fig><p>Our comparisons suggest that some of the hits identified
+here represent
+structurally novel potential starting points for the development of
+new drugs targeting <italic>P. falciparum</italic> and, in particular,
+MMV1797658, MMV1797331, and MMV1798946 solely on the basis of this
+analysis. Indeed, there is no evidence in ChEMBL that they, or similar
+compounds, have been tested previously on <italic>P. falciparum</italic> strains.</p><p>In conclusion, the work presented here demonstrates
+how the combination
+of <italic>in silico</italic> model predictions with a rigorous compound
+selection workflow and a robust biological assay cascade can lead
+to new chemotypes with the potential to deliver new drugs.</p><p>In
+particular, we wish to highlight the performance of our <italic>in
+silico</italic> MAIP model and the related consensus approaches
+when compared with an equivalent compound set chosen using the same
+unbiased rigorous criteria but with no preference toward predicted
+antimalarial activity. Specifically, from the 4623 compounds selected
+using the consensus approaches, we achieved a hit rate of 4.65% after
+the primary screen. By comparison, the hit rate for the randomly selected
+1187 compounds was 0.67%. When comparing the results obtained with
+the confirmatory screen, the difference is even more noticeable with
+hit rates of respectively 3.07% (142 active compounds) and 0.25% (3).
+Hence, the CQL has been enriched in hit molecules (7-fold and 12-fold,
+respectively, after the primary and confirmatory screen), while at
+the same time keeping the size of the library relatively small. As
+for compound novelty, different checkpoints in our workflows help
+identify new chemical series that were never published as acting against <italic>P. falciparum</italic> to the best of our knowledge.</p><p>Finally,
+these results demonstrate that the MAIP platform and its
+associated consensus approaches can deliver compounds with good antimalarial
+activity. This initial study provides critical experimental validation
+of the approach and underlines the usefulness of MAIP for the whole
+community. It is the hope of the project team that this inspires similar
+work on other diseases that disproportionately affect the most vulnerable
+members of the global population.</p><p>The experimental results will
+be deposited in ChEMBL to allow the
+scientific community to further benefit from this work.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup></p></body><back><notes id="notes-2" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is available free of charge at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/10.1021/acsmedchemlett.3c00369?goto=supporting-info">https://pubs.acs.org/doi/10.1021/acsmedchemlett.3c00369</ext-link>.<list id="silist" list-type="simple"><list-item><p><italic>In silico</italic> model description, compound
+scoring, compound selection, protocol of biological assays, examples
+of known antimalarial scaffolds used to define compound attractiveness,
+and compounds similar to the Confirmed Actives and found in the MMV
+model training sets (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://pubs.acs.org/doi/suppl/10.1021/acsmedchemlett.3c00369/suppl_file/ml3c00369_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ml3c00369_si_001.pdf"><caption><p>ml3c00369_si_001.pdf</p></caption></media></supplementary-material></sec><notes notes-type="" id="notes-1"><title>Author Contributions</title><p>N.B. contributed
+to the MAIP development and the compound selection and wrote the manuscript,
+E.F. contributed to the MAIP development and the compound selection,
+J.M.F.G. contributed to the compound selection, J.M. contributed to
+the compound selection, P.M. was involved in culturing the parasite
+strains and performing the pLDH assays, R.D. was involved in preparing
+serial dilutions of the test compounds and determining the IC<sub>50</sub> values in the DRC assays, M.T. contributed to the HTS, D.A.
+contributed to the HTS, K.R. contributed to the HTS, E.C. ran the
+MMV HTS cascade, D.B. ordered the compounds and supervised their reformatting
+before screening, J.N.B. contributed to the project design, J.D. contributed
+to the project design and the selection of the Confirmed Actives and
+wrote the manuscript, B.L. contributed to the selection of the Confirmed
+Actives, E.M.G. was involved in retesting the compounds, and A.R.L.
+contributed to the project design and supervised the manuscript writing.</p></notes><notes notes-type="COI-statement" id="NOTES-d14e768-autogenerated"><p>The authors declare no
+competing financial interest.</p></notes><notes notes-type="" id="NOTES-d14e742-autogenerated"><title>Notes</title><p>The results of this
+screening have been published in ChEMBL
+(<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://doi.org/10.6019/CHEMBL4888484">https://doi.org/10.6019/CHEMBL4888484</uri>).</p></notes><ack><title>Acknowledgments</title><p>We thank the Bill &#x00026; Melinda Gates Foundation
+and the Member
+States of the European Molecular Biology Laboratory for funding this
+research work, and the Bill &#x00026; Melinda Gates Foundation for making
+this work open access.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>ACT</term><def><p>artemisinin-based
+combination therapies</p></def></def-item><def-item><term>CQL</term><def><p>ChEMBL QSAR library</p></def></def-item><def-item><term>DRC</term><def><p>dose&#x02013;response
+curve</p></def></def-item><def-item><term>LogP</term><def><p>log of
+the coefficient of partition between octanol and water</p></def></def-item><def-item><term>MAIP</term><def><p>malaria inhibitor prediction
+platform</p></def></def-item><def-item><term>MPO</term><def><p>multiparameter
+optimization</p></def></def-item><def-item><term><italic>P. falciparum</italic></term><def><p><italic>Plasmodium falciparum</italic></p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="book" id="cit1"><person-group><collab>World Health Organization</collab></person-group>. <source>World Malaria Report 2021</source>; <publisher-name>World Health
+Organization</publisher-name>: <publisher-loc>Geneva</publisher-loc>, <year>2021</year>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Hakizimana</surname><given-names>D.</given-names></name>; <name><surname>Ntizimira</surname><given-names>C.</given-names></name>; <name><surname>Mbituyumuremyi</surname><given-names>A.</given-names></name>; <name><surname>Hakizimana</surname><given-names>E.</given-names></name>; <name><surname>Mahmoud</surname><given-names>H.</given-names></name>; <name><surname>Birindabagabo</surname><given-names>P.</given-names></name>; <name><surname>Musanabaganwa</surname><given-names>C.</given-names></name>; <name><surname>Gashumba</surname><given-names>D.</given-names></name>
+<article-title>The Impact of Covid-19 on Malaria
+Services in Three
+High Endemic Districts in Rwanda: A Mixed-Method Study</article-title>. <source>Malar J.</source>
+<year>2022</year>, <volume>21</volume> (<issue>1</issue>), <fpage>48</fpage><pub-id pub-id-type="doi">10.1186/s12936-022-04071-3</pub-id>.<pub-id pub-id-type="pmid">35164781</pub-id>
+</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Imwong</surname><given-names>M.</given-names></name>; <name><surname>Dhorda</surname><given-names>M.</given-names></name>; <name><surname>Myo Tun</surname><given-names>K.</given-names></name>; <name><surname>Thu</surname><given-names>A. M.</given-names></name>; <name><surname>Phyo</surname><given-names>A. P.</given-names></name>; <name><surname>Proux</surname><given-names>S.</given-names></name>; <name><surname>Suwannasin</surname><given-names>K.</given-names></name>; <name><surname>Kunasol</surname><given-names>C.</given-names></name>; <name><surname>Srisutham</surname><given-names>S.</given-names></name>; <name><surname>Duanguppama</surname><given-names>J.</given-names></name>; <name><surname>Vongpromek</surname><given-names>R.</given-names></name>; <name><surname>Promnarate</surname><given-names>C.</given-names></name>; <name><surname>Saejeng</surname><given-names>A.</given-names></name>; <name><surname>Khantikul</surname><given-names>N.</given-names></name>; <name><surname>Sugaram</surname><given-names>R.</given-names></name>; <name><surname>Thanapongpichat</surname><given-names>S.</given-names></name>; <name><surname>Sawangjaroen</surname><given-names>N.</given-names></name>; <name><surname>Sutawong</surname><given-names>K.</given-names></name>; <name><surname>Han</surname><given-names>K. T.</given-names></name>; <name><surname>Htut</surname><given-names>Y.</given-names></name>; <name><surname>Linn</surname><given-names>K.</given-names></name>; <name><surname>Win</surname><given-names>A. A.</given-names></name>; <name><surname>Hlaing</surname><given-names>T. M.</given-names></name>; <name><surname>van der
+Pluijm</surname><given-names>R. W.</given-names></name>; <name><surname>Mayxay</surname><given-names>M.</given-names></name>; <name><surname>Pongvongsa</surname><given-names>T.</given-names></name>; <name><surname>Phommasone</surname><given-names>K.</given-names></name>; <name><surname>Tripura</surname><given-names>R.</given-names></name>; <name><surname>Peto</surname><given-names>T. J.</given-names></name>; <name><surname>von Seidlein</surname><given-names>L.</given-names></name>; <name><surname>Nguon</surname><given-names>C.</given-names></name>; <name><surname>Lek</surname><given-names>D.</given-names></name>; <name><surname>Chan</surname><given-names>X. H. S.</given-names></name>; <name><surname>Rekol</surname><given-names>H.</given-names></name>; <name><surname>Leang</surname><given-names>R.</given-names></name>; <name><surname>Huch</surname><given-names>C.</given-names></name>; <name><surname>Kwiatkowski</surname><given-names>D. P.</given-names></name>; <name><surname>Miotto</surname><given-names>O.</given-names></name>; <name><surname>Ashley</surname><given-names>E. A.</given-names></name>; <name><surname>Kyaw</surname><given-names>M. P.</given-names></name>; <name><surname>Pukrittayakamee</surname><given-names>S.</given-names></name>; <name><surname>Day</surname><given-names>N. P. J.</given-names></name>; <name><surname>Dondorp</surname><given-names>A. M.</given-names></name>; <name><surname>Smithuis</surname><given-names>F. M.</given-names></name>; <name><surname>Nosten</surname><given-names>F. H.</given-names></name>; <name><surname>White</surname><given-names>N. J.</given-names></name>
+<article-title>Molecular Epidemiology of Resistance to Antimalarial
+Drugs in the Greater Mekong Subregion: An Observational Study</article-title>. <source>Lancet Infectious Diseases</source>
+<year>2020</year>, <volume>20</volume> (<issue>12</issue>), <fpage>1470</fpage>&#x02013;<lpage>1480</lpage>. <pub-id pub-id-type="doi">10.1016/S1473-3099(20)30228-0</pub-id>.<pub-id pub-id-type="pmid">32679084</pub-id>
+</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Uwimana</surname><given-names>A.</given-names></name>; <name><surname>Umulisa</surname><given-names>N.</given-names></name>; <name><surname>Venkatesan</surname><given-names>M.</given-names></name>; <name><surname>Svigel</surname><given-names>S. S.</given-names></name>; <name><surname>Zhou</surname><given-names>Z.</given-names></name>; <name><surname>Munyaneza</surname><given-names>T.</given-names></name>; <name><surname>Habimana</surname><given-names>R. M.</given-names></name>; <name><surname>Rucogoza</surname><given-names>A.</given-names></name>; <name><surname>Moriarty</surname><given-names>L. F.</given-names></name>; <name><surname>Sandford</surname><given-names>R.</given-names></name>; <name><surname>Piercefield</surname><given-names>E.</given-names></name>; <name><surname>Goldman</surname><given-names>I.</given-names></name>; <name><surname>Ezema</surname><given-names>B.</given-names></name>; <name><surname>Talundzic</surname><given-names>E.</given-names></name>; <name><surname>Pacheco</surname><given-names>M. A.</given-names></name>; <name><surname>Escalante</surname><given-names>A. A.</given-names></name>; <name><surname>Ngamije</surname><given-names>D.</given-names></name>; <name><surname>Mangala</surname><given-names>J.-L. N.</given-names></name>; <name><surname>Kabera</surname><given-names>M.</given-names></name>; <name><surname>Munguti</surname><given-names>K.</given-names></name>; <name><surname>Murindahabi</surname><given-names>M.</given-names></name>; <name><surname>Brieger</surname><given-names>W.</given-names></name>; <name><surname>Musanabaganwa</surname><given-names>C.</given-names></name>; <name><surname>Mutesa</surname><given-names>L.</given-names></name>; <name><surname>Udhayakumar</surname><given-names>V.</given-names></name>; <name><surname>Mbituyumuremyi</surname><given-names>A.</given-names></name>; <name><surname>Halsey</surname><given-names>E. S.</given-names></name>; <name><surname>Lucchi</surname><given-names>N. W.</given-names></name>
+<article-title>Association of Plasmodium
+Falciparum
+Kelch13 R561H Genotypes with Delayed Parasite Clearance in Rwanda:
+An Open-Label, Single-Arm, Multicentre, Therapeutic Efficacy Study</article-title>. <source>Lancet Infectious Diseases</source>
+<year>2021</year>, <volume>21</volume> (<issue>8</issue>), <fpage>1120</fpage>&#x02013;<lpage>1128</lpage>. <pub-id pub-id-type="doi">10.1016/S1473-3099(21)00142-0</pub-id>.<pub-id pub-id-type="pmid">33864801</pub-id>
+</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Antony</surname><given-names>H.</given-names></name>; <name><surname>Parija</surname><given-names>S.</given-names></name>
+<article-title>Antimalarial Drug Resistance:
+An Overview</article-title>. <source>Trop Parasitol</source>
+<year>2016</year>, <volume>6</volume> (<issue>1</issue>), <fpage>30</fpage><pub-id pub-id-type="doi">10.4103/2229-5070.175081</pub-id>.<pub-id pub-id-type="pmid">26998432</pub-id>
+</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><article-title>Efficacy and Safety of RTS,S/AS01 Malaria Vaccine with or without
+a Booster Dose in Infants and Children in Africa: Final Results of
+a Phase 3, Individually Randomised, Controlled Trial</article-title>. <source>The Lancet</source>
+<year>2015</year>, <volume>386</volume> (<issue>9988</issue>), <fpage>31</fpage>&#x02013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(15)60721-8</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Datoo</surname><given-names>M. S.</given-names></name>; <name><surname>Natama</surname><given-names>M. H.</given-names></name>; <name><surname>Som&#x000e9;</surname><given-names>A.</given-names></name>; <name><surname>Traor&#x000e9;</surname><given-names>O.</given-names></name>; <name><surname>Rouamba</surname><given-names>T.</given-names></name>; <name><surname>Bellamy</surname><given-names>D.</given-names></name>; <name><surname>Yameogo</surname><given-names>P.</given-names></name>; <name><surname>Valia</surname><given-names>D.</given-names></name>; <name><surname>Tegneri</surname><given-names>M.</given-names></name>; <name><surname>Ouedraogo</surname><given-names>F.</given-names></name>; <name><surname>Soma</surname><given-names>R.</given-names></name>; <name><surname>Sawadogo</surname><given-names>S.</given-names></name>; <name><surname>Sorgho</surname><given-names>F.</given-names></name>; <name><surname>Derra</surname><given-names>K.</given-names></name>; <name><surname>Rouamba</surname><given-names>E.</given-names></name>; <name><surname>Orindi</surname><given-names>B.</given-names></name>; <name><surname>Ramos Lopez</surname><given-names>F.</given-names></name>; <name><surname>Flaxman</surname><given-names>A.</given-names></name>; <name><surname>Cappuccini</surname><given-names>F.</given-names></name>; <name><surname>Kailath</surname><given-names>R.</given-names></name>; <name><surname>Elias</surname><given-names>S.</given-names></name>; <name><surname>Mukhopadhyay</surname><given-names>E.</given-names></name>; <name><surname>Noe</surname><given-names>A.</given-names></name>; <name><surname>Cairns</surname><given-names>M.</given-names></name>; <name><surname>Lawrie</surname><given-names>A.</given-names></name>; <name><surname>Roberts</surname><given-names>R.</given-names></name>; <name><surname>Val&#x000e9;a</surname><given-names>I.</given-names></name>; <name><surname>Sorgho</surname><given-names>H.</given-names></name>; <name><surname>Williams</surname><given-names>N.</given-names></name>; <name><surname>Glenn</surname><given-names>G.</given-names></name>; <name><surname>Fries</surname><given-names>L.</given-names></name>; <name><surname>Reimer</surname><given-names>J.</given-names></name>; <name><surname>Ewer</surname><given-names>K. J.</given-names></name>; <name><surname>Shaligram</surname><given-names>U.</given-names></name>; <name><surname>Hill</surname><given-names>A. V. S.</given-names></name>; <name><surname>Tinto</surname><given-names>H.</given-names></name>
+<article-title>Efficacy of a Low-Dose
+Candidate
+Malaria Vaccine, R21 in Adjuvant Matrix-M, with Seasonal Administration
+to Children in Burkina Faso: A Randomised Controlled Trial</article-title>. <source>Lancet</source>
+<year>2021</year>, <volume>397</volume> (<issue>10287</issue>), <fpage>1809</fpage>&#x02013;<lpage>1818</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(21)00943-0</pub-id>.<pub-id pub-id-type="pmid">33964223</pub-id>
+</mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Chandramohan</surname><given-names>D.</given-names></name>; <name><surname>Zongo</surname><given-names>I.</given-names></name>; <name><surname>Sagara</surname><given-names>I.</given-names></name>; <name><surname>Cairns</surname><given-names>M.</given-names></name>; <name><surname>Yerbanga</surname><given-names>R.-S.</given-names></name>; <name><surname>Diarra</surname><given-names>M.</given-names></name>; <name><surname>Niki&#x000e8;ma</surname><given-names>F.</given-names></name>; <name><surname>Tapily</surname><given-names>A.</given-names></name>; <name><surname>Sompougdou</surname><given-names>F.</given-names></name>; <name><surname>Issiaka</surname><given-names>D.</given-names></name>; <name><surname>Zoungrana</surname><given-names>C.</given-names></name>; <name><surname>Sanogo</surname><given-names>K.</given-names></name>; <name><surname>Haro</surname><given-names>A.</given-names></name>; <name><surname>Kaya</surname><given-names>M.</given-names></name>; <name><surname>Sienou</surname><given-names>A.-A.</given-names></name>; <name><surname>Traore</surname><given-names>S.</given-names></name>; <name><surname>Mahamar</surname><given-names>A.</given-names></name>; <name><surname>Thera</surname><given-names>I.</given-names></name>; <name><surname>Diarra</surname><given-names>K.</given-names></name>; <name><surname>Dolo</surname><given-names>A.</given-names></name>; <name><surname>Kuepfer</surname><given-names>I.</given-names></name>; <name><surname>Snell</surname><given-names>P.</given-names></name>; <name><surname>Milligan</surname><given-names>P.</given-names></name>; <name><surname>Ockenhouse</surname><given-names>C.</given-names></name>; <name><surname>Ofori-Anyinam</surname><given-names>O.</given-names></name>; <name><surname>Tinto</surname><given-names>H.</given-names></name>; <name><surname>Djimde</surname><given-names>A.</given-names></name>; <name><surname>Ou&#x000e9;draogo</surname><given-names>J.-B.</given-names></name>; <name><surname>Dicko</surname><given-names>A.</given-names></name>; <name><surname>Greenwood</surname><given-names>B.</given-names></name>
+<article-title>Seasonal Malaria
+Vaccination with
+or without Seasonal Malaria Chemoprevention</article-title>. <source>N Engl J. Med.</source>
+<year>2021</year>, <volume>385</volume> (<issue>11</issue>), <fpage>1005</fpage>&#x02013;<lpage>1017</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMoa2026330</pub-id>.<pub-id pub-id-type="pmid">34432975</pub-id>
+</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Plouffe</surname><given-names>D.</given-names></name>; <name><surname>Brinker</surname><given-names>A.</given-names></name>; <name><surname>McNamara</surname><given-names>C.</given-names></name>; <name><surname>Henson</surname><given-names>K.</given-names></name>; <name><surname>Kato</surname><given-names>N.</given-names></name>; <name><surname>Kuhen</surname><given-names>K.</given-names></name>; <name><surname>Nagle</surname><given-names>A.</given-names></name>; <name><surname>Adri&#x000e1;n</surname><given-names>F.</given-names></name>; <name><surname>Matzen</surname><given-names>J. T.</given-names></name>; <name><surname>Anderson</surname><given-names>P.</given-names></name>; <name><surname>Nam</surname><given-names>T.</given-names></name>; <name><surname>Gray</surname><given-names>N. S.</given-names></name>; <name><surname>Chatterjee</surname><given-names>A.</given-names></name>; <name><surname>Janes</surname><given-names>J.</given-names></name>; <name><surname>Yan</surname><given-names>S. F.</given-names></name>; <name><surname>Trager</surname><given-names>R.</given-names></name>; <name><surname>Caldwell</surname><given-names>J. S.</given-names></name>; <name><surname>Schultz</surname><given-names>P. G.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Winzeler</surname><given-names>E. A.</given-names></name>
+<article-title><italic>In Silico</italic> Activity Profiling Reveals
+the Mechanism of Action
+of Antimalarials Discovered in a High-Throughput Screen</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<year>2008</year>, <volume>105</volume> (<issue>26</issue>), <fpage>9059</fpage>&#x02013;<lpage>9064</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0802982105</pub-id>.<pub-id pub-id-type="pmid">18579783</pub-id>
+</mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Gamo</surname><given-names>F.-J.</given-names></name>; <name><surname>Sanz</surname><given-names>L. M.</given-names></name>; <name><surname>Vidal</surname><given-names>J.</given-names></name>; <name><surname>de Cozar</surname><given-names>C.</given-names></name>; <name><surname>Alvarez</surname><given-names>E.</given-names></name>; <name><surname>Lavandera</surname><given-names>J.-L.</given-names></name>; <name><surname>Vanderwall</surname><given-names>D. E.</given-names></name>; <name><surname>Green</surname><given-names>D. V. S.</given-names></name>; <name><surname>Kumar</surname><given-names>V.</given-names></name>; <name><surname>Hasan</surname><given-names>S.</given-names></name>; <name><surname>Brown</surname><given-names>J. R.</given-names></name>; <name><surname>Peishoff</surname><given-names>C. E.</given-names></name>; <name><surname>Cardon</surname><given-names>L. R.</given-names></name>; <name><surname>Garcia-Bustos</surname><given-names>J. F.</given-names></name>
+<article-title>Thousands
+of Chemical Starting Points for Antimalarial
+Lead Identification</article-title>. <source>Nature</source>
+<year>2010</year>, <volume>465</volume> (<issue>7296</issue>), <fpage>305</fpage>&#x02013;<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1038/nature09107</pub-id>.<pub-id pub-id-type="pmid">20485427</pub-id>
+</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Guiguemde</surname><given-names>W. A.</given-names></name>; <name><surname>Shelat</surname><given-names>A. A.</given-names></name>; <name><surname>Bouck</surname><given-names>D.</given-names></name>; <name><surname>Duffy</surname><given-names>S.</given-names></name>; <name><surname>Crowther</surname><given-names>G. J.</given-names></name>; <name><surname>Davis</surname><given-names>P. H.</given-names></name>; <name><surname>Smithson</surname><given-names>D. C.</given-names></name>; <name><surname>Connelly</surname><given-names>M.</given-names></name>; <name><surname>Clark</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>F.</given-names></name>; <name><surname>Jim&#x000e9;nez-D&#x000ed;az</surname><given-names>M. B.</given-names></name>; <name><surname>Martinez</surname><given-names>M. S.</given-names></name>; <name><surname>Wilson</surname><given-names>E. B.</given-names></name>; <name><surname>Tripathi</surname><given-names>A. K.</given-names></name>; <name><surname>Gut</surname><given-names>J.</given-names></name>; <name><surname>Sharlow</surname><given-names>E. R.</given-names></name>; <name><surname>Bathurst</surname><given-names>I.</given-names></name>; <name><surname>Mazouni</surname><given-names>F. E.</given-names></name>; <name><surname>Fowble</surname><given-names>J. W.</given-names></name>; <name><surname>Forquer</surname><given-names>I.</given-names></name>; <name><surname>McGinley</surname><given-names>P. L.</given-names></name>; <name><surname>Castro</surname><given-names>S.</given-names></name>; <name><surname>Angulo-Barturen</surname><given-names>I.</given-names></name>; <name><surname>Ferrer</surname><given-names>S.</given-names></name>; <name><surname>Rosenthal</surname><given-names>P. J.</given-names></name>; <name><surname>DeRisi</surname><given-names>J. L.</given-names></name>; <name><surname>Sullivan</surname><given-names>D. J.</given-names></name>; <name><surname>Lazo</surname><given-names>J. S.</given-names></name>; <name><surname>Roos</surname><given-names>D. S.</given-names></name>; <name><surname>Riscoe</surname><given-names>M. K.</given-names></name>; <name><surname>Phillips</surname><given-names>M. A.</given-names></name>; <name><surname>Rathod</surname><given-names>P. K.</given-names></name>; <name><surname>Van Voorhis</surname><given-names>W. C.</given-names></name>; <name><surname>Avery</surname><given-names>V. M.</given-names></name>; <name><surname>Guy</surname><given-names>R. K.</given-names></name>
+<article-title>Chemical
+Genetics of Plasmodium Falciparum</article-title>. <source>Nature</source>
+<year>2010</year>, <volume>465</volume> (<issue>7296</issue>), <fpage>311</fpage>&#x02013;<lpage>315</lpage>. <pub-id pub-id-type="doi">10.1038/nature09099</pub-id>.<pub-id pub-id-type="pmid">20485428</pub-id>
+</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Phillips</surname><given-names>M. A.</given-names></name>; <name><surname>Burrows</surname><given-names>J. N.</given-names></name>; <name><surname>Manyando</surname><given-names>C.</given-names></name>; <name><surname>van Huijsduijnen</surname><given-names>R. H.</given-names></name>; <name><surname>Van Voorhis</surname><given-names>W. C.</given-names></name>; <name><surname>Wells</surname><given-names>T. N. C.</given-names></name>
+<article-title>Malaria</article-title>. <source>Nature
+Reviews Disease Primers</source>
+<year>2017</year>, <volume>3</volume> (<issue>1</issue>), <elocation-id>17050</elocation-id><pub-id pub-id-type="doi">10.1038/nrdp.2017.50</pub-id>.</mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Cumming</surname><given-names>J. G.</given-names></name>; <name><surname>Davis</surname><given-names>A. M.</given-names></name>; <name><surname>Muresan</surname><given-names>S.</given-names></name>; <name><surname>Haeberlein</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>
+<article-title>Chemical Predictive Modelling to
+Improve Compound Quality</article-title>. <source>Nat. Rev. Drug Discovery</source>
+<year>2013</year>, <volume>12</volume> (<issue>12</issue>), <fpage>948</fpage>&#x02013;<lpage>962</lpage>. <pub-id pub-id-type="doi">10.1038/nrd4128</pub-id>.<pub-id pub-id-type="pmid">24287782</pub-id>
+</mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Vamathevan</surname><given-names>J.</given-names></name>; <name><surname>Clark</surname><given-names>D.</given-names></name>; <name><surname>Czodrowski</surname><given-names>P.</given-names></name>; <name><surname>Dunham</surname><given-names>I.</given-names></name>; <name><surname>Ferran</surname><given-names>E.</given-names></name>; <name><surname>Lee</surname><given-names>G.</given-names></name>; <name><surname>Li</surname><given-names>B.</given-names></name>; <name><surname>Madabhushi</surname><given-names>A.</given-names></name>; <name><surname>Shah</surname><given-names>P.</given-names></name>; <name><surname>Spitzer</surname><given-names>M.</given-names></name>; <name><surname>Zhao</surname><given-names>S.</given-names></name>
+<article-title>Applications
+of Machine Learning in Drug Discovery and Development</article-title>. <source>Nat. Rev. Drug Discovery</source>
+<year>2019</year>, <volume>18</volume> (<issue>6</issue>), <fpage>463</fpage>&#x02013;<lpage>477</lpage>. <pub-id pub-id-type="doi">10.1038/s41573-019-0024-5</pub-id>.<pub-id pub-id-type="pmid">30976107</pub-id>
+</mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Jim&#x000e9;nez-Luna</surname><given-names>J.</given-names></name>; <name><surname>Grisoni</surname><given-names>F.</given-names></name>; <name><surname>Schneider</surname><given-names>G.</given-names></name>
+<article-title>Drug Discovery
+with Explainable Artificial
+Intelligence</article-title>. <source>Nat. Mach Intell</source>
+<year>2020</year>, <volume>2</volume> (<issue>10</issue>), <fpage>573</fpage>&#x02013;<lpage>584</lpage>. <pub-id pub-id-type="doi">10.1038/s42256-020-00236-4</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Keshavarzi
+Arshadi</surname><given-names>A.</given-names></name>; <name><surname>Salem</surname><given-names>M.</given-names></name>; <name><surname>Collins</surname><given-names>J.</given-names></name>; <name><surname>Yuan</surname><given-names>J. S.</given-names></name>; <name><surname>Chakrabarti</surname><given-names>D.</given-names></name>
+<article-title>DeepMalaria: Artificial Intelligence Driven Discovery
+of Potent Antiplasmodials</article-title>. <source>Front. Pharmacol.</source>
+<year>2020</year>, <volume>10</volume>, <fpage>1526</fpage><pub-id pub-id-type="doi">10.3389/fphar.2019.01526</pub-id>.<pub-id pub-id-type="pmid">32009951</pub-id>
+</mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Tse</surname><given-names>E. G.</given-names></name>; <name><surname>Aithani</surname><given-names>L.</given-names></name>; <name><surname>Anderson</surname><given-names>M.</given-names></name>; <name><surname>Cardoso-Silva</surname><given-names>J.</given-names></name>; <name><surname>Cincilla</surname><given-names>G.</given-names></name>; <name><surname>Conduit</surname><given-names>G. J.</given-names></name>; <name><surname>Galushka</surname><given-names>M.</given-names></name>; <name><surname>Guan</surname><given-names>D.</given-names></name>; <name><surname>Hallyburton</surname><given-names>I.</given-names></name>; <name><surname>Irwin</surname><given-names>B. W. J.</given-names></name>; <name><surname>Kirk</surname><given-names>K.</given-names></name>; <name><surname>Lehane</surname><given-names>A. M.</given-names></name>; <name><surname>Lindblom</surname><given-names>J. C. R.</given-names></name>; <name><surname>Lui</surname><given-names>R.</given-names></name>; <name><surname>Matthews</surname><given-names>S.</given-names></name>; <name><surname>McCulloch</surname><given-names>J.</given-names></name>; <name><surname>Motion</surname><given-names>A.</given-names></name>; <name><surname>Ng</surname><given-names>H. L.</given-names></name>; <name><surname>&#x000d6;eren</surname><given-names>M.</given-names></name>; <name><surname>Robertson</surname><given-names>M. N.</given-names></name>; <name><surname>Spadavecchio</surname><given-names>V.</given-names></name>; <name><surname>Tatsis</surname><given-names>V. A.</given-names></name>; <name><surname>van Hoorn</surname><given-names>W. P.</given-names></name>; <name><surname>Wade</surname><given-names>A. D.</given-names></name>; <name><surname>Whitehead</surname><given-names>T. M.</given-names></name>; <name><surname>Willis</surname><given-names>P.</given-names></name>; <name><surname>Todd</surname><given-names>M. H.</given-names></name>
+<article-title>An Open
+Drug Discovery Competition: Experimental Validation of Predictive
+Models in a Series of Novel Antimalarials</article-title>. <source>J.
+Med. Chem.</source>
+<year>2021</year>, <volume>64</volume> (<issue>22</issue>), <fpage>16450</fpage>&#x02013;<lpage>16463</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jmedchem.1c00313</pub-id>.<pub-id pub-id-type="pmid">34748707</pub-id>
+</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Verras</surname><given-names>A.</given-names></name>; <name><surname>Waller</surname><given-names>C. L.</given-names></name>; <name><surname>Gedeck</surname><given-names>P.</given-names></name>; <name><surname>Green</surname><given-names>D. V. S.</given-names></name>; <name><surname>Kogej</surname><given-names>T.</given-names></name>; <name><surname>Raichurkar</surname><given-names>A.</given-names></name>; <name><surname>Panda</surname><given-names>M.</given-names></name>; <name><surname>Shelat</surname><given-names>A. A.</given-names></name>; <name><surname>Clark</surname><given-names>J.</given-names></name>; <name><surname>Guy</surname><given-names>R. K.</given-names></name>; <name><surname>Papadatos</surname><given-names>G.</given-names></name>; <name><surname>Burrows</surname><given-names>J.</given-names></name>
+<article-title>Shared Consensus Machine
+Learning Models for Predicting Blood Stage Malaria Inhibition</article-title>. <source>J. Chem. Inf. Model.</source>
+<year>2017</year>, <volume>57</volume> (<issue>3</issue>), <fpage>445</fpage>&#x02013;<lpage>453</lpage>. <pub-id pub-id-type="doi">10.1021/acs.jcim.6b00572</pub-id>.<pub-id pub-id-type="pmid">28257198</pub-id>
+</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Bosc</surname><given-names>N.</given-names></name>; <name><surname>Felix</surname><given-names>E.</given-names></name>; <name><surname>Arcila</surname><given-names>R.</given-names></name>; <name><surname>Mendez</surname><given-names>D.</given-names></name>; <name><surname>Saunders</surname><given-names>M. R.</given-names></name>; <name><surname>Green</surname><given-names>D. V. S.</given-names></name>; <name><surname>Ochoada</surname><given-names>J.</given-names></name>; <name><surname>Shelat</surname><given-names>A. A.</given-names></name>; <name><surname>Martin</surname><given-names>E. J.</given-names></name>; <name><surname>Iyer</surname><given-names>P.</given-names></name>; <name><surname>Engkvist</surname><given-names>O.</given-names></name>; <name><surname>Verras</surname><given-names>A.</given-names></name>; <name><surname>Duffy</surname><given-names>J.</given-names></name>; <name><surname>Burrows</surname><given-names>J.</given-names></name>; <name><surname>Gardner</surname><given-names>J. M. F.</given-names></name>; <name><surname>Leach</surname><given-names>A. R.</given-names></name>
+<article-title>MAIP: A Web Service
+for Predicting Blood-stage Malaria Inhibitors</article-title>. <source>J. Cheminform</source>
+<year>2021</year>, <volume>13</volume> (<issue>1</issue>), <fpage>13</fpage><pub-id pub-id-type="doi">10.1186/s13321-021-00487-2</pub-id>.<pub-id pub-id-type="pmid">33618772</pub-id>
+</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Baell</surname><given-names>J. B.</given-names></name>; <name><surname>Holloway</surname><given-names>G. A.</given-names></name>
+<article-title>New Substructure Filters for Removal
+of Pan Assay Interference
+Compounds (PAINS) from Screening Libraries and for Their Exclusion
+in Bioassays</article-title>. <source>J. Med. Chem.</source>
+<year>2010</year>, <volume>53</volume> (<issue>7</issue>), <fpage>2719</fpage>&#x02013;<lpage>2740</lpage>. <pub-id pub-id-type="doi">10.1021/jm901137j</pub-id>.<pub-id pub-id-type="pmid">20131845</pub-id>
+</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>van
+der Matten</surname><given-names>L.</given-names></name>; <name><surname>Hinton</surname><given-names>G.</given-names></name>
+<article-title>Visualizing Data Using T-SNE</article-title>. <source>Journal of Machine Learning Research</source>
+<year>2008</year>, <volume>9</volume>, <fpage>2579</fpage>&#x02013;<lpage>2605</lpage>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Dechering</surname><given-names>K. J.</given-names></name>; <name><surname>Timmerman</surname><given-names>M.</given-names></name>; <name><surname>Rensen</surname><given-names>K.</given-names></name>; <name><surname>Koolen</surname><given-names>K. M. J.</given-names></name>; <name><surname>Honarnejad</surname><given-names>S.</given-names></name>; <name><surname>Vos</surname><given-names>M. W.</given-names></name>; <name><surname>Huijs</surname><given-names>T.</given-names></name>; <name><surname>Henderson</surname><given-names>R. W. M.</given-names></name>; <name><surname>Chenu</surname><given-names>E.</given-names></name>; <name><surname>Laleu</surname><given-names>B.</given-names></name>; <name><surname>Montefiore</surname><given-names>B. C.</given-names></name>; <name><surname>Segall</surname><given-names>M. D.</given-names></name>; <name><surname>Mills</surname><given-names>J. E. J.</given-names></name>; <name><surname>Guantai</surname><given-names>E. M.</given-names></name>; <name><surname>Duffy</surname><given-names>J.</given-names></name>; <name><surname>Duffey</surname><given-names>M.</given-names></name>
+<article-title>Replenishing the Malaria Drug Discovery Pipeline: Screening
+and Hit Evaluation of the MMV Hit Generation Library 1 (HGL1) against
+Asexual Blood Stage Plasmodium Falciparum, Using a Nano Luciferase
+Reporter Read-Out</article-title>. <source>SLAS Discovery</source>
+<year>2022</year>, <volume>27</volume>, <fpage>337</fpage>&#x02013;<lpage>348</lpage>. <pub-id pub-id-type="doi">10.1016/j.slasd.2022.07.002</pub-id>.<pub-id pub-id-type="pmid">35872229</pub-id>
+</mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Segler</surname><given-names>M. H. S.</given-names></name>; <name><surname>Kogej</surname><given-names>T.</given-names></name>; <name><surname>Tyrchan</surname><given-names>C.</given-names></name>; <name><surname>Waller</surname><given-names>M. P.</given-names></name>
+<article-title>Generating Focused
+Molecule Libraries for Drug Discovery with Recurrent Neural Networks</article-title>. <source>ACS Cent. Sci.</source>
+<year>2018</year>, <volume>4</volume> (<issue>1</issue>), <fpage>120</fpage>&#x02013;<lpage>131</lpage>. <pub-id pub-id-type="doi">10.1021/acscentsci.7b00512</pub-id>.<pub-id pub-id-type="pmid">29392184</pub-id>
+</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Walters</surname><given-names>W. P.</given-names></name>; <name><surname>Murcko</surname><given-names>M.</given-names></name>
+<article-title>Assessing the Impact
+of Generative AI on Medicinal
+Chemistry</article-title>. <source>Nat. Biotechnol.</source>
+<year>2020</year>, <volume>38</volume> (<issue>2</issue>), <fpage>143</fpage>&#x02013;<lpage>145</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-020-0418-2</pub-id>.<pub-id pub-id-type="pmid">32001834</pub-id>
+</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Zhavoronkov</surname><given-names>A.</given-names></name>; <name><surname>Aspuru-Guzik</surname><given-names>A.</given-names></name>
+<article-title>Reply to &#x02018;Assessing
+the Impact of Generative
+AI on Medicinal Chemistry.&#x02019;</article-title>. <source>Nat. Biotechnol.</source>
+<year>2020</year>, <volume>38</volume> (<issue>2</issue>), <fpage>146</fpage>&#x02013;<lpage>146</lpage>. <pub-id pub-id-type="doi">10.1038/s41587-020-0417-3</pub-id>.<pub-id pub-id-type="pmid">32001835</pub-id>
+</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Thomas</surname><given-names>M.</given-names></name>; <name><surname>Smith</surname><given-names>R. T.</given-names></name>; <name><surname>O&#x02019;Boyle</surname><given-names>N. M.</given-names></name>; <name><surname>de Graaf</surname><given-names>C.</given-names></name>; <name><surname>Bender</surname><given-names>A.</given-names></name>
+<article-title>Comparison
+of Structure- and Ligand-Based Scoring Functions for Deep Generative
+Models: A GPCR Case Study</article-title>. <source>J. Cheminform</source>
+<year>2021</year>, <volume>13</volume> (<issue>1</issue>), <fpage>39</fpage><pub-id pub-id-type="doi">10.1186/s13321-021-00516-0</pub-id>.<pub-id pub-id-type="pmid">33985583</pub-id>
+</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Bilodeau</surname><given-names>C.</given-names></name>; <name><surname>Jin</surname><given-names>W.</given-names></name>; <name><surname>Jaakkola</surname><given-names>T.</given-names></name>; <name><surname>Barzilay</surname><given-names>R.</given-names></name>; <name><surname>Jensen</surname><given-names>K. F.</given-names></name>
+<article-title>Generative Models
+for Molecular Discovery: Recent Advances and Challenges</article-title>. <source>WIREs Comput. Mol. Sci.</source>
+<year>2022</year>, <volume>12</volume> (<issue>5</issue>), <fpage>e1608</fpage><pub-id pub-id-type="doi">10.1002/wcms.1608</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Mendez</surname><given-names>D.</given-names></name>; <name><surname>Gaulton</surname><given-names>A.</given-names></name>; <name><surname>Bento</surname><given-names>A. P.</given-names></name>; <name><surname>Chambers</surname><given-names>J.</given-names></name>; <name><surname>De Veij</surname><given-names>M.</given-names></name>; <name><surname>F&#x000e9;lix</surname><given-names>E.</given-names></name>; <name><surname>Magari&#x000f1;os</surname><given-names>M. P.</given-names></name>; <name><surname>Mosquera</surname><given-names>J. F.</given-names></name>; <name><surname>Mutowo</surname><given-names>P.</given-names></name>; <name><surname>Nowotka</surname><given-names>M.</given-names></name>; <name><surname>Gordillo-Mara&#x000f1;&#x000f3;n</surname><given-names>M.</given-names></name>; <name><surname>Hunter</surname><given-names>F.</given-names></name>; <name><surname>Junco</surname><given-names>L.</given-names></name>; <name><surname>Mugumbate</surname><given-names>G.</given-names></name>; <name><surname>Rodriguez-Lopez</surname><given-names>M.</given-names></name>; <name><surname>Atkinson</surname><given-names>F.</given-names></name>; <name><surname>Bosc</surname><given-names>N.</given-names></name>; <name><surname>Radoux</surname><given-names>C. J.</given-names></name>; <name><surname>Segura-Cabrera</surname><given-names>A.</given-names></name>; <name><surname>Hersey</surname><given-names>A.</given-names></name>; <name><surname>Leach</surname><given-names>A. R.</given-names></name>
+<article-title>ChEMBL: Towards
+Direct Deposition of Bioassay Data</article-title>. <source>Nucleic
+Acids Res.</source>
+<year>2019</year>, <volume>47</volume> (<issue>D1</issue>), <fpage>D930</fpage>&#x02013;<lpage>D940</lpage>. <pub-id pub-id-type="doi">10.1093/nar/gky1075</pub-id>.<pub-id pub-id-type="pmid">30398643</pub-id>
+</mixed-citation></ref></ref-list></back></article>
